@@ -1,0 +1,9 @@
+{
+  "name": "heritage-chat-server",
+  "version": "1.0.0",
+  "description": "Chat API for heritage website powered by DeepSeek",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
