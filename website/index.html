@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全国重点文物保护单位查询系统</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<div class="header">
+  <h1>🏛️ 全国重点文物保护单位查询系统</h1>
+  <div class="subtitle">National Key Cultural Relics Protection Units Database</div>
+</div>
+
+<nav class="nav-tabs">
+  <button class="nav-tab active" data-page="dashboard">📊 统计概览</button>
+  <button class="nav-tab" data-page="search">🔍 搜索查询</button>
+  <button class="nav-tab" data-page="province">🗺️ 省份浏览</button>
+</nav>
+
+<div class="container">
+  <!-- Dashboard -->
+  <div id="page-dashboard" class="page active">
+    <div class="stats-grid" id="statsGrid"></div>
+    <div class="charts-row">
+      <div class="card">
+        <h3>📊 按批次分布</h3>
+        <div class="chart-container"><canvas id="batchChart"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>🏷️ 按分类分布</h3>
+        <div class="chart-container"><canvas id="categoryChart"></canvas></div>
+      </div>
+    </div>
+    <div class="card">
+      <h3>🏆 省份排行榜（Top 15）</h3>
+      <ul class="ranking-list" id="rankingList"></ul>
+    </div>
+  </div>
+
+  <!-- Search -->
+  <div id="page-search" class="page">
+    <div class="card">
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label>关键词搜索</label>
+          <input type="text" id="searchInput" placeholder="输入名称、城市...">
+        </div>
+        <div class="filter-group">
+          <label>省份</label>
+          <select id="provinceFilter"><option value="">全部省份</option></select>
+        </div>
+        <div class="filter-group">
+          <label>朝代/时代</label>
+          <input type="text" id="eraFilter" placeholder="如：明、清、唐...">
+        </div>
+      </div>
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label>批次</label>
+          <div class="checkbox-group" id="batchFilter"></div>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label>分类</label>
+          <div class="checkbox-group" id="categoryFilter"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="result-info">
+        <span id="resultCount"></span>
+        <span id="pageInfo"></span>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th data-sort="name">名称 <span class="sort-arrow"></span></th>
+              <th data-sort="id">编号 <span class="sort-arrow"></span></th>
+              <th data-sort="batch">批次 <span class="sort-arrow"></span></th>
+              <th data-sort="category">分类 <span class="sort-arrow"></span></th>
+              <th data-sort="province">省份 <span class="sort-arrow"></span></th>
+              <th data-sort="city">城市 <span class="sort-arrow"></span></th>
+              <th data-sort="era">时代 <span class="sort-arrow"></span></th>
+            </tr>
+          </thead>
+          <tbody id="resultBody"></tbody>
+        </table>
+      </div>
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </div>
+
+  <!-- Province detail -->
+  <div id="page-province" class="page">
+    <div id="provinceList"></div>
+    <div id="provinceDetail" style="display:none">
+      <div class="province-header">
+        <button class="back-btn" id="backBtn">← 返回列表</button>
+        <h2 id="provinceTitle"></h2>
+      </div>
+      <div id="provinceContent"></div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>数据来源：全国重点文物保护单位名录（第一批至第八批）</p>
+  <p>本站仅供学习研究使用 | 共收录 <span id="footerCount">0</span> 项文物保护单位</p>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

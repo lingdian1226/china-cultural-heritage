@@ -1,0 +1,356 @@
+/* 全国重点文物保护单位查询系统 - 古典中国风 */
+:root {
+  --primary: #8B0000;
+  --primary-light: #A52A2A;
+  --bg: #F5F0E8;
+  --bg-card: #FFFDF7;
+  --text: #2C2C2C;
+  --text-light: #666;
+  --border: #D4C5A9;
+  --accent: #C41E3A;
+  --gold: #B8860B;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* Header */
+.header {
+  background: linear-gradient(135deg, var(--primary), #5C0000);
+  color: #F5F0E8;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  position: relative;
+}
+.header h1 { font-size: 1.8rem; font-weight: 700; letter-spacing: 0.15em; }
+.header .subtitle { font-size: 0.9rem; opacity: 0.8; margin-top: 0.3rem; }
+
+/* Navigation tabs */
+.nav-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  background: #5C0000;
+  border-bottom: 3px solid var(--gold);
+}
+.nav-tab {
+  padding: 0.7rem 2rem;
+  color: #ddd;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 1rem;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.nav-tab:hover { color: #fff; background: rgba(255,255,255,0.1); }
+.nav-tab.active {
+  color: var(--gold);
+  background: rgba(255,255,255,0.05);
+  border-bottom: 2px solid var(--gold);
+  font-weight: 600;
+}
+
+/* Main container */
+.container { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+
+/* Page sections */
+.page { display: none; }
+.page.active { display: block; }
+
+/* Cards */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.card h3 {
+  color: var(--primary);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+}
+
+/* Stats grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.2rem;
+  text-align: center;
+  border-top: 3px solid var(--primary);
+}
+.stat-card .number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+.stat-card .label {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin-top: 0.3rem;
+}
+
+/* Charts */
+.charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.chart-container { position: relative; width: 100%; }
+.chart-container canvas { width: 100% !important; }
+
+/* Province ranking */
+.ranking-list { list-style: none; }
+.ranking-item {
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.ranking-item:hover { background: rgba(139,0,0,0.05); }
+.ranking-rank {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--primary);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-right: 1rem;
+  flex-shrink: 0;
+}
+.ranking-rank.top3 { background: var(--gold); }
+.ranking-name { flex: 1; font-weight: 500; }
+.ranking-bar-wrap { flex: 2; margin: 0 1rem; }
+.ranking-bar {
+  height: 20px;
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+  border-radius: 10px;
+  transition: width 0.5s;
+}
+.ranking-count { width: 3rem; text-align: right; font-weight: 600; color: var(--primary); }
+
+/* Search & Filter */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: flex-end;
+  margin-bottom: 1rem;
+}
+.filter-group { display: flex; flex-direction: column; gap: 0.3rem; }
+.filter-group label { font-size: 0.8rem; color: var(--text-light); font-weight: 500; }
+.filter-group input,
+.filter-group select {
+  padding: 0.5rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: white;
+  font-family: inherit;
+}
+.filter-group input:focus,
+.filter-group select:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px rgba(139,0,0,0.15);
+}
+#searchInput { min-width: 220px; }
+
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: white;
+  user-select: none;
+}
+.chip.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+.chip:hover { border-color: var(--primary); }
+
+.result-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
+/* Table */
+.table-wrap { overflow-x: auto; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+thead th {
+  background: var(--primary);
+  color: white;
+  padding: 0.7rem 0.6rem;
+  text-align: left;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+  position: sticky;
+  top: 0;
+}
+thead th:hover { background: var(--primary-light); }
+thead th .sort-arrow { margin-left: 0.3rem; font-size: 0.7rem; }
+tbody tr { border-bottom: 1px solid #eee; transition: background 0.15s; }
+tbody tr:hover { background: rgba(139,0,0,0.04); }
+tbody td { padding: 0.6rem; }
+tbody tr.clickable { cursor: pointer; }
+
+/* Detail row */
+.detail-row td { padding: 0; }
+.detail-content {
+  padding: 1rem 1.5rem;
+  background: #FDF8EF;
+  border-left: 4px solid var(--primary);
+}
+.detail-content .detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.8rem;
+}
+.detail-field .field-label { font-size: 0.8rem; color: var(--text-light); }
+.detail-field .field-value { font-weight: 500; }
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 0.3rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+.page-btn {
+  padding: 0.4rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  transition: all 0.2s;
+}
+.page-btn:hover { border-color: var(--primary); color: var(--primary); }
+.page-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+.page-btn:disabled { opacity: 0.4; cursor: default; }
+
+/* Province page */
+.province-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.back-btn {
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+.back-btn:hover { background: var(--primary-light); }
+.category-section { margin-bottom: 1.5rem; }
+.category-section h4 {
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+.heritage-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px dashed #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heritage-item .item-name { font-weight: 500; }
+.heritage-item .item-meta { font-size: 0.8rem; color: var(--text-light); }
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--text-light);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header h1 { font-size: 1.3rem; }
+  .nav-tab { padding: 0.5rem 1rem; font-size: 0.85rem; }
+  .charts-row { grid-template-columns: 1fr; }
+  .container { padding: 1rem; }
+  .filter-bar { flex-direction: column; }
+  .filter-group { width: 100%; }
+  .filter-group input, .filter-group select { width: 100%; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  table { font-size: 0.8rem; }
+  thead th, tbody td { padding: 0.4rem 0.3rem; }
+}
+
+/* Category colors */
+.cat-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.cat-ancient-buildings { background: #FDE8E8; color: #8B0000; }
+.cat-archaeological-sites { background: #E8F0E8; color: #2D5A27; }
+.cat-ancient-tombs { background: #E8E8F0; color: #2D2760; }
+.cat-stone-carvings { background: #F0E8D8; color: #6B4226; }
+.cat-modern-historic { background: #E0EBF5; color: #1A3C5E; }
+.cat-others { background: #F0F0F0; color: #555; }
+.cat-gardens { background: #E8F5E8; color: #2D6A27; }
+
+/* Loading */
+.loading { text-align: center; padding: 3rem; color: var(--text-light); }
