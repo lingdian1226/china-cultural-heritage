@@ -113,7 +113,35 @@
   <p>本站仅供学习研究使用 | 共收录 <span id="footerCount">0</span> 项文物保护单位</p>
 </div>
 
+<!-- Chat Widget -->
+<div id="chatWidget" class="chat-widget">
+  <div class="chat-panel" id="chatPanel">
+    <div class="chat-header">
+      <span>⚡ iBo · 文物百科助手</span>
+      <button class="chat-close" id="chatClose">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody">
+      <div class="chat-msg bot">
+        <div class="chat-bubble">你好！我是 iBo，你的文物百科助手 🏛️<br><br>你可以问我关于全国重点文物保护单位的任何问题，也可以试试下面的快捷问题：</div>
+      </div>
+      <div class="chat-quick-actions">
+        <button class="quick-btn" data-q="上海有多少文物保护单位？">📍 上海有多少文物？</button>
+        <button class="quick-btn" data-q="哪个省的文物保护单位最多？">🏆 哪个省文物最多？</button>
+        <button class="quick-btn" data-q="推荐值得参观的古建筑Top10">🏯 古建筑Top10</button>
+        <button class="quick-btn" data-q="唐代有哪些著名文物？">📜 唐代著名文物</button>
+        <button class="quick-btn" data-q="介绍一下莫高窟">🗿 介绍莫高窟</button>
+      </div>
+    </div>
+    <div class="chat-footer">
+      <input type="text" id="chatInput" placeholder="输入你的问题..." autocomplete="off">
+      <button id="chatSend">➤</button>
+    </div>
+  </div>
+  <button class="chat-fab" id="chatFab">💬</button>
+</div>
+
 <script src="data.js"></script>
 <script src="app.js"></script>
+<script src="chat.js"></script>
 </body>
 </html>
