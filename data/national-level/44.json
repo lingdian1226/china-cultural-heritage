@@ -1,1304 +1,1967 @@
-[
-  {
-    "id": "1-0001-5-001",
-    "name": "三元里平英团遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1841年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0006-5-006",
-    "name": "黄花岗七十二烈士墓",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1911年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0012-5-012",
-    "name": "广州农民运动讲习所旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1926年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0015-5-015",
-    "name": "海丰红宫、红场旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "海丰县",
-    "district": "",
-    "address": "",
-    "era": "1927－1928年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0016-5-016",
-    "name": "广州公社旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1927年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0083-3-036",
-    "name": "光孝寺",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "五代至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0001-5-001",
-    "name": "林则徐销烟池与虎门炮台旧址",
-    "level": "national",
-    "batch": 2,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "东莞县",
-    "district": "",
-    "address": "",
-    "era": "1839年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0001-5-001",
-    "name": "洪秀全故居",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "花都市",
-    "district": "",
-    "address": "",
-    "era": "清代中期",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0011-5-011",
-    "name": "孙中山故居",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "中山市",
-    "district": "",
-    "address": "",
-    "era": "1892年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0020-5-020",
-    "name": "国民党一大旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1924年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0021-5-021",
-    "name": "黄埔军校旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1924-1927年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0022-5-022",
-    "name": "中华全国总工会旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1925-1927年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0069-3-017",
-    "name": "广济桥",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "潮州市",
-    "district": "",
-    "address": "",
-    "era": "宋至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0085-3-033",
-    "name": "陈家祠堂",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0138-3-086",
-    "name": "云龙寺塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "仁化县",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0144-3-092",
-    "name": "三影塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "南雄县",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0035-1-035",
-    "name": "秦代造船遗址及南越国宫署遗址及南越文王墓",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "秦至西汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0085-3-007",
-    "name": "怀圣寺光塔",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0109-3-031",
-    "name": "梅庵",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "肇庆市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0124-3-046",
-    "name": "德庆学宫",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "德庆县",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0151-3-073",
-    "name": "许驸马府",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "潮州市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0152-3-074",
-    "name": "佛山祖庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "佛山市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0180-3-102",
-    "name": "满堂围",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "始兴县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0181-3-103",
-    "name": "雷祖祠",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "雷州市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0209-5-011",
-    "name": "广州沙面建筑群",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0210-5-012",
-    "name": "康有为故居",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "南海市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0211-5-013",
-    "name": "梁启超故居",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "新会市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0215-5-017",
-    "name": "广州圣心大教堂",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1888年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0218-5-020",
-    "name": "硇州灯塔",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "湛江市",
-    "district": "",
-    "address": "",
-    "era": "1899年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0232-5-034",
-    "name": "广州大元帅府旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "440101-001",
-    "name": "广州中山纪念堂",
-    "level": "national",
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "越秀区",
-    "address": "东风中路259号",
-    "era": "民国时期",
-    "established_year": 1931,
-    "protection_status": "完好",
-    "latitude": 23.132487,
-    "longitude": 113.264385,
-    "area_size": "6.2万平方米",
-    "official_url": "http://www.zsjn.org",
-    "description": "广州中山纪念堂是广州人民和海外华侨为纪念孙中山先生而筹资兴建的纪念性建筑。",
-    "historical_value": "中国近代革命历史的重要见证，广州的标志性建筑",
-    "images": [],
-    "management_unit": "广州中山纪念堂管理处",
-    "contact_phone": "020-83552030",
-    "opening_hours": "08:00-18:00",
-    "ticket_price": "10元",
-    "accessibility": "地铁2号线纪念堂站",
-    "sources": [
-      "国家文物局官网"
-    ],
-    "last_updated": "2026-03-05",
-    "data_quality": "high",
-    "contributors": [
-      "system"
-    ]
-  },
-  {
-    "id": "440301-001",
-    "name": "深圳大鹏所城",
-    "level": "national",
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "深圳市",
-    "district": "大鹏新区",
-    "address": "大鹏街道鹏城社区",
-    "era": "明清时期",
-    "established_year": 1394,
-    "protection_status": "完好",
-    "latitude": 22.596389,
-    "longitude": 114.486111,
-    "area_size": "11万平方米",
-    "official_url": "",
-    "description": "大鹏所城是明清两代中国南部的海防军事要塞，有着600多年抵御外侮的历史。",
-    "historical_value": "深圳地区历史最悠久的古代军事遗址",
-    "images": [],
-    "management_unit": "大鹏所城文物保护管理所",
-    "contact_phone": "0755-84319269",
-    "opening_hours": "09:00-17:30",
-    "ticket_price": "20元",
-    "accessibility": "公交E11路到大鹏中心站",
-    "sources": [
-      "国家文物局官网"
-    ],
-    "last_updated": "2026-03-05",
-    "data_quality": "high",
-    "contributors": [
-      "system"
-    ]
-  },
-  {
-    "id": "5-0095-1-095",
-    "name": "石峡遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广东省",
-    "city": "曲江县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0096-1-096",
-    "name": "莲花山古采石场",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "西汉至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0097-1-097",
-    "name": "笔架山潮州窑遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广东省",
-    "city": "潮州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0369-3-175",
-    "name": "东莞可园",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "东莞市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0370-3-176",
-    "name": "南华寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "曲江县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0371-3-177",
-    "name": "东华里古建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "佛山市",
-    "district": "",
-    "address": "",
-    "era": "清至民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0372-3-178",
-    "name": "元山寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "陆丰市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0373-3-179",
-    "name": "大鹏所城",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "深圳市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0374-3-180",
-    "name": "悦城龙母祖庙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "德庆县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0375-3-181",
-    "name": "肇庆古城墙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "肇庆市",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0376-3-182",
-    "name": "潮州开元寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "潮州市",
-    "district": "",
-    "address": "",
-    "era": "唐至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0377-3-183",
-    "name": "己略黄公祠",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广东省",
-    "city": "潮州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0461-4-019",
-    "name": "七星岩摩崖石刻",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "广东省",
-    "city": "肇庆市",
-    "district": "",
-    "address": "",
-    "era": "唐至近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0500-5-027",
-    "name": "中山纪念堂",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "1931年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0501-5-028",
-    "name": "余荫山房",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "广州市",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0502-5-029",
-    "name": "开平碉楼",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "开平市",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0503-5-030",
-    "name": "叶剑英故居",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广东省",
-    "city": "梅州市",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0516-6-003",
-    "name": "南风古灶高灶陶窑",
-    "level": "national",
-    "batch": 5,
-    "category": "others",
-    "province": "广东省",
-    "city": "佛山市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0168-1-168",
-    "name": "宝镜湾遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广东",
-    "city": "珠海市",
-    "era": "新石器至青铜时代"
-  },
-  {
-    "id": "6-0271-2-051",
-    "name": "南汉二陵",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "广东",
-    "city": "广州市",
-    "era": "五代"
-  },
-  {
-    "id": "6-0679-3-382",
-    "name": "慧光塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "连州市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0680-3-383",
-    "name": "龟峰塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "河源市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0681-3-384",
-    "name": "六榕寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "广州市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0682-3-385",
-    "name": "广裕祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "从化市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0683-3-386",
-    "name": "南社村和塘尾村古建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "东莞市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0684-3-387",
-    "name": "韩文公祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "潮州市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0685-3-388",
-    "name": "道韵楼",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "饶平县",
-    "era": "明"
-  },
-  {
-    "id": "6-0686-3-389",
-    "name": "从熙公祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "潮安县",
-    "era": "清"
-  },
-  {
-    "id": "6-0687-3-390",
-    "name": "陈芳家宅",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广东",
-    "city": "珠海市",
-    "era": "清"
-  },
-  {
-    "id": "6-0849-4-039",
-    "name": "却金亭碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "广东",
-    "city": "东莞市",
-    "era": "明"
-  },
-  {
-    "id": "6-1015-5-142",
-    "name": "粤海关旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "广州市",
-    "era": "清"
-  },
-  {
-    "id": "6-1016-5-143",
-    "name": "叶挺故居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "惠州市",
-    "era": "清"
-  },
-  {
-    "id": "6-1017-5-144",
-    "name": "丘逢甲故居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "蕉岭县",
-    "era": "清"
-  },
-  {
-    "id": "6-1018-5-145",
-    "name": "双峰寨",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "仁化县",
-    "era": "清"
-  },
-  {
-    "id": "6-1019-5-146",
-    "name": "广东咨议局旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "广州市",
-    "era": "清至民国"
-  },
-  {
-    "id": "6-1020-5-147",
-    "name": "大岭山抗日根据地旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广东",
-    "city": "东莞市",
-    "era": "1940～1943年"
-  }
-]
+{
+  "province": "广东",
+  "items": [
+    {
+      "id": "1-0001-5-001",
+      "name": "三元里平英团遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1841年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0006-5-006",
+      "name": "黄花岗七十二烈士墓",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1911年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0012-5-012",
+      "name": "广州农民运动讲习所旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1926年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0015-5-015",
+      "name": "海丰红宫、红场旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "海丰县",
+      "district": "",
+      "address": "",
+      "era": "1927－1928年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0016-5-016",
+      "name": "广州公社旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1927年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0083-3-036",
+      "name": "光孝寺",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "五代至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0001-5-001",
+      "name": "林则徐销烟池与虎门炮台旧址",
+      "level": "national",
+      "batch": 2,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "东莞县",
+      "district": "",
+      "address": "",
+      "era": "1839年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0001-5-001",
+      "name": "洪秀全故居",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "花都市",
+      "district": "",
+      "address": "",
+      "era": "清代中期",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0011-5-011",
+      "name": "孙中山故居",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "中山市",
+      "district": "",
+      "address": "",
+      "era": "1892年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0020-5-020",
+      "name": "国民党一大旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1924年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0021-5-021",
+      "name": "黄埔军校旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1924-1927年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0022-5-022",
+      "name": "中华全国总工会旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1925-1927年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0069-3-017",
+      "name": "广济桥",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "潮州市",
+      "district": "",
+      "address": "",
+      "era": "宋至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0085-3-033",
+      "name": "陈家祠堂",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0138-3-086",
+      "name": "云龙寺塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "仁化县",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0144-3-092",
+      "name": "三影塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "南雄县",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0035-1-035",
+      "name": "秦代造船遗址及南越国宫署遗址及南越文王墓",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "秦至西汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0085-3-007",
+      "name": "怀圣寺光塔",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0109-3-031",
+      "name": "梅庵",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "肇庆市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0124-3-046",
+      "name": "德庆学宫",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "德庆县",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0151-3-073",
+      "name": "许驸马府",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "潮州市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0152-3-074",
+      "name": "佛山祖庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "佛山市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0180-3-102",
+      "name": "满堂围",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "始兴县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0181-3-103",
+      "name": "雷祖祠",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "雷州市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0209-5-011",
+      "name": "广州沙面建筑群",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0210-5-012",
+      "name": "康有为故居",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "南海市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0211-5-013",
+      "name": "梁启超故居",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "新会市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0215-5-017",
+      "name": "广州圣心大教堂",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1888年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0218-5-020",
+      "name": "硇州灯塔",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "湛江市",
+      "district": "",
+      "address": "",
+      "era": "1899年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0232-5-034",
+      "name": "广州大元帅府旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "440101-001",
+      "name": "广州中山纪念堂",
+      "level": "national",
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "越秀区",
+      "address": "东风中路259号",
+      "era": "民国时期",
+      "established_year": 1931,
+      "protection_status": "完好",
+      "latitude": 23.132487,
+      "longitude": 113.264385,
+      "area_size": "6.2万平方米",
+      "official_url": "http://www.zsjn.org",
+      "description": "广州中山纪念堂是广州人民和海外华侨为纪念孙中山先生而筹资兴建的纪念性建筑。",
+      "historical_value": "中国近代革命历史的重要见证，广州的标志性建筑",
+      "images": [],
+      "management_unit": "广州中山纪念堂管理处",
+      "contact_phone": "020-83552030",
+      "opening_hours": "08:00-18:00",
+      "ticket_price": "10元",
+      "accessibility": "地铁2号线纪念堂站",
+      "sources": [
+        "国家文物局官网"
+      ],
+      "last_updated": "2026-03-05",
+      "data_quality": "high",
+      "contributors": [
+        "system"
+      ]
+    },
+    {
+      "id": "440301-001",
+      "name": "深圳大鹏所城",
+      "level": "national",
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "大鹏新区",
+      "address": "大鹏街道鹏城社区",
+      "era": "明清时期",
+      "established_year": 1394,
+      "protection_status": "完好",
+      "latitude": 22.596389,
+      "longitude": 114.486111,
+      "area_size": "11万平方米",
+      "official_url": "",
+      "description": "大鹏所城是明清两代中国南部的海防军事要塞，有着600多年抵御外侮的历史。",
+      "historical_value": "深圳地区历史最悠久的古代军事遗址",
+      "images": [],
+      "management_unit": "大鹏所城文物保护管理所",
+      "contact_phone": "0755-84319269",
+      "opening_hours": "09:00-17:30",
+      "ticket_price": "20元",
+      "accessibility": "公交E11路到大鹏中心站",
+      "sources": [
+        "国家文物局官网"
+      ],
+      "last_updated": "2026-03-05",
+      "data_quality": "high",
+      "contributors": [
+        "system"
+      ]
+    },
+    {
+      "id": "5-0095-1-095",
+      "name": "石峡遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广东省",
+      "city": "曲江县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0096-1-096",
+      "name": "莲花山古采石场",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "西汉至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0097-1-097",
+      "name": "笔架山潮州窑遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广东省",
+      "city": "潮州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0369-3-175",
+      "name": "东莞可园",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "东莞市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0370-3-176",
+      "name": "南华寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "曲江县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0371-3-177",
+      "name": "东华里古建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "佛山市",
+      "district": "",
+      "address": "",
+      "era": "清至民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0372-3-178",
+      "name": "元山寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "陆丰市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0373-3-179",
+      "name": "大鹏所城",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0374-3-180",
+      "name": "悦城龙母祖庙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "德庆县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0375-3-181",
+      "name": "肇庆古城墙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "肇庆市",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0376-3-182",
+      "name": "潮州开元寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "潮州市",
+      "district": "",
+      "address": "",
+      "era": "唐至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0377-3-183",
+      "name": "己略黄公祠",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广东省",
+      "city": "潮州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0461-4-019",
+      "name": "七星岩摩崖石刻",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "广东省",
+      "city": "肇庆市",
+      "district": "",
+      "address": "",
+      "era": "唐至近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0500-5-027",
+      "name": "中山纪念堂",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "1931年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0501-5-028",
+      "name": "余荫山房",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "广州市",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0502-5-029",
+      "name": "开平碉楼",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "开平市",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0503-5-030",
+      "name": "叶剑英故居",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广东省",
+      "city": "梅州市",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0516-6-003",
+      "name": "南风古灶高灶陶窑",
+      "level": "national",
+      "batch": 5,
+      "category": "others",
+      "province": "广东省",
+      "city": "佛山市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0168-1-168",
+      "name": "宝镜湾遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "珠海市",
+      "era": "新石器至青铜时代"
+    },
+    {
+      "id": "6-0271-2-051",
+      "name": "南汉二陵",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "广东",
+      "city": "广州市",
+      "era": "五代"
+    },
+    {
+      "id": "6-0679-3-382",
+      "name": "慧光塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "连州市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0680-3-383",
+      "name": "龟峰塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "河源市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0681-3-384",
+      "name": "六榕寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "广州市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0682-3-385",
+      "name": "广裕祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "从化市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0683-3-386",
+      "name": "南社村和塘尾村古建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0684-3-387",
+      "name": "韩文公祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "潮州市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0685-3-388",
+      "name": "道韵楼",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "饶平县",
+      "era": "明"
+    },
+    {
+      "id": "6-0686-3-389",
+      "name": "从熙公祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "潮安县",
+      "era": "清"
+    },
+    {
+      "id": "6-0687-3-390",
+      "name": "陈芳家宅",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "珠海市",
+      "era": "清"
+    },
+    {
+      "id": "6-0849-4-039",
+      "name": "却金亭碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "明"
+    },
+    {
+      "id": "6-1015-5-142",
+      "name": "粤海关旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市",
+      "era": "清"
+    },
+    {
+      "id": "6-1016-5-143",
+      "name": "叶挺故居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "惠州市",
+      "era": "清"
+    },
+    {
+      "id": "6-1017-5-144",
+      "name": "丘逢甲故居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "蕉岭县",
+      "era": "清"
+    },
+    {
+      "id": "6-1018-5-145",
+      "name": "双峰寨",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "仁化县",
+      "era": "清"
+    },
+    {
+      "id": "6-1019-5-146",
+      "name": "广东咨议局旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市",
+      "era": "清至民国"
+    },
+    {
+      "id": "6-1020-5-147",
+      "name": "大岭山抗日根据地旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "1940～1943年"
+    },
+    {
+      "id": "8-0111-1-111",
+      "name": "磨刀山遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "郁南县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "8-0112-1-112",
+      "name": "青塘遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "英德市",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "8-0113-1-113",
+      "name": "东莞村头遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "夏商"
+    },
+    {
+      "id": "8-0114-1-114",
+      "name": "狮雄山遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "五华县",
+      "era": "秦汉"
+    },
+    {
+      "id": "8-0115-1-115",
+      "name": "石望铸钱遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "阳春市",
+      "era": "五代南汉"
+    },
+    {
+      "id": "8-0116-1-116",
+      "name": "乳源西京古道",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "乳源瑶族自治县",
+      "era": "唐至清"
+    },
+    {
+      "id": "8-0117-1-117",
+      "name": "西樵山采石场遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "佛山市南海区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0402-3-205",
+      "name": "大颠祖师塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "汕头市潮阳区",
+      "era": "唐"
+    },
+    {
+      "id": "8-0403-3-206",
+      "name": "高州宝光塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "高州市",
+      "era": "明"
+    },
+    {
+      "id": "8-0404-3-207",
+      "name": "联丰花萼楼",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "大埔县",
+      "era": "明"
+    },
+    {
+      "id": "8-0405-3-208",
+      "name": "揭阳城隍庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "揭阳市榕城区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0406-3-209",
+      "name": "陈白沙祠",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "江门市蓬江区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0407-3-210",
+      "name": "国恩寺",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "新兴县",
+      "era": "明至民国"
+    },
+    {
+      "id": "8-0408-3-211",
+      "name": "沙湾留耕堂",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "广州市番禺区",
+      "era": "清"
+    },
+    {
+      "id": "8-0409-3-212",
+      "name": "大埔泰安楼",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "大埔县",
+      "era": "清"
+    },
+    {
+      "id": "8-0410-3-213",
+      "name": "冲虚古观",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "博罗县",
+      "era": "清"
+    },
+    {
+      "id": "8-0411-3-214",
+      "name": "龙门鹤湖围",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "龙门县",
+      "era": "清"
+    },
+    {
+      "id": "8-0412-3-215",
+      "name": "大埔光禄第",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "大埔县",
+      "era": "清"
+    },
+    {
+      "id": "7-0387-1-387",
+      "name": "独石仔洞穴遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "阳江市阳春市",
+      "era": "旧石器时代至新石器时代"
+    },
+    {
+      "id": "7-0388-1-388",
+      "name": "古椰贝丘遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "佛山市高明区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0389-1-389",
+      "name": "蚝岗贝丘遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0639-2-123",
+      "name": "隋谯国夫人冼氏墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "广东",
+      "city": "茂名市电白区",
+      "era": "隋"
+    },
+    {
+      "id": "7-0640-2-124",
+      "name": "清真先贤古墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "唐"
+    },
+    {
+      "id": "7-0641-2-125",
+      "name": "唐氏墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "广东",
+      "city": "湛江市雷州市",
+      "era": "宋至清"
+    },
+    {
+      "id": "7-1270-3-568",
+      "name": "南粤雄关与古道",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "韶关市南雄市",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-1271-3-569",
+      "name": "文光塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "汕头市潮阳区",
+      "era": "宋至清"
+    },
+    {
+      "id": "7-1272-3-570",
+      "name": "父子进士牌坊",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "梅州市大埔县",
+      "era": "明"
+    },
+    {
+      "id": "7-1273-3-571",
+      "name": "五仙观及岭南第一楼",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1274-3-572",
+      "name": "潮州老城古民居建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "潮州市湘桥区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1275-3-573",
+      "name": "镇海楼与广州明城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "明至民国"
+    },
+    {
+      "id": "7-1276-3-574",
+      "name": "南海神庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "广州市黄埔区",
+      "era": "清"
+    },
+    {
+      "id": "7-1277-3-575",
+      "name": "古榕武庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "揭阳市榕城区",
+      "era": "清"
+    },
+    {
+      "id": "7-1278-3-576",
+      "name": "揭阳学宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "揭阳市榕城区",
+      "era": "清"
+    },
+    {
+      "id": "7-1279-3-577",
+      "name": "清晖园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "佛山市顺德区",
+      "era": "清"
+    },
+    {
+      "id": "7-1280-3-578",
+      "name": "长围村围屋",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "韶关市始兴县",
+      "era": "清"
+    },
+    {
+      "id": "7-1281-3-579",
+      "name": "茶东陈氏宗祠群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "中山市",
+      "era": "清"
+    },
+    {
+      "id": "7-1282-3-580",
+      "name": "大湾古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广东",
+      "city": "云浮市郁南县",
+      "era": "清、民国"
+    },
+    {
+      "id": "7-1569-4-072",
+      "name": "龙龛岩摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "广东",
+      "city": "云浮市罗定市",
+      "era": "唐、清、民国"
+    },
+    {
+      "id": "7-1570-4-073",
+      "name": "丹霞山摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "广东",
+      "city": "韶关市仁化县",
+      "era": "宋至民国"
+    },
+    {
+      "id": "7-1844-5-237",
+      "name": "丁氏光禄公祠",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "揭阳市榕城区",
+      "era": "1878年"
+    },
+    {
+      "id": "7-1845-5-238",
+      "name": "崎碌炮台",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "汕头市金平区",
+      "era": "1879年"
+    },
+    {
+      "id": "7-1846-5-239",
+      "name": "人境庐和荣禄第",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "梅州市梅江区",
+      "era": "1881年、1884年"
+    },
+    {
+      "id": "7-1847-5-240",
+      "name": "广州湾法国公使署旧址和法军指挥部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "湛江市霞山区",
+      "era": "1903年、1905年"
+    },
+    {
+      "id": "7-1848-5-241",
+      "name": "谢晋元故居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "梅州市蕉岭县",
+      "era": "1905年"
+    },
+    {
+      "id": "7-1849-5-242",
+      "name": "三灶岛侵华日军罪行遗迹",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "珠海市金湾区",
+      "era": "民国"
+    },
+    {
+      "id": "7-1850-5-243",
+      "name": "广九铁路石龙南桥",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "1911年"
+    },
+    {
+      "id": "7-1851-5-244",
+      "name": "中国共产党第三次全国代表大会会址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "1923年"
+    },
+    {
+      "id": "7-1852-5-245",
+      "name": "国民革命军东征军总指挥部、政治部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "汕头市金平区",
+      "era": "1925年"
+    },
+    {
+      "id": "7-1853-5-246",
+      "name": "顺德糖厂早期建筑",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "佛山市顺德区",
+      "era": "1934年"
+    },
+    {
+      "id": "7-1854-5-247",
+      "name": "中山纪念中学旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "中山市",
+      "era": "1936年"
+    },
+    {
+      "id": "8-0667-5-151",
+      "name": "司徒美堂故居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "开平市",
+      "era": "1868年"
+    },
+    {
+      "id": "8-0668-5-152",
+      "name": "万木草堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "1891年"
+    },
+    {
+      "id": "8-0669-5-153",
+      "name": "潮海关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "汕头市金平区",
+      "era": "1898－1922年"
+    },
+    {
+      "id": "8-0670-5-154",
+      "name": "中英街界碑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "深圳市盐田区",
+      "era": "1905年"
+    },
+    {
+      "id": "8-0671-5-155",
+      "name": "开平风采堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "开平市",
+      "era": "1914年"
+    },
+    {
+      "id": "8-0672-5-156",
+      "name": "大埔肇庆堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "大埔县",
+      "era": "1917年"
+    },
+    {
+      "id": "8-0673-5-157",
+      "name": "中国共产党广东区执行委员会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "1922－1927年"
+    },
+    {
+      "id": "8-0674-5-158",
+      "name": "叶挺独立团团部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "肇庆市端州区",
+      "era": "1925年"
+    },
+    {
+      "id": "8-0675-5-159",
+      "name": "广东省农民协会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市越秀区",
+      "era": "1925－1927年"
+    },
+    {
+      "id": "8-0676-5-160",
+      "name": "三河中山纪念堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "大埔县",
+      "era": "1929年"
+    },
+    {
+      "id": "8-0677-5-161",
+      "name": "蒋光鼐故居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "东莞市",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0678-5-162",
+      "name": "香港文化名人大营救指挥部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "龙川县",
+      "era": "1942年"
+    },
+    {
+      "id": "8-0679-5-163",
+      "name": "土洋村东江纵队司令部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "深圳市龙岗区",
+      "era": "1943－1945年"
+    },
+    {
+      "id": "8-0680-5-164",
+      "name": "长岗坡渡槽",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "罗定市",
+      "era": "1981年"
+    },
+    {
+      "id": "8-0000-5-023",
+      "name": "赤山约农会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "海丰县",
+      "era": "1922年"
+    },
+    {
+      "id": "8-0000-5-024",
+      "name": "黄埔军校燕塘分校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广东",
+      "city": "广州市天河区",
+      "era": "1925－1929年"
+    }
+  ]
+}

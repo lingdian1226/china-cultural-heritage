@@ -1,1392 +1,2275 @@
-[
-  {
-    "id": "1-0018-5-018",
-    "name": "古田会议会址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "上杭县",
-    "district": "古田村",
-    "address": "",
-    "era": "1929年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0059-3-012",
-    "name": "安平桥",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "晋江县",
-    "district": "",
-    "address": "",
-    "era": "南宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0087-3-040",
-    "name": "清净寺",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0019-3-004",
-    "name": "华林寺大殿",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0020-3-005",
-    "name": "开元寺",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0060-2-005",
-    "name": "郑成功墓",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-tombs",
-    "province": "福建省",
-    "city": "南安县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0002-5-002",
-    "name": "林则徐墓",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "1826年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0029-5-029",
-    "name": "长汀革命旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "长汀县",
-    "district": "",
-    "address": "",
-    "era": "1929-1933年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0038-5-038",
-    "name": "陈嘉庚墓",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "厦门市",
-    "district": "",
-    "address": "",
-    "era": "1953年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0056-3-004",
-    "name": "木兰陂",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "莆田县",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0061-3-009",
-    "name": "崇武城墙",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "惠安县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0068-3-016",
-    "name": "洛阳桥",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "宋至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0086-3-034",
-    "name": "泰宁尚书第",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泰宁县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0133-3-081",
-    "name": "泉州天后宫",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0149-3-097",
-    "name": "释迦文佛塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "莆田县",
-    "district": "",
-    "address": "",
-    "era": "南宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0169-4-006",
-    "name": "老君岩造像",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0176-4-013",
-    "name": "九日山摩崖石刻",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "福建省",
-    "city": "南安县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0229-1-049",
-    "name": "屈斗宫德化窑遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "福建省",
-    "city": "德化县",
-    "district": "",
-    "address": "",
-    "era": "宋至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0250-2-021",
-    "name": "伊斯兰教圣墓",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0038-1-038",
-    "name": "城村汉城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "福建省",
-    "city": "武夷山市",
-    "district": "",
-    "address": "",
-    "era": "汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0103-3-025",
-    "name": "元妙观三清殿",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "莆田市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0104-3-026",
-    "name": "青白礁慈济宫",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "厦门市",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0144-3-066",
-    "name": "东山关帝庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "东山县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0145-3-067",
-    "name": "漳州石牌坊",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "漳州市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0172-3-094",
-    "name": "二宜楼",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "华安县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0196-4-008",
-    "name": "瑞岩弥勒造像",
-    "level": "national",
-    "batch": 4,
-    "category": "stone-carvings",
-    "province": "福建省",
-    "city": "福清市",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0198-4-010",
-    "name": "草庵石刻",
-    "level": "national",
-    "batch": 4,
-    "category": "stone-carvings",
-    "province": "福建省",
-    "city": "晋江市",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0203-5-005",
-    "name": "马江海战炮台烈士墓及昭忠祠",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0204-5-006",
-    "name": "胡里山炮台",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "厦门市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0051-1-051",
-    "name": "万寿岩遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "福建省",
-    "city": "三明市",
-    "district": "",
-    "address": "",
-    "era": "旧石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0052-1-052",
-    "name": "昙石山遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "福建省",
-    "city": "闽侯县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代至周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0053-1-053",
-    "name": "建窑遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "福建省",
-    "city": "建阳市",
-    "district": "",
-    "address": "",
-    "era": "唐至宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0324-3-130",
-    "name": "天中万寿塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "仙游县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0325-3-131",
-    "name": "安贞堡",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "永安市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0326-3-132",
-    "name": "陈太尉宫",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "罗源县",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0327-3-133",
-    "name": "蔡氏古民居建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "南安市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0328-3-134",
-    "name": "泉州府文庙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "泉州市",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0329-3-135",
-    "name": "宝山寺大殿",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "顺昌县",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0330-3-136",
-    "name": "崇妙保圣坚牢塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0331-3-137",
-    "name": "漳州府文庙大成殿",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "漳州市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0332-3-138",
-    "name": "江东桥",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "漳州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0333-3-139",
-    "name": "赵家堡诒安堡",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "福建省",
-    "city": "漳浦县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0453-4-011",
-    "name": "鼓山摩崖石刻",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "宋至近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0491-5-018",
-    "name": "福建船政建筑",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "福建省",
-    "city": "福州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0515-6-002",
-    "name": "四堡书坊建筑",
-    "level": "national",
-    "batch": 5,
-    "category": "others",
-    "province": "福建省",
-    "city": "连城县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0095-1-095",
-    "name": "北苑御焙遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "福建",
-    "city": "建瓯市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0096-1-096",
-    "name": "磁灶窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "福建",
-    "city": "晋江市",
-    "era": "宋至元"
-  },
-  {
-    "id": "6-0097-1-097",
-    "name": "德济门遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "福建",
-    "city": "泉州市",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0098-1-098",
-    "name": "南胜窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "福建",
-    "city": "平和县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0253-2-033",
-    "name": "武夷山崖墓群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "福建",
-    "city": "武夷山市",
-    "era": "青铜时代"
-  },
-  {
-    "id": "6-0254-2-034",
-    "name": "朱熹墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "福建",
-    "city": "建阳市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0578-3-281",
-    "name": "镇海堤",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "莆田市",
-    "era": "唐至清"
-  },
-  {
-    "id": "6-0579-3-282",
-    "name": "名山室",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "永泰县",
-    "era": "宋至元"
-  },
-  {
-    "id": "6-0580-3-283",
-    "name": "泉州港古建筑",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "泉州市",
-    "era": "宋至元"
-  },
-  {
-    "id": "6-0581-3-284",
-    "name": "圣寿宝塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "长乐市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0582-3-285",
-    "name": "无尘塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "仙游县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0583-3-286",
-    "name": "三坊七巷和朱紫坊建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "福州市",
-    "era": "明至民国"
-  },
-  {
-    "id": "6-0584-3-287",
-    "name": "培田村古建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "连城县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0585-3-288",
-    "name": "南山宫",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "华安县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0586-3-289",
-    "name": "西陂天后宫",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "永定县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0587-3-290",
-    "name": "狮峰寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "福安市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0588-3-291",
-    "name": "漳州林氏宗祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "漳州市",
-    "era": "明"
-  },
-  {
-    "id": "6-0589-3-292",
-    "name": "漳浦文庙大成殿",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "漳浦县",
-    "era": "明"
-  },
-  {
-    "id": "6-0590-3-293",
-    "name": "宝严寺大殿",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "邵武市",
-    "era": "明"
-  },
-  {
-    "id": "6-0591-3-294",
-    "name": "陈埭丁氏宗祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "晋江市",
-    "era": "明"
-  },
-  {
-    "id": "6-0592-3-295",
-    "name": "正顺庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "三明市",
-    "era": "明"
-  },
-  {
-    "id": "6-0593-3-296",
-    "name": "闽东北廊桥",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "屏南县",
-    "era": "清"
-  },
-  {
-    "id": "6-0594-3-297",
-    "name": "安溪文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "安溪县",
-    "era": "清"
-  },
-  {
-    "id": "6-0595-3-298",
-    "name": "德远堂",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "南靖县",
-    "era": "清"
-  },
-  {
-    "id": "6-0596-3-299",
-    "name": "施琅宅、祠和墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "晋江市",
-    "era": "清"
-  },
-  {
-    "id": "6-0597-3-300",
-    "name": "妈祖庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "莆田市",
-    "era": "清"
-  },
-  {
-    "id": "6-0598-3-301",
-    "name": "林氏义庄",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "龙海市",
-    "era": "清"
-  },
-  {
-    "id": "6-0599-3-302",
-    "name": "福州文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "福州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0600-3-303",
-    "name": "建瓯东岳庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "福建",
-    "city": "建瓯市",
-    "era": "清"
-  },
-  {
-    "id": "6-0826-4-016",
-    "name": "栖云洞造像",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "福建",
-    "city": "罗源县",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0827-4-017",
-    "name": "显应宫泥塑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "福建",
-    "city": "长乐市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0828-4-018",
-    "name": "灵济宫碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "福建",
-    "city": "闽侯县",
-    "era": "明"
-  },
-  {
-    "id": "6-0962-5-089",
-    "name": "陈化成墓",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "厦门市",
-    "era": "清"
-  },
-  {
-    "id": "6-0963-5-090",
-    "name": "鼓浪屿近代建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "厦门市",
-    "era": "清至民国"
-  },
-  {
-    "id": "6-0964-5-091",
-    "name": "严复故居和墓",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "福州市",
-    "era": "清至民国"
-  },
-  {
-    "id": "6-0965-5-092",
-    "name": "天一总局旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "龙海市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0966-5-093",
-    "name": "集美学村和厦门大学早期建筑",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "厦门市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0967-5-094",
-    "name": "厦门破狱斗争旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "厦门市",
-    "era": "1930年"
-  },
-  {
-    "id": "6-0968-5-095",
-    "name": "建宁红一方面军领导机关旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "建宁县",
-    "era": "1931～1933年"
-  },
-  {
-    "id": "6-0969-5-096",
-    "name": "中国工农红军东路军领导机关旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "福建",
-    "city": "漳州市",
-    "era": "1932年"
-  }
-]
+{
+  "province": "福建",
+  "items": [
+    {
+      "id": "1-0018-5-018",
+      "name": "古田会议会址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "上杭县",
+      "district": "古田村",
+      "address": "",
+      "era": "1929年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0059-3-012",
+      "name": "安平桥",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "晋江县",
+      "district": "",
+      "address": "",
+      "era": "南宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0087-3-040",
+      "name": "清净寺",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0019-3-004",
+      "name": "华林寺大殿",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0020-3-005",
+      "name": "开元寺",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0060-2-005",
+      "name": "郑成功墓",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-tombs",
+      "province": "福建省",
+      "city": "南安县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0002-5-002",
+      "name": "林则徐墓",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "1826年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0029-5-029",
+      "name": "长汀革命旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "长汀县",
+      "district": "",
+      "address": "",
+      "era": "1929-1933年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0038-5-038",
+      "name": "陈嘉庚墓",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "厦门市",
+      "district": "",
+      "address": "",
+      "era": "1953年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0056-3-004",
+      "name": "木兰陂",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "莆田县",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0061-3-009",
+      "name": "崇武城墙",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "惠安县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0068-3-016",
+      "name": "洛阳桥",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "宋至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0086-3-034",
+      "name": "泰宁尚书第",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泰宁县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0133-3-081",
+      "name": "泉州天后宫",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0149-3-097",
+      "name": "释迦文佛塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "莆田县",
+      "district": "",
+      "address": "",
+      "era": "南宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0169-4-006",
+      "name": "老君岩造像",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0176-4-013",
+      "name": "九日山摩崖石刻",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "福建省",
+      "city": "南安县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0229-1-049",
+      "name": "屈斗宫德化窑遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "福建省",
+      "city": "德化县",
+      "district": "",
+      "address": "",
+      "era": "宋至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0250-2-021",
+      "name": "伊斯兰教圣墓",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0038-1-038",
+      "name": "城村汉城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "福建省",
+      "city": "武夷山市",
+      "district": "",
+      "address": "",
+      "era": "汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0103-3-025",
+      "name": "元妙观三清殿",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "莆田市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0104-3-026",
+      "name": "青白礁慈济宫",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "厦门市",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0144-3-066",
+      "name": "东山关帝庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "东山县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0145-3-067",
+      "name": "漳州石牌坊",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "漳州市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0172-3-094",
+      "name": "二宜楼",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "华安县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0196-4-008",
+      "name": "瑞岩弥勒造像",
+      "level": "national",
+      "batch": 4,
+      "category": "stone-carvings",
+      "province": "福建省",
+      "city": "福清市",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0198-4-010",
+      "name": "草庵石刻",
+      "level": "national",
+      "batch": 4,
+      "category": "stone-carvings",
+      "province": "福建省",
+      "city": "晋江市",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0203-5-005",
+      "name": "马江海战炮台烈士墓及昭忠祠",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0204-5-006",
+      "name": "胡里山炮台",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "厦门市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0051-1-051",
+      "name": "万寿岩遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "福建省",
+      "city": "三明市",
+      "district": "",
+      "address": "",
+      "era": "旧石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0052-1-052",
+      "name": "昙石山遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "福建省",
+      "city": "闽侯县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代至周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0053-1-053",
+      "name": "建窑遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "福建省",
+      "city": "建阳市",
+      "district": "",
+      "address": "",
+      "era": "唐至宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0324-3-130",
+      "name": "天中万寿塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "仙游县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0325-3-131",
+      "name": "安贞堡",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "永安市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0326-3-132",
+      "name": "陈太尉宫",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "罗源县",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0327-3-133",
+      "name": "蔡氏古民居建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "南安市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0328-3-134",
+      "name": "泉州府文庙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "泉州市",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0329-3-135",
+      "name": "宝山寺大殿",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "顺昌县",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0330-3-136",
+      "name": "崇妙保圣坚牢塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0331-3-137",
+      "name": "漳州府文庙大成殿",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "漳州市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0332-3-138",
+      "name": "江东桥",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "漳州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0333-3-139",
+      "name": "赵家堡诒安堡",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "福建省",
+      "city": "漳浦县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0453-4-011",
+      "name": "鼓山摩崖石刻",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "宋至近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0491-5-018",
+      "name": "福建船政建筑",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "福建省",
+      "city": "福州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0515-6-002",
+      "name": "四堡书坊建筑",
+      "level": "national",
+      "batch": 5,
+      "category": "others",
+      "province": "福建省",
+      "city": "连城县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0095-1-095",
+      "name": "北苑御焙遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "建瓯市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0096-1-096",
+      "name": "磁灶窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "晋江市",
+      "era": "宋至元"
+    },
+    {
+      "id": "6-0097-1-097",
+      "name": "德济门遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "泉州市",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0098-1-098",
+      "name": "南胜窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "平和县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0253-2-033",
+      "name": "武夷山崖墓群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "福建",
+      "city": "武夷山市",
+      "era": "青铜时代"
+    },
+    {
+      "id": "6-0254-2-034",
+      "name": "朱熹墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "福建",
+      "city": "建阳市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0578-3-281",
+      "name": "镇海堤",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市",
+      "era": "唐至清"
+    },
+    {
+      "id": "6-0579-3-282",
+      "name": "名山室",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "永泰县",
+      "era": "宋至元"
+    },
+    {
+      "id": "6-0580-3-283",
+      "name": "泉州港古建筑",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市",
+      "era": "宋至元"
+    },
+    {
+      "id": "6-0581-3-284",
+      "name": "圣寿宝塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "长乐市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0582-3-285",
+      "name": "无尘塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "仙游县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0583-3-286",
+      "name": "三坊七巷和朱紫坊建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市",
+      "era": "明至民国"
+    },
+    {
+      "id": "6-0584-3-287",
+      "name": "培田村古建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "连城县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0585-3-288",
+      "name": "南山宫",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "华安县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0586-3-289",
+      "name": "西陂天后宫",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "永定县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0587-3-290",
+      "name": "狮峰寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福安市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0588-3-291",
+      "name": "漳州林氏宗祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳州市",
+      "era": "明"
+    },
+    {
+      "id": "6-0589-3-292",
+      "name": "漳浦文庙大成殿",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳浦县",
+      "era": "明"
+    },
+    {
+      "id": "6-0590-3-293",
+      "name": "宝严寺大殿",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "邵武市",
+      "era": "明"
+    },
+    {
+      "id": "6-0591-3-294",
+      "name": "陈埭丁氏宗祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "晋江市",
+      "era": "明"
+    },
+    {
+      "id": "6-0592-3-295",
+      "name": "正顺庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "三明市",
+      "era": "明"
+    },
+    {
+      "id": "6-0593-3-296",
+      "name": "闽东北廊桥",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "屏南县",
+      "era": "清"
+    },
+    {
+      "id": "6-0594-3-297",
+      "name": "安溪文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "安溪县",
+      "era": "清"
+    },
+    {
+      "id": "6-0595-3-298",
+      "name": "德远堂",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "南靖县",
+      "era": "清"
+    },
+    {
+      "id": "6-0596-3-299",
+      "name": "施琅宅、祠和墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "晋江市",
+      "era": "清"
+    },
+    {
+      "id": "6-0597-3-300",
+      "name": "妈祖庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市",
+      "era": "清"
+    },
+    {
+      "id": "6-0598-3-301",
+      "name": "林氏义庄",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "龙海市",
+      "era": "清"
+    },
+    {
+      "id": "6-0599-3-302",
+      "name": "福州文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0600-3-303",
+      "name": "建瓯东岳庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "建瓯市",
+      "era": "清"
+    },
+    {
+      "id": "6-0826-4-016",
+      "name": "栖云洞造像",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "罗源县",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0827-4-017",
+      "name": "显应宫泥塑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "长乐市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0828-4-018",
+      "name": "灵济宫碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "闽侯县",
+      "era": "明"
+    },
+    {
+      "id": "6-0962-5-089",
+      "name": "陈化成墓",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市",
+      "era": "清"
+    },
+    {
+      "id": "6-0963-5-090",
+      "name": "鼓浪屿近代建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市",
+      "era": "清至民国"
+    },
+    {
+      "id": "6-0964-5-091",
+      "name": "严复故居和墓",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "福州市",
+      "era": "清至民国"
+    },
+    {
+      "id": "6-0965-5-092",
+      "name": "天一总局旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙海市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0966-5-093",
+      "name": "集美学村和厦门大学早期建筑",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0967-5-094",
+      "name": "厦门破狱斗争旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市",
+      "era": "1930年"
+    },
+    {
+      "id": "6-0968-5-095",
+      "name": "建宁红一方面军领导机关旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "建宁县",
+      "era": "1931～1933年"
+    },
+    {
+      "id": "6-0969-5-096",
+      "name": "中国工农红军东路军领导机关旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "漳州市",
+      "era": "1932年"
+    },
+    {
+      "id": "8-0049-1-049",
+      "name": "壳丘头遗址群",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "平潭县",
+      "era": "新石器时代至商"
+    },
+    {
+      "id": "8-0050-1-050",
+      "name": "岩仔洞遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "将乐县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0051-1-051",
+      "name": "苦寨坑窑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "永春县",
+      "era": "夏商"
+    },
+    {
+      "id": "8-0052-1-052",
+      "name": "武夷山闽赣古驿道",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "武夷山市",
+      "era": "唐至清"
+    },
+    {
+      "id": "8-0053-1-053",
+      "name": "宝丰银矿遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "周宁县",
+      "era": "宋至明"
+    },
+    {
+      "id": "8-0054-1-054",
+      "name": "白鹤岭福温古道",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "宁德市蕉城区",
+      "era": "南宋至清"
+    },
+    {
+      "id": "8-0055-1-055",
+      "name": "东溪窑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "华安县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0179-2-012",
+      "name": "百崎郭氏墓群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "福建",
+      "city": "惠安县",
+      "era": "明"
+    },
+    {
+      "id": "8-0322-3-125",
+      "name": "荔城报恩寺塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市荔城区",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0323-3-126",
+      "name": "崇福寺应庚塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市鲤城区",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0324-3-127",
+      "name": "建瓯值庆桥",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "建瓯市",
+      "era": "明"
+    },
+    {
+      "id": "8-0325-3-128",
+      "name": "安溪土楼",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "安溪县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0326-3-129",
+      "name": "黄道周讲学处",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳浦县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0327-3-130",
+      "name": "芷溪宗祠建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "连城县",
+      "era": "清"
+    },
+    {
+      "id": "8-0328-3-131",
+      "name": "福安黄氏祠堂",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福安市",
+      "era": "清"
+    },
+    {
+      "id": "8-0329-3-132",
+      "name": "泉港土坑村古建筑群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市泉港区",
+      "era": "清"
+    },
+    {
+      "id": "8-0330-3-133",
+      "name": "坂埔古厝",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "南安市",
+      "era": "清"
+    },
+    {
+      "id": "8-0331-3-134",
+      "name": "永春文庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "永春县",
+      "era": "清"
+    },
+    {
+      "id": "8-0332-3-135",
+      "name": "永泰庄寨建筑群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "永泰县",
+      "era": "清"
+    },
+    {
+      "id": "8-0333-3-136",
+      "name": "采陔公祠",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "连城县",
+      "era": "清"
+    },
+    {
+      "id": "8-0334-3-137",
+      "name": "水美土堡群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "沙县",
+      "era": "清"
+    },
+    {
+      "id": "7-0198-1-198",
+      "name": "莲花池山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "漳州市芗城区",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0199-1-199",
+      "name": "奇和洞遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "龙岩市漳平市",
+      "era": "旧石器时代至新石器时代"
+    },
+    {
+      "id": "7-0200-1-200",
+      "name": "南山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "三明市明溪县",
+      "era": "新石器时代至商周"
+    },
+    {
+      "id": "7-0201-1-201",
+      "name": "池湖遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "南平市光泽县",
+      "era": "新石器时代、商周"
+    },
+    {
+      "id": "7-0202-1-202",
+      "name": "猫耳山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "南平市浦城县",
+      "era": "商"
+    },
+    {
+      "id": "7-0203-1-203",
+      "name": "庵山沙丘遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "泉州市晋江市",
+      "era": "商至周"
+    },
+    {
+      "id": "7-0204-1-204",
+      "name": "海坛海峡水下遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "福州市平潭县",
+      "era": "五代至清"
+    },
+    {
+      "id": "7-0205-1-205",
+      "name": "中村窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "三明市三元区",
+      "era": "宋至明"
+    },
+    {
+      "id": "8-0492-4-015",
+      "name": "南安桃源宫陀罗尼经幢",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "南安市",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0493-4-016",
+      "name": "魁星岩摩崖造像",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "永春县",
+      "era": "南宋"
+    },
+    {
+      "id": "8-0604-5-088",
+      "name": "观山李氏民居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "南安市",
+      "era": "1890－1936年"
+    },
+    {
+      "id": "8-0605-5-089",
+      "name": "东美曾氏番仔楼",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙海市",
+      "era": "1910年"
+    },
+    {
+      "id": "8-0606-5-090",
+      "name": "安礼逊图书楼",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "泉州市鲤城区",
+      "era": "1927年"
+    },
+    {
+      "id": "8-0607-5-091",
+      "name": "张山头红军墓群",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "武夷山市",
+      "era": "1928－1935年"
+    },
+    {
+      "id": "8-0608-5-092",
+      "name": "歪嘴寨闽粤边区乌山游击队指挥部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "诏安县",
+      "era": "1929－1937年"
+    },
+    {
+      "id": "8-0609-5-093",
+      "name": "中央红色交通线旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙岩市永定区",
+      "era": "1930－1934年"
+    },
+    {
+      "id": "8-0610-5-094",
+      "name": "永春福兴堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "永春县",
+      "era": "1947年"
+    },
+    {
+      "id": "8-0611-5-095",
+      "name": "景胜别墅",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "石狮市",
+      "era": "1948年"
+    },
+    {
+      "id": "7-0587-2-071",
+      "name": "浦城土墩墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "福建",
+      "city": "南平市浦城县",
+      "era": "西周至春秋"
+    },
+    {
+      "id": "7-0588-2-072",
+      "name": "陈政墓和陈元光墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "福建",
+      "city": "漳州市云霄县",
+      "era": "唐至宋"
+    },
+    {
+      "id": "7-1071-3-369",
+      "name": "汀州城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "龙岩市长汀县",
+      "era": "唐至民国"
+    },
+    {
+      "id": "7-1072-3-370",
+      "name": "龙江桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市福清市",
+      "era": "宋"
+    },
+    {
+      "id": "7-1073-3-371",
+      "name": "五塔岩石塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市南安市",
+      "era": "宋"
+    },
+    {
+      "id": "7-1074-3-372",
+      "name": "龙华双塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市仙游县",
+      "era": "宋、清"
+    },
+    {
+      "id": "7-1075-3-373",
+      "name": "宁海桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市涵江区",
+      "era": "元"
+    },
+    {
+      "id": "7-1076-3-374",
+      "name": "罗星塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市马尾区",
+      "era": "明"
+    },
+    {
+      "id": "7-1077-3-375",
+      "name": "镇海卫城址",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳州市龙海市",
+      "era": "明"
+    },
+    {
+      "id": "7-1078-3-376",
+      "name": "云峰寺大殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "南平市浦城县",
+      "era": "明"
+    },
+    {
+      "id": "7-1079-3-377",
+      "name": "观音亭寨",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "宁德市霞浦县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1080-3-378",
+      "name": "惠安青山宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市惠安县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1081-3-379",
+      "name": "林公忠平王祖殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "宁德市周宁县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1082-3-380",
+      "name": "安海龙山寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市晋江市",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1083-3-381",
+      "name": "大田土堡群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "三明市大田县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1084-3-382",
+      "name": "古田临水宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "宁德市古田县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1085-3-383",
+      "name": "清水岩寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市安溪县",
+      "era": "清"
+    },
+    {
+      "id": "7-1086-3-384",
+      "name": "平和城隍庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳州市平和县",
+      "era": "清"
+    },
+    {
+      "id": "7-1087-3-385",
+      "name": "平海天后宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市秀屿区",
+      "era": "清"
+    },
+    {
+      "id": "7-1088-3-386",
+      "name": "漈下建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "宁德市屏南县",
+      "era": "清"
+    },
+    {
+      "id": "7-1089-3-387",
+      "name": "蓝廷珍府第",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳州市漳浦县",
+      "era": "清"
+    },
+    {
+      "id": "7-1090-3-388",
+      "name": "九头马民居",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市长乐市",
+      "era": "清"
+    },
+    {
+      "id": "7-1091-3-389",
+      "name": "亭店杨氏民居",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市鲤城区",
+      "era": "清"
+    },
+    {
+      "id": "7-1092-3-390",
+      "name": "南安林氏民居",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市南安市",
+      "era": "清"
+    },
+    {
+      "id": "7-1093-3-391",
+      "name": "南安中宪第",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市南安市",
+      "era": "清"
+    },
+    {
+      "id": "7-1094-3-392",
+      "name": "李光地宅和祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "泉州市安溪县",
+      "era": "清"
+    },
+    {
+      "id": "7-1095-3-393",
+      "name": "玉井坊郑氏大厝",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "三明市尤溪县",
+      "era": "清"
+    },
+    {
+      "id": "7-1096-3-394",
+      "name": "仙游文庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "莆田市仙游县",
+      "era": "清"
+    },
+    {
+      "id": "7-1097-3-395",
+      "name": "建瓯文庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "南平市建瓯市",
+      "era": "清"
+    },
+    {
+      "id": "7-1098-3-396",
+      "name": "官田李氏大宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "龙岩市上杭县",
+      "era": "清"
+    },
+    {
+      "id": "7-1099-3-397",
+      "name": "凤岐吴氏大宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "宁德市柘荣县",
+      "era": "清"
+    },
+    {
+      "id": "7-1969-3-005",
+      "name": "福建土楼（扩展项目）",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "漳州市南靖县",
+      "era": "明至中华人民共和国"
+    },
+    {
+      "id": "7-1970-3-006",
+      "name": "三坊七巷古民居建筑",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "福建",
+      "city": "福州市鼓楼区",
+      "era": "清"
+    },
+    {
+      "id": "7-1534-4-037",
+      "name": "仙字潭摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "漳州市华安县",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "7-1535-4-038",
+      "name": "乌石山、于山摩崖石刻及造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "福州市鼓楼区",
+      "era": "唐至中华人民共和国"
+    },
+    {
+      "id": "7-1536-4-039",
+      "name": "西资寺石佛造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "泉州市晋江市",
+      "era": "宋"
+    },
+    {
+      "id": "7-1537-4-040",
+      "name": "南天寺石佛造像和摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "福建",
+      "city": "泉州市晋江市",
+      "era": "宋、明"
+    },
+    {
+      "id": "7-1748-5-141",
+      "name": "亭江炮台",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "福州市马尾区",
+      "era": "清"
+    },
+    {
+      "id": "7-1749-5-142",
+      "name": "林则徐宅与祠",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "福州市鼓楼区",
+      "era": "清"
+    },
+    {
+      "id": "7-1750-5-143",
+      "name": "福建戍守台湾将士墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "宁德市福鼎市",
+      "era": "清"
+    },
+    {
+      "id": "7-1751-5-144",
+      "name": "临江楼",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙岩市上杭县",
+      "era": "1929年"
+    },
+    {
+      "id": "7-1752-5-145",
+      "name": "闽西工农银行旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙岩市新罗区",
+      "era": "1930年"
+    },
+    {
+      "id": "7-1753-5-146",
+      "name": "毛泽东才溪乡调查旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙岩市上杭县",
+      "era": "1933年"
+    },
+    {
+      "id": "7-1754-5-147",
+      "name": "红九军团长征出发地",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "龙岩市长汀县",
+      "era": "1934年"
+    },
+    {
+      "id": "7-1755-5-148",
+      "name": "永安抗战旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "三明市永安市",
+      "era": "1938～1945年"
+    },
+    {
+      "id": "7-1756-5-149",
+      "name": "五更寮土高炉群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "漳州市南靖县",
+      "era": "1958年"
+    },
+    {
+      "id": "7-1982-5-006",
+      "name": "鼓浪屿近代建筑群（扩展项目）",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市思明区",
+      "era": "清至民国"
+    },
+    {
+      "id": "8-0758-6-008",
+      "name": "霍童灌溉工程",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "福建",
+      "city": "宁德市蕉城区",
+      "era": "隋至今"
+    },
+    {
+      "id": "8-0000-5-010",
+      "name": "鼓浪屿近代建筑群增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市思明区",
+      "era": "清至民国"
+    }
+  ]
+}

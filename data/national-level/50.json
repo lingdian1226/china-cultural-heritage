@@ -1,270 +1,743 @@
-[
-  {
-    "id": "1-0028-5-028",
-    "name": "八路军重庆办事处旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "重庆市",
-    "city": "重庆市",
-    "district": "",
-    "address": "",
-    "era": "1938－1946年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0163-3-111",
-    "name": "中美合作所集中营旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "重庆市",
-    "city": "重庆市",
-    "district": "",
-    "address": "",
-    "era": "1943-1949年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0172-4-009",
-    "name": "白鹤梁题刻",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "重庆市",
-    "city": "涪陵区",
-    "district": "",
-    "address": "",
-    "era": "唐至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0102-1-102",
-    "name": "高家镇遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "重庆市",
-    "city": "丰都县",
-    "district": "",
-    "address": "",
-    "era": "旧石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0380-3-186",
-    "name": "张桓侯庙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "重庆市",
-    "city": "云阳县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0381-3-187",
-    "name": "石宝寨",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "重庆市",
-    "city": "忠县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0382-3-188",
-    "name": "丁房阙无铭阙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "重庆市",
-    "city": "忠县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0506-5-033",
-    "name": "桂园",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "重庆市",
-    "city": "渝中区",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0507-5-034",
-    "name": "赵世炎故居",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "重庆市",
-    "city": "酉阳土家族苗族自治县",
-    "district": "",
-    "address": "",
-    "era": "1904年至1914年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0692-3-395",
-    "name": "白帝城",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "重庆",
-    "city": "奉节县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0693-3-396",
-    "name": "湖广会馆",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "重庆",
-    "city": "渝中区",
-    "era": "清"
-  },
-  {
-    "id": "6-0851-4-041",
-    "name": "潼南大佛寺摩崖造像",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "重庆",
-    "city": "潼南县",
-    "era": "隋至清"
-  },
-  {
-    "id": "6-0852-4-042",
-    "name": "涞滩二佛寺摩崖造像",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "重庆",
-    "city": "合川市",
-    "era": "宋"
-  },
-  {
-    "id": "6-1034-5-161",
-    "name": "杨氏民宅",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "重庆",
-    "city": "潼南县",
-    "era": "清"
-  },
-  {
-    "id": "6-1035-5-162",
-    "name": "中国西部科学院旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "重庆",
-    "city": "北碚区",
-    "era": "民国"
-  },
-  {
-    "id": "6-1036-5-163",
-    "name": "育才学校旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "重庆",
-    "city": "合川市",
-    "era": "1939～1945年"
-  }
-]
+{
+  "province": "重庆",
+  "items": [
+    {
+      "id": "1-0028-5-028",
+      "name": "八路军重庆办事处旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "重庆市",
+      "city": "重庆市",
+      "district": "",
+      "address": "",
+      "era": "1938－1946年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0163-3-111",
+      "name": "中美合作所集中营旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "重庆市",
+      "city": "重庆市",
+      "district": "",
+      "address": "",
+      "era": "1943-1949年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0172-4-009",
+      "name": "白鹤梁题刻",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "重庆市",
+      "city": "涪陵区",
+      "district": "",
+      "address": "",
+      "era": "唐至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0102-1-102",
+      "name": "高家镇遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "重庆市",
+      "city": "丰都县",
+      "district": "",
+      "address": "",
+      "era": "旧石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0380-3-186",
+      "name": "张桓侯庙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "重庆市",
+      "city": "云阳县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0381-3-187",
+      "name": "石宝寨",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "重庆市",
+      "city": "忠县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0382-3-188",
+      "name": "丁房阙无铭阙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "重庆市",
+      "city": "忠县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0506-5-033",
+      "name": "桂园",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "重庆市",
+      "city": "渝中区",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0507-5-034",
+      "name": "赵世炎故居",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "重庆市",
+      "city": "酉阳土家族苗族自治县",
+      "district": "",
+      "address": "",
+      "era": "1904年至1914年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0692-3-395",
+      "name": "白帝城",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "奉节县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0693-3-396",
+      "name": "湖广会馆",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "清"
+    },
+    {
+      "id": "6-0851-4-041",
+      "name": "潼南大佛寺摩崖造像",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "潼南县",
+      "era": "隋至清"
+    },
+    {
+      "id": "6-0852-4-042",
+      "name": "涞滩二佛寺摩崖造像",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "合川市",
+      "era": "宋"
+    },
+    {
+      "id": "6-1034-5-161",
+      "name": "杨氏民宅",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "潼南县",
+      "era": "清"
+    },
+    {
+      "id": "6-1035-5-162",
+      "name": "中国西部科学院旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "北碚区",
+      "era": "民国"
+    },
+    {
+      "id": "6-1036-5-163",
+      "name": "育才学校旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "合川市",
+      "era": "1939～1945年"
+    },
+    {
+      "id": "8-0125-1-125",
+      "name": "玉米洞遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "巫山县",
+      "era": "旧石器时代、新石器时代"
+    },
+    {
+      "id": "8-0126-1-126",
+      "name": "白帝城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "奉节县",
+      "era": "南宋"
+    },
+    {
+      "id": "8-0127-1-127",
+      "name": "大宁盐场遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "巫溪县",
+      "era": "宋至民国"
+    },
+    {
+      "id": "8-0421-3-224",
+      "name": "湾底谭氏民居",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "石柱土家族自治县",
+      "era": "清"
+    },
+    {
+      "id": "7-0401-1-401",
+      "name": "天生城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "万州区",
+      "era": "南宋至清"
+    },
+    {
+      "id": "7-0402-1-402",
+      "name": "老鼓楼衙署遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "南宋至清"
+    },
+    {
+      "id": "7-0403-1-403",
+      "name": "重庆冶锌遗址群",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "重庆",
+      "city": "丰都县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-0643-2-127",
+      "name": "荆竹坝岩棺群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "重庆",
+      "city": "巫溪县",
+      "era": "战国至汉"
+    },
+    {
+      "id": "7-0644-2-128",
+      "name": "汇南墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "重庆",
+      "city": "丰都县",
+      "era": "汉至六朝"
+    },
+    {
+      "id": "7-1294-3-592",
+      "name": "独柏寺正殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "潼南县",
+      "era": "元"
+    },
+    {
+      "id": "7-1295-3-593",
+      "name": "重庆古城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "明"
+    },
+    {
+      "id": "7-1296-3-594",
+      "name": "彭氏宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "云阳县",
+      "era": "清"
+    },
+    {
+      "id": "7-1297-3-595",
+      "name": "双桂堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "重庆",
+      "city": "梁平县",
+      "era": "清"
+    },
+    {
+      "id": "7-1573-4-076",
+      "name": "石门大佛寺摩崖造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "江津区",
+      "era": "宋至元"
+    },
+    {
+      "id": "7-1574-4-077",
+      "name": "瞿塘峡摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "奉节县",
+      "era": "南宋至民国"
+    },
+    {
+      "id": "7-1575-4-078",
+      "name": "弹子石摩崖造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "南岸区",
+      "era": "元至清"
+    },
+    {
+      "id": "7-1975-4-002",
+      "name": "千佛寺摩崖造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "潼南县",
+      "era": "唐至元、明"
+    },
+    {
+      "id": "7-1863-5-256",
+      "name": "刘伯承故居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "开县",
+      "era": "1897年"
+    },
+    {
+      "id": "7-1864-5-257",
+      "name": "聂荣臻故居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "江津区",
+      "era": "1899年"
+    },
+    {
+      "id": "7-1865-5-258",
+      "name": "嘉陵江三峡乡村建设旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "北碚区",
+      "era": "民国"
+    },
+    {
+      "id": "7-1866-5-259",
+      "name": "特园",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1931～1946年"
+    },
+    {
+      "id": "7-1867-5-260",
+      "name": "世界佛学苑汉藏教理院旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "北碚区",
+      "era": "1932年"
+    },
+    {
+      "id": "7-1868-5-261",
+      "name": "南腰界红三军司令部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "酉阳土家族苗族自治县",
+      "era": "1934年"
+    },
+    {
+      "id": "7-1869-5-262",
+      "name": "国民政府立法院、司法院及蒙藏委员会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1937～1946年"
+    },
+    {
+      "id": "7-1870-5-263",
+      "name": "国民政府军事委员会政治部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "沙坪坝区",
+      "era": "1938～1945年"
+    },
+    {
+      "id": "7-1871-5-264",
+      "name": "国民政府外交部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1872-5-265",
+      "name": "重庆抗战金融机构旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1873-5-266",
+      "name": "国民参政会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1874-5-267",
+      "name": "林园",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "沙坪坝区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1875-5-268",
+      "name": "国民政府军事委员会政治部第三厅暨文化工作委员会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1876-5-269",
+      "name": "重庆黄山抗战旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "南岸区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1877-5-270",
+      "name": "同盟国驻渝外交机构旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "南岸区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1878-5-271",
+      "name": "南泉抗战旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "巴南区",
+      "era": "1938～1946年"
+    },
+    {
+      "id": "7-1879-5-272",
+      "name": "国民政府行政院旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1938～1947年"
+    },
+    {
+      "id": "7-1880-5-273",
+      "name": "重庆抗战兵器工业旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "江北区",
+      "era": "1939～1945年"
+    },
+    {
+      "id": "7-1881-5-274",
+      "name": "同盟国中国战区统帅部参谋长官邸旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1942～1944年"
+    },
+    {
+      "id": "7-1882-5-275",
+      "name": "保卫中国同盟总部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1942～1945年"
+    },
+    {
+      "id": "7-1883-5-276",
+      "name": "重庆谈判旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1945年"
+    },
+    {
+      "id": "7-1884-5-277",
+      "name": "抗战胜利纪功碑暨人民解放纪念碑",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1947年"
+    },
+    {
+      "id": "7-1885-5-278",
+      "name": "重庆市人民大礼堂",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1954年"
+    },
+    {
+      "id": "8-0691-5-175",
+      "name": "西山钟楼",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "万州区",
+      "era": "1931年"
+    },
+    {
+      "id": "8-0692-5-176",
+      "name": "重庆大学早期建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "沙坪坝区",
+      "era": "1933－1935年"
+    },
+    {
+      "id": "8-0693-5-177",
+      "name": "瀼渡电厂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "万州区",
+      "era": "1944年"
+    },
+    {
+      "id": "8-0694-5-178",
+      "name": "张自忠将军墓",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "北碚区",
+      "era": "1940年"
+    },
+    {
+      "id": "8-0695-5-179",
+      "name": "罗斯福图书馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "重庆",
+      "city": "渝中区",
+      "era": "1947年"
+    },
+    {
+      "id": "8-0000-4-005",
+      "name": "妙高山摩崖造像",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "大足区",
+      "era": "南宋"
+    },
+    {
+      "id": "8-0000-4-006",
+      "name": "舒成岩摩崖造像",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "重庆",
+      "city": "大足区",
+      "era": "南宋"
+    }
+  ]
+}

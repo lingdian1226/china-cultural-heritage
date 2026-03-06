@@ -1,3056 +1,5369 @@
-[
-  {
-    "id": "1-0037-4-004",
-    "name": "龙门石窟",
-    "level": "national",
-    "batch": 1,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "北魏至唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0048-3-001",
-    "name": "太室阙",
-    "level": "national",
-    "batch": 1,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0049-3-002",
-    "name": "少室阙",
-    "level": "national",
-    "batch": 1,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0050-3-003",
-    "name": "启母阙",
-    "level": "national",
-    "batch": 1,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0061-3-014",
-    "name": "嵩岳寺塔",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "北魏",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0069-3-022",
-    "name": "祐国寺塔",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "开封市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0092-3-045",
-    "name": "白马寺",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "金至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0097-3-050",
-    "name": "观星台",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0138-1-003",
-    "name": "仰韶村遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "渑池县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0141-1-006",
-    "name": "郑州商代遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "郑州市",
-    "district": "",
-    "address": "",
-    "era": "商",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0142-1-007",
-    "name": "殷墟",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "安阳市",
-    "district": "",
-    "address": "",
-    "era": "殷",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0148-1-013",
-    "name": "郑韩故城",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "新郑县",
-    "district": "",
-    "address": "",
-    "era": "东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0153-1-018",
-    "name": "汉魏洛阳故城",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "东汉至北魏",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0011-4-001",
-    "name": "巩县石窟",
-    "level": "national",
-    "batch": 2,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "巩县",
-    "district": "",
-    "address": "",
-    "era": "北魏至宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0016-3-001",
-    "name": "修定寺塔",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "安阳县",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0058-2-003",
-    "name": "宋陵",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "巩县",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0032-5-032",
-    "name": "鄂豫皖革命根据地旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "河南省",
-    "city": "新县",
-    "district": "",
-    "address": "",
-    "era": "1931年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0037-5-037",
-    "name": "中共中央中原局旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "河南省",
-    "city": "确山县",
-    "district": "",
-    "address": "",
-    "era": "1938-1939年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0078-3-026",
-    "name": "社旗山陕会馆",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "社旗县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0108-3-056",
-    "name": "风穴寺及塔林",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "临汝县",
-    "district": "",
-    "address": "",
-    "era": "唐至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0137-3-085",
-    "name": "净藏禅师塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封县",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0193-1-013",
-    "name": "平粮台古城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "淮阳县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0197-1-017",
-    "name": "二里头遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "偃师县",
-    "district": "",
-    "address": "",
-    "era": "夏商",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0198-1-018",
-    "name": "尸乡沟商城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "偃师县",
-    "district": "",
-    "address": "",
-    "era": "商",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0216-1-036",
-    "name": "隋唐洛阳城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "隋唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0218-1-038",
-    "name": "北宋东京城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "开封市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0227-1-047",
-    "name": "钧台钧窑遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "禹县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0237-2-008",
-    "name": "张衡墓",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "南阳县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0239-2-010",
-    "name": "打虎亭汉墓",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "密县",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0240-2-011",
-    "name": "张仲景墓及祠",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "南阳市",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0012-1-012",
-    "name": "西山遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "郑州市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0013-1-013",
-    "name": "王城岗及阳城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代至东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0014-1-014",
-    "name": "羑里城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "汤阴县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代至周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0028-1-028",
-    "name": "蔡国故城",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "上蔡县",
-    "district": "",
-    "address": "",
-    "era": "西周至春秋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0029-1-029",
-    "name": "酒店冶铁遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "西平县",
-    "district": "",
-    "address": "",
-    "era": "战国至汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0030-1-030",
-    "name": "戚城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "濮阳市",
-    "district": "",
-    "address": "",
-    "era": "春秋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0059-2-003",
-    "name": "虢国墓地",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "三门峡市",
-    "district": "",
-    "address": "",
-    "era": "周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0064-2-008",
-    "name": "汉梁王墓群",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "永城市",
-    "district": "",
-    "address": "",
-    "era": "西汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0074-2-018",
-    "name": "潞简王墓",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "新乡市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0089-3-011",
-    "name": "初祖庵及少林寺塔林",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "唐至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0107-3-029",
-    "name": "济渎庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "济源市",
-    "district": "",
-    "address": "",
-    "era": "宋至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0122-3-044",
-    "name": "南阳武侯祠",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "南阳市",
-    "district": "",
-    "address": "",
-    "era": "元至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0146-3-068",
-    "name": "归德府城墙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "商丘县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0147-3-069",
-    "name": "太昊陵庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "淮阳县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0148-3-070",
-    "name": "比干庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "卫辉市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0175-3-097",
-    "name": "开封城墙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "开封市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0176-3-098",
-    "name": "周口关帝庙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "周口市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0177-3-099",
-    "name": "内乡县衙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "内乡县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0191-4-003",
-    "name": "灵泉寺石窟",
-    "level": "national",
-    "batch": 4,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "安阳县",
-    "district": "",
-    "address": "",
-    "era": "东魏至宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0197-4-009",
-    "name": "千唐志斋石刻",
-    "level": "national",
-    "batch": 4,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "新安县",
-    "district": "",
-    "address": "",
-    "era": "西晋至民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0236-5-038",
-    "name": "红二十五军长征出发地",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "河南省",
-    "city": "罗山县",
-    "district": "",
-    "address": "",
-    "era": "1934年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0064-1-064",
-    "name": "裴李岗遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "新郑市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0065-1-065",
-    "name": "贾湖遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "舞阳县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0066-1-066",
-    "name": "八里岗遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "邓州市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0067-1-067",
-    "name": "北阳平遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "灵宝市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0068-1-068",
-    "name": "庙底沟遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "三门峡市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0069-1-069",
-    "name": "大河村遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "郑州市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0070-1-070",
-    "name": "孟庄遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "辉县市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代至周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0071-1-071",
-    "name": "古城寨城址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "新密市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0072-1-072",
-    "name": "府城遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "焦作市",
-    "district": "",
-    "address": "",
-    "era": "商",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0073-1-073",
-    "name": "番国故城遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "固始县",
-    "district": "",
-    "address": "",
-    "era": "东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0074-1-074",
-    "name": "城阳城址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "信阳市",
-    "district": "",
-    "address": "",
-    "era": "东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0075-1-075",
-    "name": "古荥冶铁遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "郑州市",
-    "district": "",
-    "address": "",
-    "era": "汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0076-1-076",
-    "name": "黄冶三彩窑址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "巩义市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0077-1-077",
-    "name": "清凉寺汝官窑遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "宝丰县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0078-1-078",
-    "name": "鹿邑太清宫遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "河南省",
-    "city": "鹿邑县",
-    "district": "",
-    "address": "",
-    "era": "宋金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0171-2-027",
-    "name": "邙山陵墓群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "汉至北魏",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0172-2-028",
-    "name": "恭陵",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "偃师市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0173-2-029",
-    "name": "后周皇陵",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "新郑市",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0174-2-030",
-    "name": "朱载堉墓",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "河南省",
-    "city": "沁阳市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0338-3-144",
-    "name": "宝轮寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "三门峡市",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0339-3-145",
-    "name": "山陕甘会馆",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "开封市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0340-3-146",
-    "name": "康百万庄园",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "巩义市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0341-3-147",
-    "name": "天宁寺三圣塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "沁阳市",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0342-3-148",
-    "name": "妙乐寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "武陟县",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0343-3-149",
-    "name": "嘉应观",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "武陟县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0344-3-150",
-    "name": "小商桥",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "临颍县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0345-3-151",
-    "name": "南阳知府衙门",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "南阳市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0346-3-152",
-    "name": "潞泽会馆",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "洛阳市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0347-3-153",
-    "name": "大明寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "济源市",
-    "district": "",
-    "address": "",
-    "era": "元至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0348-3-154",
-    "name": "奉仙观",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "济源市",
-    "district": "",
-    "address": "",
-    "era": "金至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0349-3-155",
-    "name": "荆紫关古建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "淅川县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0350-3-156",
-    "name": "慈胜寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "温县",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0351-3-157",
-    "name": "汤阴岳飞庙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "汤阴县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0352-3-158",
-    "name": "安阳天宁寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "安阳市",
-    "district": "",
-    "address": "",
-    "era": "五代至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0353-3-159",
-    "name": "明福寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "滑县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0354-3-160",
-    "name": "会善寺",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "元至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0355-3-161",
-    "name": "永泰寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0356-3-162",
-    "name": "法王寺塔",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0357-3-163",
-    "name": "中岳庙",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0358-3-164",
-    "name": "百泉",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "河南省",
-    "city": "辉县市",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0456-4-014",
-    "name": "鸿庆寺石窟",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "义马市",
-    "district": "",
-    "address": "",
-    "era": "北魏",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0457-4-015",
-    "name": "小南海石窟",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "安阳县",
-    "district": "",
-    "address": "",
-    "era": "北齐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0458-4-016",
-    "name": "大丕山摩崖大佛及石刻",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "浚县",
-    "district": "",
-    "address": "",
-    "era": "北朝至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0459-4-017",
-    "name": "受禅碑与受禅台",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "临颍县",
-    "district": "",
-    "address": "",
-    "era": "三国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0460-4-018",
-    "name": "大唐嵩阳观纪圣德感应之颂碑",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "河南省",
-    "city": "登封市",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0521-5-041",
-    "name": "焦裕禄烈士墓",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "河南省",
-    "city": "兰考县",
-    "district": "",
-    "address": "",
-    "era": "1966年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0126-1-126",
-    "name": "织机洞遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "荥阳市",
-    "era": "旧石器时代"
-  },
-  {
-    "id": "6-0127-1-127",
-    "name": "杨台寺遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "驻马店市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0128-1-128",
-    "name": "瓦店遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "禹州市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0129-1-129",
-    "name": "石固遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "长葛市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0130-1-130",
-    "name": "郝家台遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "漯河市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0131-1-131",
-    "name": "王油坊遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "永城市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0132-1-132",
-    "name": "李庄遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "柘城县",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0133-1-133",
-    "name": "王湾遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0134-1-134",
-    "name": "鹿台岗遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "杞县",
-    "era": "新石器时代至周"
-  },
-  {
-    "id": "6-0135-1-135",
-    "name": "新砦遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "新密市",
-    "era": "新石器时代至夏"
-  },
-  {
-    "id": "6-0136-1-136",
-    "name": "唐户遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "新郑市",
-    "era": "新石器时代至周"
-  },
-  {
-    "id": "6-0137-1-137",
-    "name": "蒲城店遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "平顶山市",
-    "era": "新石器时代至汉"
-  },
-  {
-    "id": "6-0138-1-138",
-    "name": "大师姑城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "荥阳市",
-    "era": "夏至商"
-  },
-  {
-    "id": "6-0139-1-139",
-    "name": "小双桥遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "郑州市",
-    "era": "商"
-  },
-  {
-    "id": "6-0140-1-140",
-    "name": "宋国故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "商丘市",
-    "era": "周"
-  },
-  {
-    "id": "6-0141-1-141",
-    "name": "卫国故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "淇县",
-    "era": "周"
-  },
-  {
-    "id": "6-0142-1-142",
-    "name": "黄国故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "潢川县",
-    "era": "周"
-  },
-  {
-    "id": "6-0143-1-143",
-    "name": "共城城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "辉县市",
-    "era": "周"
-  },
-  {
-    "id": "6-0144-1-144",
-    "name": "滑国故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "偃师市",
-    "era": "周"
-  },
-  {
-    "id": "6-0145-1-145",
-    "name": "叶邑故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "叶县",
-    "era": "周"
-  },
-  {
-    "id": "6-0146-1-146",
-    "name": "轵国故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "济源市",
-    "era": "周"
-  },
-  {
-    "id": "6-0147-1-147",
-    "name": "下河湾冶铁遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "泌阳县",
-    "era": "战国至汉"
-  },
-  {
-    "id": "6-0148-1-148",
-    "name": "望城岗冶铁遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "鲁山县",
-    "era": "汉"
-  },
-  {
-    "id": "6-0149-1-149",
-    "name": "瓦房庄冶铁遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "南阳市",
-    "era": "汉"
-  },
-  {
-    "id": "6-0150-1-150",
-    "name": "三杨庄遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "内黄县",
-    "era": "汉"
-  },
-  {
-    "id": "6-0151-1-151",
-    "name": "山阳故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "焦作市",
-    "era": "汉"
-  },
-  {
-    "id": "6-0152-1-152",
-    "name": "段店窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "鲁山县",
-    "era": "唐至宋"
-  },
-  {
-    "id": "6-0153-1-153",
-    "name": "大周封祀坛遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "登封市",
-    "era": "唐"
-  },
-  {
-    "id": "6-0154-1-154",
-    "name": "扒村窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "禹州市",
-    "era": "宋至元"
-  },
-  {
-    "id": "6-0155-1-155",
-    "name": "当阳峪窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "修武县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0156-1-156",
-    "name": "张公巷窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "河南",
-    "city": "汝州市",
-    "era": "金至元"
-  },
-  {
-    "id": "6-0262-2-042",
-    "name": "应国墓地",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "平顶山市",
-    "era": "周至汉"
-  },
-  {
-    "id": "6-0263-2-043",
-    "name": "许慎墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "漯河市",
-    "era": "汉"
-  },
-  {
-    "id": "6-0264-2-044",
-    "name": "韩愈墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "孟州市",
-    "era": "唐"
-  },
-  {
-    "id": "6-0265-2-045",
-    "name": "范仲淹墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "伊川县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0266-2-046",
-    "name": "欧阳修墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "新郑市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0267-2-047",
-    "name": "李诫墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "河南",
-    "city": "新郑市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0621-3-324",
-    "name": "法行寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "汝州市",
-    "era": "唐至宋"
-  },
-  {
-    "id": "6-0622-3-325",
-    "name": "三苏祠和墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "郏县",
-    "era": "宋至清"
-  },
-  {
-    "id": "6-0623-3-326",
-    "name": "阎庄圣寿寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "睢县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0624-3-327",
-    "name": "乾明寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "鄢陵县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0625-3-328",
-    "name": "泗洲寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "唐河县",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0626-3-329",
-    "name": "尉氏兴国寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "尉氏县",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0627-3-330",
-    "name": "两程故里",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "嵩县",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0628-3-331",
-    "name": "商水寿圣寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "商水县",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0629-3-332",
-    "name": "鄂城寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "南阳市",
-    "era": "宋至清"
-  },
-  {
-    "id": "6-0630-3-333",
-    "name": "柴庄延庆寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "济源市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0631-3-334",
-    "name": "胜果寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "修武县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0632-3-335",
-    "name": "宝严寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "西平县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0633-3-336",
-    "name": "崇法寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "永城市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0634-3-337",
-    "name": "郏县文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "郏县",
-    "era": "金至清"
-  },
-  {
-    "id": "6-0635-3-338",
-    "name": "百家岩寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "修武县",
-    "era": "金"
-  },
-  {
-    "id": "6-0636-3-339",
-    "name": "沁阳北大寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "沁阳市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0637-3-340",
-    "name": "叶县县衙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "叶县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0638-3-341",
-    "name": "洛阳周公庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0639-3-342",
-    "name": "关林",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0640-3-343",
-    "name": "白云寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "辉县市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0641-3-344",
-    "name": "新郑轩辕庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "新郑市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0642-3-345",
-    "name": "千佛阁",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "武陟县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0643-3-346",
-    "name": "阳台宫",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "济源市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0644-3-347",
-    "name": "许昌文峰塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "许昌市",
-    "era": "明"
-  },
-  {
-    "id": "6-0645-3-348",
-    "name": "望京楼",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "卫辉市",
-    "era": "明"
-  },
-  {
-    "id": "6-0646-3-349",
-    "name": "仓房香严寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "淅川县",
-    "era": "明"
-  },
-  {
-    "id": "6-0647-3-350",
-    "name": "悟颖塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "汝南县",
-    "era": "明"
-  },
-  {
-    "id": "6-0648-3-351",
-    "name": "福胜寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "邓州市",
-    "era": "明"
-  },
-  {
-    "id": "6-0649-3-352",
-    "name": "河南府文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "明"
-  },
-  {
-    "id": "6-0650-3-353",
-    "name": "祖师庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "明"
-  },
-  {
-    "id": "6-0651-3-354",
-    "name": "洛阳山陕会馆",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "清"
-  },
-  {
-    "id": "6-0652-3-355",
-    "name": "汝州文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "汝州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0653-3-356",
-    "name": "朱仙镇清真寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "开封县",
-    "era": "清"
-  },
-  {
-    "id": "6-0654-3-357",
-    "name": "开封东大寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "开封市",
-    "era": "清"
-  },
-  {
-    "id": "6-0655-3-358",
-    "name": "陈元光祖祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "固始县",
-    "era": "清"
-  },
-  {
-    "id": "6-0656-3-359",
-    "name": "太康文庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "河南",
-    "city": "太康县",
-    "era": "清"
-  },
-  {
-    "id": "6-0835-4-025",
-    "name": "青天河摩崖",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "博爱县",
-    "era": "南北朝至唐"
-  },
-  {
-    "id": "6-0836-4-026",
-    "name": "西明寺造像碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "新乡县",
-    "era": "南北朝"
-  },
-  {
-    "id": "6-0837-4-027",
-    "name": "升仙太子碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "偃师市",
-    "era": "唐"
-  },
-  {
-    "id": "6-0838-4-028",
-    "name": "崇唐观造像",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "登封市",
-    "era": "唐"
-  },
-  {
-    "id": "6-0839-4-029",
-    "name": "元次山碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "鲁山县",
-    "era": "唐"
-  },
-  {
-    "id": "6-0840-4-030",
-    "name": "云梦山摩崖",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "淇县",
-    "era": "宋至民国"
-  },
-  {
-    "id": "6-0841-4-031",
-    "name": "彼岸寺碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "漯河市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0842-4-032",
-    "name": "刘碑寺碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "登封市",
-    "era": "南北朝"
-  },
-  {
-    "id": "6-0843-4-033",
-    "name": "唐兀公碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "河南",
-    "city": "濮阳县",
-    "era": "元"
-  },
-  {
-    "id": "6-0982-5-109",
-    "name": "邓颖超祖居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "光山县",
-    "era": "清"
-  },
-  {
-    "id": "6-0983-5-110",
-    "name": "刘青霞故居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "开封市",
-    "era": "清末民初"
-  },
-  {
-    "id": "6-0984-5-111",
-    "name": "河南留学欧美预备学校旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "开封市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0985-5-112",
-    "name": "吕潭学校旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "扶沟县",
-    "era": "民国"
-  },
-  {
-    "id": "6-0986-5-113",
-    "name": "中国工农红军第二十五军司令部旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "新县",
-    "era": "1933年"
-  },
-  {
-    "id": "6-0987-5-114",
-    "name": "八路军洛阳办事处旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "洛阳市",
-    "era": "1938～1942年"
-  },
-  {
-    "id": "6-0988-5-115",
-    "name": "冀鲁豫边区革命根据地旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "范县",
-    "era": "1941～1946年"
-  },
-  {
-    "id": "6-0989-5-116",
-    "name": "嵖岈山卫星人民公社旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "遂平县",
-    "era": "1958～1983年"
-  },
-  {
-    "id": "6-0990-5-117",
-    "name": "红旗渠",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "林州市",
-    "era": "1969年"
-  },
-  {
-    "id": "6-0991-5-118",
-    "name": "郑州二七罢工纪念塔和纪念堂",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "河南",
-    "city": "郑州市",
-    "era": "1971年、1952年"
-  }
-]
+{
+  "province": "河南",
+  "items": [
+    {
+      "id": "1-0037-4-004",
+      "name": "龙门石窟",
+      "level": "national",
+      "batch": 1,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "北魏至唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0048-3-001",
+      "name": "太室阙",
+      "level": "national",
+      "batch": 1,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0049-3-002",
+      "name": "少室阙",
+      "level": "national",
+      "batch": 1,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0050-3-003",
+      "name": "启母阙",
+      "level": "national",
+      "batch": 1,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0061-3-014",
+      "name": "嵩岳寺塔",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "北魏",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0069-3-022",
+      "name": "祐国寺塔",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "开封市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0092-3-045",
+      "name": "白马寺",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "金至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0097-3-050",
+      "name": "观星台",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0138-1-003",
+      "name": "仰韶村遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "渑池县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0141-1-006",
+      "name": "郑州商代遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "",
+      "address": "",
+      "era": "商",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0142-1-007",
+      "name": "殷墟",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "安阳市",
+      "district": "",
+      "address": "",
+      "era": "殷",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0148-1-013",
+      "name": "郑韩故城",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "新郑县",
+      "district": "",
+      "address": "",
+      "era": "东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0153-1-018",
+      "name": "汉魏洛阳故城",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "东汉至北魏",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0011-4-001",
+      "name": "巩县石窟",
+      "level": "national",
+      "batch": 2,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "巩县",
+      "district": "",
+      "address": "",
+      "era": "北魏至宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0016-3-001",
+      "name": "修定寺塔",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "安阳县",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0058-2-003",
+      "name": "宋陵",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "巩县",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0032-5-032",
+      "name": "鄂豫皖革命根据地旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "河南省",
+      "city": "新县",
+      "district": "",
+      "address": "",
+      "era": "1931年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0037-5-037",
+      "name": "中共中央中原局旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "河南省",
+      "city": "确山县",
+      "district": "",
+      "address": "",
+      "era": "1938-1939年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0078-3-026",
+      "name": "社旗山陕会馆",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "社旗县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0108-3-056",
+      "name": "风穴寺及塔林",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "临汝县",
+      "district": "",
+      "address": "",
+      "era": "唐至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0137-3-085",
+      "name": "净藏禅师塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封县",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0193-1-013",
+      "name": "平粮台古城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "淮阳县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0197-1-017",
+      "name": "二里头遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "偃师县",
+      "district": "",
+      "address": "",
+      "era": "夏商",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0198-1-018",
+      "name": "尸乡沟商城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "偃师县",
+      "district": "",
+      "address": "",
+      "era": "商",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0216-1-036",
+      "name": "隋唐洛阳城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "隋唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0218-1-038",
+      "name": "北宋东京城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "开封市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0227-1-047",
+      "name": "钧台钧窑遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "禹县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0237-2-008",
+      "name": "张衡墓",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "南阳县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0239-2-010",
+      "name": "打虎亭汉墓",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "密县",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0240-2-011",
+      "name": "张仲景墓及祠",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "南阳市",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0012-1-012",
+      "name": "西山遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0013-1-013",
+      "name": "王城岗及阳城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代至东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0014-1-014",
+      "name": "羑里城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "汤阴县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代至周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0028-1-028",
+      "name": "蔡国故城",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "上蔡县",
+      "district": "",
+      "address": "",
+      "era": "西周至春秋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0029-1-029",
+      "name": "酒店冶铁遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "西平县",
+      "district": "",
+      "address": "",
+      "era": "战国至汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0030-1-030",
+      "name": "戚城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "濮阳市",
+      "district": "",
+      "address": "",
+      "era": "春秋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0059-2-003",
+      "name": "虢国墓地",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "三门峡市",
+      "district": "",
+      "address": "",
+      "era": "周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0064-2-008",
+      "name": "汉梁王墓群",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "永城市",
+      "district": "",
+      "address": "",
+      "era": "西汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0074-2-018",
+      "name": "潞简王墓",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "新乡市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0089-3-011",
+      "name": "初祖庵及少林寺塔林",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "唐至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0107-3-029",
+      "name": "济渎庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "济源市",
+      "district": "",
+      "address": "",
+      "era": "宋至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0122-3-044",
+      "name": "南阳武侯祠",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "南阳市",
+      "district": "",
+      "address": "",
+      "era": "元至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0146-3-068",
+      "name": "归德府城墙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "商丘县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0147-3-069",
+      "name": "太昊陵庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "淮阳县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0148-3-070",
+      "name": "比干庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "卫辉市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0175-3-097",
+      "name": "开封城墙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "开封市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0176-3-098",
+      "name": "周口关帝庙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "周口市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0177-3-099",
+      "name": "内乡县衙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "内乡县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0191-4-003",
+      "name": "灵泉寺石窟",
+      "level": "national",
+      "batch": 4,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "安阳县",
+      "district": "",
+      "address": "",
+      "era": "东魏至宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0197-4-009",
+      "name": "千唐志斋石刻",
+      "level": "national",
+      "batch": 4,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "新安县",
+      "district": "",
+      "address": "",
+      "era": "西晋至民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0236-5-038",
+      "name": "红二十五军长征出发地",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "河南省",
+      "city": "罗山县",
+      "district": "",
+      "address": "",
+      "era": "1934年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0064-1-064",
+      "name": "裴李岗遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "新郑市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0065-1-065",
+      "name": "贾湖遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "舞阳县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0066-1-066",
+      "name": "八里岗遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "邓州市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0067-1-067",
+      "name": "北阳平遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "灵宝市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0068-1-068",
+      "name": "庙底沟遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "三门峡市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0069-1-069",
+      "name": "大河村遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0070-1-070",
+      "name": "孟庄遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "辉县市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代至周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0071-1-071",
+      "name": "古城寨城址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "新密市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0072-1-072",
+      "name": "府城遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "焦作市",
+      "district": "",
+      "address": "",
+      "era": "商",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0073-1-073",
+      "name": "番国故城遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "固始县",
+      "district": "",
+      "address": "",
+      "era": "东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0074-1-074",
+      "name": "城阳城址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "信阳市",
+      "district": "",
+      "address": "",
+      "era": "东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0075-1-075",
+      "name": "古荥冶铁遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "",
+      "address": "",
+      "era": "汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0076-1-076",
+      "name": "黄冶三彩窑址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "巩义市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0077-1-077",
+      "name": "清凉寺汝官窑遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "宝丰县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0078-1-078",
+      "name": "鹿邑太清宫遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "河南省",
+      "city": "鹿邑县",
+      "district": "",
+      "address": "",
+      "era": "宋金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0171-2-027",
+      "name": "邙山陵墓群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "汉至北魏",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0172-2-028",
+      "name": "恭陵",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "偃师市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0173-2-029",
+      "name": "后周皇陵",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "新郑市",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0174-2-030",
+      "name": "朱载堉墓",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "河南省",
+      "city": "沁阳市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0338-3-144",
+      "name": "宝轮寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "三门峡市",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0339-3-145",
+      "name": "山陕甘会馆",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "开封市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0340-3-146",
+      "name": "康百万庄园",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "巩义市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0341-3-147",
+      "name": "天宁寺三圣塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "沁阳市",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0342-3-148",
+      "name": "妙乐寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "武陟县",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0343-3-149",
+      "name": "嘉应观",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "武陟县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0344-3-150",
+      "name": "小商桥",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "临颍县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0345-3-151",
+      "name": "南阳知府衙门",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "南阳市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0346-3-152",
+      "name": "潞泽会馆",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "洛阳市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0347-3-153",
+      "name": "大明寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "济源市",
+      "district": "",
+      "address": "",
+      "era": "元至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0348-3-154",
+      "name": "奉仙观",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "济源市",
+      "district": "",
+      "address": "",
+      "era": "金至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0349-3-155",
+      "name": "荆紫关古建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "淅川县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0350-3-156",
+      "name": "慈胜寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "温县",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0351-3-157",
+      "name": "汤阴岳飞庙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "汤阴县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0352-3-158",
+      "name": "安阳天宁寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "安阳市",
+      "district": "",
+      "address": "",
+      "era": "五代至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0353-3-159",
+      "name": "明福寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "滑县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0354-3-160",
+      "name": "会善寺",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "元至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0355-3-161",
+      "name": "永泰寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0356-3-162",
+      "name": "法王寺塔",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0357-3-163",
+      "name": "中岳庙",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0358-3-164",
+      "name": "百泉",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "河南省",
+      "city": "辉县市",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0456-4-014",
+      "name": "鸿庆寺石窟",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "义马市",
+      "district": "",
+      "address": "",
+      "era": "北魏",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0457-4-015",
+      "name": "小南海石窟",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "安阳县",
+      "district": "",
+      "address": "",
+      "era": "北齐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0458-4-016",
+      "name": "大丕山摩崖大佛及石刻",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "浚县",
+      "district": "",
+      "address": "",
+      "era": "北朝至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0459-4-017",
+      "name": "受禅碑与受禅台",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "临颍县",
+      "district": "",
+      "address": "",
+      "era": "三国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0460-4-018",
+      "name": "大唐嵩阳观纪圣德感应之颂碑",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "河南省",
+      "city": "登封市",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0521-5-041",
+      "name": "焦裕禄烈士墓",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "河南省",
+      "city": "兰考县",
+      "district": "",
+      "address": "",
+      "era": "1966年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0126-1-126",
+      "name": "织机洞遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "荥阳市",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "6-0127-1-127",
+      "name": "杨台寺遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0128-1-128",
+      "name": "瓦店遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "禹州市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0129-1-129",
+      "name": "石固遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "长葛市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0130-1-130",
+      "name": "郝家台遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "漯河市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0131-1-131",
+      "name": "王油坊遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "永城市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0132-1-132",
+      "name": "李庄遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "柘城县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0133-1-133",
+      "name": "王湾遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0134-1-134",
+      "name": "鹿台岗遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "杞县",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "6-0135-1-135",
+      "name": "新砦遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "新密市",
+      "era": "新石器时代至夏"
+    },
+    {
+      "id": "6-0136-1-136",
+      "name": "唐户遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "新郑市",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "6-0137-1-137",
+      "name": "蒲城店遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市",
+      "era": "新石器时代至汉"
+    },
+    {
+      "id": "6-0138-1-138",
+      "name": "大师姑城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "荥阳市",
+      "era": "夏至商"
+    },
+    {
+      "id": "6-0139-1-139",
+      "name": "小双桥遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市",
+      "era": "商"
+    },
+    {
+      "id": "6-0140-1-140",
+      "name": "宋国故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市",
+      "era": "周"
+    },
+    {
+      "id": "6-0141-1-141",
+      "name": "卫国故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "淇县",
+      "era": "周"
+    },
+    {
+      "id": "6-0142-1-142",
+      "name": "黄国故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "潢川县",
+      "era": "周"
+    },
+    {
+      "id": "6-0143-1-143",
+      "name": "共城城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "辉县市",
+      "era": "周"
+    },
+    {
+      "id": "6-0144-1-144",
+      "name": "滑国故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "偃师市",
+      "era": "周"
+    },
+    {
+      "id": "6-0145-1-145",
+      "name": "叶邑故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "叶县",
+      "era": "周"
+    },
+    {
+      "id": "6-0146-1-146",
+      "name": "轵国故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "济源市",
+      "era": "周"
+    },
+    {
+      "id": "6-0147-1-147",
+      "name": "下河湾冶铁遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "泌阳县",
+      "era": "战国至汉"
+    },
+    {
+      "id": "6-0148-1-148",
+      "name": "望城岗冶铁遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "鲁山县",
+      "era": "汉"
+    },
+    {
+      "id": "6-0149-1-149",
+      "name": "瓦房庄冶铁遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市",
+      "era": "汉"
+    },
+    {
+      "id": "6-0150-1-150",
+      "name": "三杨庄遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "内黄县",
+      "era": "汉"
+    },
+    {
+      "id": "6-0151-1-151",
+      "name": "山阳故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "焦作市",
+      "era": "汉"
+    },
+    {
+      "id": "6-0152-1-152",
+      "name": "段店窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "鲁山县",
+      "era": "唐至宋"
+    },
+    {
+      "id": "6-0153-1-153",
+      "name": "大周封祀坛遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "登封市",
+      "era": "唐"
+    },
+    {
+      "id": "6-0154-1-154",
+      "name": "扒村窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "禹州市",
+      "era": "宋至元"
+    },
+    {
+      "id": "6-0155-1-155",
+      "name": "当阳峪窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "修武县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0156-1-156",
+      "name": "张公巷窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "金至元"
+    },
+    {
+      "id": "6-0262-2-042",
+      "name": "应国墓地",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "平顶山市",
+      "era": "周至汉"
+    },
+    {
+      "id": "6-0263-2-043",
+      "name": "许慎墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "漯河市",
+      "era": "汉"
+    },
+    {
+      "id": "6-0264-2-044",
+      "name": "韩愈墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "孟州市",
+      "era": "唐"
+    },
+    {
+      "id": "6-0265-2-045",
+      "name": "范仲淹墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "伊川县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0266-2-046",
+      "name": "欧阳修墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "新郑市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0267-2-047",
+      "name": "李诫墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "新郑市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0621-3-324",
+      "name": "法行寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "唐至宋"
+    },
+    {
+      "id": "6-0622-3-325",
+      "name": "三苏祠和墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郏县",
+      "era": "宋至清"
+    },
+    {
+      "id": "6-0623-3-326",
+      "name": "阎庄圣寿寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "睢县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0624-3-327",
+      "name": "乾明寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "鄢陵县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0625-3-328",
+      "name": "泗洲寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "唐河县",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0626-3-329",
+      "name": "尉氏兴国寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "尉氏县",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0627-3-330",
+      "name": "两程故里",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "嵩县",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0628-3-331",
+      "name": "商水寿圣寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "商水县",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0629-3-332",
+      "name": "鄂城寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "南阳市",
+      "era": "宋至清"
+    },
+    {
+      "id": "6-0630-3-333",
+      "name": "柴庄延庆寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "济源市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0631-3-334",
+      "name": "胜果寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "修武县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0632-3-335",
+      "name": "宝严寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "西平县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0633-3-336",
+      "name": "崇法寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "永城市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0634-3-337",
+      "name": "郏县文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郏县",
+      "era": "金至清"
+    },
+    {
+      "id": "6-0635-3-338",
+      "name": "百家岩寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "修武县",
+      "era": "金"
+    },
+    {
+      "id": "6-0636-3-339",
+      "name": "沁阳北大寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "沁阳市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0637-3-340",
+      "name": "叶县县衙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "叶县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0638-3-341",
+      "name": "洛阳周公庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0639-3-342",
+      "name": "关林",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0640-3-343",
+      "name": "白云寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "辉县市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0641-3-344",
+      "name": "新郑轩辕庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "新郑市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0642-3-345",
+      "name": "千佛阁",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "武陟县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0643-3-346",
+      "name": "阳台宫",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "济源市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0644-3-347",
+      "name": "许昌文峰塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市",
+      "era": "明"
+    },
+    {
+      "id": "6-0645-3-348",
+      "name": "望京楼",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "卫辉市",
+      "era": "明"
+    },
+    {
+      "id": "6-0646-3-349",
+      "name": "仓房香严寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "淅川县",
+      "era": "明"
+    },
+    {
+      "id": "6-0647-3-350",
+      "name": "悟颖塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "汝南县",
+      "era": "明"
+    },
+    {
+      "id": "6-0648-3-351",
+      "name": "福胜寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "邓州市",
+      "era": "明"
+    },
+    {
+      "id": "6-0649-3-352",
+      "name": "河南府文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "明"
+    },
+    {
+      "id": "6-0650-3-353",
+      "name": "祖师庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "明"
+    },
+    {
+      "id": "6-0651-3-354",
+      "name": "洛阳山陕会馆",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "清"
+    },
+    {
+      "id": "6-0652-3-355",
+      "name": "汝州文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0653-3-356",
+      "name": "朱仙镇清真寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "开封县",
+      "era": "清"
+    },
+    {
+      "id": "6-0654-3-357",
+      "name": "开封东大寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "开封市",
+      "era": "清"
+    },
+    {
+      "id": "6-0655-3-358",
+      "name": "陈元光祖祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "固始县",
+      "era": "清"
+    },
+    {
+      "id": "6-0656-3-359",
+      "name": "太康文庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "太康县",
+      "era": "清"
+    },
+    {
+      "id": "6-0835-4-025",
+      "name": "青天河摩崖",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "博爱县",
+      "era": "南北朝至唐"
+    },
+    {
+      "id": "6-0836-4-026",
+      "name": "西明寺造像碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "新乡县",
+      "era": "南北朝"
+    },
+    {
+      "id": "6-0837-4-027",
+      "name": "升仙太子碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "偃师市",
+      "era": "唐"
+    },
+    {
+      "id": "6-0838-4-028",
+      "name": "崇唐观造像",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "登封市",
+      "era": "唐"
+    },
+    {
+      "id": "6-0839-4-029",
+      "name": "元次山碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "鲁山县",
+      "era": "唐"
+    },
+    {
+      "id": "6-0840-4-030",
+      "name": "云梦山摩崖",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "淇县",
+      "era": "宋至民国"
+    },
+    {
+      "id": "6-0841-4-031",
+      "name": "彼岸寺碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "漯河市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0842-4-032",
+      "name": "刘碑寺碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "登封市",
+      "era": "南北朝"
+    },
+    {
+      "id": "6-0843-4-033",
+      "name": "唐兀公碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "濮阳县",
+      "era": "元"
+    },
+    {
+      "id": "6-0982-5-109",
+      "name": "邓颖超祖居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "光山县",
+      "era": "清"
+    },
+    {
+      "id": "6-0983-5-110",
+      "name": "刘青霞故居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市",
+      "era": "清末民初"
+    },
+    {
+      "id": "6-0984-5-111",
+      "name": "河南留学欧美预备学校旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0985-5-112",
+      "name": "吕潭学校旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "扶沟县",
+      "era": "民国"
+    },
+    {
+      "id": "6-0986-5-113",
+      "name": "中国工农红军第二十五军司令部旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "新县",
+      "era": "1933年"
+    },
+    {
+      "id": "6-0987-5-114",
+      "name": "八路军洛阳办事处旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "洛阳市",
+      "era": "1938～1942年"
+    },
+    {
+      "id": "6-0988-5-115",
+      "name": "冀鲁豫边区革命根据地旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "范县",
+      "era": "1941～1946年"
+    },
+    {
+      "id": "6-0989-5-116",
+      "name": "嵖岈山卫星人民公社旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "遂平县",
+      "era": "1958～1983年"
+    },
+    {
+      "id": "6-0990-5-117",
+      "name": "红旗渠",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "林州市",
+      "era": "1969年"
+    },
+    {
+      "id": "6-0991-5-118",
+      "name": "郑州二七罢工纪念塔和纪念堂",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "郑州市",
+      "era": "1971年、1952年"
+    },
+    {
+      "id": "8-0075-1-075",
+      "name": "孙家洞遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "栾川县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "8-0076-1-076",
+      "name": "老奶奶庙遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市二七区",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "8-0077-1-077",
+      "name": "后高老家遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "项城市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0078-1-078",
+      "name": "苏羊遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "宜阳县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0079-1-079",
+      "name": "老坟岗遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "西峡县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0080-1-080",
+      "name": "阎村遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0081-1-081",
+      "name": "史官遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南乐县",
+      "era": "新石器时代、商周"
+    },
+    {
+      "id": "8-0082-1-082",
+      "name": "鹤壁刘庄遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "鹤壁市淇滨区",
+      "era": "新石器时代至夏"
+    },
+    {
+      "id": "8-0083-1-083",
+      "name": "淮阳双冢遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "周口市淮阳区",
+      "era": "新石器时代至商"
+    },
+    {
+      "id": "8-0084-1-084",
+      "name": "西史村遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "荥阳市",
+      "era": "夏商"
+    },
+    {
+      "id": "8-0085-1-085",
+      "name": "闰楼遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "正阳县",
+      "era": "商"
+    },
+    {
+      "id": "8-0086-1-086",
+      "name": "浚县辛村遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "鹤壁市淇滨区",
+      "era": "商周"
+    },
+    {
+      "id": "8-0087-1-087",
+      "name": "官庄遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "荥阳市",
+      "era": "周"
+    },
+    {
+      "id": "8-0088-1-088",
+      "name": "阳城故城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商水县",
+      "era": "战国"
+    },
+    {
+      "id": "8-0089-1-089",
+      "name": "保安古城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "叶县",
+      "era": "战国"
+    },
+    {
+      "id": "8-0090-1-090",
+      "name": "新安故城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "义马市",
+      "era": "秦汉"
+    },
+    {
+      "id": "8-0091-1-091",
+      "name": "黎阳故城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "浚县",
+      "era": "西汉至北宋"
+    },
+    {
+      "id": "8-0092-1-092",
+      "name": "崤函古道石壕段",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "三门峡市陕州区",
+      "era": "唐宋"
+    },
+    {
+      "id": "8-0093-1-093",
+      "name": "窑沟遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "新密市",
+      "era": "宋金"
+    },
+    {
+      "id": "8-0094-1-094",
+      "name": "东沟窑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "金元"
+    },
+    {
+      "id": "8-0182-2-015",
+      "name": "天湖墓地",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "罗山县",
+      "era": "商周"
+    },
+    {
+      "id": "8-0183-2-016",
+      "name": "徐阳墓地",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "伊川县",
+      "era": "东周"
+    },
+    {
+      "id": "8-0184-2-017",
+      "name": "西朱村曹魏墓",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "洛阳市洛龙区",
+      "era": "三国"
+    },
+    {
+      "id": "8-0352-3-155",
+      "name": "安阳永和桥",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳县",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0353-3-156",
+      "name": "三祖庵塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "登封市",
+      "era": "金"
+    },
+    {
+      "id": "8-0354-3-157",
+      "name": "轵城关帝庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "济源市",
+      "era": "金、清"
+    },
+    {
+      "id": "8-0355-3-158",
+      "name": "丹霞寺塔林",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "南召县",
+      "era": "元至清"
+    },
+    {
+      "id": "8-0356-3-159",
+      "name": "禹州天宁万寿寺",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "禹州市",
+      "era": "元至清"
+    },
+    {
+      "id": "8-0357-3-160",
+      "name": "舞阳彼岸寺大殿",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "舞阳县",
+      "era": "元至清"
+    },
+    {
+      "id": "8-0358-3-161",
+      "name": "阳安寺大殿",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "镇平县",
+      "era": "明"
+    },
+    {
+      "id": "8-0359-3-162",
+      "name": "汝宁石桥",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "汝南县",
+      "era": "明"
+    },
+    {
+      "id": "8-0360-3-163",
+      "name": "延津大觉寺万寿塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "延津县",
+      "era": "明"
+    },
+    {
+      "id": "8-0361-3-164",
+      "name": "杞县大云寺塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "杞县",
+      "era": "明"
+    },
+    {
+      "id": "8-0362-3-165",
+      "name": "龙泉澧河石桥",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "叶县",
+      "era": "明"
+    },
+    {
+      "id": "8-0363-3-166",
+      "name": "原武城隍庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "原阳县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0364-3-167",
+      "name": "许昌文庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市魏都区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0365-3-168",
+      "name": "弦歌台",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "周口市淮阳区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0366-3-169",
+      "name": "济源二仙庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "济源市",
+      "era": "明清"
+    },
+    {
+      "id": "8-0367-3-170",
+      "name": "登封玉溪宫",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "登封市",
+      "era": "明清"
+    },
+    {
+      "id": "8-0368-3-171",
+      "name": "侯湾泰山庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "汝州市",
+      "era": "明清"
+    },
+    {
+      "id": "8-0369-3-172",
+      "name": "温县遇仙观",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "温县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0370-3-173",
+      "name": "大程书院",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "扶沟县",
+      "era": "清"
+    },
+    {
+      "id": "8-0371-3-174",
+      "name": "龙亭大殿",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "开封市龙亭区",
+      "era": "清"
+    },
+    {
+      "id": "8-0372-3-175",
+      "name": "偃师九龙庙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "偃师市",
+      "era": "清"
+    },
+    {
+      "id": "8-0373-3-176",
+      "name": "怀邦会馆",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "禹州市",
+      "era": "清"
+    },
+    {
+      "id": "8-0374-3-177",
+      "name": "登封崇福宫",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "登封市",
+      "era": "清"
+    },
+    {
+      "id": "8-0375-3-178",
+      "name": "新安洞真观",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "新安县",
+      "era": "清"
+    },
+    {
+      "id": "8-0376-3-179",
+      "name": "宜阳福昌阁",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "宜阳县",
+      "era": "清"
+    },
+    {
+      "id": "8-0377-3-180",
+      "name": "偃师兴福寺大殿",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "偃师市",
+      "era": "清"
+    },
+    {
+      "id": "8-0378-3-181",
+      "name": "花洲书院",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "邓州市",
+      "era": "清"
+    },
+    {
+      "id": "8-0496-4-019",
+      "name": "尹宙碑",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "鄢陵县",
+      "era": "东汉"
+    },
+    {
+      "id": "8-0497-4-020",
+      "name": "回銮碑",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "濮阳县",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0498-4-021",
+      "name": "佛顶尊胜陀罗尼经幢",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "荥阳市",
+      "era": "金"
+    },
+    {
+      "id": "7-0261-1-261",
+      "name": "七里坪遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市栾川县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0262-1-262",
+      "name": "北窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市瀍河回族区",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0263-1-263",
+      "name": "灵井“许昌人”遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市许昌县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0264-1-264",
+      "name": "杏花山与小空山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市南召县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0265-1-265",
+      "name": "李家沟遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新密市",
+      "era": "旧石器时代至新石器时代"
+    },
+    {
+      "id": "7-0266-1-266",
+      "name": "尚岗杨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市管城回族区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0267-1-267",
+      "name": "后庄王遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市中原区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0268-1-268",
+      "name": "青台遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0269-1-269",
+      "name": "秦王寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0270-1-270",
+      "name": "人和寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新郑市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0271-1-271",
+      "name": "土门遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市伊川县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0272-1-272",
+      "name": "桥北村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市嵩县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0273-1-273",
+      "name": "西王村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市洛宁县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0274-1-274",
+      "name": "白营遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "安阳市汤阴县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0275-1-275",
+      "name": "不召寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "三门峡市渑池县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0276-1-276",
+      "name": "徐堡古城址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "焦作市温县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0277-1-277",
+      "name": "许由寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市鄢陵县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0278-1-278",
+      "name": "刘庄遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市鄢陵县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0279-1-279",
+      "name": "阿岗寺遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "漯河市舞阳县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0280-1-280",
+      "name": "黄山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市卧龙区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0281-1-281",
+      "name": "太子岗遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市邓州市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0282-1-282",
+      "name": "造律台遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市永城市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0283-1-283",
+      "name": "董桥遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市西平县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0284-1-284",
+      "name": "台子寺遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市驿城区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0285-1-285",
+      "name": "天堂寺遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市汝南县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0286-1-286",
+      "name": "段寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "周口市郸城县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0287-1-287",
+      "name": "西金城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "焦作市博爱县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0288-1-288",
+      "name": "李楼遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市汝州市",
+      "era": "新石器时代至夏"
+    },
+    {
+      "id": "7-0289-1-289",
+      "name": "花地嘴遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "新石器时代至夏"
+    },
+    {
+      "id": "7-0290-1-290",
+      "name": "煤山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市汝州市",
+      "era": "新石器时代至夏"
+    },
+    {
+      "id": "7-0291-1-291",
+      "name": "曲梁遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新密市",
+      "era": "新石器时代至夏、商、汉"
+    },
+    {
+      "id": "7-0292-1-292",
+      "name": "商村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "焦作市武陟县",
+      "era": "新石器时代至商、周"
+    },
+    {
+      "id": "7-0293-1-293",
+      "name": "娘娘寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "7-0294-1-294",
+      "name": "段岗遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "开封市杞县",
+      "era": "新石器时代至春秋"
+    },
+    {
+      "id": "7-0295-1-295",
+      "name": "小李庄遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市宝丰县",
+      "era": "新石器时代至南北朝"
+    },
+    {
+      "id": "7-0296-1-296",
+      "name": "稍柴遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "新石器时代、夏"
+    },
+    {
+      "id": "7-0297-1-297",
+      "name": "大赉店遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "鹤壁市淇滨区",
+      "era": "新石器时代、商"
+    },
+    {
+      "id": "7-0298-1-298",
+      "name": "西水坡遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "濮阳市濮阳县",
+      "era": "新石器时代、东周、汉"
+    },
+    {
+      "id": "7-0299-1-299",
+      "name": "文集遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市叶县",
+      "era": "新石器时代、金、元"
+    },
+    {
+      "id": "7-0300-1-300",
+      "name": "八里桥遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市方城县",
+      "era": "夏"
+    },
+    {
+      "id": "7-0301-1-301",
+      "name": "南洼遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市登封市",
+      "era": "夏商至唐宋"
+    },
+    {
+      "id": "7-0302-1-302",
+      "name": "望京楼遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新郑市",
+      "era": "夏、商"
+    },
+    {
+      "id": "7-0303-1-303",
+      "name": "南顿故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "周口市项城市",
+      "era": "夏、商、汉"
+    },
+    {
+      "id": "7-0304-1-304",
+      "name": "柘城孟庄遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市柘城县",
+      "era": "离"
+    },
+    {
+      "id": "7-0305-1-305",
+      "name": "琉璃阁遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "新乡市辉县市",
+      "era": "商周至汉"
+    },
+    {
+      "id": "7-0306-1-306",
+      "name": "邘国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "焦作市沁阳市",
+      "era": "商、周、汉"
+    },
+    {
+      "id": "7-0307-1-307",
+      "name": "蒋国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "信阳市淮滨县",
+      "era": "西周至战国"
+    },
+    {
+      "id": "7-0308-1-308",
+      "name": "祭伯城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市金水区",
+      "era": "周"
+    },
+    {
+      "id": "7-0309-1-309",
+      "name": "濮阳卫国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "濮阳市濮阳县",
+      "era": "周"
+    },
+    {
+      "id": "7-0310-1-310",
+      "name": "洛阳东周王城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市西工区",
+      "era": "东周"
+    },
+    {
+      "id": "7-0311-1-311",
+      "name": "华阳故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新郑市",
+      "era": "东周"
+    },
+    {
+      "id": "7-0312-1-312",
+      "name": "鄢国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市鄢陵县",
+      "era": "东周"
+    },
+    {
+      "id": "7-0313-1-313",
+      "name": "十二连城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市长葛市",
+      "era": "东周"
+    },
+    {
+      "id": "7-0314-1-314",
+      "name": "京城古城址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "东周"
+    },
+    {
+      "id": "7-0315-1-315",
+      "name": "苑陵故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新郑市",
+      "era": "东周、秦、汉"
+    },
+    {
+      "id": "7-0316-1-316",
+      "name": "父城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市宝丰县",
+      "era": "东周、汉"
+    },
+    {
+      "id": "7-0317-1-317",
+      "name": "葛陵故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市新蔡县",
+      "era": "东周、汉"
+    },
+    {
+      "id": "7-0318-1-318",
+      "name": "启封故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "开封市开封县",
+      "era": "春秋"
+    },
+    {
+      "id": "7-0319-1-319",
+      "name": "沈国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "驻马店市平舆县",
+      "era": "春秋至汉"
+    },
+    {
+      "id": "7-0320-1-320",
+      "name": "刘国故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市偃师市",
+      "era": "春秋、汉"
+    },
+    {
+      "id": "7-0321-1-321",
+      "name": "舞钢冶铁遗址群",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市舞钢市",
+      "era": "战国至汉"
+    },
+    {
+      "id": "7-0322-1-322",
+      "name": "宜阳韩都故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市宜阳县",
+      "era": "战国、秦、汉"
+    },
+    {
+      "id": "7-0323-1-323",
+      "name": "汉霸二王城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "秦"
+    },
+    {
+      "id": "7-0324-1-324",
+      "name": "新安函谷关",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市新安县",
+      "era": "西汉"
+    },
+    {
+      "id": "7-0325-1-325",
+      "name": "铁生沟冶铁遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "汉"
+    },
+    {
+      "id": "7-0326-1-326",
+      "name": "芒砀山汉代礼制建筑基址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市永城市",
+      "era": "汉"
+    },
+    {
+      "id": "7-0327-1-327",
+      "name": "柘城故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市柘城县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0328-1-328",
+      "name": "汉魏许都故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "许昌市许昌县",
+      "era": "汉、魏"
+    },
+    {
+      "id": "7-0329-1-329",
+      "name": "沙门城址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "新乡市延津县",
+      "era": "汉、宋、金"
+    },
+    {
+      "id": "7-0330-1-330",
+      "name": "大运河商丘南关码头遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "商丘市睢阳区",
+      "era": "隋至宋"
+    },
+    {
+      "id": "7-0331-1-331",
+      "name": "邓窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "南阳市内乡县",
+      "era": "唐至元"
+    },
+    {
+      "id": "7-0332-1-332",
+      "name": "密县瓷窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "郑州市新密市",
+      "era": "唐、宋"
+    },
+    {
+      "id": "7-0333-1-333",
+      "name": "宋陵采石场",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "洛阳市偃师市",
+      "era": "北宋"
+    },
+    {
+      "id": "7-0334-1-334",
+      "name": "严和店窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "河南",
+      "city": "平顶山市汝州市",
+      "era": "宋"
+    },
+    {
+      "id": "7-0606-2-090",
+      "name": "宋庄东周贵族墓地",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "鹤壁市淇县",
+      "era": "东周、汉"
+    },
+    {
+      "id": "7-0607-2-091",
+      "name": "固岸墓地",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "安阳市安阳县",
+      "era": "战国至宋"
+    },
+    {
+      "id": "7-0608-2-092",
+      "name": "苌村汉墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "汉"
+    },
+    {
+      "id": "7-0609-2-093",
+      "name": "刘崇墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "周口市淮阳县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0610-2-094",
+      "name": "后士郭壁画墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "郑州市新密市",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0611-2-095",
+      "name": "徐堌堆墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "商丘市梁园区",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0612-2-096",
+      "name": "洛南东汉帝陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "洛阳市偃师市",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0613-2-097",
+      "name": "安阳高陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "安阳市安阳县",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0614-2-098",
+      "name": "汉献帝禅陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "焦作市修武县",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0615-2-099",
+      "name": "魏明帝高平陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "洛阳市汝阳县",
+      "era": "三国"
+    },
+    {
+      "id": "7-0616-2-100",
+      "name": "后晋显陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "洛阳市宜阳县",
+      "era": "五代"
+    },
+    {
+      "id": "7-0617-2-101",
+      "name": "后汉皇陵",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "许昌市禹州市",
+      "era": "五代"
+    },
+    {
+      "id": "7-0618-2-102",
+      "name": "程颐、程颢墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "洛阳市伊川县",
+      "era": "北宋"
+    },
+    {
+      "id": "7-0619-2-103",
+      "name": "许衡墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "焦作市中站区",
+      "era": "元"
+    },
+    {
+      "id": "7-0620-2-104",
+      "name": "明周王墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "河南",
+      "city": "许昌市禹州市",
+      "era": "明"
+    },
+    {
+      "id": "7-1159-3-457",
+      "name": "五龙口古代水利设施",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "济源市",
+      "era": "秦至清"
+    },
+    {
+      "id": "7-1160-3-458",
+      "name": "正阳石阙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "驻马店市正阳县",
+      "era": "东汉"
+    },
+    {
+      "id": "7-1161-3-459",
+      "name": "阳台寺双石塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市林州市",
+      "era": "唐"
+    },
+    {
+      "id": "7-1162-3-460",
+      "name": "少林寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市登封市",
+      "era": "唐至清"
+    },
+    {
+      "id": "7-1163-3-461",
+      "name": "兴国寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市鄢陵县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1164-3-462",
+      "name": "千尺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市荥阳市",
+      "era": "宋"
+    },
+    {
+      "id": "7-1165-3-463",
+      "name": "寿圣寺双塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市中牟县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1166-3-464",
+      "name": "凤台寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市新郑市",
+      "era": "宋"
+    },
+    {
+      "id": "7-1167-3-465",
+      "name": "五花寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市宜阳县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1168-3-466",
+      "name": "玲珑塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "新乡市原阳县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1169-3-467",
+      "name": "广唐寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "新乡市延津县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1170-3-468",
+      "name": "大兴寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市内黄县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1171-3-469",
+      "name": "兴阳禅寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市安阳县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1172-3-470",
+      "name": "香山寺大悲观音大士塔及碑刻",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "平顶山市宝丰县",
+      "era": "宋至清"
+    },
+    {
+      "id": "7-1173-3-471",
+      "name": "秀公戒师和尚塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "驻马店市平舆县",
+      "era": "金"
+    },
+    {
+      "id": "7-1174-3-472",
+      "name": "清凉寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市登封市",
+      "era": "金至清"
+    },
+    {
+      "id": "7-1175-3-473",
+      "name": "灵山寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "洛阳市宜阳县",
+      "era": "金至清"
+    },
+    {
+      "id": "7-1176-3-474",
+      "name": "天王寺善济塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "新乡市辉县市",
+      "era": "元"
+    },
+    {
+      "id": "7-1177-3-475",
+      "name": "药王庙大殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "焦作市山阳区",
+      "era": "元"
+    },
+    {
+      "id": "7-1178-3-476",
+      "name": "坡街关王庙大殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市禹州市",
+      "era": "元"
+    },
+    {
+      "id": "7-1179-3-477",
+      "name": "玄天洞石塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "鹤壁市淇滨区",
+      "era": "元至明"
+    },
+    {
+      "id": "7-1180-3-478",
+      "name": "韩王庙与昼锦堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市文峰区",
+      "era": "元至清"
+    },
+    {
+      "id": "7-1181-3-479",
+      "name": "显圣王庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "焦作市孟州市",
+      "era": "元、清"
+    },
+    {
+      "id": "7-1182-3-480",
+      "name": "浚县古城墙及文治阁",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "鹤壁市浚县",
+      "era": "明"
+    },
+    {
+      "id": "7-1183-3-481",
+      "name": "卢氏城隍庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "三门峡市卢氏县",
+      "era": "明"
+    },
+    {
+      "id": "7-1184-3-482",
+      "name": "襄城文庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市襄城县",
+      "era": "明"
+    },
+    {
+      "id": "7-1185-3-483",
+      "name": "襄城城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市襄城县",
+      "era": "明"
+    },
+    {
+      "id": "7-1186-3-484",
+      "name": "高贤寿圣寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "周口市太康县",
+      "era": "明"
+    },
+    {
+      "id": "7-1187-3-485",
+      "name": "碧霞宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "鹤壁市浚县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1188-3-486",
+      "name": "襄城乾明寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市襄城县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1189-3-487",
+      "name": "永济桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "信阳市光山县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1190-3-488",
+      "name": "南岳庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市登封市",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1191-3-489",
+      "name": "陕县安国寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "三门峡市陕县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1192-3-490",
+      "name": "郑州城隍庙（含文庙大成殿）",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市管城回族区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1193-3-491",
+      "name": "登封城隍庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市登封市",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1194-3-492",
+      "name": "朱仙镇岳飞庙（含关帝庙）",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "开封市开封县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1195-3-493",
+      "name": "高阁寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市文峰区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1196-3-494",
+      "name": "彰德府城隍庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市文峰区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1197-3-495",
+      "name": "林州惠明寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市林州市",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1198-3-496",
+      "name": "寨卜昌村古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "焦作市博爱县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1199-3-497",
+      "name": "天宝宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市许昌县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1200-3-498",
+      "name": "临沣寨",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "平顶山市郏县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1201-3-499",
+      "name": "郑州清真寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市管城回族区",
+      "era": "清"
+    },
+    {
+      "id": "7-1202-3-500",
+      "name": "密县县衙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "郑州市新密市",
+      "era": "清"
+    },
+    {
+      "id": "7-1203-3-501",
+      "name": "相国寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "开封市鼓楼区",
+      "era": "清"
+    },
+    {
+      "id": "7-1204-3-502",
+      "name": "青龙宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "焦作市武陟县",
+      "era": "清"
+    },
+    {
+      "id": "7-1205-3-503",
+      "name": "西关清真寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "焦作市博爱县",
+      "era": "清"
+    },
+    {
+      "id": "7-1206-3-504",
+      "name": "许昌关帝庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "许昌市魏都区",
+      "era": "清"
+    },
+    {
+      "id": "7-1207-3-505",
+      "name": "镇平菩提寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "南阳市镇平县",
+      "era": "清"
+    },
+    {
+      "id": "7-1208-3-506",
+      "name": "邓城叶氏庄园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "周口市商水县",
+      "era": "清"
+    },
+    {
+      "id": "7-1209-3-507",
+      "name": "郏县山陕会馆",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "平顶山市郏县",
+      "era": "清"
+    },
+    {
+      "id": "7-1210-3-508",
+      "name": "西蒋村马氏庄园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "安阳市安阳县",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1211-3-509",
+      "name": "庙上村地坑窑院",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "河南",
+      "city": "三门峡市陕县",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1547-4-050",
+      "name": "水泉石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "洛阳市偃师市",
+      "era": "南北朝"
+    },
+    {
+      "id": "7-1548-4-051",
+      "name": "万佛山石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "洛阳市吉利区",
+      "era": "南北朝"
+    },
+    {
+      "id": "7-1549-4-052",
+      "name": "田迈造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "鹤壁市淇县",
+      "era": "南北朝"
+    },
+    {
+      "id": "7-1550-4-053",
+      "name": "禅静寺造像碑",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "许昌市长葛市",
+      "era": "南北朝"
+    },
+    {
+      "id": "7-1551-4-054",
+      "name": "洪谷寺塔与千佛洞石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "安阳市林州市",
+      "era": "南北朝至明"
+    },
+    {
+      "id": "7-1552-4-055",
+      "name": "香泉寺石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "新乡市卫辉市",
+      "era": "南北朝至清"
+    },
+    {
+      "id": "7-1553-4-056",
+      "name": "窄涧谷太平寺石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "焦作市沁阳市",
+      "era": "南北朝至清"
+    },
+    {
+      "id": "7-1554-4-057",
+      "name": "尊胜陀罗尼经幢",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "新乡市卫滨区",
+      "era": "唐"
+    },
+    {
+      "id": "7-1555-4-058",
+      "name": "陀罗尼经幢",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "新乡市卫辉市",
+      "era": "五代"
+    },
+    {
+      "id": "7-1556-4-059",
+      "name": "大宋新修会圣宫铭碑",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "洛阳市偃师市",
+      "era": "北宋"
+    },
+    {
+      "id": "7-1557-4-060",
+      "name": "新乡文庙大观圣作之碑",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "新乡市红旗区",
+      "era": "北宋"
+    },
+    {
+      "id": "7-1558-4-061",
+      "name": "佛沟摩崖造像",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "南阳市方城县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1559-4-062",
+      "name": "水南关清真寺阿文碑",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "焦作市沁阳市",
+      "era": "元"
+    },
+    {
+      "id": "7-1560-4-063",
+      "name": "慈云寺石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "元至清"
+    },
+    {
+      "id": "7-1788-5-181",
+      "name": "袁寨古民居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "周口市项城市",
+      "era": "清"
+    },
+    {
+      "id": "7-1789-5-182",
+      "name": "张祜庄园",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1790-5-183",
+      "name": "鸡公山近代建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "信阳市浉河区",
+      "era": "1903～1949年"
+    },
+    {
+      "id": "7-1791-5-184",
+      "name": "刘镇华庄园",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "郑州市巩义市",
+      "era": "民国"
+    },
+    {
+      "id": "7-1792-5-185",
+      "name": "洛阳西工兵营",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "洛阳市西工区",
+      "era": "1914年"
+    },
+    {
+      "id": "7-1793-5-186",
+      "name": "袁林",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "安阳市北关区",
+      "era": "1918年"
+    },
+    {
+      "id": "7-1794-5-187",
+      "name": "天主教河南总修院旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市顺河回族区",
+      "era": "1932年"
+    },
+    {
+      "id": "7-1795-5-188",
+      "name": "河朔图书馆旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "新乡市卫滨区",
+      "era": "1935年"
+    },
+    {
+      "id": "7-1796-5-189",
+      "name": "国共黄河归故谈判旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市禹王台区",
+      "era": "1946年"
+    },
+    {
+      "id": "7-1797-5-190",
+      "name": "豫陕鄂前后方工作委员会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "平顶山市鲁山县",
+      "era": "1947年"
+    },
+    {
+      "id": "7-1798-5-191",
+      "name": "商丘淮海战役总前委旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "商丘市睢阳区",
+      "era": "1948年"
+    },
+    {
+      "id": "7-1799-5-192",
+      "name": "洛阳涧西苏式建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "洛阳市涧西区",
+      "era": "1954年"
+    },
+    {
+      "id": "8-0638-5-122",
+      "name": "兴隆庄火车站站舍旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市祥符区",
+      "era": "1915年"
+    },
+    {
+      "id": "8-0639-5-123",
+      "name": "河南省博物馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市龙亭区",
+      "era": "1927年"
+    },
+    {
+      "id": "8-0640-5-124",
+      "name": "中国工农红军第一军司令部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "新县",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0641-5-125",
+      "name": "鄂豫皖边特区苏维埃政府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "新县",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0642-5-126",
+      "name": "晋冀鲁豫野战军指挥部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "范县",
+      "era": "1947－1948年"
+    },
+    {
+      "id": "8-0643-5-127",
+      "name": "豫陕鄂军政大学旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "鲁山县",
+      "era": "1948年"
+    },
+    {
+      "id": "8-0644-5-128",
+      "name": "开封伞塔",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "开封市禹王台区",
+      "era": "1955年"
+    },
+    {
+      "id": "8-0645-5-129",
+      "name": "滑县县委县政府早期建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "滑县",
+      "era": "1959年"
+    },
+    {
+      "id": "8-0646-5-130",
+      "name": "郑州第二砂轮厂旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河南",
+      "city": "郑州市中原区",
+      "era": "1964年"
+    },
+    {
+      "id": "8-0000-4-003",
+      "name": "象庄村石象",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河南",
+      "city": "孟津县",
+      "era": "东汉"
+    }
+  ]
+}

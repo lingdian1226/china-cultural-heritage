@@ -1,800 +1,1913 @@
-[
-  {
-    "id": "1-0013-5-013",
-    "name": "八一起义指挥部旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "南昌市",
-    "district": "",
-    "address": "",
-    "era": "1927年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0017-5-017",
-    "name": "井冈山革命遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "宁冈县",
-    "district": "",
-    "address": "",
-    "era": "1927－1929年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0020-5-020",
-    "name": "瑞金革命遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "瑞金县",
-    "district": "",
-    "address": "",
-    "era": "1931－1934年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0004-5-004",
-    "name": "安源路矿工人俱乐部旧址",
-    "level": "national",
-    "batch": 2,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "安源市",
-    "district": "",
-    "address": "",
-    "era": "1922年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0053-1-008",
-    "name": "湖田古瓷窑址",
-    "level": "national",
-    "batch": 2,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "景德镇",
-    "district": "",
-    "address": "",
-    "era": "五代至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0031-5-031",
-    "name": "宁都起义指挥部旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "宁都县",
-    "district": "",
-    "address": "",
-    "era": "1931年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0052-4-011",
-    "name": "通天岩石窟",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江西省",
-    "city": "赣州市",
-    "district": "",
-    "address": "",
-    "era": "宋至明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0067-3-015",
-    "name": "观音桥",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "星子县",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0074-3-022",
-    "name": "白鹿书院",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "九江市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0090-3-038",
-    "name": "祥集弄民宅",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "景德镇市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0162-3-110",
-    "name": "上饶集中营旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "上饶县",
-    "district": "",
-    "address": "",
-    "era": "1941-1942年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0025-1-025",
-    "name": "吴城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "樟树市",
-    "district": "",
-    "address": "",
-    "era": "商",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0042-1-042",
-    "name": "洪州窑遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "丰城市",
-    "district": "",
-    "address": "",
-    "era": "东晋至唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0105-3-027",
-    "name": "赣州城墙",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "赣州市",
-    "district": "",
-    "address": "",
-    "era": "宋明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0219-5-021",
-    "name": "庐山会议旧址及庐山别墅建筑群",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "九江市",
-    "district": "",
-    "address": "",
-    "era": "1902-1937年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0234-5-036",
-    "name": "湘赣省委机关旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "永新县",
-    "district": "",
-    "address": "",
-    "era": "1931-1934年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0235-5-037",
-    "name": "闽浙赣省委机关旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江西省",
-    "city": "横峰县",
-    "district": "",
-    "address": "",
-    "era": "1932-1934年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0054-1-054",
-    "name": "仙人洞吊桶环遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "万年县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0055-1-055",
-    "name": "筑卫城遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "樟树市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代至东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0056-1-056",
-    "name": "铜岭铜矿遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "瑞昌市",
-    "district": "",
-    "address": "",
-    "era": "商周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0057-1-057",
-    "name": "吉州窑遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "江西省",
-    "city": "吉安县",
-    "district": "",
-    "address": "",
-    "era": "宋元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0167-2-023",
-    "name": "仙水岩崖墓群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "江西省",
-    "city": "鹰潭市",
-    "district": "",
-    "address": "",
-    "era": "春秋战国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0334-3-140",
-    "name": "流坑村古建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "乐安县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0335-3-141",
-    "name": "关西新围燕翼围",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江西省",
-    "city": "龙南县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0099-1-099",
-    "name": "樊城堆遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江西",
-    "city": "樟树市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0100-1-100",
-    "name": "牛头城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江西",
-    "city": "新干县",
-    "era": "商至周"
-  },
-  {
-    "id": "6-0101-1-101",
-    "name": "白口城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江西",
-    "city": "泰和县",
-    "era": "汉至南北朝"
-  },
-  {
-    "id": "6-0102-1-102",
-    "name": "李渡烧酒作坊遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江西",
-    "city": "进贤县",
-    "era": "元至清"
-  },
-  {
-    "id": "6-0103-1-103",
-    "name": "御窑厂窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江西",
-    "city": "景德镇市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0255-2-035",
-    "name": "朱轼墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "江西",
-    "city": "高安市",
-    "era": "清"
-  },
-  {
-    "id": "6-0601-3-304",
-    "name": "真如寺塔林",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "永修县",
-    "era": "唐至元"
-  },
-  {
-    "id": "6-0602-3-305",
-    "name": "大宝光塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "赣县",
-    "era": "唐"
-  },
-  {
-    "id": "6-0603-3-306",
-    "name": "赣州佛塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "赣州市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0604-3-307",
-    "name": "鸣水桥",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "樟树市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0605-3-308",
-    "name": "清华彩虹桥",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "婺源县",
-    "era": "宋至清"
-  },
-  {
-    "id": "6-0606-3-309",
-    "name": "袁州谯楼",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "宜春市",
-    "era": "宋至清"
-  },
-  {
-    "id": "6-0607-3-310",
-    "name": "鹅湖书院",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "铅山县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0608-3-311",
-    "name": "婺源宗祠",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "婺源县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0609-3-312",
-    "name": "理坑村民居",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "婺源县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0610-3-313",
-    "name": "梅关和古驿道",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "大余县",
-    "era": "明"
-  },
-  {
-    "id": "6-0611-3-314",
-    "name": "陈氏牌坊",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "进贤县",
-    "era": "明"
-  },
-  {
-    "id": "6-0612-3-315",
-    "name": "青云谱",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江西",
-    "city": "南昌市",
-    "era": "清"
-  },
-  {
-    "id": "6-0829-4-019",
-    "name": "秀峰摩崖",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "江西",
-    "city": "星子县",
-    "era": "唐至民国"
-  },
-  {
-    "id": "6-0830-4-020",
-    "name": "泷冈阡表碑",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "江西",
-    "city": "永丰县",
-    "era": "宋"
-  },
-  {
-    "id": "6-0831-4-021",
-    "name": "大智彭氏家族石刻",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "江西",
-    "city": "安福县",
-    "era": "明"
-  },
-  {
-    "id": "6-0970-5-097",
-    "name": "美孚洋行旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "九江市",
-    "era": "清"
-  },
-  {
-    "id": "6-0971-5-098",
-    "name": "兴国革命旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "兴国县",
-    "era": "1929～1933年"
-  },
-  {
-    "id": "6-0972-5-099",
-    "name": "罗坊会议和兴国调查会旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "新余市",
-    "era": "1930年"
-  },
-  {
-    "id": "6-0973-5-100",
-    "name": "湘鄂赣革命根据地旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "万载县",
-    "era": "1932～1934年"
-  },
-  {
-    "id": "6-0974-5-101",
-    "name": "中央红军长征出发地旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "于都县",
-    "era": "1934年"
-  },
-  {
-    "id": "6-0975-5-102",
-    "name": "南昌新四军军部旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江西",
-    "city": "南昌市",
-    "era": "1938年"
-  }
-]
+{
+  "province": "江西",
+  "items": [
+    {
+      "id": "1-0013-5-013",
+      "name": "八一起义指挥部旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "南昌市",
+      "district": "",
+      "address": "",
+      "era": "1927年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0017-5-017",
+      "name": "井冈山革命遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "宁冈县",
+      "district": "",
+      "address": "",
+      "era": "1927－1929年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0020-5-020",
+      "name": "瑞金革命遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "瑞金县",
+      "district": "",
+      "address": "",
+      "era": "1931－1934年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0004-5-004",
+      "name": "安源路矿工人俱乐部旧址",
+      "level": "national",
+      "batch": 2,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "安源市",
+      "district": "",
+      "address": "",
+      "era": "1922年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0053-1-008",
+      "name": "湖田古瓷窑址",
+      "level": "national",
+      "batch": 2,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "景德镇",
+      "district": "",
+      "address": "",
+      "era": "五代至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0031-5-031",
+      "name": "宁都起义指挥部旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "宁都县",
+      "district": "",
+      "address": "",
+      "era": "1931年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0052-4-011",
+      "name": "通天岩石窟",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江西省",
+      "city": "赣州市",
+      "district": "",
+      "address": "",
+      "era": "宋至明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0067-3-015",
+      "name": "观音桥",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "星子县",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0074-3-022",
+      "name": "白鹿书院",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "九江市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0090-3-038",
+      "name": "祥集弄民宅",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "景德镇市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0162-3-110",
+      "name": "上饶集中营旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "上饶县",
+      "district": "",
+      "address": "",
+      "era": "1941-1942年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0025-1-025",
+      "name": "吴城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "樟树市",
+      "district": "",
+      "address": "",
+      "era": "商",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0042-1-042",
+      "name": "洪州窑遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "丰城市",
+      "district": "",
+      "address": "",
+      "era": "东晋至唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0105-3-027",
+      "name": "赣州城墙",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "赣州市",
+      "district": "",
+      "address": "",
+      "era": "宋明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0219-5-021",
+      "name": "庐山会议旧址及庐山别墅建筑群",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "九江市",
+      "district": "",
+      "address": "",
+      "era": "1902-1937年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0234-5-036",
+      "name": "湘赣省委机关旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "永新县",
+      "district": "",
+      "address": "",
+      "era": "1931-1934年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0235-5-037",
+      "name": "闽浙赣省委机关旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江西省",
+      "city": "横峰县",
+      "district": "",
+      "address": "",
+      "era": "1932-1934年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0054-1-054",
+      "name": "仙人洞吊桶环遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "万年县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0055-1-055",
+      "name": "筑卫城遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "樟树市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代至东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0056-1-056",
+      "name": "铜岭铜矿遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "瑞昌市",
+      "district": "",
+      "address": "",
+      "era": "商周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0057-1-057",
+      "name": "吉州窑遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "江西省",
+      "city": "吉安县",
+      "district": "",
+      "address": "",
+      "era": "宋元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0167-2-023",
+      "name": "仙水岩崖墓群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "江西省",
+      "city": "鹰潭市",
+      "district": "",
+      "address": "",
+      "era": "春秋战国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0334-3-140",
+      "name": "流坑村古建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "乐安县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0335-3-141",
+      "name": "关西新围燕翼围",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江西省",
+      "city": "龙南县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0099-1-099",
+      "name": "樊城堆遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "樟树市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0100-1-100",
+      "name": "牛头城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "新干县",
+      "era": "商至周"
+    },
+    {
+      "id": "6-0101-1-101",
+      "name": "白口城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "泰和县",
+      "era": "汉至南北朝"
+    },
+    {
+      "id": "6-0102-1-102",
+      "name": "李渡烧酒作坊遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "进贤县",
+      "era": "元至清"
+    },
+    {
+      "id": "6-0103-1-103",
+      "name": "御窑厂窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "景德镇市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0255-2-035",
+      "name": "朱轼墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "高安市",
+      "era": "清"
+    },
+    {
+      "id": "6-0601-3-304",
+      "name": "真如寺塔林",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "永修县",
+      "era": "唐至元"
+    },
+    {
+      "id": "6-0602-3-305",
+      "name": "大宝光塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣县",
+      "era": "唐"
+    },
+    {
+      "id": "6-0603-3-306",
+      "name": "赣州佛塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0604-3-307",
+      "name": "鸣水桥",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "樟树市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0605-3-308",
+      "name": "清华彩虹桥",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "婺源县",
+      "era": "宋至清"
+    },
+    {
+      "id": "6-0606-3-309",
+      "name": "袁州谯楼",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜春市",
+      "era": "宋至清"
+    },
+    {
+      "id": "6-0607-3-310",
+      "name": "鹅湖书院",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "铅山县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0608-3-311",
+      "name": "婺源宗祠",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "婺源县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0609-3-312",
+      "name": "理坑村民居",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "婺源县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0610-3-313",
+      "name": "梅关和古驿道",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "大余县",
+      "era": "明"
+    },
+    {
+      "id": "6-0611-3-314",
+      "name": "陈氏牌坊",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "进贤县",
+      "era": "明"
+    },
+    {
+      "id": "6-0612-3-315",
+      "name": "青云谱",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "南昌市",
+      "era": "清"
+    },
+    {
+      "id": "6-0829-4-019",
+      "name": "秀峰摩崖",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "江西",
+      "city": "星子县",
+      "era": "唐至民国"
+    },
+    {
+      "id": "6-0830-4-020",
+      "name": "泷冈阡表碑",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "江西",
+      "city": "永丰县",
+      "era": "宋"
+    },
+    {
+      "id": "6-0831-4-021",
+      "name": "大智彭氏家族石刻",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "江西",
+      "city": "安福县",
+      "era": "明"
+    },
+    {
+      "id": "6-0970-5-097",
+      "name": "美孚洋行旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "九江市",
+      "era": "清"
+    },
+    {
+      "id": "6-0971-5-098",
+      "name": "兴国革命旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "兴国县",
+      "era": "1929～1933年"
+    },
+    {
+      "id": "6-0972-5-099",
+      "name": "罗坊会议和兴国调查会旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "新余市",
+      "era": "1930年"
+    },
+    {
+      "id": "6-0973-5-100",
+      "name": "湘鄂赣革命根据地旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "万载县",
+      "era": "1932～1934年"
+    },
+    {
+      "id": "6-0974-5-101",
+      "name": "中央红军长征出发地旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "于都县",
+      "era": "1934年"
+    },
+    {
+      "id": "6-0975-5-102",
+      "name": "南昌新四军军部旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "南昌市",
+      "era": "1938年"
+    },
+    {
+      "id": "8-0056-1-056",
+      "name": "老虎墩遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "靖安县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0057-1-057",
+      "name": "山背遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "修水县",
+      "era": "新石器时代、商周"
+    },
+    {
+      "id": "8-0058-1-058",
+      "name": "锅底山遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "宜黄县",
+      "era": "新石器时代至商周"
+    },
+    {
+      "id": "8-0059-1-059",
+      "name": "南窑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "乐平市",
+      "era": "唐"
+    },
+    {
+      "id": "8-0060-1-060",
+      "name": "五府山银铅矿遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市广信区",
+      "era": "唐宋"
+    },
+    {
+      "id": "8-0335-3-138",
+      "name": "浮梁双峰塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "浮梁县",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0336-3-139",
+      "name": "福寿沟",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市章贡区",
+      "era": "北宋"
+    },
+    {
+      "id": "8-0337-3-140",
+      "name": "浮梁红塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "浮梁县",
+      "era": "北宋、明"
+    },
+    {
+      "id": "8-0338-3-141",
+      "name": "大司马牌坊",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜黄县",
+      "era": "明"
+    },
+    {
+      "id": "8-0339-3-142",
+      "name": "龙南乌石围",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "龙南县",
+      "era": "明"
+    },
+    {
+      "id": "8-0340-3-143",
+      "name": "济美石坊",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "奉新县",
+      "era": "明"
+    },
+    {
+      "id": "8-0341-3-144",
+      "name": "棠阴古建筑群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜黄县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0342-3-145",
+      "name": "官溪胡氏宗祠",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "玉山县",
+      "era": "明清"
+    },
+    {
+      "id": "8-0343-3-146",
+      "name": "十都王家大屋",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市广丰区",
+      "era": "清"
+    },
+    {
+      "id": "8-0344-3-147",
+      "name": "奎璧联辉民宅",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "广昌县",
+      "era": "清"
+    },
+    {
+      "id": "8-0345-3-148",
+      "name": "浮梁县衙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "浮梁县",
+      "era": "清"
+    },
+    {
+      "id": "8-0346-3-149",
+      "name": "玉山考棚",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "玉山县",
+      "era": "清"
+    },
+    {
+      "id": "8-0347-3-150",
+      "name": "浒湾书坊建筑群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "金溪县",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-0206-1-206",
+      "name": "拾年山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "新余市渝水区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0207-1-207",
+      "name": "社山头遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市广丰县",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "7-0208-1-208",
+      "name": "角山板栗山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "鹰潭市月湖区",
+      "era": "商"
+    },
+    {
+      "id": "7-0209-1-209",
+      "name": "界埠粮仓遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "吉安市新干县",
+      "era": "战国"
+    },
+    {
+      "id": "7-0210-1-210",
+      "name": "鄡阳城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "九江市都昌县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0211-1-211",
+      "name": "宝山金银矿冶遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "抚州市金溪县",
+      "era": "唐"
+    },
+    {
+      "id": "7-0212-1-212",
+      "name": "银山银矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市德兴市",
+      "era": "唐、宋"
+    },
+    {
+      "id": "7-0213-1-213",
+      "name": "七里镇窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "赣州市章贡区",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0214-1-214",
+      "name": "包家金矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市上饶县",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0215-1-215",
+      "name": "凤凰山铁矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "新余市分宜县",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0216-1-216",
+      "name": "白舍窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "抚州市南丰县",
+      "era": "宋"
+    },
+    {
+      "id": "7-0217-1-217",
+      "name": "蒙山银矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "宜春市上高县",
+      "era": "宋、元、胡"
+    },
+    {
+      "id": "7-0218-1-218",
+      "name": "华林造纸作坊遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "宜春市高安市",
+      "era": "宋、元、明"
+    },
+    {
+      "id": "7-0219-1-219",
+      "name": "丽阳窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "景德镇市昌江区",
+      "era": "元至明"
+    },
+    {
+      "id": "8-0612-5-096",
+      "name": "九江姑塘海关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "九江市濂溪区",
+      "era": "1902－1931年"
+    },
+    {
+      "id": "8-0613-5-097",
+      "name": "安源路矿工人补习夜校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "萍乡市安源区",
+      "era": "1922年"
+    },
+    {
+      "id": "8-0614-5-098",
+      "name": "工农革命军第一军第一师第一团团部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "修水县",
+      "era": "1927年"
+    },
+    {
+      "id": "8-0615-5-099",
+      "name": "中共赣西南第一次党代会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0616-5-100",
+      "name": "峡江会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "峡江县",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0617-5-101",
+      "name": "水西红三军团指挥部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "新余市渝水区",
+      "era": "1930年"
+    },
+    {
+      "id": "8-0618-5-102",
+      "name": "黄陂中共苏区中央局第一次扩大会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "宁都县",
+      "era": "1931年"
+    },
+    {
+      "id": "8-0619-5-103",
+      "name": "宁都会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "宁都县",
+      "era": "1932年"
+    },
+    {
+      "id": "8-0620-5-104",
+      "name": "中央苏区第四次反“围剿”战役遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "乐安县",
+      "era": "1933年"
+    },
+    {
+      "id": "8-0621-5-105",
+      "name": "叶坪马克思共产主义学校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "瑞金市",
+      "era": "1933－1934年"
+    },
+    {
+      "id": "8-0622-5-106",
+      "name": "湖坊中共闽赣省委、省革委、省军区旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "黎川县",
+      "era": "1933－1935年"
+    },
+    {
+      "id": "8-0623-5-107",
+      "name": "井塘中共中央分局、中央政府办事处旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "于都县",
+      "era": "1934－1935年"
+    },
+    {
+      "id": "8-0624-5-108",
+      "name": "中共中央东南分局旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "南昌市西湖区",
+      "era": "1938－1939年"
+    },
+    {
+      "id": "8-0625-5-109",
+      "name": "马家洲集中营旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "泰和县",
+      "era": "1940－1945年"
+    },
+    {
+      "id": "7-0589-2-073",
+      "name": "李洲坳东周墓葬",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "宜春市靖安县",
+      "era": "东周"
+    },
+    {
+      "id": "7-0590-2-074",
+      "name": "吴平墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "宜春市樟树市",
+      "era": "西汉至隋"
+    },
+    {
+      "id": "7-0591-2-075",
+      "name": "紫金城城址与铁河古墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "南昌市新建县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0592-2-076",
+      "name": "吉水东吴墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "吉安市吉水县",
+      "era": "三国"
+    },
+    {
+      "id": "7-0593-2-077",
+      "name": "文天祥墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "元"
+    },
+    {
+      "id": "7-0594-2-078",
+      "name": "谭纶墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "抚州市宜黄县",
+      "era": "明"
+    },
+    {
+      "id": "7-0595-2-079",
+      "name": "朱权墓与乐安王墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "南昌市新建县",
+      "era": "明"
+    },
+    {
+      "id": "7-0596-2-080",
+      "name": "明益藩王墓地",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "抚州市南城县",
+      "era": "明"
+    },
+    {
+      "id": "7-1100-3-398",
+      "name": "乘广禅师塔和甄叔禅师塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "萍乡市上栗县",
+      "era": "唐"
+    },
+    {
+      "id": "7-1101-3-399",
+      "name": "石钟山古建筑及石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市湖口县",
+      "era": "唐至民国"
+    },
+    {
+      "id": "7-1102-3-400",
+      "name": "槎滩陂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "吉安市泰和县",
+      "era": "五代"
+    },
+    {
+      "id": "7-1103-3-401",
+      "name": "永福寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市鄱阳县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1104-3-402",
+      "name": "逢渠桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜春市宜丰县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1105-3-403",
+      "name": "马祖塔亭",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜春市靖安县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1106-3-404",
+      "name": "大胜塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市浔阳区",
+      "era": "宋至明"
+    },
+    {
+      "id": "7-1107-3-405",
+      "name": "万安城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "吉安市万安县",
+      "era": "宋至明"
+    },
+    {
+      "id": "7-1108-3-406",
+      "name": "紫阳堤",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市星子县",
+      "era": "南宋"
+    },
+    {
+      "id": "7-1109-3-407",
+      "name": "龙虎山古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "鹰潭市贵溪市",
+      "era": "南宋、元、清"
+    },
+    {
+      "id": "7-1110-3-408",
+      "name": "明园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "景德镇市昌江区",
+      "era": "明"
+    },
+    {
+      "id": "7-1111-3-409",
+      "name": "锁江楼塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市浔阳区",
+      "era": "明"
+    },
+    {
+      "id": "7-1112-3-410",
+      "name": "庐山赐经亭",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市庐山区",
+      "era": "明"
+    },
+    {
+      "id": "7-1113-3-411",
+      "name": "景贤贾氏宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "宜春市高安市",
+      "era": "明"
+    },
+    {
+      "id": "7-1114-3-412",
+      "name": "三清山古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市玉山县",
+      "era": "明"
+    },
+    {
+      "id": "7-1115-3-413",
+      "name": "龙图学士和刺史传芳牌楼门",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "抚州市乐安县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1116-3-414",
+      "name": "白鹭洲书院",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "吉安市吉州区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1117-3-415",
+      "name": "万年桥和聚星塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "抚州市南城县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1118-3-416",
+      "name": "羊角水堡",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市会昌县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1119-3-417",
+      "name": "龙溪祝氏宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市广丰县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1120-3-418",
+      "name": "庐山御碑亭",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "九江市庐山区",
+      "era": "明、民国"
+    },
+    {
+      "id": "7-1121-3-419",
+      "name": "安福孔庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "吉安市安福县",
+      "era": "清"
+    },
+    {
+      "id": "7-1122-3-420",
+      "name": "太平桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市龙南县",
+      "era": "清"
+    },
+    {
+      "id": "7-1123-3-421",
+      "name": "羽琌山馆和云亭别墅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "南昌市进贤县",
+      "era": "清"
+    },
+    {
+      "id": "7-1124-3-422",
+      "name": "永镇桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市安远县",
+      "era": "清"
+    },
+    {
+      "id": "7-1125-3-423",
+      "name": "玉带桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市信丰县",
+      "era": "清"
+    },
+    {
+      "id": "7-1126-3-424",
+      "name": "龚氏宗祠两牌楼及浣纱记石雕",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市上饶县",
+      "era": "清"
+    },
+    {
+      "id": "7-1127-3-425",
+      "name": "抚州玉隆万寿宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "抚州市临川区",
+      "era": "清"
+    },
+    {
+      "id": "7-1128-3-426",
+      "name": "驿前石屋里民宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "抚州市广昌县",
+      "era": "清"
+    },
+    {
+      "id": "7-1129-3-427",
+      "name": "赣州文庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市章贡区",
+      "era": "清"
+    },
+    {
+      "id": "7-1130-3-428",
+      "name": "凤山查氏宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市婺源县",
+      "era": "清"
+    },
+    {
+      "id": "7-1131-3-429",
+      "name": "新源俞氏宗祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "上饶市婺源县",
+      "era": "清"
+    },
+    {
+      "id": "7-1132-3-430",
+      "name": "浒崦名分堂戏台",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "景德镇市乐平市",
+      "era": "清"
+    },
+    {
+      "id": "7-1133-3-431",
+      "name": "镇窑",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "景德镇市昌江区",
+      "era": "清"
+    },
+    {
+      "id": "7-1134-3-432",
+      "name": "东生围",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江西",
+      "city": "赣州市安远县",
+      "era": "清"
+    },
+    {
+      "id": "7-1538-4-041",
+      "name": "罗田岩石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江西",
+      "city": "赣州市于都县",
+      "era": "北宋至民国"
+    },
+    {
+      "id": "7-1539-4-042",
+      "name": "南岩石窟",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江西",
+      "city": "上饶市弋阳县",
+      "era": "宋"
+    },
+    {
+      "id": "7-1757-5-150",
+      "name": "同文书院",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "九江市浔阳区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1758-5-151",
+      "name": "陈宝箴、陈三立故居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "九江市修水县",
+      "era": "1831年"
+    },
+    {
+      "id": "7-1759-5-152",
+      "name": "盛公祠",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "萍乡市安源区",
+      "era": "1898年"
+    },
+    {
+      "id": "7-1760-5-153",
+      "name": "总平巷矿井口",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "萍乡市安源区",
+      "era": "1898年"
+    },
+    {
+      "id": "7-1761-5-154",
+      "name": "湘赣边界秋收起义前敌委员会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "宜春市铜鼓县",
+      "era": "1927年"
+    },
+    {
+      "id": "7-1762-5-155",
+      "name": "东固平民银行旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "1928～1930年"
+    },
+    {
+      "id": "7-1763-5-156",
+      "name": "君埠红一方面军总司令部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市永丰县",
+      "era": "1929年"
+    },
+    {
+      "id": "7-1764-5-157",
+      "name": "富田村诚敬堂",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "1929～1931年"
+    },
+    {
+      "id": "7-1765-5-158",
+      "name": "渼陂红四军总部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "1930年"
+    },
+    {
+      "id": "7-1766-5-159",
+      "name": "“二七”陂头会议旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "吉安市青原区",
+      "era": "1930年"
+    },
+    {
+      "id": "7-1767-5-160",
+      "name": "寻乌调查旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "赣州市寻乌县",
+      "era": "1930年"
+    },
+    {
+      "id": "7-1768-5-161",
+      "name": "中共苏区中央局旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "赣州市宁都县",
+      "era": "1931年"
+    },
+    {
+      "id": "7-1769-5-162",
+      "name": "中华苏维埃共和国中央革命军事委员会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "赣州市瑞金市",
+      "era": "1931～1932年"
+    },
+    {
+      "id": "7-1770-5-163",
+      "name": "瑞金中央工农红军学校旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "赣州市瑞金市",
+      "era": "1932年"
+    },
+    {
+      "id": "7-1771-5-164",
+      "name": "瑶里改编旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "景德镇市浮梁县",
+      "era": "1938年"
+    },
+    {
+      "id": "7-1772-5-165",
+      "name": "上高会战遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "宜春市上高县",
+      "era": "1941年"
+    },
+    {
+      "id": "7-1773-5-166",
+      "name": "邓小平旧居与劳动车间",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "南昌市新建县",
+      "era": "1969～1972年"
+    },
+    {
+      "id": "8-0000-1-008",
+      "name": "大上清宫遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "贵溪市",
+      "era": "宋至清"
+    },
+    {
+      "id": "8-0000-2-002",
+      "name": "国字山墓群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "樟树市",
+      "era": "东周"
+    },
+    {
+      "id": "8-0000-5-011",
+      "name": "中共闽浙赣省机关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "横峰县",
+      "era": "1926－1934年"
+    }
+  ]
+}

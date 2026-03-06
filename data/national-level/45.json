@@ -1,686 +1,1099 @@
-[
-  {
-    "id": "1-0002-5-002",
-    "name": "金田起义地址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "桂平县",
-    "district": "金田村",
-    "address": "",
-    "era": "1851年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0033-3-018",
-    "name": "经略台真武阁",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "容县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0042-3-027",
-    "name": "程阳永济桥",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "三江县",
-    "district": "",
-    "address": "",
-    "era": "民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0028-5-028",
-    "name": "中国工农红军第七军第八军军部旧址",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "百色市",
-    "district": "",
-    "address": "",
-    "era": "1929-1930年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0054-3-002",
-    "name": "灵渠",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "兴安县",
-    "district": "",
-    "address": "",
-    "era": "秦",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0103-3-051",
-    "name": "大士阁",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "合浦县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0165-4-002",
-    "name": "花山岩画",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "广西壮族自治区",
-    "city": "宁明县",
-    "district": "",
-    "address": "",
-    "era": "战国至东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0065-2-009",
-    "name": "合浦汉墓群",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "广西壮族自治区",
-    "city": "合浦县",
-    "district": "",
-    "address": "",
-    "era": "汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0153-3-075",
-    "name": "莫土司衙署",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "忻城县",
-    "district": "",
-    "address": "",
-    "era": "明清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0154-3-076",
-    "name": "靖江王府及王陵",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "桂林市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0223-5-025",
-    "name": "李宗仁故居",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "临桂县",
-    "district": "",
-    "address": "",
-    "era": "1921年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0224-5-026",
-    "name": "李济深故居",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "苍梧县",
-    "district": "",
-    "address": "",
-    "era": "民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0231-5-033",
-    "name": "右江工农民主政府旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "田东县",
-    "district": "",
-    "address": "",
-    "era": "1929年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0240-5-042",
-    "name": "八路军桂林办事处旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "桂林市",
-    "district": "",
-    "address": "",
-    "era": "1938年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0099-1-099",
-    "name": "百谷和高岭坡遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广西壮族自治区",
-    "city": "百色市",
-    "district": "",
-    "address": "",
-    "era": "旧石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0100-1-100",
-    "name": "甑皮岩遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广西壮族自治区",
-    "city": "桂林市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0101-1-101",
-    "name": "顶蛳山遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "广西壮族自治区",
-    "city": "邕宁县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0378-3-184",
-    "name": "岜团桥",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "三江侗族自治县",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0379-3-185",
-    "name": "临贺故城",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "广西壮族自治区",
-    "city": "贺州市",
-    "district": "",
-    "address": "",
-    "era": "汉至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0462-4-020",
-    "name": "桂林石刻",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "广西壮族自治区",
-    "city": "桂林市",
-    "district": "",
-    "address": "",
-    "era": "唐至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0504-5-031",
-    "name": "北海近代建筑",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "北海市",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0505-5-032",
-    "name": "刘永福冯子材旧居建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "广西壮族自治区",
-    "city": "钦州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0169-1-169",
-    "name": "白莲洞遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广西",
-    "city": "柳州市",
-    "era": "旧石器至新石器时代"
-  },
-  {
-    "id": "6-0170-1-170",
-    "name": "鲤鱼嘴遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广西",
-    "city": "柳州市",
-    "era": "旧石器至新石器时代"
-  },
-  {
-    "id": "6-0171-1-171",
-    "name": "感驮岩遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广西",
-    "city": "那坡县",
-    "era": "新石器时代至战国"
-  },
-  {
-    "id": "6-0172-1-172",
-    "name": "秦城遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广西",
-    "city": "兴安县",
-    "era": "秦至晋"
-  },
-  {
-    "id": "6-0173-1-173",
-    "name": "智城城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "广西",
-    "city": "上林县",
-    "era": "唐"
-  },
-  {
-    "id": "6-0688-3-391",
-    "name": "江头村和长岗岭村古建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广西",
-    "city": "灵川县",
-    "era": "明至民国"
-  },
-  {
-    "id": "6-0689-3-392",
-    "name": "马殷庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广西",
-    "city": "富川瑶族自治县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0690-3-393",
-    "name": "燕窝楼",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广西",
-    "city": "全州县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0691-3-394",
-    "name": "恭城古建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "广西",
-    "city": "恭城瑶族自治县",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0850-4-040",
-    "name": "柳侯祠碑刻",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "广西",
-    "city": "柳州市",
-    "era": "宋至民国"
-  },
-  {
-    "id": "6-1021-5-148",
-    "name": "连城要塞遗址和友谊关",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "北海市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-1022-5-149",
-    "name": "容县近代建筑",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "容县",
-    "era": "清至民国"
-  },
-  {
-    "id": "6-1023-5-150",
-    "name": "太平天国永安活动旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "蒙山县",
-    "era": "1851年"
-  },
-  {
-    "id": "6-1024-5-151",
-    "name": "马胖鼓楼",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "三江侗族自治县",
-    "era": "民国"
-  },
-  {
-    "id": "6-1025-5-152",
-    "name": "梧州中山纪念堂",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "梧州市",
-    "era": "民国"
-  },
-  {
-    "id": "6-1026-5-153",
-    "name": "广西农民运动讲习所旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "东兰县",
-    "era": "1925年"
-  },
-  {
-    "id": "6-1027-5-154",
-    "name": "红军标语楼",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "河池市",
-    "era": "1930年"
-  },
-  {
-    "id": "6-1028-5-155",
-    "name": "湘江战役旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "兴安县",
-    "era": "1934年"
-  },
-  {
-    "id": "6-1029-5-156",
-    "name": "昆仑关战役旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "南宁市",
-    "era": "1939～1940年"
-  },
-  {
-    "id": "6-1030-5-157",
-    "name": "胡志明旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "广西",
-    "city": "柳州市",
-    "era": "1942～1954年"
-  }
-]
+{
+  "province": "广西",
+  "items": [
+    {
+      "id": "1-0002-5-002",
+      "name": "金田起义地址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "桂平县",
+      "district": "金田村",
+      "address": "",
+      "era": "1851年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0033-3-018",
+      "name": "经略台真武阁",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "容县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0042-3-027",
+      "name": "程阳永济桥",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "三江县",
+      "district": "",
+      "address": "",
+      "era": "民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0028-5-028",
+      "name": "中国工农红军第七军第八军军部旧址",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "百色市",
+      "district": "",
+      "address": "",
+      "era": "1929-1930年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0054-3-002",
+      "name": "灵渠",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "兴安县",
+      "district": "",
+      "address": "",
+      "era": "秦",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0103-3-051",
+      "name": "大士阁",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "合浦县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0165-4-002",
+      "name": "花山岩画",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "广西壮族自治区",
+      "city": "宁明县",
+      "district": "",
+      "address": "",
+      "era": "战国至东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0065-2-009",
+      "name": "合浦汉墓群",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "广西壮族自治区",
+      "city": "合浦县",
+      "district": "",
+      "address": "",
+      "era": "汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0153-3-075",
+      "name": "莫土司衙署",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "忻城县",
+      "district": "",
+      "address": "",
+      "era": "明清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0154-3-076",
+      "name": "靖江王府及王陵",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0223-5-025",
+      "name": "李宗仁故居",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "临桂县",
+      "district": "",
+      "address": "",
+      "era": "1921年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0224-5-026",
+      "name": "李济深故居",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "苍梧县",
+      "district": "",
+      "address": "",
+      "era": "民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0231-5-033",
+      "name": "右江工农民主政府旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "田东县",
+      "district": "",
+      "address": "",
+      "era": "1929年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0240-5-042",
+      "name": "八路军桂林办事处旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "address": "",
+      "era": "1938年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0099-1-099",
+      "name": "百谷和高岭坡遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广西壮族自治区",
+      "city": "百色市",
+      "district": "",
+      "address": "",
+      "era": "旧石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0100-1-100",
+      "name": "甑皮岩遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0101-1-101",
+      "name": "顶蛳山遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "广西壮族自治区",
+      "city": "邕宁县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0378-3-184",
+      "name": "岜团桥",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "三江侗族自治县",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0379-3-185",
+      "name": "临贺故城",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "广西壮族自治区",
+      "city": "贺州市",
+      "district": "",
+      "address": "",
+      "era": "汉至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0462-4-020",
+      "name": "桂林石刻",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "广西壮族自治区",
+      "city": "桂林市",
+      "district": "",
+      "address": "",
+      "era": "唐至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0504-5-031",
+      "name": "北海近代建筑",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "北海市",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0505-5-032",
+      "name": "刘永福冯子材旧居建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "广西壮族自治区",
+      "city": "钦州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0169-1-169",
+      "name": "白莲洞遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "柳州市",
+      "era": "旧石器至新石器时代"
+    },
+    {
+      "id": "6-0170-1-170",
+      "name": "鲤鱼嘴遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "柳州市",
+      "era": "旧石器至新石器时代"
+    },
+    {
+      "id": "6-0171-1-171",
+      "name": "感驮岩遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "那坡县",
+      "era": "新石器时代至战国"
+    },
+    {
+      "id": "6-0172-1-172",
+      "name": "秦城遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "兴安县",
+      "era": "秦至晋"
+    },
+    {
+      "id": "6-0173-1-173",
+      "name": "智城城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "上林县",
+      "era": "唐"
+    },
+    {
+      "id": "6-0688-3-391",
+      "name": "江头村和长岗岭村古建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "灵川县",
+      "era": "明至民国"
+    },
+    {
+      "id": "6-0689-3-392",
+      "name": "马殷庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "富川瑶族自治县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0690-3-393",
+      "name": "燕窝楼",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "全州县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0691-3-394",
+      "name": "恭城古建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "恭城瑶族自治县",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0850-4-040",
+      "name": "柳侯祠碑刻",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "广西",
+      "city": "柳州市",
+      "era": "宋至民国"
+    },
+    {
+      "id": "6-1021-5-148",
+      "name": "连城要塞遗址和友谊关",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "北海市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-1022-5-149",
+      "name": "容县近代建筑",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "容县",
+      "era": "清至民国"
+    },
+    {
+      "id": "6-1023-5-150",
+      "name": "太平天国永安活动旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "蒙山县",
+      "era": "1851年"
+    },
+    {
+      "id": "6-1024-5-151",
+      "name": "马胖鼓楼",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "三江侗族自治县",
+      "era": "民国"
+    },
+    {
+      "id": "6-1025-5-152",
+      "name": "梧州中山纪念堂",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "梧州市",
+      "era": "民国"
+    },
+    {
+      "id": "6-1026-5-153",
+      "name": "广西农民运动讲习所旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "东兰县",
+      "era": "1925年"
+    },
+    {
+      "id": "6-1027-5-154",
+      "name": "红军标语楼",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "河池市",
+      "era": "1930年"
+    },
+    {
+      "id": "6-1028-5-155",
+      "name": "湘江战役旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "兴安县",
+      "era": "1934年"
+    },
+    {
+      "id": "6-1029-5-156",
+      "name": "昆仑关战役旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "南宁市",
+      "era": "1939～1940年"
+    },
+    {
+      "id": "6-1030-5-157",
+      "name": "胡志明旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "柳州市",
+      "era": "1942～1954年"
+    },
+    {
+      "id": "8-0118-1-118",
+      "name": "娅怀洞遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "隆安县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "8-0119-1-119",
+      "name": "大岩遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "桂林市临桂区",
+      "era": "旧石器时代至新石器时代"
+    },
+    {
+      "id": "8-0120-1-120",
+      "name": "父子岩遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "桂林市雁山区",
+      "era": "新石器时代至商周"
+    },
+    {
+      "id": "8-0413-3-216",
+      "name": "桂林静江府城墙",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "桂林市叠彩区",
+      "era": "南宋至明"
+    },
+    {
+      "id": "8-0414-3-217",
+      "name": "来宾文辉塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "来宾市兴宾区",
+      "era": "明"
+    },
+    {
+      "id": "8-0415-3-218",
+      "name": "左江归龙斜塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "崇左市江州区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0416-3-219",
+      "name": "贺州江氏客家围屋",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "贺州市八步区",
+      "era": "清"
+    },
+    {
+      "id": "8-0417-3-220",
+      "name": "乐湾村古建筑群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "恭城瑶族自治县",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-0390-1-390",
+      "name": "柳城巨猿洞",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "柳州市柳城县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0391-1-391",
+      "name": "布兵盆地洞穴遗址群",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "百色市田东县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0392-1-392",
+      "name": "那赖遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "百色市田阳县",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0393-1-393",
+      "name": "晓锦遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "桂林市资源县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0394-1-394",
+      "name": "大浪古城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "北海市合浦县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0395-1-395",
+      "name": "草鞋村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "北海市合浦县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0396-1-396",
+      "name": "越州故城",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "钦州市浦北县",
+      "era": "南朝"
+    },
+    {
+      "id": "7-0397-1-397",
+      "name": "中和窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "广西",
+      "city": "梧州市藤县",
+      "era": "宋"
+    },
+    {
+      "id": "7-0642-2-126",
+      "name": "凤腾山古墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "广西",
+      "city": "河池市环江毛南族自治县",
+      "era": "清"
+    },
+    {
+      "id": "7-1283-3-581",
+      "name": "湘山寺塔群与石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "桂林市全州县",
+      "era": "宋至清"
+    },
+    {
+      "id": "7-1284-3-582",
+      "name": "永宁州城城墙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "桂林市永福县",
+      "era": "明"
+    },
+    {
+      "id": "7-1285-3-583",
+      "name": "大芦村古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "钦州市灵山县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1286-3-584",
+      "name": "富川瑶族风雨桥群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "贺州市富川瑶族自治县",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1287-3-585",
+      "name": "伏波庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "南宁市横县",
+      "era": "清"
+    },
+    {
+      "id": "7-1288-3-586",
+      "name": "和里三王宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "柳州市三江侗族自治县",
+      "era": "清"
+    },
+    {
+      "id": "7-1289-3-587",
+      "name": "惠爱桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "北海市合浦县",
+      "era": "清"
+    },
+    {
+      "id": "7-1290-3-588",
+      "name": "西林岑氏家族建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "广西",
+      "city": "百色市西林县",
+      "era": "清"
+    },
+    {
+      "id": "7-1571-4-074",
+      "name": "百寿岩石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "广西",
+      "city": "桂林市永福县",
+      "era": "宋至民国"
+    },
+    {
+      "id": "7-1572-4-075",
+      "name": "会仙山摩崖石刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "广西",
+      "city": "河池市宜州市",
+      "era": "宋至民国"
+    },
+    {
+      "id": "7-1855-5-248",
+      "name": "梧州近代建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "梧州市万秀区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1856-5-249",
+      "name": "谢鲁山庄",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "玉林市陆川县",
+      "era": "1920年"
+    },
+    {
+      "id": "7-1857-5-250",
+      "name": "越南共产党驻龙州秘密机关旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "崇左市龙州县",
+      "era": "1926年"
+    },
+    {
+      "id": "7-1858-5-251",
+      "name": "柳州旧机场及城防工事群旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "柳州市柳南区",
+      "era": "1929年"
+    },
+    {
+      "id": "7-1859-5-252",
+      "name": "南宁育才学校旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "南宁市西乡塘区",
+      "era": "1951年"
+    },
+    {
+      "id": "8-0681-5-165",
+      "name": "西林教案发生地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "田林县",
+      "era": "1856年"
+    },
+    {
+      "id": "8-0682-5-166",
+      "name": "法国驻龙州领事馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "龙州县",
+      "era": "1898－1949年"
+    },
+    {
+      "id": "8-0683-5-167",
+      "name": "武宣刘氏庄园",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "武宣县",
+      "era": "1911年"
+    },
+    {
+      "id": "8-0684-5-168",
+      "name": "武宣郭氏庄园",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "武宣县",
+      "era": "1924年"
+    },
+    {
+      "id": "8-0685-5-169",
+      "name": "梧州市中共广西早期革命活动旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "梧州市万秀区",
+      "era": "1926－1928年"
+    },
+    {
+      "id": "8-0686-5-170",
+      "name": "中共广西省第一次代表大会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "贵港市港北区",
+      "era": "1928年"
+    },
+    {
+      "id": "8-0687-5-171",
+      "name": "广西省立艺术馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "桂林市秀峰区",
+      "era": "1944年"
+    },
+    {
+      "id": "8-0000-4-004",
+      "name": "花山岩画增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "广西",
+      "city": "崇左市江州区",
+      "era": "战国至东汉"
+    },
+    {
+      "id": "8-0000-5-025",
+      "name": "湘江战役旧址增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "全州县",
+      "era": "1934年"
+    }
+  ]
+}

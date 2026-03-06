@@ -1,1828 +1,3171 @@
-[
-  {
-    "id": "1-0003-5-003",
-    "name": "太平天国忠王府",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "1860－1863年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0019-5-019",
-    "name": "中山陵",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1929年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0068-3-021",
-    "name": "苏州云岩寺塔",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0121-3-074",
-    "name": "拙政园",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "明、清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0124-3-077",
-    "name": "留园",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0131-4-007",
-    "name": "苏州文庙内宋代石刻",
-    "level": "national",
-    "batch": 1,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "南宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0135-4-011",
-    "name": "保圣寺罗汉塑像",
-    "level": "national",
-    "batch": 1,
-    "category": "others",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0177-2-016",
-    "name": "明孝陵",
-    "level": "national",
-    "batch": 1,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0002-5-002",
-    "name": "太平天国天王府遗址",
-    "level": "national",
-    "batch": 2,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1853至1864年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0022-3-007",
-    "name": "玄妙观三清殿",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0041-3-026",
-    "name": "网师园",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0003-5-003",
-    "name": "堂子街太平天国壁画",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1853-1864年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0014-5-014",
-    "name": "周恩来故居",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "淮安市",
-    "district": "",
-    "address": "",
-    "era": "1898-1910年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0026-5-026",
-    "name": "雨花台烈士陵园",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1927-1949年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0042-4-001",
-    "name": "孔望山摩崖造像",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "连云港市",
-    "district": "",
-    "address": "",
-    "era": "东汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0059-3-007",
-    "name": "南京城墙",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0093-3-041",
-    "name": "寄畅园",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "无锡市",
-    "district": "",
-    "address": "",
-    "era": "明至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0094-3-042",
-    "name": "环秀山庄",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "明至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0097-3-045",
-    "name": "何园",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "扬州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0098-3-046",
-    "name": "个园",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "扬州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0099-3-047",
-    "name": "南通博物苑",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "南通市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0143-3-091",
-    "name": "栖霞寺舍利塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0147-3-095",
-    "name": "瑞光塔",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0164-4-001",
-    "name": "将军崖岩画",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "连云港市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0167-4-004",
-    "name": "南京南朝陵墓石刻",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "南朝",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0168-4-005",
-    "name": "丹阳南朝陵墓石刻",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "丹阳市",
-    "district": "",
-    "address": "",
-    "era": "南朝",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0177-4-014",
-    "name": "焦山碑林",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "镇江市",
-    "district": "",
-    "address": "",
-    "era": "南朝至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0203-1-023",
-    "name": "淹城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "江苏省",
-    "city": "武进县",
-    "district": "",
-    "address": "",
-    "era": "东周",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0245-2-016",
-    "name": "南唐二陵",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "江宁县",
-    "district": "",
-    "address": "",
-    "era": "五代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0052-1-052",
-    "name": "扬州城遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "江苏省",
-    "city": "扬州市",
-    "district": "",
-    "address": "",
-    "era": "隋至宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0057-2-001",
-    "name": "大伊山石棺墓",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "灌云县",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0063-2-007",
-    "name": "汉楚王墓群",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "徐州市",
-    "district": "",
-    "address": "",
-    "era": "汉",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0073-2-017",
-    "name": "明祖陵",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "盱眙县",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0084-3-006",
-    "name": "罗汉院双塔及正殿遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0137-3-059",
-    "name": "䌽衣堂",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "常熟市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0170-3-092",
-    "name": "盂城驿",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "高邮市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0202-5-004",
-    "name": "瞿秋白故居",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "常州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0216-5-018",
-    "name": "镇江英国领事馆旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "镇江市",
-    "district": "",
-    "address": "",
-    "era": "1889-1890年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0233-5-035",
-    "name": "国立紫金山天文台旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1931年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0247-5-049",
-    "name": "中国共产党代表团办事处旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1946-1947年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0038-1-038",
-    "name": "龙虬庄遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "江苏省",
-    "city": "高邮市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0159-2-015",
-    "name": "普哈丁墓",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "扬州市",
-    "district": "",
-    "address": "",
-    "era": "宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0160-2-016",
-    "name": "浡泥国王墓",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-tombs",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0283-3-089",
-    "name": "徐霞客故居及晴山堂石刻",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "江阴市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0284-3-090",
-    "name": "退思园",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0285-3-091",
-    "name": "宝带桥",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0286-3-092",
-    "name": "耦园",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "苏州市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0287-3-093",
-    "name": "龙王庙行宫",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "宿迁市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0288-3-094",
-    "name": "水绘园",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "江苏省",
-    "city": "如皋市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0446-4-004",
-    "name": "国山碑",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "宜兴市",
-    "district": "",
-    "address": "",
-    "era": "三国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0447-4-005",
-    "name": "千佛崖石窟及明征君碑",
-    "level": "national",
-    "batch": 5,
-    "category": "stone-carvings",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "六朝唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0484-5-011",
-    "name": "薛福成故居建筑群",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "无锡市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0485-5-012",
-    "name": "原国民政府旧址",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "江苏省",
-    "city": "南京市",
-    "district": "",
-    "address": "",
-    "era": "1912年至1949年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0069-1-069",
-    "name": "南京人化石地点",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "旧石器时代"
-  },
-  {
-    "id": "6-0070-1-070",
-    "name": "藤花落遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "连云港市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0071-1-071",
-    "name": "大墩子遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "邳州市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0072-1-072",
-    "name": "花厅遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "新沂市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0073-1-073",
-    "name": "三星村遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "金坛市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0074-1-074",
-    "name": "骆驼墩遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "宜兴市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0075-1-075",
-    "name": "青墩遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "海安县",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0076-1-076",
-    "name": "绰墩遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "昆山市",
-    "era": "新石器时代至周"
-  },
-  {
-    "id": "6-0077-1-077",
-    "name": "天目山遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "姜堰市",
-    "era": "周"
-  },
-  {
-    "id": "6-0078-1-078",
-    "name": "宜兴窑址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "宜兴市",
-    "era": "晋至清"
-  },
-  {
-    "id": "6-0079-1-079",
-    "name": "钟山建筑遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "南北朝"
-  },
-  {
-    "id": "6-0080-1-080",
-    "name": "明故宫遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "明"
-  },
-  {
-    "id": "6-0081-1-081",
-    "name": "龙江船厂遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "明"
-  },
-  {
-    "id": "6-0246-2-026",
-    "name": "鸿山墓群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "周"
-  },
-  {
-    "id": "6-0247-2-027",
-    "name": "徐州墓群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "江苏",
-    "city": "徐州市",
-    "era": "汉"
-  },
-  {
-    "id": "6-0248-2-028",
-    "name": "象山王氏家族墓地",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "晋"
-  },
-  {
-    "id": "6-0506-3-209",
-    "name": "洪泽湖大堤",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "淮安市",
-    "era": "汉至清"
-  },
-  {
-    "id": "6-0507-3-210",
-    "name": "泰伯庙和墓",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0508-3-211",
-    "name": "沧浪亭",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "元至清"
-  },
-  {
-    "id": "6-0509-3-212",
-    "name": "惠山镇祠堂",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "南北朝至民国"
-  },
-  {
-    "id": "6-0510-3-213",
-    "name": "南通天宁寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "南通市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0511-3-214",
-    "name": "崇教兴福寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "常熟市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0512-3-215",
-    "name": "海清寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "连云港市",
-    "era": "宋"
-  },
-  {
-    "id": "6-0513-3-216",
-    "name": "紫金庵罗汉塑像",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "宋至明"
-  },
-  {
-    "id": "6-0514-3-217",
-    "name": "报恩寺塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "宋至清"
-  },
-  {
-    "id": "6-0515-3-218",
-    "name": "太仓石拱桥",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "太仓市",
-    "era": "元"
-  },
-  {
-    "id": "6-0516-3-219",
-    "name": "盘门",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "元"
-  },
-  {
-    "id": "6-0517-3-220",
-    "name": "狮子林",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "元"
-  },
-  {
-    "id": "6-0518-3-221",
-    "name": "轩辕宫正殿",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "元"
-  },
-  {
-    "id": "6-0519-3-222",
-    "name": "寂鉴寺石殿",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "元"
-  },
-  {
-    "id": "6-0520-3-223",
-    "name": "昭关石塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "镇江市",
-    "era": "元"
-  },
-  {
-    "id": "6-0521-3-224",
-    "name": "户部山古建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "徐州市",
-    "era": "明至民国"
-  },
-  {
-    "id": "6-0522-3-225",
-    "name": "瞻园",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0523-3-226",
-    "name": "泰州城隍庙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "泰州市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0524-3-227",
-    "name": "东林书院",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0525-3-228",
-    "name": "昭嗣堂",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "明至清"
-  },
-  {
-    "id": "6-0526-3-229",
-    "name": "赵用贤宅",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "常熟市",
-    "era": "明"
-  },
-  {
-    "id": "6-0527-3-230",
-    "name": "张溥宅第",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "太仓市",
-    "era": "明"
-  },
-  {
-    "id": "6-0528-3-231",
-    "name": "东山民居",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "明"
-  },
-  {
-    "id": "6-0529-3-232",
-    "name": "艺圃",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "明"
-  },
-  {
-    "id": "6-0530-3-233",
-    "name": "全晋会馆",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0531-3-234",
-    "name": "淮安府衙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "淮安市",
-    "era": "清"
-  },
-  {
-    "id": "6-0532-3-235",
-    "name": "师俭堂",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0533-3-236",
-    "name": "莲花桥和白塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "扬州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0534-3-237",
-    "name": "吴氏宅第",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "扬州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0535-3-238",
-    "name": "扬州大明寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "扬州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0536-3-239",
-    "name": "小盘谷",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "扬州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0537-3-240",
-    "name": "高邮当铺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "高邮市",
-    "era": "清"
-  },
-  {
-    "id": "6-0538-3-241",
-    "name": "甘熙宅第",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "清"
-  },
-  {
-    "id": "6-0821-4-011",
-    "name": "天下第二泉庭院及石刻",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "唐至清"
-  },
-  {
-    "id": "6-0928-5-055",
-    "name": "俞樾旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "清"
-  },
-  {
-    "id": "6-0929-5-056",
-    "name": "阿炳故居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "清"
-  },
-  {
-    "id": "6-0930-5-057",
-    "name": "中央体育场旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0931-5-058",
-    "name": "国民大会堂旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0932-5-059",
-    "name": "中央大学旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0933-5-060",
-    "name": "金陵大学旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0934-5-061",
-    "name": "金陵女子大学旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0935-5-062",
-    "name": "春在楼",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0936-5-063",
-    "name": "荣氏梅园",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "无锡市",
-    "era": "民国"
-  },
-  {
-    "id": "6-0937-5-064",
-    "name": "张太雷旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "常州市",
-    "era": "1918～1925年"
-  },
-  {
-    "id": "6-0938-5-065",
-    "name": "柳亚子旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "苏州市",
-    "era": "1922～1937年"
-  },
-  {
-    "id": "6-0939-5-066",
-    "name": "朱自清旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "扬州市",
-    "era": "1930～1946年"
-  },
-  {
-    "id": "6-0940-5-067",
-    "name": "侵华日军南京大屠杀死难同胞丛葬地",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "南京市",
-    "era": "1937年"
-  },
-  {
-    "id": "6-0941-5-068",
-    "name": "新四军重建军部旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "盐城市",
-    "era": "1941～1945年"
-  },
-  {
-    "id": "6-0942-5-069",
-    "name": "苏皖边区政府旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "淮安市",
-    "era": "1945～1949年"
-  },
-  {
-    "id": "6-0943-5-070",
-    "name": "人民海军诞生地",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "江苏",
-    "city": "泰州市",
-    "era": "1949年"
-  }
-]
+{
+  "province": "江苏",
+  "items": [
+    {
+      "id": "1-0003-5-003",
+      "name": "太平天国忠王府",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "1860－1863年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0019-5-019",
+      "name": "中山陵",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1929年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0068-3-021",
+      "name": "苏州云岩寺塔",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0121-3-074",
+      "name": "拙政园",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "明、清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0124-3-077",
+      "name": "留园",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0131-4-007",
+      "name": "苏州文庙内宋代石刻",
+      "level": "national",
+      "batch": 1,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "南宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0135-4-011",
+      "name": "保圣寺罗汉塑像",
+      "level": "national",
+      "batch": 1,
+      "category": "others",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0177-2-016",
+      "name": "明孝陵",
+      "level": "national",
+      "batch": 1,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0002-5-002",
+      "name": "太平天国天王府遗址",
+      "level": "national",
+      "batch": 2,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1853至1864年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0022-3-007",
+      "name": "玄妙观三清殿",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0041-3-026",
+      "name": "网师园",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0003-5-003",
+      "name": "堂子街太平天国壁画",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1853-1864年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0014-5-014",
+      "name": "周恩来故居",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "淮安市",
+      "district": "",
+      "address": "",
+      "era": "1898-1910年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0026-5-026",
+      "name": "雨花台烈士陵园",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1927-1949年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0042-4-001",
+      "name": "孔望山摩崖造像",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "连云港市",
+      "district": "",
+      "address": "",
+      "era": "东汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0059-3-007",
+      "name": "南京城墙",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0093-3-041",
+      "name": "寄畅园",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "无锡市",
+      "district": "",
+      "address": "",
+      "era": "明至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0094-3-042",
+      "name": "环秀山庄",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "明至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0097-3-045",
+      "name": "何园",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "扬州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0098-3-046",
+      "name": "个园",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "扬州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0099-3-047",
+      "name": "南通博物苑",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "南通市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0143-3-091",
+      "name": "栖霞寺舍利塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0147-3-095",
+      "name": "瑞光塔",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0164-4-001",
+      "name": "将军崖岩画",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "连云港市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0167-4-004",
+      "name": "南京南朝陵墓石刻",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "南朝",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0168-4-005",
+      "name": "丹阳南朝陵墓石刻",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "丹阳市",
+      "district": "",
+      "address": "",
+      "era": "南朝",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0177-4-014",
+      "name": "焦山碑林",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "镇江市",
+      "district": "",
+      "address": "",
+      "era": "南朝至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0203-1-023",
+      "name": "淹城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "江苏省",
+      "city": "武进县",
+      "district": "",
+      "address": "",
+      "era": "东周",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0245-2-016",
+      "name": "南唐二陵",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "江宁县",
+      "district": "",
+      "address": "",
+      "era": "五代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0052-1-052",
+      "name": "扬州城遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "江苏省",
+      "city": "扬州市",
+      "district": "",
+      "address": "",
+      "era": "隋至宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0057-2-001",
+      "name": "大伊山石棺墓",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "灌云县",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0063-2-007",
+      "name": "汉楚王墓群",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "徐州市",
+      "district": "",
+      "address": "",
+      "era": "汉",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0073-2-017",
+      "name": "明祖陵",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "盱眙县",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0084-3-006",
+      "name": "罗汉院双塔及正殿遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0137-3-059",
+      "name": "䌽衣堂",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "常熟市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0170-3-092",
+      "name": "盂城驿",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "高邮市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0202-5-004",
+      "name": "瞿秋白故居",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "常州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0216-5-018",
+      "name": "镇江英国领事馆旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "镇江市",
+      "district": "",
+      "address": "",
+      "era": "1889-1890年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0233-5-035",
+      "name": "国立紫金山天文台旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1931年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0247-5-049",
+      "name": "中国共产党代表团办事处旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1946-1947年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0038-1-038",
+      "name": "龙虬庄遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "江苏省",
+      "city": "高邮市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0159-2-015",
+      "name": "普哈丁墓",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "扬州市",
+      "district": "",
+      "address": "",
+      "era": "宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0160-2-016",
+      "name": "浡泥国王墓",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-tombs",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0283-3-089",
+      "name": "徐霞客故居及晴山堂石刻",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "江阴市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0284-3-090",
+      "name": "退思园",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0285-3-091",
+      "name": "宝带桥",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0286-3-092",
+      "name": "耦园",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "苏州市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0287-3-093",
+      "name": "龙王庙行宫",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "宿迁市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0288-3-094",
+      "name": "水绘园",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "江苏省",
+      "city": "如皋市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0446-4-004",
+      "name": "国山碑",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "宜兴市",
+      "district": "",
+      "address": "",
+      "era": "三国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0447-4-005",
+      "name": "千佛崖石窟及明征君碑",
+      "level": "national",
+      "batch": 5,
+      "category": "stone-carvings",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "六朝唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0484-5-011",
+      "name": "薛福成故居建筑群",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "无锡市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0485-5-012",
+      "name": "原国民政府旧址",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "江苏省",
+      "city": "南京市",
+      "district": "",
+      "address": "",
+      "era": "1912年至1949年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0069-1-069",
+      "name": "南京人化石地点",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "6-0070-1-070",
+      "name": "藤花落遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "连云港市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0071-1-071",
+      "name": "大墩子遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "邳州市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0072-1-072",
+      "name": "花厅遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "新沂市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0073-1-073",
+      "name": "三星村遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "金坛市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0074-1-074",
+      "name": "骆驼墩遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "宜兴市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0075-1-075",
+      "name": "青墩遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "海安县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0076-1-076",
+      "name": "绰墩遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "昆山市",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "6-0077-1-077",
+      "name": "天目山遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "姜堰市",
+      "era": "周"
+    },
+    {
+      "id": "6-0078-1-078",
+      "name": "宜兴窑址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "宜兴市",
+      "era": "晋至清"
+    },
+    {
+      "id": "6-0079-1-079",
+      "name": "钟山建筑遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "南北朝"
+    },
+    {
+      "id": "6-0080-1-080",
+      "name": "明故宫遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "明"
+    },
+    {
+      "id": "6-0081-1-081",
+      "name": "龙江船厂遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "明"
+    },
+    {
+      "id": "6-0246-2-026",
+      "name": "鸿山墓群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "周"
+    },
+    {
+      "id": "6-0247-2-027",
+      "name": "徐州墓群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "徐州市",
+      "era": "汉"
+    },
+    {
+      "id": "6-0248-2-028",
+      "name": "象山王氏家族墓地",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "晋"
+    },
+    {
+      "id": "6-0506-3-209",
+      "name": "洪泽湖大堤",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "淮安市",
+      "era": "汉至清"
+    },
+    {
+      "id": "6-0507-3-210",
+      "name": "泰伯庙和墓",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0508-3-211",
+      "name": "沧浪亭",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "元至清"
+    },
+    {
+      "id": "6-0509-3-212",
+      "name": "惠山镇祠堂",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "南北朝至民国"
+    },
+    {
+      "id": "6-0510-3-213",
+      "name": "南通天宁寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南通市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0511-3-214",
+      "name": "崇教兴福寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "常熟市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0512-3-215",
+      "name": "海清寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "连云港市",
+      "era": "宋"
+    },
+    {
+      "id": "6-0513-3-216",
+      "name": "紫金庵罗汉塑像",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "宋至明"
+    },
+    {
+      "id": "6-0514-3-217",
+      "name": "报恩寺塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "宋至清"
+    },
+    {
+      "id": "6-0515-3-218",
+      "name": "太仓石拱桥",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "太仓市",
+      "era": "元"
+    },
+    {
+      "id": "6-0516-3-219",
+      "name": "盘门",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "元"
+    },
+    {
+      "id": "6-0517-3-220",
+      "name": "狮子林",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "元"
+    },
+    {
+      "id": "6-0518-3-221",
+      "name": "轩辕宫正殿",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "元"
+    },
+    {
+      "id": "6-0519-3-222",
+      "name": "寂鉴寺石殿",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "元"
+    },
+    {
+      "id": "6-0520-3-223",
+      "name": "昭关石塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "镇江市",
+      "era": "元"
+    },
+    {
+      "id": "6-0521-3-224",
+      "name": "户部山古建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "徐州市",
+      "era": "明至民国"
+    },
+    {
+      "id": "6-0522-3-225",
+      "name": "瞻园",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0523-3-226",
+      "name": "泰州城隍庙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "泰州市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0524-3-227",
+      "name": "东林书院",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0525-3-228",
+      "name": "昭嗣堂",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "明至清"
+    },
+    {
+      "id": "6-0526-3-229",
+      "name": "赵用贤宅",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "常熟市",
+      "era": "明"
+    },
+    {
+      "id": "6-0527-3-230",
+      "name": "张溥宅第",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "太仓市",
+      "era": "明"
+    },
+    {
+      "id": "6-0528-3-231",
+      "name": "东山民居",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "明"
+    },
+    {
+      "id": "6-0529-3-232",
+      "name": "艺圃",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "明"
+    },
+    {
+      "id": "6-0530-3-233",
+      "name": "全晋会馆",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0531-3-234",
+      "name": "淮安府衙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "淮安市",
+      "era": "清"
+    },
+    {
+      "id": "6-0532-3-235",
+      "name": "师俭堂",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0533-3-236",
+      "name": "莲花桥和白塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0534-3-237",
+      "name": "吴氏宅第",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0535-3-238",
+      "name": "扬州大明寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0536-3-239",
+      "name": "小盘谷",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0537-3-240",
+      "name": "高邮当铺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "高邮市",
+      "era": "清"
+    },
+    {
+      "id": "6-0538-3-241",
+      "name": "甘熙宅第",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "清"
+    },
+    {
+      "id": "6-0821-4-011",
+      "name": "天下第二泉庭院及石刻",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "唐至清"
+    },
+    {
+      "id": "6-0928-5-055",
+      "name": "俞樾旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "清"
+    },
+    {
+      "id": "6-0929-5-056",
+      "name": "阿炳故居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "清"
+    },
+    {
+      "id": "6-0930-5-057",
+      "name": "中央体育场旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0931-5-058",
+      "name": "国民大会堂旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0932-5-059",
+      "name": "中央大学旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0933-5-060",
+      "name": "金陵大学旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0934-5-061",
+      "name": "金陵女子大学旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0935-5-062",
+      "name": "春在楼",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0936-5-063",
+      "name": "荣氏梅园",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市",
+      "era": "民国"
+    },
+    {
+      "id": "6-0937-5-064",
+      "name": "张太雷旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "常州市",
+      "era": "1918～1925年"
+    },
+    {
+      "id": "6-0938-5-065",
+      "name": "柳亚子旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市",
+      "era": "1922～1937年"
+    },
+    {
+      "id": "6-0939-5-066",
+      "name": "朱自清旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "扬州市",
+      "era": "1930～1946年"
+    },
+    {
+      "id": "6-0940-5-067",
+      "name": "侵华日军南京大屠杀死难同胞丛葬地",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市",
+      "era": "1937年"
+    },
+    {
+      "id": "6-0941-5-068",
+      "name": "新四军重建军部旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "盐城市",
+      "era": "1941～1945年"
+    },
+    {
+      "id": "6-0942-5-069",
+      "name": "苏皖边区政府旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "淮安市",
+      "era": "1945～1949年"
+    },
+    {
+      "id": "6-0943-5-070",
+      "name": "人民海军诞生地",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "泰州市",
+      "era": "1949年"
+    },
+    {
+      "id": "8-0035-1-035",
+      "name": "顺山集遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "泗洪县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0036-1-036",
+      "name": "韩井遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "泗洪县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0037-1-037",
+      "name": "蒋庄遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "兴化市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0038-1-038",
+      "name": "寺墩遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "常州市天宁区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0039-1-039",
+      "name": "下邳故城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "睢宁县",
+      "era": "汉晋"
+    },
+    {
+      "id": "8-0176-2-009",
+      "name": "隋炀帝墓",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "扬州市邗江区",
+      "era": "唐"
+    },
+    {
+      "id": "8-0264-3-067",
+      "name": "垂虹断桥",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "元明"
+    },
+    {
+      "id": "8-0265-3-068",
+      "name": "西方寺大殿",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "明"
+    },
+    {
+      "id": "8-0266-3-069",
+      "name": "常熟言子祠",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "常熟市",
+      "era": "明"
+    },
+    {
+      "id": "8-0267-3-070",
+      "name": "洑溪徐氏宗祠",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "宜兴市",
+      "era": "明"
+    },
+    {
+      "id": "8-0268-3-071",
+      "name": "南京鼓楼",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0269-3-072",
+      "name": "仙鹤寺",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "明清"
+    },
+    {
+      "id": "8-0270-3-073",
+      "name": "常州唐氏民宅",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "常州市天宁区",
+      "era": "明至民国"
+    },
+    {
+      "id": "8-0271-3-074",
+      "name": "荡口华氏老义庄",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市锡山区",
+      "era": "清"
+    },
+    {
+      "id": "7-0138-1-138",
+      "name": "中华曙猿化石地点",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "常州市溧阳市",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0139-1-139",
+      "name": "青莲岗遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0140-1-140",
+      "name": "薛城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市高淳县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0141-1-141",
+      "name": "草鞋山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "苏州市吴中区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0142-1-142",
+      "name": "东山村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "苏州市张家港市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0143-1-143",
+      "name": "赵陵山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "苏州市昆山市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0144-1-144",
+      "name": "西溪遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "无锡市宜兴市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0145-1-145",
+      "name": "刘林遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "徐州市邳州市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0146-1-146",
+      "name": "城上村遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "镇江市句容市",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "7-0147-1-147",
+      "name": "梁王城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "徐州市邳州市",
+      "era": "新石器时代至战国"
+    },
+    {
+      "id": "7-0148-1-148",
+      "name": "佘城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "夏至周"
+    },
+    {
+      "id": "7-0149-1-149",
+      "name": "葛城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "镇江市丹阳市",
+      "era": "西周至春秋"
+    },
+    {
+      "id": "7-0150-1-150",
+      "name": "晓店青墩遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "宿迁市宿豫区",
+      "era": "西周、汉"
+    },
+    {
+      "id": "7-0151-1-151",
+      "name": "阖闾城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "无锡市滨湖区",
+      "era": "春秋"
+    },
+    {
+      "id": "7-0152-1-152",
+      "name": "固城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市高淳县",
+      "era": "春秋至汉"
+    },
+    {
+      "id": "7-0153-1-153",
+      "name": "曲阳城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "连云港市东海县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0154-1-154",
+      "name": "铁瓮城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "镇江市京口区",
+      "era": "东汉"
+    },
+    {
+      "id": "7-0155-1-155",
+      "name": "黄泗浦遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "苏州市张家港市",
+      "era": "南朝至宋"
+    },
+    {
+      "id": "7-0156-1-156",
+      "name": "大报恩寺遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "东晋至清"
+    },
+    {
+      "id": "7-0157-1-157",
+      "name": "泗州城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "淮安市盱眙县",
+      "era": "唐至清"
+    },
+    {
+      "id": "7-0158-1-158",
+      "name": "宋元粮仓遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "镇江市京口区",
+      "era": "宋至清"
+    },
+    {
+      "id": "7-0159-1-159",
+      "name": "太仓海运仓遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "苏州市太仓市",
+      "era": "元"
+    },
+    {
+      "id": "7-0160-1-160",
+      "name": "大窑路窑群遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "无锡市南长区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-0161-1-161",
+      "name": "蜀山窑群",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "无锡市宜兴市",
+      "era": "明至清"
+    },
+    {
+      "id": "8-0572-5-056",
+      "name": "马林医院旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1892－1914年"
+    },
+    {
+      "id": "8-0573-5-057",
+      "name": "日本驻南京大使馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1935－1945年"
+    },
+    {
+      "id": "8-0574-5-058",
+      "name": "国立美术陈列馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1936－1937年"
+    },
+    {
+      "id": "8-0575-5-059",
+      "name": "侵华日军南京利济巷慰安所旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "1937－1945年"
+    },
+    {
+      "id": "8-0576-5-060",
+      "name": "八路军驻南京办事处旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1937年"
+    },
+    {
+      "id": "8-0577-5-061",
+      "name": "新四军盐阜区抗日阵亡将士纪念塔",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "阜宁县",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0578-5-062",
+      "name": "黄花塘新四军军部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "盱眙县",
+      "era": "1943－1945年"
+    },
+    {
+      "id": "8-0579-5-063",
+      "name": "淮安中共中央华中分局旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "1945－1946年"
+    },
+    {
+      "id": "7-0563-2-047",
+      "name": "金坛土墩墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "常州市金坛市",
+      "era": "商周"
+    },
+    {
+      "id": "7-0564-2-048",
+      "name": "春城土墩墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "镇江市句容市",
+      "era": "商周"
+    },
+    {
+      "id": "7-0565-2-049",
+      "name": "烟墩山墓地",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "镇江市丹徒区",
+      "era": "西周"
+    },
+    {
+      "id": "7-0566-2-050",
+      "name": "尹湾汉墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "连云港市东海县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0567-2-051",
+      "name": "三庄墓群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "宿迁市泗阳县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0568-2-052",
+      "name": "庙山汉墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "扬州市仪征市",
+      "era": "汉"
+    },
+    {
+      "id": "7-0569-2-053",
+      "name": "上坊孙吴墓",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "南京市江宁区",
+      "era": "三国"
+    },
+    {
+      "id": "7-0570-2-054",
+      "name": "仙鹤观六朝墓地",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "南京市栖霞区",
+      "era": "三国、晋、南北朝"
+    },
+    {
+      "id": "7-0571-2-055",
+      "name": "顾炎武墓及故居",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-tombs",
+      "province": "江苏",
+      "city": "苏州市昆山市",
+      "era": "清"
+    },
+    {
+      "id": "7-0946-3-244",
+      "name": "海春轩塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "盐城市东台市",
+      "era": "唐"
+    },
+    {
+      "id": "7-0947-3-245",
+      "name": "文通塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "宋"
+    },
+    {
+      "id": "7-0948-3-246",
+      "name": "甲辰巷砖塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "宋"
+    },
+    {
+      "id": "7-0949-3-247",
+      "name": "思本桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "宋"
+    },
+    {
+      "id": "7-0950-3-248",
+      "name": "东庙桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "宋"
+    },
+    {
+      "id": "7-0951-3-249",
+      "name": "月塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "淮安市涟水县",
+      "era": "宋"
+    },
+    {
+      "id": "7-0952-3-250",
+      "name": "聚沙塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市常熟市",
+      "era": "宋"
+    },
+    {
+      "id": "7-0953-3-251",
+      "name": "兴国寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "宋、明"
+    },
+    {
+      "id": "7-0954-3-252",
+      "name": "甘露寺铁塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "镇江市京口区",
+      "era": "宋、明"
+    },
+    {
+      "id": "7-0955-3-253",
+      "name": "万佛石塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市虎丘区",
+      "era": "元"
+    },
+    {
+      "id": "7-0956-3-254",
+      "name": "七桥瓮",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "明"
+    },
+    {
+      "id": "7-0957-3-255",
+      "name": "蒲塘桥",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市溧水区",
+      "era": "明"
+    },
+    {
+      "id": "7-0958-3-256",
+      "name": "开元寺无梁殿",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "明"
+    },
+    {
+      "id": "7-0959-3-257",
+      "name": "玉燕堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市昆山市",
+      "era": "明"
+    },
+    {
+      "id": "7-0960-3-258",
+      "name": "秦峰塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市昆山市",
+      "era": "明"
+    },
+    {
+      "id": "7-0961-3-259",
+      "name": "慈云寺塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "明"
+    },
+    {
+      "id": "7-0962-3-260",
+      "name": "广教禅寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南通市崇川区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-0963-3-261",
+      "name": "周王庙及碑刻",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市宜兴市",
+      "era": "明至清"
+    },
+    {
+      "id": "7-0964-3-262",
+      "name": "日涉园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "泰州市海陵区",
+      "era": "明至民国"
+    },
+    {
+      "id": "7-0965-3-263",
+      "name": "隆昌寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "镇江市句容市",
+      "era": "明至民国"
+    },
+    {
+      "id": "7-0966-3-264",
+      "name": "浏河天妃宫遗迹",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市太仓市",
+      "era": "清"
+    },
+    {
+      "id": "7-0967-3-265",
+      "name": "朝天宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "清"
+    },
+    {
+      "id": "7-0968-3-266",
+      "name": "近园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "常州市天宁区",
+      "era": "清"
+    },
+    {
+      "id": "7-0969-3-267",
+      "name": "杨柳村古建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南京市江宁区",
+      "era": "清"
+    },
+    {
+      "id": "7-0970-3-268",
+      "name": "苏州织造署旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "清"
+    },
+    {
+      "id": "7-0971-3-269",
+      "name": "卫道观前潘宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "清"
+    },
+    {
+      "id": "7-0972-3-270",
+      "name": "杨氏宅第",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市张家港市",
+      "era": "清"
+    },
+    {
+      "id": "7-0973-3-271",
+      "name": "燕园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市常熟市",
+      "era": "清"
+    },
+    {
+      "id": "7-0974-3-272",
+      "name": "敬业堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市昆山市",
+      "era": "清"
+    },
+    {
+      "id": "7-0975-3-273",
+      "name": "先蚕祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "清"
+    },
+    {
+      "id": "7-0976-3-274",
+      "name": "耕乐堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "清"
+    },
+    {
+      "id": "7-0977-3-275",
+      "name": "学政试院",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "泰州市海陵区",
+      "era": "清"
+    },
+    {
+      "id": "7-0978-3-276",
+      "name": "适园",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "清"
+    },
+    {
+      "id": "7-0979-3-277",
+      "name": "史可法墓祠",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市邗江区",
+      "era": "清"
+    },
+    {
+      "id": "7-0980-3-278",
+      "name": "汪氏盐商住宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "清"
+    },
+    {
+      "id": "7-0981-3-279",
+      "name": "贾氏盐商住宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "清"
+    },
+    {
+      "id": "7-0982-3-280",
+      "name": "卢氏盐商住宅",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "清"
+    },
+    {
+      "id": "7-0983-3-281",
+      "name": "逸圃",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "清"
+    },
+    {
+      "id": "7-0984-3-282",
+      "name": "扬州重宁寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市邗江区",
+      "era": "清"
+    },
+    {
+      "id": "7-0985-3-283",
+      "name": "如皋公立简易师范学堂旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "南通市如皋市",
+      "era": "1903年"
+    },
+    {
+      "id": "7-0986-3-284",
+      "name": "上池斋药店",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "泰州市兴化市",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-0987-3-285",
+      "name": "汪氏小苑",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "江苏",
+      "city": "扬州市广陵区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1517-4-020",
+      "name": "东连岛东海琅琊郡界域刻石",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "连云港市连云区",
+      "era": "汉"
+    },
+    {
+      "id": "7-1518-4-021",
+      "name": "惠山寺经幢",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "无锡市北塘区",
+      "era": "唐、宋"
+    },
+    {
+      "id": "7-1519-4-022",
+      "name": "郁林观石刻群",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "连云港市新浦区",
+      "era": "唐至清"
+    },
+    {
+      "id": "7-1520-4-023",
+      "name": "第一山题刻",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "淮安市盱眙县",
+      "era": "宋至民国"
+    },
+    {
+      "id": "7-1521-4-024",
+      "name": "阳山碑材",
+      "level": "national",
+      "batch": 7,
+      "category": "stone-carvings",
+      "province": "江苏",
+      "city": "南京市江宁区",
+      "era": "明"
+    },
+    {
+      "id": "7-1699-5-092",
+      "name": "黄山炮台旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "明至民国"
+    },
+    {
+      "id": "7-1700-5-093",
+      "name": "小娄巷建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市崇安区",
+      "era": "明至民国"
+    },
+    {
+      "id": "7-1701-5-094",
+      "name": "金陵刻经处",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "清"
+    },
+    {
+      "id": "7-1702-5-095",
+      "name": "刘氏兄弟故居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "清"
+    },
+    {
+      "id": "7-1703-5-096",
+      "name": "东吴大学旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1704-5-097",
+      "name": "金陵兵工厂旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1705-5-098",
+      "name": "浦口火车站旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市浦口区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1706-5-099",
+      "name": "韩公馆",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南通市海安县",
+      "era": "1906年"
+    },
+    {
+      "id": "7-1707-5-100",
+      "name": "孙中山临时大总统府及南京国民政府建筑遗存",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1912～1949年"
+    },
+    {
+      "id": "7-1708-5-101",
+      "name": "无锡县商会旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市崇安区",
+      "era": "1915年"
+    },
+    {
+      "id": "7-1709-5-102",
+      "name": "秦邦宪旧居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市崇安区",
+      "era": "1916～1921年"
+    },
+    {
+      "id": "7-1710-5-103",
+      "name": "通崇海泰总商会大楼",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南通市崇川区",
+      "era": "1920年"
+    },
+    {
+      "id": "7-1711-5-104",
+      "name": "北极阁气象台旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1928年"
+    },
+    {
+      "id": "7-1712-5-105",
+      "name": "中央陆军军官学校旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1928年"
+    },
+    {
+      "id": "7-1713-5-106",
+      "name": "励志社旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1929～1931年"
+    },
+    {
+      "id": "7-1714-5-107",
+      "name": "国民政府中央广播电台旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1932年"
+    },
+    {
+      "id": "7-1715-5-108",
+      "name": "国立中央研究院旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1933～1935年"
+    },
+    {
+      "id": "7-1716-5-109",
+      "name": "拉贝旧居",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1934～1938年"
+    },
+    {
+      "id": "7-1717-5-110",
+      "name": "天香小筑",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市姑苏区",
+      "era": "1935年"
+    },
+    {
+      "id": "7-1718-5-111",
+      "name": "新四军江南指挥部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "常州市溧阳市",
+      "era": "1939年"
+    },
+    {
+      "id": "7-1719-5-112",
+      "name": "黄桥战斗旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "泰州市泰兴市",
+      "era": "1940年"
+    },
+    {
+      "id": "7-1720-5-113",
+      "name": "美国驻华使馆旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1946年"
+    },
+    {
+      "id": "7-1721-5-114",
+      "name": "英国驻华使馆旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1946年"
+    },
+    {
+      "id": "7-1722-5-115",
+      "name": "茂新面粉厂旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市南长区",
+      "era": "1946年"
+    },
+    {
+      "id": "7-1723-5-116",
+      "name": "国民党江阴要塞司令部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "无锡市江阴市",
+      "era": "1947年"
+    },
+    {
+      "id": "7-1978-5-002",
+      "name": "丽则女学校旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "苏州市吴江区",
+      "era": "1911年"
+    },
+    {
+      "id": "7-1979-5-003",
+      "name": "南通大生第三纺织公司旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南通市海门市",
+      "era": "1919年"
+    },
+    {
+      "id": "8-0752-6-002",
+      "name": "兴化垛田",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "兴化市",
+      "era": "唐至今"
+    },
+    {
+      "id": "8-0753-6-003",
+      "name": "江阴蚕种场",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "江阴市",
+      "era": "1928年"
+    },
+    {
+      "id": "8-0754-6-004",
+      "name": "洋河地下酒窖",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "宿迁市宿城区",
+      "era": "1960－1975年"
+    },
+    {
+      "id": "8-0000-1-005",
+      "name": "板闸遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "明"
+    },
+    {
+      "id": "8-0000-5-008",
+      "name": "中山陵附属革命历史图书馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1935年"
+    }
+  ]
+}

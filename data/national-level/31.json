@@ -1,450 +1,673 @@
-[
-  {
-    "id": "1-0009-5-009",
-    "name": "上海中山故居",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "",
-    "address": "",
-    "era": "1919年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0010-5-010",
-    "name": "中国社会主义青年团中央机关旧址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "",
-    "address": "",
-    "era": "1920－1921年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0011-5-011",
-    "name": "中国共产党第一次全国代表大会会址",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "",
-    "address": "",
-    "era": "1921年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "1-0031-5-031",
-    "name": "鲁迅墓",
-    "level": "national",
-    "batch": 1,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "虹口区",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0010-5-010",
-    "name": "宋庆龄墓",
-    "level": "national",
-    "batch": 2,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "",
-    "address": "",
-    "era": "1981年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0039-3-024",
-    "name": "豫园",
-    "level": "national",
-    "batch": 2,
-    "category": "ancient-buildings",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "",
-    "address": "",
-    "era": "明至清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0025-5-025",
-    "name": "龙华革命烈士纪念地",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "徐汇区",
-    "district": "",
-    "address": "",
-    "era": "1927-1937年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0179-4-016",
-    "name": "松江唐经幢",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "上海市",
-    "city": "松江县",
-    "district": "",
-    "address": "",
-    "era": "唐",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0254-2-025",
-    "name": "徐光启墓",
-    "level": "national",
-    "batch": 3,
-    "category": "ancient-tombs",
-    "province": "上海市",
-    "city": "徐汇区",
-    "district": "",
-    "address": "",
-    "era": "明",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "310101-001",
-    "name": "中共一大会址",
-    "level": "national",
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "黄浦区",
-    "address": "兴业路76号",
-    "era": "民国时期",
-    "established_year": 1921,
-    "protection_status": "完好",
-    "latitude": 31.223237,
-    "longitude": 121.473701,
-    "area_size": "900平方米",
-    "official_url": "http://www.zgyd1921.com",
-    "description": "中国共产党第一次全国代表大会会址，是中国共产党的诞生地。",
-    "historical_value": "中国共产党诞生地，中国革命的重要历史遗址",
-    "images": [],
-    "management_unit": "中共一大会址纪念馆",
-    "contact_phone": "021-53832171",
-    "opening_hours": "09:00-17:00",
-    "ticket_price": "免费",
-    "accessibility": "地铁1号线黄陂南路站",
-    "sources": [
-      "国家文物局官网"
-    ],
-    "last_updated": "2026-03-05",
-    "data_quality": "high",
-    "contributors": [
-      "system"
-    ]
-  },
-  {
-    "id": "310101-002",
-    "name": "外滩建筑群",
-    "level": "national",
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "上海市",
-    "district": "黄浦区",
-    "address": "中山东一路",
-    "era": "近代",
-    "established_year": 1840,
-    "protection_status": "完好",
-    "latitude": 31.239692,
-    "longitude": 121.499762,
-    "area_size": "1.5公里",
-    "official_url": "",
-    "description": "外滩建筑群位于上海市中心黄浦江畔，是上海近代城市开始的起点。",
-    "historical_value": "上海近代建筑的代表，万国建筑博览群",
-    "images": [],
-    "management_unit": "上海市文物局",
-    "contact_phone": "",
-    "opening_hours": "全天开放",
-    "ticket_price": "免费",
-    "accessibility": "地铁2号线南京东路站",
-    "sources": [
-      "国家文物局官网"
-    ],
-    "last_updated": "2026-03-05",
-    "data_quality": "high",
-    "contributors": [
-      "system"
-    ]
-  },
-  {
-    "id": "4-0083-3-005",
-    "name": "兴圣教寺塔",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "上海市",
-    "city": "松江区",
-    "district": "",
-    "address": "",
-    "era": "北宋",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0120-3-042",
-    "name": "真如寺大殿",
-    "level": "national",
-    "batch": 4,
-    "category": "ancient-buildings",
-    "province": "上海市",
-    "city": "普陀区",
-    "district": "",
-    "address": "",
-    "era": "元",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0220-5-022",
-    "name": "上海外滩建筑群",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "黄浦区",
-    "district": "",
-    "address": "",
-    "era": "1906-1937年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0226-5-028",
-    "name": "上海邮政总局",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "虹口区",
-    "district": "",
-    "address": "",
-    "era": "1924年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0037-1-037",
-    "name": "福泉山遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "上海市",
-    "city": "青浦区",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0482-5-009",
-    "name": "上海宋庆龄故居",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "徐汇区",
-    "district": "",
-    "address": "",
-    "era": "1948年至1981年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0483-5-010",
-    "name": "张闻天故居",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "上海市",
-    "city": "浦东新区",
-    "district": "",
-    "address": "",
-    "era": "近代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0505-3-208",
-    "name": "龙华塔",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "上海",
-    "city": "徐汇区",
-    "era": "宋"
-  },
-  {
-    "id": "6-0926-5-053",
-    "name": "马勒住宅",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "上海",
-    "city": "静安区",
-    "era": "民国"
-  },
-  {
-    "id": "6-0927-5-054",
-    "name": "国际饭店",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "上海",
-    "city": "黄浦区",
-    "era": "民国"
-  }
-]
+{
+  "province": "上海",
+  "items": [
+    {
+      "id": "1-0009-5-009",
+      "name": "上海中山故居",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "",
+      "address": "",
+      "era": "1919年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0010-5-010",
+      "name": "中国社会主义青年团中央机关旧址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "",
+      "address": "",
+      "era": "1920－1921年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0011-5-011",
+      "name": "中国共产党第一次全国代表大会会址",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "",
+      "address": "",
+      "era": "1921年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "1-0031-5-031",
+      "name": "鲁迅墓",
+      "level": "national",
+      "batch": 1,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "虹口区",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0010-5-010",
+      "name": "宋庆龄墓",
+      "level": "national",
+      "batch": 2,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "",
+      "address": "",
+      "era": "1981年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0039-3-024",
+      "name": "豫园",
+      "level": "national",
+      "batch": 2,
+      "category": "ancient-buildings",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "",
+      "address": "",
+      "era": "明至清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0025-5-025",
+      "name": "龙华革命烈士纪念地",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "徐汇区",
+      "district": "",
+      "address": "",
+      "era": "1927-1937年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0179-4-016",
+      "name": "松江唐经幢",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "上海市",
+      "city": "松江县",
+      "district": "",
+      "address": "",
+      "era": "唐",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0254-2-025",
+      "name": "徐光启墓",
+      "level": "national",
+      "batch": 3,
+      "category": "ancient-tombs",
+      "province": "上海市",
+      "city": "徐汇区",
+      "district": "",
+      "address": "",
+      "era": "明",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "310101-001",
+      "name": "中共一大会址",
+      "level": "national",
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "黄浦区",
+      "address": "兴业路76号",
+      "era": "民国时期",
+      "established_year": 1921,
+      "protection_status": "完好",
+      "latitude": 31.223237,
+      "longitude": 121.473701,
+      "area_size": "900平方米",
+      "official_url": "http://www.zgyd1921.com",
+      "description": "中国共产党第一次全国代表大会会址，是中国共产党的诞生地。",
+      "historical_value": "中国共产党诞生地，中国革命的重要历史遗址",
+      "images": [],
+      "management_unit": "中共一大会址纪念馆",
+      "contact_phone": "021-53832171",
+      "opening_hours": "09:00-17:00",
+      "ticket_price": "免费",
+      "accessibility": "地铁1号线黄陂南路站",
+      "sources": [
+        "国家文物局官网"
+      ],
+      "last_updated": "2026-03-05",
+      "data_quality": "high",
+      "contributors": [
+        "system"
+      ]
+    },
+    {
+      "id": "310101-002",
+      "name": "外滩建筑群",
+      "level": "national",
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "黄浦区",
+      "address": "中山东一路",
+      "era": "近代",
+      "established_year": 1840,
+      "protection_status": "完好",
+      "latitude": 31.239692,
+      "longitude": 121.499762,
+      "area_size": "1.5公里",
+      "official_url": "",
+      "description": "外滩建筑群位于上海市中心黄浦江畔，是上海近代城市开始的起点。",
+      "historical_value": "上海近代建筑的代表，万国建筑博览群",
+      "images": [],
+      "management_unit": "上海市文物局",
+      "contact_phone": "",
+      "opening_hours": "全天开放",
+      "ticket_price": "免费",
+      "accessibility": "地铁2号线南京东路站",
+      "sources": [
+        "国家文物局官网"
+      ],
+      "last_updated": "2026-03-05",
+      "data_quality": "high",
+      "contributors": [
+        "system"
+      ]
+    },
+    {
+      "id": "4-0083-3-005",
+      "name": "兴圣教寺塔",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "上海市",
+      "city": "松江区",
+      "district": "",
+      "address": "",
+      "era": "北宋",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0120-3-042",
+      "name": "真如寺大殿",
+      "level": "national",
+      "batch": 4,
+      "category": "ancient-buildings",
+      "province": "上海市",
+      "city": "普陀区",
+      "district": "",
+      "address": "",
+      "era": "元",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0220-5-022",
+      "name": "上海外滩建筑群",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "黄浦区",
+      "district": "",
+      "address": "",
+      "era": "1906-1937年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0226-5-028",
+      "name": "上海邮政总局",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "虹口区",
+      "district": "",
+      "address": "",
+      "era": "1924年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0037-1-037",
+      "name": "福泉山遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "上海市",
+      "city": "青浦区",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0482-5-009",
+      "name": "上海宋庆龄故居",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "徐汇区",
+      "district": "",
+      "address": "",
+      "era": "1948年至1981年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0483-5-010",
+      "name": "张闻天故居",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "上海市",
+      "city": "浦东新区",
+      "district": "",
+      "address": "",
+      "era": "近代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0505-3-208",
+      "name": "龙华塔",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "上海",
+      "city": "徐汇区",
+      "era": "宋"
+    },
+    {
+      "id": "6-0926-5-053",
+      "name": "马勒住宅",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "静安区",
+      "era": "民国"
+    },
+    {
+      "id": "6-0927-5-054",
+      "name": "国际饭店",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "民国"
+    },
+    {
+      "id": "8-0034-1-034",
+      "name": "青龙镇遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "青浦区",
+      "era": "唐宋"
+    },
+    {
+      "id": "7-0134-1-134",
+      "name": "崧泽遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "青浦区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0135-1-135",
+      "name": "上海马桥遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "闵行区",
+      "era": "新石器时代至商"
+    },
+    {
+      "id": "7-0136-1-136",
+      "name": "广富林遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "松江区",
+      "era": "新石器时代、东周"
+    },
+    {
+      "id": "7-0137-1-137",
+      "name": "志丹苑元代水闸遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "普陀区",
+      "era": "元"
+    },
+    {
+      "id": "8-0563-5-047",
+      "name": "圣三一基督教堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "1869年"
+    },
+    {
+      "id": "8-0564-5-048",
+      "name": "圣约翰大学近代建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "长宁区",
+      "era": "1879－1948年"
+    },
+    {
+      "id": "8-0565-5-049",
+      "name": "上海交通大学早期建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "徐汇区",
+      "era": "1896年"
+    },
+    {
+      "id": "8-0566-5-050",
+      "name": "沪江大学近代建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "杨浦区",
+      "era": "1906－1948年"
+    },
+    {
+      "id": "8-0567-5-051",
+      "name": "上海工部局宰牲场旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "虹口区",
+      "era": "1933年"
+    },
+    {
+      "id": "8-0568-5-052",
+      "name": "四行仓库抗战旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "静安区",
+      "era": "1937年"
+    },
+    {
+      "id": "8-0569-5-053",
+      "name": "中国共产党代表团驻沪办事处旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "1946－1947年"
+    },
+    {
+      "id": "8-0570-5-054",
+      "name": "中国福利会少年宫",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "静安区",
+      "era": "1953年"
+    },
+    {
+      "id": "8-0571-5-055",
+      "name": "上海科学会堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "1958年"
+    },
+    {
+      "id": "7-0945-3-243",
+      "name": "嘉定孔庙",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "上海",
+      "city": "嘉定区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-1694-5-087",
+      "name": "杨树浦水厂",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "杨浦区",
+      "era": "1883年"
+    },
+    {
+      "id": "7-1695-5-088",
+      "name": "佘山天文台",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "松江区",
+      "era": "1900年"
+    },
+    {
+      "id": "7-1696-5-089",
+      "name": "提篮桥监狱早期建筑",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "虹口区",
+      "era": "1903年"
+    },
+    {
+      "id": "7-1697-5-090",
+      "name": "徐家汇天主堂",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "徐汇区",
+      "era": "1910年"
+    },
+    {
+      "id": "7-1698-5-091",
+      "name": "中国共产党第二次全国代表大会会址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "静安区",
+      "era": "1922年"
+    },
+    {
+      "id": "8-0751-6-001",
+      "name": "华亭海塘奉贤段",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "上海",
+      "city": "奉贤区",
+      "era": "清"
+    },
+    {
+      "id": "8-0000-5-007",
+      "name": "中国共产党第一次全国代表大会宿舍旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "1921年"
+    }
+  ]
+}

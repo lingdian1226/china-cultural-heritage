@@ -1,450 +1,833 @@
-[
-  {
-    "id": "1-0158-1-023",
-    "name": "渤海国上京龙泉府遗址",
-    "level": "national",
-    "batch": 1,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "宁安县",
-    "district": "",
-    "address": "",
-    "era": "渤海",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第一批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "2-0054-1-009",
-    "name": "金上京会宁府遗址",
-    "level": "national",
-    "batch": 2,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "阿城县",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0166-4-003",
-    "name": "亚沟石刻",
-    "level": "national",
-    "batch": 3,
-    "category": "stone-carvings",
-    "province": "黑龙江省",
-    "city": "阿城市",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0196-1-016",
-    "name": "昂昂溪遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "齐齐哈尔市",
-    "district": "",
-    "address": "",
-    "era": "新石器时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0219-1-039",
-    "name": "蒲与路故城遗址",
-    "level": "national",
-    "batch": 3,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "克东县",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0023-1-023",
-    "name": "白金宝遗址",
-    "level": "national",
-    "batch": 4,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "肇源县",
-    "district": "",
-    "address": "",
-    "era": "青铜时代",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0225-5-027",
-    "name": "哈尔滨颐园街一号欧式建筑",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "黑龙江省",
-    "city": "哈尔滨市",
-    "district": "",
-    "address": "",
-    "era": "1922年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0227-5-029",
-    "name": "圣索菲亚教堂",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "黑龙江省",
-    "city": "哈尔滨市",
-    "district": "",
-    "address": "",
-    "era": "1923-1932年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0228-5-030",
-    "name": "哈尔滨文庙",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "黑龙江省",
-    "city": "哈尔滨市",
-    "district": "",
-    "address": "",
-    "era": "1926-1929年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0034-1-034",
-    "name": "三江平原汉魏时期遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "佳木斯市",
-    "district": "",
-    "address": "",
-    "era": "汉魏",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0035-1-035",
-    "name": "奥里米城址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "绥滨县",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0036-1-036",
-    "name": "八里城遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "archaeological-sites",
-    "province": "黑龙江省",
-    "city": "肇东市",
-    "district": "",
-    "address": "",
-    "era": "金",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0480-5-007",
-    "name": "瑷珲新城遗址",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "黑龙江省",
-    "city": "黑河市",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0481-5-008",
-    "name": "大庆第一口油井",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "黑龙江省",
-    "city": "大庆市",
-    "district": "",
-    "address": "",
-    "era": "1959年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0062-1-062",
-    "name": "五排山城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "东宁县",
-    "era": "战国至汉"
-  },
-  {
-    "id": "6-0063-1-063",
-    "name": "小四方山城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "穆棱市",
-    "era": "战国至金"
-  },
-  {
-    "id": "6-0064-1-064",
-    "name": "雁窝岛城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "宝清县",
-    "era": "隋"
-  },
-  {
-    "id": "6-0065-1-065",
-    "name": "塔子城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "泰来县",
-    "era": "辽"
-  },
-  {
-    "id": "6-0066-1-066",
-    "name": "瓦里霍吞城址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "桦川县",
-    "era": "辽至清"
-  },
-  {
-    "id": "6-0067-1-067",
-    "name": "桃温万户府故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "汤原县",
-    "era": "元"
-  },
-  {
-    "id": "6-0068-1-068",
-    "name": "莽吉塔站故城",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "黑龙江",
-    "city": "抚远县",
-    "era": "明"
-  },
-  {
-    "id": "6-0245-2-025",
-    "name": "刀背山墓地",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-tombs",
-    "province": "黑龙江",
-    "city": "鸡西市",
-    "era": "新石器时代"
-  },
-  {
-    "id": "6-0503-3-206",
-    "name": "牡丹江边墙",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "黑龙江",
-    "city": "牡丹江市",
-    "era": "唐至金"
-  },
-  {
-    "id": "6-0504-3-207",
-    "name": "卜奎清真寺",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "黑龙江",
-    "city": "齐齐哈尔市",
-    "era": "清"
-  },
-  {
-    "id": "6-0922-5-049",
-    "name": "哈尔滨莫斯科商场旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "黑龙江",
-    "city": "哈尔滨市",
-    "era": "清"
-  },
-  {
-    "id": "6-0923-5-050",
-    "name": "中东铁路建筑群",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "黑龙江",
-    "city": "海林市",
-    "era": "清"
-  },
-  {
-    "id": "6-0924-5-051",
-    "name": "侵华日军第七三一部队旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "黑龙江",
-    "city": "哈尔滨市",
-    "era": "1936～1945年"
-  },
-  {
-    "id": "6-0925-5-052",
-    "name": "侵华日军东北要塞",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "黑龙江",
-    "city": "东宁县",
-    "era": "1934～1945年"
-  }
-]
+{
+  "province": "黑龙江",
+  "items": [
+    {
+      "id": "1-0158-1-023",
+      "name": "渤海国上京龙泉府遗址",
+      "level": "national",
+      "batch": 1,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "宁安县",
+      "district": "",
+      "address": "",
+      "era": "渤海",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第一批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "2-0054-1-009",
+      "name": "金上京会宁府遗址",
+      "level": "national",
+      "batch": 2,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "阿城县",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0166-4-003",
+      "name": "亚沟石刻",
+      "level": "national",
+      "batch": 3,
+      "category": "stone-carvings",
+      "province": "黑龙江省",
+      "city": "阿城市",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0196-1-016",
+      "name": "昂昂溪遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "齐齐哈尔市",
+      "district": "",
+      "address": "",
+      "era": "新石器时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0219-1-039",
+      "name": "蒲与路故城遗址",
+      "level": "national",
+      "batch": 3,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "克东县",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0023-1-023",
+      "name": "白金宝遗址",
+      "level": "national",
+      "batch": 4,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "肇源县",
+      "district": "",
+      "address": "",
+      "era": "青铜时代",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0225-5-027",
+      "name": "哈尔滨颐园街一号欧式建筑",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "district": "",
+      "address": "",
+      "era": "1922年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0227-5-029",
+      "name": "圣索菲亚教堂",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "district": "",
+      "address": "",
+      "era": "1923-1932年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0228-5-030",
+      "name": "哈尔滨文庙",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "黑龙江省",
+      "city": "哈尔滨市",
+      "district": "",
+      "address": "",
+      "era": "1926-1929年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0034-1-034",
+      "name": "三江平原汉魏时期遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "佳木斯市",
+      "district": "",
+      "address": "",
+      "era": "汉魏",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0035-1-035",
+      "name": "奥里米城址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "绥滨县",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0036-1-036",
+      "name": "八里城遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "archaeological-sites",
+      "province": "黑龙江省",
+      "city": "肇东市",
+      "district": "",
+      "address": "",
+      "era": "金",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0480-5-007",
+      "name": "瑷珲新城遗址",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "黑龙江省",
+      "city": "黑河市",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0481-5-008",
+      "name": "大庆第一口油井",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "黑龙江省",
+      "city": "大庆市",
+      "district": "",
+      "address": "",
+      "era": "1959年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0062-1-062",
+      "name": "五排山城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "东宁县",
+      "era": "战国至汉"
+    },
+    {
+      "id": "6-0063-1-063",
+      "name": "小四方山城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "穆棱市",
+      "era": "战国至金"
+    },
+    {
+      "id": "6-0064-1-064",
+      "name": "雁窝岛城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "宝清县",
+      "era": "隋"
+    },
+    {
+      "id": "6-0065-1-065",
+      "name": "塔子城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "泰来县",
+      "era": "辽"
+    },
+    {
+      "id": "6-0066-1-066",
+      "name": "瓦里霍吞城址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "桦川县",
+      "era": "辽至清"
+    },
+    {
+      "id": "6-0067-1-067",
+      "name": "桃温万户府故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "汤原县",
+      "era": "元"
+    },
+    {
+      "id": "6-0068-1-068",
+      "name": "莽吉塔站故城",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "抚远县",
+      "era": "明"
+    },
+    {
+      "id": "6-0245-2-025",
+      "name": "刀背山墓地",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-tombs",
+      "province": "黑龙江",
+      "city": "鸡西市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "6-0503-3-206",
+      "name": "牡丹江边墙",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "黑龙江",
+      "city": "牡丹江市",
+      "era": "唐至金"
+    },
+    {
+      "id": "6-0504-3-207",
+      "name": "卜奎清真寺",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市",
+      "era": "清"
+    },
+    {
+      "id": "6-0922-5-049",
+      "name": "哈尔滨莫斯科商场旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市",
+      "era": "清"
+    },
+    {
+      "id": "6-0923-5-050",
+      "name": "中东铁路建筑群",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "海林市",
+      "era": "清"
+    },
+    {
+      "id": "6-0924-5-051",
+      "name": "侵华日军第七三一部队旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市",
+      "era": "1936～1945年"
+    },
+    {
+      "id": "6-0925-5-052",
+      "name": "侵华日军东北要塞",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "东宁县",
+      "era": "1934～1945年"
+    },
+    {
+      "id": "8-0030-1-030",
+      "name": "小南山遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "饶河县",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0031-1-031",
+      "name": "新开流遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "密山市",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0032-1-032",
+      "name": "洪河遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市富拉尔基区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "8-0033-1-033",
+      "name": "锅盔山山城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "鸡东县",
+      "era": "唐"
+    },
+    {
+      "id": "7-0123-1-123",
+      "name": "小拉哈遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "大庆市肇源县",
+      "era": "新石器时代至战国"
+    },
+    {
+      "id": "7-0124-1-124",
+      "name": "王脖子山遗址群",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市巴彦县",
+      "era": "新石器时代至汉"
+    },
+    {
+      "id": "7-0125-1-125",
+      "name": "老龙头遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市富拉尔基区",
+      "era": "西周至春秋"
+    },
+    {
+      "id": "7-0126-1-126",
+      "name": "庆华古山寨遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市宾县",
+      "era": "战国至汉"
+    },
+    {
+      "id": "7-0127-1-127",
+      "name": "团结遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "牡丹江市东宁县",
+      "era": "战国至唐"
+    },
+    {
+      "id": "7-0128-1-128",
+      "name": "中兴城址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "鹤岗市绥滨县",
+      "era": "辽、金"
+    },
+    {
+      "id": "7-0129-1-129",
+      "name": "土城子遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市依兰县",
+      "era": "金"
+    },
+    {
+      "id": "7-0130-1-130",
+      "name": "郝家城子古城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "绥化市兰西县",
+      "era": "金"
+    },
+    {
+      "id": "7-0131-1-131",
+      "name": "墨尔根至漠河古驿站驿道",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "大兴安岭地区呼玛县",
+      "era": "清"
+    },
+    {
+      "id": "7-0132-1-132",
+      "name": "鄂伦春神泉祭坛遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "黑河市逊克县",
+      "era": "清"
+    },
+    {
+      "id": "7-0133-1-133",
+      "name": "宁古塔将军驻地旧城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "牡丹江市海林市",
+      "era": "清"
+    },
+    {
+      "id": "8-0558-5-042",
+      "name": "鸡西万人坑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "鸡西市滴道区",
+      "era": "1934－1945年"
+    },
+    {
+      "id": "8-0559-5-043",
+      "name": "朝阳山东北抗联第三路军密营遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "五大连池市",
+      "era": "1939－1941年"
+    },
+    {
+      "id": "8-0560-5-044",
+      "name": "侵华日军第516部队遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市铁峰区",
+      "era": "1938－1945年"
+    },
+    {
+      "id": "8-0561-5-045",
+      "name": "中共黑龙江省工作委员会和省政府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "北安市",
+      "era": "1945－1949年"
+    },
+    {
+      "id": "8-0562-5-046",
+      "name": "人民空军东北老航校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "牡丹江市西安区",
+      "era": "1946－1955年"
+    },
+    {
+      "id": "7-1946-1-003",
+      "name": "“驸马城”遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市阿城区",
+      "era": "金"
+    },
+    {
+      "id": "7-1947-1-004",
+      "name": "小城子遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市阿城区",
+      "era": "金"
+    },
+    {
+      "id": "7-1948-1-005",
+      "name": "刘秀屯宫殿基址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市阿城区",
+      "era": "金"
+    },
+    {
+      "id": "7-1949-1-006",
+      "name": "半拉城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "哈尔滨市阿城区",
+      "era": "金"
+    },
+    {
+      "id": "7-0944-3-242",
+      "name": "阿城清真寺",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "黑龙江",
+      "city": "哈尔滨市阿城区",
+      "era": "清"
+    },
+    {
+      "id": "7-1687-5-080",
+      "name": "马迭尔宾馆",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市道里区",
+      "era": "1906年"
+    },
+    {
+      "id": "7-1688-5-081",
+      "name": "哈尔滨犹太人活动旧址群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市南岗区",
+      "era": "1909～1949年"
+    },
+    {
+      "id": "7-1689-5-082",
+      "name": "黑龙江督军署旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市建华区",
+      "era": "1912年"
+    },
+    {
+      "id": "7-1690-5-083",
+      "name": "黑龙江省图书馆旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市龙沙区",
+      "era": "1930年"
+    },
+    {
+      "id": "7-1691-5-084",
+      "name": "伪满洲国哈尔滨警察厅旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市南岗区",
+      "era": "1933年"
+    },
+    {
+      "id": "7-1692-5-085",
+      "name": "东北民主联军前线指挥部旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "哈尔滨市双城市",
+      "era": "1946年"
+    },
+    {
+      "id": "7-1693-5-086",
+      "name": "铁人一口井井址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "大庆市红岗区",
+      "era": "1960年"
+    },
+    {
+      "id": "7-1977-5-001",
+      "name": "侵华日军第七三一细菌部队安达特别实验场遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "绥化市安达市",
+      "era": "1941年"
+    },
+    {
+      "id": "8-0000-1-003",
+      "name": "砬子山城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "宁安市",
+      "era": "唐"
+    },
+    {
+      "id": "8-0000-1-004",
+      "name": "老黑山城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "宁安市",
+      "era": "唐"
+    },
+    {
+      "id": "8-0000-5-004",
+      "name": "横道河子机务公寓旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "海林市",
+      "era": "1900－1935年"
+    },
+    {
+      "id": "8-0000-5-005",
+      "name": "富拉尔基火车站旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市富拉尔基区",
+      "era": "1903年"
+    },
+    {
+      "id": "8-0000-5-006",
+      "name": "勃利西山仓库遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "勃利县",
+      "era": "1934年"
+    }
+  ]
+}

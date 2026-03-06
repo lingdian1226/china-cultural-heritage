@@ -1,216 +1,409 @@
-[
-  {
-    "id": "2-0003-5-003",
-    "name": "义和团吕祖堂坛口遗址",
-    "level": "national",
-    "batch": 2,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "天津市",
-    "district": "",
-    "address": "",
-    "era": "1900年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第二批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0004-5-004",
-    "name": "大沽口炮台",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "塘沽区",
-    "district": "",
-    "address": "",
-    "era": "1858年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "3-0006-5-006",
-    "name": "望海楼教堂",
-    "level": "national",
-    "batch": 3,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "河北区",
-    "district": "",
-    "address": "",
-    "era": "1869-1904年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第三批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0199-5-001",
-    "name": "天津利顺德饭店旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "和平区",
-    "district": "",
-    "address": "",
-    "era": "清至民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "4-0200-5-002",
-    "name": "南开学校旧址",
-    "level": "national",
-    "batch": 4,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "南开区",
-    "district": "",
-    "address": "",
-    "era": "清至民国",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第四批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0207-3-013",
-    "name": "天津广东会馆",
-    "level": "national",
-    "batch": 5,
-    "category": "ancient-buildings",
-    "province": "天津市",
-    "city": "南开区",
-    "district": "",
-    "address": "",
-    "era": "清",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "5-0477-5-004",
-    "name": "天津劝业场大楼",
-    "level": "national",
-    "batch": 5,
-    "category": "modern-historic",
-    "province": "天津市",
-    "city": "和平区",
-    "district": "",
-    "address": "",
-    "era": "1928年",
-    "description": "",
-    "historical_value": "",
-    "sources": [
-      "维基百科-第五批全国重点文物保护单位"
-    ],
-    "last_updated": "2026-03-06",
-    "data_quality": "basic",
-    "contributors": [
-      "iBo"
-    ]
-  },
-  {
-    "id": "6-0003-1-003",
-    "name": "天妃宫遗址",
-    "level": "national",
-    "batch": 6,
-    "category": "archaeological-sites",
-    "province": "天津",
-    "city": "河东区",
-    "era": "元至清"
-  },
-  {
-    "id": "6-0315-3-018",
-    "name": "石家大院",
-    "level": "national",
-    "batch": 6,
-    "category": "ancient-buildings",
-    "province": "天津",
-    "city": "西青区",
-    "era": "清"
-  },
-  {
-    "id": "6-0811-4-001",
-    "name": "千像寺造像",
-    "level": "national",
-    "batch": 6,
-    "category": "stone-carvings",
-    "province": "天津",
-    "city": "蓟县",
-    "era": "辽"
-  },
-  {
-    "id": "6-0889-5-016",
-    "name": "盐业银行旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "天津",
-    "city": "和平区",
-    "era": "民国"
-  },
-  {
-    "id": "6-0890-5-017",
-    "name": "法国公议局旧址",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "天津",
-    "city": "和平区",
-    "era": "民国"
-  },
-  {
-    "id": "6-0891-5-018",
-    "name": "梁启超旧居",
-    "level": "national",
-    "batch": 6,
-    "category": "modern-historic",
-    "province": "天津",
-    "city": "河北区",
-    "era": "1914～1929年"
-  }
-]
+{
+  "province": "天津",
+  "items": [
+    {
+      "id": "2-0003-5-003",
+      "name": "义和团吕祖堂坛口遗址",
+      "level": "national",
+      "batch": 2,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "天津市",
+      "district": "",
+      "address": "",
+      "era": "1900年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第二批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0004-5-004",
+      "name": "大沽口炮台",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "塘沽区",
+      "district": "",
+      "address": "",
+      "era": "1858年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "3-0006-5-006",
+      "name": "望海楼教堂",
+      "level": "national",
+      "batch": 3,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "河北区",
+      "district": "",
+      "address": "",
+      "era": "1869-1904年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第三批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0199-5-001",
+      "name": "天津利顺德饭店旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "和平区",
+      "district": "",
+      "address": "",
+      "era": "清至民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "4-0200-5-002",
+      "name": "南开学校旧址",
+      "level": "national",
+      "batch": 4,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "南开区",
+      "district": "",
+      "address": "",
+      "era": "清至民国",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第四批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0207-3-013",
+      "name": "天津广东会馆",
+      "level": "national",
+      "batch": 5,
+      "category": "ancient-buildings",
+      "province": "天津市",
+      "city": "南开区",
+      "district": "",
+      "address": "",
+      "era": "清",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "5-0477-5-004",
+      "name": "天津劝业场大楼",
+      "level": "national",
+      "batch": 5,
+      "category": "modern-historic",
+      "province": "天津市",
+      "city": "和平区",
+      "district": "",
+      "address": "",
+      "era": "1928年",
+      "description": "",
+      "historical_value": "",
+      "sources": [
+        "维基百科-第五批全国重点文物保护单位"
+      ],
+      "last_updated": "2026-03-06",
+      "data_quality": "basic",
+      "contributors": [
+        "iBo"
+      ]
+    },
+    {
+      "id": "6-0003-1-003",
+      "name": "天妃宫遗址",
+      "level": "national",
+      "batch": 6,
+      "category": "archaeological-sites",
+      "province": "天津",
+      "city": "河东区",
+      "era": "元至清"
+    },
+    {
+      "id": "6-0315-3-018",
+      "name": "石家大院",
+      "level": "national",
+      "batch": 6,
+      "category": "ancient-buildings",
+      "province": "天津",
+      "city": "西青区",
+      "era": "清"
+    },
+    {
+      "id": "6-0811-4-001",
+      "name": "千像寺造像",
+      "level": "national",
+      "batch": 6,
+      "category": "stone-carvings",
+      "province": "天津",
+      "city": "蓟县",
+      "era": "辽"
+    },
+    {
+      "id": "6-0889-5-016",
+      "name": "盐业银行旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "和平区",
+      "era": "民国"
+    },
+    {
+      "id": "6-0890-5-017",
+      "name": "法国公议局旧址",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "和平区",
+      "era": "民国"
+    },
+    {
+      "id": "6-0891-5-018",
+      "name": "梁启超旧居",
+      "level": "national",
+      "batch": 6,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河北区",
+      "era": "1914～1929年"
+    },
+    {
+      "id": "8-0521-5-005",
+      "name": "新开河火车站旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河北区",
+      "era": "1903年"
+    },
+    {
+      "id": "8-0522-5-006",
+      "name": "觉悟社旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河北区",
+      "era": "1919年"
+    },
+    {
+      "id": "8-0523-5-007",
+      "name": "北疆博物院旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河西区",
+      "era": "1922－1929年"
+    },
+    {
+      "id": "8-0524-5-008",
+      "name": "南开大学思源堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "南开区",
+      "era": "1925年"
+    },
+    {
+      "id": "8-0525-5-009",
+      "name": "平津战役前线司令部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "蓟州区",
+      "era": "1948年"
+    },
+    {
+      "id": "8-0526-5-010",
+      "name": "天津市军事管制委员会和中共天津市委旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "和平区",
+      "era": "1949－1953年"
+    },
+    {
+      "id": "7-0715-3-013",
+      "name": "蓟县白塔",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "天津",
+      "city": "蓟县",
+      "era": "辽至清"
+    },
+    {
+      "id": "7-0716-3-014",
+      "name": "天后宫",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "天津",
+      "city": "南开区",
+      "era": "明至清"
+    },
+    {
+      "id": "7-0717-3-015",
+      "name": "天尊阁",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "天津",
+      "city": "宁河县",
+      "era": "清"
+    },
+    {
+      "id": "7-0718-3-016",
+      "name": "李纯祠堂",
+      "level": "national",
+      "batch": 7,
+      "category": "ancient-buildings",
+      "province": "天津",
+      "city": "南开区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-1622-5-015",
+      "name": "北洋水师大沽船坞遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "滨海新区",
+      "era": "清"
+    },
+    {
+      "id": "7-1623-5-016",
+      "name": "塘沽火车站旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "滨海新区",
+      "era": "清"
+    },
+    {
+      "id": "7-1624-5-017",
+      "name": "北洋大学堂旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "红桥区",
+      "era": "1902年"
+    },
+    {
+      "id": "7-1625-5-018",
+      "name": "马可·波罗广场建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河北区",
+      "era": "1908～1924年"
+    },
+    {
+      "id": "7-1626-5-019",
+      "name": "天津西站主楼",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "红桥区",
+      "era": "1910年"
+    },
+    {
+      "id": "7-1627-5-020",
+      "name": "天津五大道近代建筑群",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "和平区",
+      "era": "民国"
+    },
+    {
+      "id": "7-1628-5-021",
+      "name": "谦祥益绸缎庄旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "红桥区",
+      "era": "1917年"
+    },
+    {
+      "id": "7-1629-5-022",
+      "name": "黄海化学工业研究社旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "滨海新区",
+      "era": "1922年"
+    },
+    {
+      "id": "7-1630-5-023",
+      "name": "天津工商学院主楼旧址",
+      "level": "national",
+      "batch": 7,
+      "category": "modern-historic",
+      "province": "天津",
+      "city": "河西区",
+      "era": "1924年"
+    }
+  ]
+}
