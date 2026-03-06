@@ -262,5 +262,225 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0017-1-017",
+    "name": "城头山遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "澧县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0078-2-022",
+    "name": "炎帝陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "湖南省",
+    "city": "炎陵县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0108-3-030",
+    "name": "龙兴寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "沅陵县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0178-3-100",
+    "name": "马田鼓楼",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "通道侗族自治县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0179-3-101",
+    "name": "宁远文庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "宁远县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0207-5-009",
+    "name": "谭嗣同故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "浏阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0208-5-010",
+    "name": "魏源故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "隆回县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0217-5-019",
+    "name": "向警予故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "溆浦县",
+    "district": "",
+    "address": "",
+    "era": "1895年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0230-5-032",
+    "name": "湘南年关暴动指挥部旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "宜章县",
+    "district": "",
+    "address": "",
+    "era": "1928年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0239-5-041",
+    "name": "南岳忠烈祠",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "district": "",
+    "address": "",
+    "era": "1938-1942年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

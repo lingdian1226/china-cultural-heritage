@@ -218,5 +218,159 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0006-1-006",
+    "name": "兴隆洼遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "敖汉旗",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0022-1-022",
+    "name": "大甸子遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "敖汉旗",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0034-1-034",
+    "name": "固阳秦长城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "固阳县",
+    "district": "",
+    "address": "",
+    "era": "秦",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0054-1-054",
+    "name": "缸瓦窑遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0056-1-056",
+    "name": "敖伦苏木城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "达尔罕茂明安联合旗",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0135-3-057",
+    "name": "美岱召",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "土默特右旗",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0169-3-091",
+    "name": "五当召",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

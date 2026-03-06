@@ -834,5 +834,423 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0033-1-033",
+    "name": "北戴河秦行宫遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "district": "",
+    "address": "",
+    "era": "秦",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0044-1-044",
+    "name": "磁州窑遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "磁县",
+    "district": "",
+    "address": "",
+    "era": "北齐至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0046-1-046",
+    "name": "邢窑遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "内丘县",
+    "district": "",
+    "address": "",
+    "era": "隋至五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0061-2-005",
+    "name": "献县汉墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "献县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0072-2-016",
+    "name": "下八里墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "张家口市",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0081-3-003",
+    "name": "治平寺石塔",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "赞皇县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0082-3-004",
+    "name": "开福寺舍利塔",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "景县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0088-3-010",
+    "name": "娲皇宫及石刻",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "涉县",
+    "district": "",
+    "address": "",
+    "era": "北齐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0091-3-013",
+    "name": "正定文庙大成殿",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "正定县",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0095-3-017",
+    "name": "阁院寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "涞源县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0096-3-018",
+    "name": "开善寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "高碑店市",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0114-3-036",
+    "name": "慈云阁",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "定兴县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0131-3-053",
+    "name": "蔚州玉皇阁",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "蔚县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0132-3-054",
+    "name": "万里长城－紫荆关",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "易县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0133-3-055",
+    "name": "毗卢寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "石家庄市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0194-4-006",
+    "name": "龙兴观道德经幢",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "河北省",
+    "city": "易县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0195-4-007",
+    "name": "天护陀罗尼经幢",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "河北省",
+    "city": "石家庄市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0238-5-040",
+    "name": "晋察冀边区政府及军区司令部旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "河北省",
+    "city": "阜平县",
+    "district": "",
+    "address": "",
+    "era": "1938-1948年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0242-5-044",
+    "name": "八路军一二九师司令部旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "河北省",
+    "city": "涉县",
+    "district": "",
+    "address": "",
+    "era": "1940年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

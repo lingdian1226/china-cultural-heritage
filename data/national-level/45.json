@@ -152,5 +152,159 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0065-2-009",
+    "name": "合浦汉墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "广西壮族自治区",
+    "city": "合浦县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0153-3-075",
+    "name": "莫土司衙署",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "广西壮族自治区",
+    "city": "忻城县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0154-3-076",
+    "name": "靖江王府及王陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0223-5-025",
+    "name": "李宗仁故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "广西壮族自治区",
+    "city": "临桂县",
+    "district": "",
+    "address": "",
+    "era": "1921年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0224-5-026",
+    "name": "李济深故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "广西壮族自治区",
+    "city": "苍梧县",
+    "district": "",
+    "address": "",
+    "era": "民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0231-5-033",
+    "name": "右江工农民主政府旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "广西壮族自治区",
+    "city": "田东县",
+    "district": "",
+    "address": "",
+    "era": "1929年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0240-5-042",
+    "name": "八路军桂林办事处旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "district": "",
+    "address": "",
+    "era": "1938年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

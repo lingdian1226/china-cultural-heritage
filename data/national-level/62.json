@@ -262,5 +262,203 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0021-1-021",
+    "name": "齐家坪遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "广河县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0040-1-040",
+    "name": "骆驼城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "高台县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0050-1-050",
+    "name": "锁阳城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "安西县",
+    "district": "",
+    "address": "",
+    "era": "隋唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0112-3-034",
+    "name": "张掖大佛寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "district": "",
+    "address": "",
+    "era": "西夏至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0127-3-049",
+    "name": "兴国寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "秦安县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0163-3-085",
+    "name": "武威文庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "武威市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0164-3-086",
+    "name": "鲁土司衙门旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "永登县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0190-4-002",
+    "name": "马蹄寺石窟群",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "肃南裕固族自治县",
+    "district": "",
+    "address": "",
+    "era": "十六国至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0237-5-039",
+    "name": "会宁红军会师旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "甘肃省",
+    "city": "会宁县",
+    "district": "",
+    "address": "",
+    "era": "1936年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

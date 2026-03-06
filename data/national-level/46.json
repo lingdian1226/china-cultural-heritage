@@ -1,0 +1,90 @@
+[
+  {
+    "id": "4-0075-2-019",
+    "name": "海瑞墓",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "海南省",
+    "city": "海口市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0086-3-008",
+    "name": "美榔双塔",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "海南省",
+    "city": "澄迈县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0155-3-077",
+    "name": "丘浚故居及墓",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "海南省",
+    "city": "琼山市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0182-3-104",
+    "name": "东坡书院",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "海南省",
+    "city": "儋州市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

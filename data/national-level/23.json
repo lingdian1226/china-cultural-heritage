@@ -108,5 +108,93 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0023-1-023",
+    "name": "白金宝遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "肇源县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0225-5-027",
+    "name": "哈尔滨颐园街一号欧式建筑",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "district": "",
+    "address": "",
+    "era": "1922年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0227-5-029",
+    "name": "圣索菲亚教堂",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "district": "",
+    "address": "",
+    "era": "1923-1932年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0228-5-030",
+    "name": "哈尔滨文庙",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "district": "",
+    "address": "",
+    "era": "1926-1929年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

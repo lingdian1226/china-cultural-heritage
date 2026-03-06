@@ -64,5 +64,49 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0199-5-001",
+    "name": "天津利顺德饭店旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "天津市",
+    "city": "和平区",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0200-5-002",
+    "name": "南开学校旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "天津市",
+    "city": "南开区",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

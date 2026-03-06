@@ -416,5 +416,159 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0007-1-007",
+    "name": "查海遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "阜新蒙古族自治县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0036-1-036",
+    "name": "五女山山城",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "桓仁满族自治县",
+    "district": "",
+    "address": "",
+    "era": "高句丽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0037-1-037",
+    "name": "凤凰山山城",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "凤城市",
+    "district": "",
+    "address": "",
+    "era": "高句丽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0058-2-002",
+    "name": "石棚山石棚",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "盖州市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0136-3-058",
+    "name": "万里长城－九门口",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "绥中县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0201-5-003",
+    "name": "大连俄国建筑",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "大连市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0221-5-023",
+    "name": "张学良旧居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "1914年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

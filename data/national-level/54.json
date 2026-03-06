@@ -284,5 +284,115 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0019-1-019",
+    "name": "卡若遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "西藏自治区",
+    "city": "昌都县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0090-3-012",
+    "name": "桑耶寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "扎囊县",
+    "district": "",
+    "address": "",
+    "era": "789-799年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0110-3-032",
+    "name": "托林寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "扎达县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0111-3-033",
+    "name": "扎塘寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "扎囊县",
+    "district": "",
+    "address": "",
+    "era": "1081-1093年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0160-3-082",
+    "name": "白居寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "江孜县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

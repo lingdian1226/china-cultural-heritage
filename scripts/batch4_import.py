@@ -1,0 +1,330 @@
+#!/usr/bin/env python3
+"""第四批全国重点文物保护单位数据导入 (250项, 1996年公布)"""
+import json, os, sys
+sys.path.insert(0, os.path.dirname(__file__))
+from batch1_import import PROVINCE_CODE, PROVINCE_FULL
+
+BATCH4 = [
+    # ===== 古遗址 (1-56) =====
+    {"seq": 1, "id_num": "4-0001-1-001", "name": "龙骨坡遗址", "era": "更新世", "province": "四川", "city": "巫山县", "category": "archaeological-sites"},
+    {"seq": 2, "id_num": "4-0002-1-002", "name": "许家窑－侯家窑遗址", "era": "旧石器时代", "province": "山西", "city": "阳高县", "category": "archaeological-sites"},
+    {"seq": 3, "id_num": "4-0003-1-003", "name": "鸡公山遗址", "era": "旧石器时代", "province": "湖北", "city": "荆州市", "category": "archaeological-sites"},
+    {"seq": 4, "id_num": "4-0004-1-004", "name": "大洞遗址", "era": "旧石器时代", "province": "贵州", "city": "盘县特区", "category": "archaeological-sites"},
+    {"seq": 5, "id_num": "4-0005-1-005", "name": "西阴村遗址", "era": "新石器时代", "province": "山西", "city": "夏县", "category": "archaeological-sites"},
+    {"seq": 6, "id_num": "4-0006-1-006", "name": "兴隆洼遗址", "era": "新石器时代", "province": "内蒙古", "city": "敖汉旗", "category": "archaeological-sites"},
+    {"seq": 7, "id_num": "4-0007-1-007", "name": "查海遗址", "era": "新石器时代", "province": "辽宁", "city": "阜新蒙古族自治县", "category": "archaeological-sites"},
+    {"seq": 8, "id_num": "4-0008-1-008", "name": "良渚遗址", "era": "新石器时代", "province": "浙江", "city": "余杭市", "category": "archaeological-sites"},
+    {"seq": 9, "id_num": "4-0009-1-009", "name": "薛家岗遗址", "era": "新石器时代", "province": "安徽", "city": "潜山县", "category": "archaeological-sites"},
+    {"seq": 10, "id_num": "4-0010-1-010", "name": "北庄遗址", "era": "新石器时代", "province": "山东", "city": "长岛县", "category": "archaeological-sites"},
+    {"seq": 11, "id_num": "4-0011-1-011", "name": "丹土遗址", "era": "新石器时代", "province": "山东", "city": "五莲县", "category": "archaeological-sites"},
+    {"seq": 12, "id_num": "4-0012-1-012", "name": "西山遗址", "era": "新石器时代", "province": "河南", "city": "郑州市", "category": "archaeological-sites"},
+    {"seq": 13, "id_num": "4-0013-1-013", "name": "王城岗及阳城遗址", "era": "新石器时代至东周", "province": "河南", "city": "登封市", "category": "archaeological-sites"},
+    {"seq": 14, "id_num": "4-0014-1-014", "name": "羑里城遗址", "era": "新石器时代至周", "province": "河南", "city": "汤阴县", "category": "archaeological-sites"},
+    {"seq": 15, "id_num": "4-0015-1-015", "name": "石家河遗址", "era": "新石器时代", "province": "湖北", "city": "天门市", "category": "archaeological-sites"},
+    {"seq": 16, "id_num": "4-0016-1-016", "name": "雕龙碑遗址", "era": "新石器时代", "province": "湖北", "city": "枣阳市", "category": "archaeological-sites"},
+    {"seq": 17, "id_num": "4-0017-1-017", "name": "城头山遗址", "era": "新石器时代", "province": "湖南", "city": "澧县", "category": "archaeological-sites"},
+    {"seq": 18, "id_num": "4-0018-1-018", "name": "石佛洞遗址", "era": "新石器时代", "province": "云南", "city": "耿马傣族佤族自治县", "category": "archaeological-sites"},
+    {"seq": 19, "id_num": "4-0019-1-019", "name": "卡若遗址", "era": "新石器时代", "province": "西藏", "city": "昌都县", "category": "archaeological-sites"},
+    {"seq": 20, "id_num": "4-0020-1-020", "name": "姜寨遗址", "era": "新石器时代", "province": "陕西", "city": "临潼县", "category": "archaeological-sites"},
+    {"seq": 21, "id_num": "4-0021-1-021", "name": "齐家坪遗址", "era": "新石器时代", "province": "甘肃", "city": "广河县", "category": "archaeological-sites"},
+    {"seq": 22, "id_num": "4-0022-1-022", "name": "大甸子遗址", "era": "青铜时代", "province": "内蒙古", "city": "敖汉旗", "category": "archaeological-sites"},
+    {"seq": 23, "id_num": "4-0023-1-023", "name": "白金宝遗址", "era": "青铜时代", "province": "黑龙江", "city": "肇源县", "category": "archaeological-sites"},
+    {"seq": 24, "id_num": "4-0024-1-024", "name": "旌介遗址", "era": "商", "province": "山西", "city": "灵石县", "category": "archaeological-sites"},
+    {"seq": 25, "id_num": "4-0025-1-025", "name": "吴城遗址", "era": "商", "province": "江西", "city": "樟树市", "category": "archaeological-sites"},
+    {"seq": 26, "id_num": "4-0026-1-026", "name": "曲村－天马遗址", "era": "周", "province": "山西", "city": "曲沃县", "category": "archaeological-sites"},
+    {"seq": 27, "id_num": "4-0027-1-027", "name": "大工山－凤凰山铜矿遗址", "era": "西周至宋", "province": "安徽", "city": "南陵县", "category": "archaeological-sites"},
+    {"seq": 28, "id_num": "4-0028-1-028", "name": "蔡国故城", "era": "西周至春秋", "province": "河南", "city": "上蔡县", "category": "archaeological-sites"},
+    {"seq": 29, "id_num": "4-0029-1-029", "name": "酒店冶铁遗址", "era": "战国至汉", "province": "河南", "city": "西平县", "category": "archaeological-sites"},
+    {"seq": 30, "id_num": "4-0030-1-030", "name": "戚城遗址", "era": "春秋", "province": "河南", "city": "濮阳市", "category": "archaeological-sites"},
+    {"seq": 31, "id_num": "4-0031-1-031", "name": "郑国渠首遗址", "era": "战国", "province": "陕西", "city": "泾阳县", "category": "archaeological-sites"},
+    {"seq": 32, "id_num": "4-0032-1-032", "name": "魏长城遗址", "era": "战国", "province": "陕西", "city": "华阴市", "category": "archaeological-sites"},
+    {"seq": 33, "id_num": "4-0033-1-033", "name": "北戴河秦行宫遗址", "era": "秦", "province": "河北", "city": "秦皇岛市", "category": "archaeological-sites"},
+    {"seq": 34, "id_num": "4-0034-1-034", "name": "固阳秦长城遗址", "era": "秦", "province": "内蒙古", "city": "固阳县", "category": "archaeological-sites"},
+    {"seq": 35, "id_num": "4-0035-1-035", "name": "秦代造船遗址及南越国宫署遗址及南越文王墓", "era": "秦至西汉", "province": "广东", "city": "广州市", "category": "archaeological-sites"},
+    {"seq": 36, "id_num": "4-0036-1-036", "name": "五女山山城", "era": "高句丽", "province": "辽宁", "city": "桓仁满族自治县", "category": "archaeological-sites"},
+    {"seq": 37, "id_num": "4-0037-1-037", "name": "凤凰山山城", "era": "高句丽", "province": "辽宁", "city": "凤城市", "category": "archaeological-sites"},
+    {"seq": 38, "id_num": "4-0038-1-038", "name": "城村汉城遗址", "era": "汉", "province": "福建", "city": "武夷山市", "category": "archaeological-sites"},
+    {"seq": 39, "id_num": "4-0039-1-039", "name": "甘泉宫遗址", "era": "汉", "province": "陕西", "city": "淳化县", "category": "archaeological-sites"},
+    {"seq": 40, "id_num": "4-0040-1-040", "name": "骆驼城遗址", "era": "汉至唐", "province": "甘肃", "city": "高台县", "category": "archaeological-sites"},
+    {"seq": 41, "id_num": "4-0041-1-041", "name": "尼雅遗址", "era": "西汉至西晋", "province": "新疆", "city": "民丰县", "category": "archaeological-sites"},
+    {"seq": 42, "id_num": "4-0042-1-042", "name": "洪州窑遗址", "era": "东晋至唐", "province": "江西", "city": "丰城市", "category": "archaeological-sites"},
+    {"seq": 43, "id_num": "4-0043-1-043", "name": "统万城遗址", "era": "十六国", "province": "陕西", "city": "靖边县", "category": "archaeological-sites"},
+    {"seq": 44, "id_num": "4-0044-1-044", "name": "磁州窑遗址", "era": "北齐至元", "province": "河北", "city": "磁县", "category": "archaeological-sites"},
+    {"seq": 45, "id_num": "4-0045-1-045", "name": "苏巴什佛寺遗址", "era": "南北朝至唐", "province": "新疆", "city": "库车县", "category": "archaeological-sites"},
+    {"seq": 46, "id_num": "4-0046-1-046", "name": "邢窑遗址", "era": "隋至五代", "province": "河北", "city": "内丘县", "category": "archaeological-sites"},
+    {"seq": 47, "id_num": "4-0047-1-047", "name": "隋大兴唐长安城遗址", "era": "隋唐", "province": "陕西", "city": "西安市", "category": "archaeological-sites"},
+    {"seq": 48, "id_num": "4-0048-1-048", "name": "隋仁寿宫唐九成宫遗址", "era": "隋唐", "province": "陕西", "city": "麟游县", "category": "archaeological-sites"},
+    {"seq": 49, "id_num": "4-0049-1-049", "name": "灞桥遗址", "era": "隋至元", "province": "陕西", "city": "西安市", "category": "archaeological-sites"},
+    {"seq": 50, "id_num": "4-0050-1-050", "name": "锁阳城遗址", "era": "隋唐", "province": "甘肃", "city": "安西县", "category": "archaeological-sites"},
+    {"seq": 51, "id_num": "4-0051-1-051", "name": "渤海中京城遗址", "era": "渤海", "province": "吉林", "city": "和龙市", "category": "archaeological-sites"},
+    {"seq": 52, "id_num": "4-0052-1-052", "name": "扬州城遗址", "era": "隋至宋", "province": "江苏", "city": "扬州市", "category": "archaeological-sites"},
+    {"seq": 53, "id_num": "4-0053-1-053", "name": "华清宫遗址", "era": "唐", "province": "陕西", "city": "临潼县", "category": "archaeological-sites"},
+    {"seq": 54, "id_num": "4-0054-1-054", "name": "缸瓦窑遗址", "era": "辽", "province": "内蒙古", "city": "赤峰市", "category": "archaeological-sites"},
+    {"seq": 55, "id_num": "4-0055-1-055", "name": "钓鱼城遗址", "era": "宋元", "province": "四川", "city": "合川市", "category": "archaeological-sites"},
+    {"seq": 56, "id_num": "4-0056-1-056", "name": "敖伦苏木城遗址", "era": "元", "province": "内蒙古", "city": "达尔罕茂明安联合旗", "category": "archaeological-sites"},
+
+    # ===== 古墓葬 (57-78) =====
+    {"seq": 57, "id_num": "4-0057-2-001", "name": "大伊山石棺墓", "era": "新石器时代", "province": "江苏", "city": "灌云县", "category": "ancient-tombs"},
+    {"seq": 58, "id_num": "4-0058-2-002", "name": "石棚山石棚", "era": "青铜时代", "province": "辽宁", "city": "盖州市", "category": "ancient-tombs"},
+    {"seq": 59, "id_num": "4-0059-2-003", "name": "虢国墓地", "era": "周", "province": "河南", "city": "三门峡市", "category": "ancient-tombs"},
+    {"seq": 60, "id_num": "4-0060-2-004", "name": "纪山楚墓群", "era": "东周", "province": "湖北", "city": "荆门市", "category": "ancient-tombs"},
+    {"seq": 61, "id_num": "4-0061-2-005", "name": "献县汉墓群", "era": "汉", "province": "河北", "city": "献县", "category": "ancient-tombs"},
+    {"seq": 62, "id_num": "4-0062-2-006", "name": "帽儿山墓地", "era": "汉", "province": "吉林", "city": "吉林市", "category": "ancient-tombs"},
+    {"seq": 63, "id_num": "4-0063-2-007", "name": "汉楚王墓群", "era": "汉", "province": "江苏", "city": "徐州市", "category": "ancient-tombs"},
+    {"seq": 64, "id_num": "4-0064-2-008", "name": "汉梁王墓群", "era": "西汉", "province": "河南", "city": "永城市", "category": "ancient-tombs"},
+    {"seq": 65, "id_num": "4-0065-2-009", "name": "合浦汉墓群", "era": "汉", "province": "广西", "city": "合浦县", "category": "ancient-tombs"},
+    {"seq": 66, "id_num": "4-0066-2-010", "name": "郪江崖墓群", "era": "汉", "province": "四川", "city": "三台县", "category": "ancient-tombs"},
+    {"seq": 67, "id_num": "4-0067-2-011", "name": "曹植墓", "era": "三国", "province": "山东", "city": "东阿县", "category": "ancient-tombs"},
+    {"seq": 68, "id_num": "4-0068-2-012", "name": "武侯墓", "era": "三国", "province": "陕西", "city": "勉县", "category": "ancient-tombs"},
+    {"seq": 69, "id_num": "4-0069-2-013", "name": "泰陵", "era": "隋", "province": "陕西", "city": "咸阳市", "category": "ancient-tombs"},
+    {"seq": 70, "id_num": "4-0070-2-014", "name": "永陵", "era": "西魏", "province": "陕西", "city": "富平县", "category": "ancient-tombs"},
+    {"seq": 71, "id_num": "4-0071-2-015", "name": "热水墓群", "era": "唐", "province": "青海", "city": "都兰县", "category": "ancient-tombs"},
+    {"seq": 72, "id_num": "4-0072-2-016", "name": "下八里墓群", "era": "辽", "province": "河北", "city": "张家口市", "category": "ancient-tombs"},
+    {"seq": 73, "id_num": "4-0073-2-017", "name": "明祖陵", "era": "明", "province": "江苏", "city": "盱眙县", "category": "ancient-tombs"},
+    {"seq": 74, "id_num": "4-0074-2-018", "name": "潞简王墓", "era": "明", "province": "河南", "city": "新乡市", "category": "ancient-tombs"},
+    {"seq": 75, "id_num": "4-0075-2-019", "name": "海瑞墓", "era": "明", "province": "海南", "city": "海口市", "category": "ancient-tombs"},
+    {"seq": 76, "id_num": "4-0076-2-020", "name": "明蜀王陵", "era": "明", "province": "四川", "city": "成都市", "category": "ancient-tombs"},
+    {"seq": 77, "id_num": "4-0077-2-021", "name": "大禹陵", "era": "清", "province": "浙江", "city": "绍兴市", "category": "ancient-tombs"},
+    {"seq": 78, "id_num": "4-0078-2-022", "name": "炎帝陵", "era": "清", "province": "湖南", "city": "炎陵县", "category": "ancient-tombs"},
+
+    # ===== 古建筑及历史纪念建筑物 (79-188) =====
+    {"seq": 79, "id_num": "4-0079-3-001", "name": "龙脑桥", "era": "明", "province": "四川", "city": "泸县", "category": "ancient-buildings"},
+    {"seq": 80, "id_num": "4-0080-3-002", "name": "仙游寺法王塔", "era": "隋", "province": "陕西", "city": "周至县", "category": "ancient-buildings"},
+    {"seq": 81, "id_num": "4-0081-3-003", "name": "治平寺石塔", "era": "唐", "province": "河北", "city": "赞皇县", "category": "ancient-buildings"},
+    {"seq": 82, "id_num": "4-0082-3-004", "name": "开福寺舍利塔", "era": "北宋", "province": "河北", "city": "景县", "category": "ancient-buildings"},
+    {"seq": 83, "id_num": "4-0083-3-005", "name": "兴圣教寺塔", "era": "北宋", "province": "上海", "city": "松江区", "category": "ancient-buildings"},
+    {"seq": 84, "id_num": "4-0084-3-006", "name": "罗汉院双塔及正殿遗址", "era": "北宋", "province": "江苏", "city": "苏州市", "category": "ancient-buildings"},
+    {"seq": 85, "id_num": "4-0085-3-007", "name": "怀圣寺光塔", "era": "唐", "province": "广东", "city": "广州市", "category": "ancient-buildings"},
+    {"seq": 86, "id_num": "4-0086-3-008", "name": "美榔双塔", "era": "元", "province": "海南", "city": "澄迈县", "category": "ancient-buildings"},
+    {"seq": 87, "id_num": "4-0087-3-009", "name": "妙湛寺金刚塔", "era": "明", "province": "云南", "city": "昆明市", "category": "ancient-buildings"},
+    {"seq": 88, "id_num": "4-0088-3-010", "name": "娲皇宫及石刻", "era": "北齐至清", "province": "河北", "city": "涉县", "category": "ancient-buildings"},
+    {"seq": 89, "id_num": "4-0089-3-011", "name": "初祖庵及少林寺塔林", "era": "唐至清", "province": "河南", "city": "登封市", "category": "ancient-buildings"},
+    {"seq": 90, "id_num": "4-0090-3-012", "name": "桑耶寺", "era": "789-799年", "province": "西藏", "city": "扎囊县", "category": "ancient-buildings"},
+    {"seq": 91, "id_num": "4-0091-3-013", "name": "正定文庙大成殿", "era": "五代", "province": "河北", "city": "正定县", "category": "ancient-buildings"},
+    {"seq": 92, "id_num": "4-0092-3-014", "name": "龙门寺", "era": "五代至清", "province": "山西", "city": "平顺县", "category": "ancient-buildings"},
+    {"seq": 93, "id_num": "4-0093-3-015", "name": "府州城", "era": "五代至清", "province": "陕西", "city": "府谷县", "category": "ancient-buildings"},
+    {"seq": 94, "id_num": "4-0094-3-016", "name": "戒台寺", "era": "辽至清", "province": "北京", "city": "门头沟区", "category": "ancient-buildings"},
+    {"seq": 95, "id_num": "4-0095-3-017", "name": "阁院寺", "era": "辽", "province": "河北", "city": "涞源县", "category": "ancient-buildings"},
+    {"seq": 96, "id_num": "4-0096-3-018", "name": "开善寺", "era": "辽", "province": "河北", "city": "高碑店市", "category": "ancient-buildings"},
+    {"seq": 97, "id_num": "4-0097-3-019", "name": "晋城二仙庙", "era": "宋", "province": "山西", "city": "晋城市", "category": "ancient-buildings"},
+    {"seq": 98, "id_num": "4-0098-3-020", "name": "崇庆寺", "era": "宋", "province": "山西", "city": "长子县", "category": "ancient-buildings"},
+    {"seq": 99, "id_num": "4-0099-3-021", "name": "关王庙", "era": "宋", "province": "山西", "city": "阳泉市", "category": "ancient-buildings"},
+    {"seq": 100, "id_num": "4-0100-3-022", "name": "则天庙", "era": "金", "province": "山西", "city": "文水县", "category": "ancient-buildings"},
+    {"seq": 101, "id_num": "4-0101-3-023", "name": "南北吉祥寺", "era": "宋至清", "province": "山西", "city": "陵川县", "category": "ancient-buildings"},
+    {"seq": 102, "id_num": "4-0102-3-024", "name": "孔氏南宗家庙", "era": "南宋至清", "province": "浙江", "city": "衢州市", "category": "ancient-buildings"},
+    {"seq": 103, "id_num": "4-0103-3-025", "name": "元妙观三清殿", "era": "宋", "province": "福建", "city": "莆田市", "category": "ancient-buildings"},
+    {"seq": 104, "id_num": "4-0104-3-026", "name": "青白礁慈济宫", "era": "宋至清", "province": "福建", "city": "厦门市", "category": "ancient-buildings"},
+    {"seq": 105, "id_num": "4-0105-3-027", "name": "赣州城墙", "era": "宋明", "province": "江西", "city": "赣州市", "category": "ancient-buildings"},
+    {"seq": 106, "id_num": "4-0106-3-028", "name": "广饶关帝庙大殿", "era": "南宋", "province": "山东", "city": "广饶县", "category": "ancient-buildings"},
+    {"seq": 107, "id_num": "4-0107-3-029", "name": "济渎庙", "era": "宋至清", "province": "河南", "city": "济源市", "category": "ancient-buildings"},
+    {"seq": 108, "id_num": "4-0108-3-030", "name": "龙兴寺", "era": "宋至清", "province": "湖南", "city": "沅陵县", "category": "ancient-buildings"},
+    {"seq": 109, "id_num": "4-0109-3-031", "name": "梅庵", "era": "北宋", "province": "广东", "city": "肇庆市", "category": "ancient-buildings"},
+    {"seq": 110, "id_num": "4-0110-3-032", "name": "托林寺", "era": "宋", "province": "西藏", "city": "扎达县", "category": "ancient-buildings"},
+    {"seq": 111, "id_num": "4-0111-3-033", "name": "扎塘寺", "era": "1081-1093年", "province": "西藏", "city": "扎囊县", "category": "ancient-buildings"},
+    {"seq": 112, "id_num": "4-0112-3-034", "name": "张掖大佛寺", "era": "西夏至清", "province": "甘肃", "city": "张掖市", "category": "ancient-buildings"},
+    {"seq": 113, "id_num": "4-0113-3-035", "name": "北京东岳庙", "era": "元至清", "province": "北京", "city": "朝阳区", "category": "ancient-buildings"},
+    {"seq": 114, "id_num": "4-0114-3-036", "name": "慈云阁", "era": "元", "province": "河北", "city": "定兴县", "category": "ancient-buildings"},
+    {"seq": 115, "id_num": "4-0115-3-037", "name": "姬氏民居", "era": "元", "province": "山西", "city": "高平市", "category": "ancient-buildings"},
+    {"seq": 116, "id_num": "4-0116-3-038", "name": "牛王庙戏台", "era": "元", "province": "山西", "city": "临汾市", "category": "ancient-buildings"},
+    {"seq": 117, "id_num": "4-0117-3-039", "name": "绛州大堂", "era": "元", "province": "山西", "city": "新绛县", "category": "ancient-buildings"},
+    {"seq": 118, "id_num": "4-0118-3-040", "name": "榆次城隍庙", "era": "元至清", "province": "山西", "city": "榆次市", "category": "ancient-buildings"},
+    {"seq": 119, "id_num": "4-0119-3-041", "name": "霍州州署大堂", "era": "元", "province": "山西", "city": "霍州市", "category": "ancient-buildings"},
+    {"seq": 120, "id_num": "4-0120-3-042", "name": "真如寺大殿", "era": "元", "province": "上海", "city": "普陀区", "category": "ancient-buildings"},
+    {"seq": 121, "id_num": "4-0121-3-043", "name": "延福寺", "era": "元", "province": "浙江", "city": "武义县", "category": "ancient-buildings"},
+    {"seq": 122, "id_num": "4-0122-3-044", "name": "南阳武侯祠", "era": "元至清", "province": "河南", "city": "南阳市", "category": "ancient-buildings"},
+    {"seq": 123, "id_num": "4-0123-3-045", "name": "南岩宫", "era": "元明", "province": "湖北", "city": "丹江口市", "category": "ancient-buildings"},
+    {"seq": 124, "id_num": "4-0124-3-046", "name": "德庆学宫", "era": "元", "province": "广东", "city": "德庆县", "category": "ancient-buildings"},
+    {"seq": 125, "id_num": "4-0125-3-047", "name": "七曲山大庙", "era": "元至清", "province": "四川", "city": "梓潼县", "category": "ancient-buildings"},
+    {"seq": 126, "id_num": "4-0126-3-048", "name": "韩城大禹庙", "era": "元", "province": "陕西", "city": "韩城市", "category": "ancient-buildings"},
+    {"seq": 127, "id_num": "4-0127-3-049", "name": "兴国寺", "era": "元", "province": "甘肃", "city": "秦安县", "category": "ancient-buildings"},
+    {"seq": 128, "id_num": "4-0128-3-050", "name": "大高玄殿", "era": "明", "province": "北京", "city": "西城区", "category": "ancient-buildings"},
+    {"seq": 129, "id_num": "4-0129-3-051", "name": "历代帝王庙", "era": "明清", "province": "北京", "city": "西城区", "category": "ancient-buildings"},
+    {"seq": 130, "id_num": "4-0130-3-052", "name": "北京鼓楼钟楼", "era": "明清", "province": "北京", "city": "东城区", "category": "ancient-buildings"},
+    {"seq": 131, "id_num": "4-0131-3-053", "name": "蔚州玉皇阁", "era": "明", "province": "河北", "city": "蔚县", "category": "ancient-buildings"},
+    {"seq": 132, "id_num": "4-0132-3-054", "name": "万里长城－紫荆关", "era": "明", "province": "河北", "city": "易县", "category": "ancient-buildings"},
+    {"seq": 133, "id_num": "4-0133-3-055", "name": "毗卢寺", "era": "明", "province": "河北", "city": "石家庄市", "category": "ancient-buildings"},
+    {"seq": 134, "id_num": "4-0134-3-056", "name": "千佛庵", "era": "明", "province": "山西", "city": "隰县", "category": "ancient-buildings"},
+    {"seq": 135, "id_num": "4-0135-3-057", "name": "美岱召", "era": "明", "province": "内蒙古", "city": "土默特右旗", "category": "ancient-buildings"},
+    {"seq": 136, "id_num": "4-0136-3-058", "name": "万里长城－九门口", "era": "明", "province": "辽宁", "city": "绥中县", "category": "ancient-buildings"},
+    {"seq": 137, "id_num": "4-0137-3-059", "name": "䌽衣堂", "era": "明", "province": "江苏", "city": "常熟市", "category": "ancient-buildings"},
+    {"seq": 138, "id_num": "4-0138-3-060", "name": "诸葛长乐村民居", "era": "明清", "province": "浙江", "city": "兰溪市", "category": "ancient-buildings"},
+    {"seq": 139, "id_num": "4-0139-3-061", "name": "蒲壮所城", "era": "明", "province": "浙江", "city": "苍南县", "category": "ancient-buildings"},
+    {"seq": 140, "id_num": "4-0140-3-062", "name": "镇海口海防遗址", "era": "明至近代", "province": "浙江", "city": "宁波市", "category": "ancient-buildings"},
+    {"seq": 141, "id_num": "4-0141-3-063", "name": "棠樾石牌坊群", "era": "明清", "province": "安徽", "city": "歙县", "category": "ancient-buildings"},
+    {"seq": 142, "id_num": "4-0142-3-064", "name": "老屋阁及绿绕亭", "era": "明", "province": "安徽", "city": "黄山市", "category": "ancient-buildings"},
+    {"seq": 143, "id_num": "4-0143-3-065", "name": "罗东舒祠", "era": "明", "province": "安徽", "city": "黄山市", "category": "ancient-buildings"},
+    {"seq": 144, "id_num": "4-0144-3-066", "name": "东山关帝庙", "era": "明清", "province": "福建", "city": "东山县", "category": "ancient-buildings"},
+    {"seq": 145, "id_num": "4-0145-3-067", "name": "漳州石牌坊", "era": "明清", "province": "福建", "city": "漳州市", "category": "ancient-buildings"},
+    {"seq": 146, "id_num": "4-0146-3-068", "name": "归德府城墙", "era": "明", "province": "河南", "city": "商丘县", "category": "ancient-buildings"},
+    {"seq": 147, "id_num": "4-0147-3-069", "name": "太昊陵庙", "era": "明清", "province": "河南", "city": "淮阳县", "category": "ancient-buildings"},
+    {"seq": 148, "id_num": "4-0148-3-070", "name": "比干庙", "era": "明清", "province": "河南", "city": "卫辉市", "category": "ancient-buildings"},
+    {"seq": 149, "id_num": "4-0149-3-071", "name": "襄阳古隆中", "era": "明清", "province": "湖北", "city": "襄樊市", "category": "ancient-buildings"},
+    {"seq": 150, "id_num": "4-0150-3-072", "name": "荆州城墙", "era": "明清", "province": "湖北", "city": "荆州市", "category": "ancient-buildings"},
+    {"seq": 151, "id_num": "4-0151-3-073", "name": "许驸马府", "era": "明", "province": "广东", "city": "潮州市", "category": "ancient-buildings"},
+    {"seq": 152, "id_num": "4-0152-3-074", "name": "佛山祖庙", "era": "明清", "province": "广东", "city": "佛山市", "category": "ancient-buildings"},
+    {"seq": 153, "id_num": "4-0153-3-075", "name": "莫土司衙署", "era": "明清", "province": "广西", "city": "忻城县", "category": "ancient-buildings"},
+    {"seq": 154, "id_num": "4-0154-3-076", "name": "靖江王府及王陵", "era": "明", "province": "广西", "city": "桂林市", "category": "ancient-buildings"},
+    {"seq": 155, "id_num": "4-0155-3-077", "name": "丘浚故居及墓", "era": "明", "province": "海南", "city": "琼山市", "category": "ancient-buildings"},
+    {"seq": 156, "id_num": "4-0156-3-078", "name": "平武报恩寺", "era": "明", "province": "四川", "city": "平武县", "category": "ancient-buildings"},
+    {"seq": 157, "id_num": "4-0157-3-079", "name": "真武山古建筑群", "era": "明清", "province": "四川", "city": "宜宾市", "category": "ancient-buildings"},
+    {"seq": 158, "id_num": "4-0158-3-080", "name": "张桓侯祠", "era": "明清", "province": "四川", "city": "阆中市", "category": "ancient-buildings"},
+    {"seq": 159, "id_num": "4-0159-3-081", "name": "大宝积宫与琉璃殿", "era": "明", "province": "云南", "city": "丽江纳西族自治县", "category": "ancient-buildings"},
+    {"seq": 160, "id_num": "4-0160-3-082", "name": "白居寺", "era": "明", "province": "西藏", "city": "江孜县", "category": "ancient-buildings"},
+    {"seq": 161, "id_num": "4-0161-3-083", "name": "西安钟楼鼓楼", "era": "明", "province": "陕西", "city": "西安市", "category": "ancient-buildings"},
+    {"seq": 162, "id_num": "4-0162-3-084", "name": "水陆庵", "era": "明", "province": "陕西", "city": "蓝田县", "category": "ancient-buildings"},
+    {"seq": 163, "id_num": "4-0163-3-085", "name": "武威文庙", "era": "明", "province": "甘肃", "city": "武威市", "category": "ancient-buildings"},
+    {"seq": 164, "id_num": "4-0164-3-086", "name": "鲁土司衙门旧址", "era": "明清", "province": "甘肃", "city": "永登县", "category": "ancient-buildings"},
+    {"seq": 165, "id_num": "4-0165-3-087", "name": "南堂", "era": "清", "province": "北京", "city": "西城区", "category": "ancient-buildings"},
+    {"seq": 166, "id_num": "4-0166-3-088", "name": "觉生寺", "era": "清", "province": "北京", "city": "海淀区", "category": "ancient-buildings"},
+    {"seq": 167, "id_num": "4-0167-3-089", "name": "万荣后土庙", "era": "清", "province": "山西", "city": "万荣县", "category": "ancient-buildings"},
+    {"seq": 168, "id_num": "4-0168-3-090", "name": "祆神楼", "era": "清", "province": "山西", "city": "介休市", "category": "ancient-buildings"},
+    {"seq": 169, "id_num": "4-0169-3-091", "name": "五当召", "era": "清", "province": "内蒙古", "city": "包头市", "category": "ancient-buildings"},
+    {"seq": 170, "id_num": "4-0170-3-092", "name": "盂城驿", "era": "清", "province": "江苏", "city": "高邮市", "category": "ancient-buildings"},
+    {"seq": 171, "id_num": "4-0171-3-093", "name": "玉海楼", "era": "清", "province": "浙江", "city": "瑞安市", "category": "ancient-buildings"},
+    {"seq": 172, "id_num": "4-0172-3-094", "name": "二宜楼", "era": "清", "province": "福建", "city": "华安县", "category": "ancient-buildings"},
+    {"seq": 173, "id_num": "4-0173-3-095", "name": "魏氏庄园", "era": "清", "province": "山东", "city": "惠民县", "category": "ancient-buildings"},
+    {"seq": 174, "id_num": "4-0174-3-096", "name": "丁氏故宅", "era": "清", "province": "山东", "city": "龙口市", "category": "ancient-buildings"},
+    {"seq": 175, "id_num": "4-0175-3-097", "name": "开封城墙", "era": "清", "province": "河南", "city": "开封市", "category": "ancient-buildings"},
+    {"seq": 176, "id_num": "4-0176-3-098", "name": "周口关帝庙", "era": "清", "province": "河南", "city": "周口市", "category": "ancient-buildings"},
+    {"seq": 177, "id_num": "4-0177-3-099", "name": "内乡县衙", "era": "清", "province": "河南", "city": "内乡县", "category": "ancient-buildings"},
+    {"seq": 178, "id_num": "4-0178-3-100", "name": "马田鼓楼", "era": "清", "province": "湖南", "city": "通道侗族自治县", "category": "ancient-buildings"},
+    {"seq": 179, "id_num": "4-0179-3-101", "name": "宁远文庙", "era": "清", "province": "湖南", "city": "宁远县", "category": "ancient-buildings"},
+    {"seq": 180, "id_num": "4-0180-3-102", "name": "满堂围", "era": "清", "province": "广东", "city": "始兴县", "category": "ancient-buildings"},
+    {"seq": 181, "id_num": "4-0181-3-103", "name": "雷祖祠", "era": "明清", "province": "广东", "city": "雷州市", "category": "ancient-buildings"},
+    {"seq": 182, "id_num": "4-0182-3-104", "name": "东坡书院", "era": "明清", "province": "海南", "city": "儋州市", "category": "ancient-buildings"},
+    {"seq": 183, "id_num": "4-0183-3-105", "name": "德格印经院", "era": "清", "province": "四川", "city": "德格县", "category": "ancient-buildings"},
+    {"seq": 184, "id_num": "4-0184-3-106", "name": "夕佳山民居", "era": "明清", "province": "四川", "city": "江安县", "category": "ancient-buildings"},
+    {"seq": 185, "id_num": "4-0185-3-107", "name": "杨升庵祠及桂湖", "era": "清", "province": "四川", "city": "新都县", "category": "ancient-buildings"},
+    {"seq": 186, "id_num": "4-0186-3-108", "name": "中心镇公堂", "era": "清", "province": "云南", "city": "中甸县", "category": "ancient-buildings"},
+    {"seq": 187, "id_num": "4-0187-3-109", "name": "隆务寺", "era": "明清", "province": "青海", "city": "同仁县", "category": "ancient-buildings"},
+    {"seq": 188, "id_num": "4-0188-3-110", "name": "伊犁将军府", "era": "清", "province": "新疆", "city": "伊宁市", "category": "ancient-buildings"},
+
+    # ===== 石窟寺及石刻 (189-198) =====
+    {"seq": 189, "id_num": "4-0189-4-001", "name": "森木塞姆千佛洞", "era": "晋至宋", "province": "新疆", "city": "库车县", "category": "stone-carvings"},
+    {"seq": 190, "id_num": "4-0190-4-002", "name": "马蹄寺石窟群", "era": "十六国至清", "province": "甘肃", "city": "肃南裕固族自治县", "category": "stone-carvings"},
+    {"seq": 191, "id_num": "4-0191-4-003", "name": "灵泉寺石窟", "era": "东魏至宋", "province": "河南", "city": "安阳县", "category": "stone-carvings"},
+    {"seq": 192, "id_num": "4-0192-4-004", "name": "龙山石窟", "era": "元", "province": "山西", "city": "太原市", "category": "stone-carvings"},
+    {"seq": 193, "id_num": "4-0193-4-005", "name": "贺兰山岩画", "era": "远古", "province": "宁夏", "city": "贺兰县", "category": "stone-carvings"},
+    {"seq": 194, "id_num": "4-0194-4-006", "name": "龙兴观道德经幢", "era": "唐", "province": "河北", "city": "易县", "category": "stone-carvings"},
+    {"seq": 195, "id_num": "4-0195-4-007", "name": "天护陀罗尼经幢", "era": "唐", "province": "河北", "city": "石家庄市", "category": "stone-carvings"},
+    {"seq": 196, "id_num": "4-0196-4-008", "name": "瑞岩弥勒造像", "era": "元", "province": "福建", "city": "福清市", "category": "stone-carvings"},
+    {"seq": 197, "id_num": "4-0197-4-009", "name": "千唐志斋石刻", "era": "西晋至民国", "province": "河南", "city": "新安县", "category": "stone-carvings"},
+    {"seq": 198, "id_num": "4-0198-4-010", "name": "草庵石刻", "era": "元", "province": "福建", "city": "晋江市", "category": "stone-carvings"},
+
+    # ===== 近现代重要史迹及代表性建筑 (199-248) =====
+    {"seq": 199, "id_num": "4-0199-5-001", "name": "天津利顺德饭店旧址", "era": "清至民国", "province": "天津", "city": "和平区", "category": "modern-historic"},
+    {"seq": 200, "id_num": "4-0200-5-002", "name": "南开学校旧址", "era": "清至民国", "province": "天津", "city": "南开区", "category": "modern-historic"},
+    {"seq": 201, "id_num": "4-0201-5-003", "name": "大连俄国建筑", "era": "清", "province": "辽宁", "city": "大连市", "category": "modern-historic"},
+    {"seq": 202, "id_num": "4-0202-5-004", "name": "瞿秋白故居", "era": "清", "province": "江苏", "city": "常州市", "category": "modern-historic"},
+    {"seq": 203, "id_num": "4-0203-5-005", "name": "马江海战炮台烈士墓及昭忠祠", "era": "清", "province": "福建", "city": "福州市", "category": "modern-historic"},
+    {"seq": 204, "id_num": "4-0204-5-006", "name": "胡里山炮台", "era": "清", "province": "福建", "city": "厦门市", "category": "modern-historic"},
+    {"seq": 205, "id_num": "4-0205-5-007", "name": "烟台福建会馆", "era": "清", "province": "山东", "city": "烟台市", "category": "modern-historic"},
+    {"seq": 206, "id_num": "4-0206-5-008", "name": "青岛德国建筑", "era": "清", "province": "山东", "city": "青岛市", "category": "modern-historic"},
+    {"seq": 207, "id_num": "4-0207-5-009", "name": "谭嗣同故居", "era": "清", "province": "湖南", "city": "浏阳市", "category": "modern-historic"},
+    {"seq": 208, "id_num": "4-0208-5-010", "name": "魏源故居", "era": "清", "province": "湖南", "city": "隆回县", "category": "modern-historic"},
+    {"seq": 209, "id_num": "4-0209-5-011", "name": "广州沙面建筑群", "era": "清", "province": "广东", "city": "广州市", "category": "modern-historic"},
+    {"seq": 210, "id_num": "4-0210-5-012", "name": "康有为故居", "era": "清", "province": "广东", "city": "南海市", "category": "modern-historic"},
+    {"seq": 211, "id_num": "4-0211-5-013", "name": "梁启超故居", "era": "清", "province": "广东", "city": "新会市", "category": "modern-historic"},
+    {"seq": 212, "id_num": "4-0212-5-014", "name": "大邑刘氏庄园", "era": "清至民国", "province": "四川", "city": "大邑县", "category": "modern-historic"},
+    {"seq": 213, "id_num": "4-0213-5-015", "name": "纳楼长官司署", "era": "清", "province": "云南", "city": "建水县", "category": "modern-historic"},
+    {"seq": 214, "id_num": "4-0214-5-016", "name": "南甸宣抚司署", "era": "清至民国", "province": "云南", "city": "梁河县", "category": "modern-historic"},
+    {"seq": 215, "id_num": "4-0215-5-017", "name": "广州圣心大教堂", "era": "1888年", "province": "广东", "city": "广州市", "category": "modern-historic"},
+    {"seq": 216, "id_num": "4-0216-5-018", "name": "镇江英国领事馆旧址", "era": "1889-1890年", "province": "江苏", "city": "镇江市", "category": "modern-historic"},
+    {"seq": 217, "id_num": "4-0217-5-019", "name": "向警予故居", "era": "1895年", "province": "湖南", "city": "溆浦县", "category": "modern-historic"},
+    {"seq": 218, "id_num": "4-0218-5-020", "name": "硇州灯塔", "era": "1899年", "province": "广东", "city": "湛江市", "category": "modern-historic"},
+    {"seq": 219, "id_num": "4-0219-5-021", "name": "庐山会议旧址及庐山别墅建筑群", "era": "1902-1937年", "province": "江西", "city": "九江市", "category": "modern-historic"},
+    {"seq": 220, "id_num": "4-0220-5-022", "name": "上海外滩建筑群", "era": "1906-1937年", "province": "上海", "city": "黄浦区", "category": "modern-historic"},
+    {"seq": 221, "id_num": "4-0221-5-023", "name": "张学良旧居", "era": "1914年", "province": "辽宁", "city": "沈阳市", "category": "modern-historic"},
+    {"seq": 222, "id_num": "4-0222-5-024", "name": "蒋氏故居", "era": "民国", "province": "浙江", "city": "奉化市", "category": "modern-historic"},
+    {"seq": 223, "id_num": "4-0223-5-025", "name": "李宗仁故居", "era": "1921年", "province": "广西", "city": "临桂县", "category": "modern-historic"},
+    {"seq": 224, "id_num": "4-0224-5-026", "name": "李济深故居", "era": "民国", "province": "广西", "city": "苍梧县", "category": "modern-historic"},
+    {"seq": 225, "id_num": "4-0225-5-027", "name": "哈尔滨颐园街一号欧式建筑", "era": "1922年", "province": "黑龙江", "city": "哈尔滨市", "category": "modern-historic"},
+    {"seq": 226, "id_num": "4-0226-5-028", "name": "上海邮政总局", "era": "1924年", "province": "上海", "city": "虹口区", "category": "modern-historic"},
+    {"seq": 227, "id_num": "4-0227-5-029", "name": "圣索菲亚教堂", "era": "1923-1932年", "province": "黑龙江", "city": "哈尔滨市", "category": "modern-historic"},
+    {"seq": 228, "id_num": "4-0228-5-030", "name": "哈尔滨文庙", "era": "1926-1929年", "province": "黑龙江", "city": "哈尔滨市", "category": "modern-historic"},
+    {"seq": 229, "id_num": "4-0229-5-031", "name": "武汉国民政府旧址", "era": "1926-1927年", "province": "湖北", "city": "武汉市", "category": "modern-historic"},
+    {"seq": 230, "id_num": "4-0230-5-032", "name": "湘南年关暴动指挥部旧址", "era": "1928年", "province": "湖南", "city": "宜章县", "category": "modern-historic"},
+    {"seq": 231, "id_num": "4-0231-5-033", "name": "右江工农民主政府旧址", "era": "1929年", "province": "广西", "city": "田东县", "category": "modern-historic"},
+    {"seq": 232, "id_num": "4-0232-5-034", "name": "广州大元帅府旧址", "era": "民国", "province": "广东", "city": "广州市", "category": "modern-historic"},
+    {"seq": 233, "id_num": "4-0233-5-035", "name": "国立紫金山天文台旧址", "era": "1931年", "province": "江苏", "city": "南京市", "category": "modern-historic"},
+    {"seq": 234, "id_num": "4-0234-5-036", "name": "湘赣省委机关旧址", "era": "1931-1934年", "province": "江西", "city": "永新县", "category": "modern-historic"},
+    {"seq": 235, "id_num": "4-0235-5-037", "name": "闽浙赣省委机关旧址", "era": "1932-1934年", "province": "江西", "city": "横峰县", "category": "modern-historic"},
+    {"seq": 236, "id_num": "4-0236-5-038", "name": "红二十五军长征出发地", "era": "1934年", "province": "河南", "city": "罗山县", "category": "modern-historic"},
+    {"seq": 237, "id_num": "4-0237-5-039", "name": "会宁红军会师旧址", "era": "1936年", "province": "甘肃", "city": "会宁县", "category": "modern-historic"},
+    {"seq": 238, "id_num": "4-0238-5-040", "name": "晋察冀边区政府及军区司令部旧址", "era": "1938-1948年", "province": "河北", "city": "阜平县", "category": "modern-historic"},
+    {"seq": 239, "id_num": "4-0239-5-041", "name": "南岳忠烈祠", "era": "1938-1942年", "province": "湖南", "city": "衡阳市", "category": "modern-historic"},
+    {"seq": 240, "id_num": "4-0240-5-042", "name": "八路军桂林办事处旧址", "era": "1938年", "province": "广西", "city": "桂林市", "category": "modern-historic"},
+    {"seq": 241, "id_num": "4-0241-5-043", "name": "晋绥边区政府及军区司令部旧址", "era": "1939年", "province": "山西", "city": "兴县", "category": "modern-historic"},
+    {"seq": 242, "id_num": "4-0242-5-044", "name": "八路军一二九师司令部旧址", "era": "1940年", "province": "河北", "city": "涉县", "category": "modern-historic"},
+    {"seq": 243, "id_num": "4-0243-5-045", "name": "八路军前方总部旧址", "era": "1941-1943年", "province": "山西", "city": "左权县", "category": "modern-historic"},
+    {"seq": 244, "id_num": "4-0244-5-046", "name": "八路军一一五师司令部旧址", "era": "1941-1945年", "province": "山东", "city": "莒南县", "category": "modern-historic"},
+    {"seq": 245, "id_num": "4-0245-5-047", "name": "新四军五师司令部旧址", "era": "1942-1945年", "province": "湖北", "city": "大悟县", "category": "modern-historic"},
+    {"seq": 246, "id_num": "4-0246-5-048", "name": "国殇墓园", "era": "1945年", "province": "云南", "city": "腾冲县", "category": "modern-historic"},
+    {"seq": 247, "id_num": "4-0247-5-049", "name": "中国共产党代表团办事处旧址", "era": "1946-1947年", "province": "江苏", "city": "南京市", "category": "modern-historic"},
+    {"seq": 248, "id_num": "4-0248-5-050", "name": "渡江战役总前委旧址", "era": "1949年", "province": "安徽", "city": "肥东县", "category": "modern-historic"},
+
+    # ===== 其他 (249-250) =====
+    {"seq": 249, "id_num": "4-0249-6-001", "name": "泸州大曲老窖池", "era": "明", "province": "四川", "city": "泸州市", "category": "others"},
+    {"seq": 250, "id_num": "4-0250-6-002", "name": "延一井旧址", "era": "清", "province": "陕西", "city": "延长县", "category": "others"},
+]
+
+def build_item(raw):
+    code = PROVINCE_CODE[raw["province"]]
+    return {
+        "id": raw["id_num"],
+        "name": raw["name"],
+        "level": "national",
+        "batch": 4,
+        "category": raw["category"],
+        "province": PROVINCE_FULL[code],
+        "city": raw["city"],
+        "district": "",
+        "address": "",
+        "era": raw["era"],
+        "description": "",
+        "historical_value": "",
+        "sources": ["维基百科-第四批全国重点文物保护单位"],
+        "last_updated": "2026-03-06",
+        "data_quality": "basic",
+        "contributors": ["iBo"]
+    }
+
+def main():
+    by_province = {}
+    for raw in BATCH4:
+        code = PROVINCE_CODE[raw["province"]]
+        by_province.setdefault(code, []).append(build_item(raw))
+
+    out_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "national-level")
+    os.makedirs(out_dir, exist_ok=True)
+
+    total_new = 0
+    for code, items in sorted(by_province.items()):
+        path = os.path.join(out_dir, f"{code}.json")
+        existing = {}
+        if os.path.exists(path):
+            with open(path) as f:
+                for item in json.load(f):
+                    existing[item["id"]] = item
+        for item in items:
+            if item["id"] not in existing:
+                existing[item["id"]] = item
+                total_new += 1
+            else:
+                if "batch" not in existing[item["id"]]:
+                    existing[item["id"]]["batch"] = 4
+        merged = sorted(existing.values(), key=lambda x: x["id"])
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(merged, f, ensure_ascii=False, indent=2)
+        print(f"  {PROVINCE_FULL[code]} ({code}.json): {len(merged)} items total")
+
+    print(f"\n✅ 第四批 250 项录入完成 (新增 {total_new} 项)")
+    print(f"  分类统计:")
+    cats = {}
+    for raw in BATCH4:
+        cats[raw["category"]] = cats.get(raw["category"], 0) + 1
+    for cat, count in sorted(cats.items()):
+        print(f"    {cat}: {count}")
+
+if __name__ == "__main__":
+    main()

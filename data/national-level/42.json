@@ -438,5 +438,203 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0003-1-003",
+    "name": "鸡公山遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "湖北省",
+    "city": "荆州市",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0015-1-015",
+    "name": "石家河遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "湖北省",
+    "city": "天门市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0016-1-016",
+    "name": "雕龙碑遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "湖北省",
+    "city": "枣阳市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0060-2-004",
+    "name": "纪山楚墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "湖北省",
+    "city": "荆门市",
+    "district": "",
+    "address": "",
+    "era": "东周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0123-3-045",
+    "name": "南岩宫",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖北省",
+    "city": "丹江口市",
+    "district": "",
+    "address": "",
+    "era": "元明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0149-3-071",
+    "name": "襄阳古隆中",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖北省",
+    "city": "襄樊市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0150-3-072",
+    "name": "荆州城墙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "湖北省",
+    "city": "荆州市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0229-5-031",
+    "name": "武汉国民政府旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖北省",
+    "city": "武汉市",
+    "district": "",
+    "address": "",
+    "era": "1926-1927年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0245-5-047",
+    "name": "新四军五师司令部旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "湖北省",
+    "city": "大悟县",
+    "district": "",
+    "address": "",
+    "era": "1942-1945年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

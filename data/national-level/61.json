@@ -812,5 +812,401 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0020-1-020",
+    "name": "姜寨遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "临潼县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0031-1-031",
+    "name": "郑国渠首遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "泾阳县",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0032-1-032",
+    "name": "魏长城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "华阴市",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0039-1-039",
+    "name": "甘泉宫遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "淳化县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0043-1-043",
+    "name": "统万城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "靖边县",
+    "district": "",
+    "address": "",
+    "era": "十六国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0047-1-047",
+    "name": "隋大兴唐长安城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "隋唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0048-1-048",
+    "name": "隋仁寿宫唐九成宫遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "麟游县",
+    "district": "",
+    "address": "",
+    "era": "隋唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0049-1-049",
+    "name": "灞桥遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "隋至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0053-1-053",
+    "name": "华清宫遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "临潼县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0068-2-012",
+    "name": "武侯墓",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "勉县",
+    "district": "",
+    "address": "",
+    "era": "三国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0069-2-013",
+    "name": "泰陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "district": "",
+    "address": "",
+    "era": "隋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0070-2-014",
+    "name": "永陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "富平县",
+    "district": "",
+    "address": "",
+    "era": "西魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0080-3-002",
+    "name": "仙游寺法王塔",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "周至县",
+    "district": "",
+    "address": "",
+    "era": "隋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0093-3-015",
+    "name": "府州城",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "府谷县",
+    "district": "",
+    "address": "",
+    "era": "五代至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0126-3-048",
+    "name": "韩城大禹庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "韩城市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0161-3-083",
+    "name": "西安钟楼鼓楼",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0162-3-084",
+    "name": "水陆庵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "蓝田县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0250-6-002",
+    "name": "延一井旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "others",
+    "province": "陕西省",
+    "city": "延长县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

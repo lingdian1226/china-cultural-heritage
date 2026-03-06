@@ -416,5 +416,225 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0038-1-038",
+    "name": "城村汉城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "福建省",
+    "city": "武夷山市",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0103-3-025",
+    "name": "元妙观三清殿",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "莆田市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0104-3-026",
+    "name": "青白礁慈济宫",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "厦门市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0144-3-066",
+    "name": "东山关帝庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "东山县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0145-3-067",
+    "name": "漳州石牌坊",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "漳州市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0172-3-094",
+    "name": "二宜楼",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "华安县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0196-4-008",
+    "name": "瑞岩弥勒造像",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "福建省",
+    "city": "福清市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0198-4-010",
+    "name": "草庵石刻",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "福建省",
+    "city": "晋江市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0203-5-005",
+    "name": "马江海战炮台烈士墓及昭忠祠",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "福建省",
+    "city": "福州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0204-5-006",
+    "name": "胡里山炮台",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "福建省",
+    "city": "厦门市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

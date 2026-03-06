@@ -416,5 +416,203 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0008-1-008",
+    "name": "良渚遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "余杭市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0077-2-021",
+    "name": "大禹陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0102-3-024",
+    "name": "孔氏南宗家庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "衢州市",
+    "district": "",
+    "address": "",
+    "era": "南宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0121-3-043",
+    "name": "延福寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "武义县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0138-3-060",
+    "name": "诸葛长乐村民居",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "兰溪市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0139-3-061",
+    "name": "蒲壮所城",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "苍南县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0140-3-062",
+    "name": "镇海口海防遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "宁波市",
+    "district": "",
+    "address": "",
+    "era": "明至近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0171-3-093",
+    "name": "玉海楼",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "瑞安市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0222-5-024",
+    "name": "蒋氏故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "奉化市",
+    "district": "",
+    "address": "",
+    "era": "民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

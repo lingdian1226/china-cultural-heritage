@@ -152,5 +152,27 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0193-4-005",
+    "name": "贺兰山岩画",
+    "level": "national",
+    "batch": 4,
+    "category": "stone-carvings",
+    "province": "宁夏回族自治区",
+    "city": "贺兰县",
+    "district": "",
+    "address": "",
+    "era": "远古",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

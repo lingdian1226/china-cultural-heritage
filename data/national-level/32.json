@@ -636,5 +636,247 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0052-1-052",
+    "name": "扬州城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "江苏省",
+    "city": "扬州市",
+    "district": "",
+    "address": "",
+    "era": "隋至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0057-2-001",
+    "name": "大伊山石棺墓",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "江苏省",
+    "city": "灌云县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0063-2-007",
+    "name": "汉楚王墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "江苏省",
+    "city": "徐州市",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0073-2-017",
+    "name": "明祖陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "江苏省",
+    "city": "盱眙县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0084-3-006",
+    "name": "罗汉院双塔及正殿遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "苏州市",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0137-3-059",
+    "name": "䌽衣堂",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "常熟市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0170-3-092",
+    "name": "盂城驿",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "高邮市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0202-5-004",
+    "name": "瞿秋白故居",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "常州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0216-5-018",
+    "name": "镇江英国领事馆旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "镇江市",
+    "district": "",
+    "address": "",
+    "era": "1889-1890年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0233-5-035",
+    "name": "国立紫金山天文台旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "1931年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0247-5-049",
+    "name": "中国共产党代表团办事处旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "1946-1947年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

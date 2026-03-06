@@ -240,5 +240,137 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0025-1-025",
+    "name": "吴城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "樟树市",
+    "district": "",
+    "address": "",
+    "era": "商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0042-1-042",
+    "name": "洪州窑遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "丰城市",
+    "district": "",
+    "address": "",
+    "era": "东晋至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0105-3-027",
+    "name": "赣州城墙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "赣州市",
+    "district": "",
+    "address": "",
+    "era": "宋明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0219-5-021",
+    "name": "庐山会议旧址及庐山别墅建筑群",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "九江市",
+    "district": "",
+    "address": "",
+    "era": "1902-1937年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0234-5-036",
+    "name": "湘赣省委机关旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "永新县",
+    "district": "",
+    "address": "",
+    "era": "1931-1934年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0235-5-037",
+    "name": "闽浙赣省委机关旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "横峰县",
+    "district": "",
+    "address": "",
+    "era": "1932-1934年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

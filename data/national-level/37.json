@@ -592,5 +592,203 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0010-1-010",
+    "name": "北庄遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "长岛县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0011-1-011",
+    "name": "丹土遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "五莲县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0067-2-011",
+    "name": "曹植墓",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "东阿县",
+    "district": "",
+    "address": "",
+    "era": "三国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0106-3-028",
+    "name": "广饶关帝庙大殿",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "广饶县",
+    "district": "",
+    "address": "",
+    "era": "南宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0173-3-095",
+    "name": "魏氏庄园",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "惠民县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0174-3-096",
+    "name": "丁氏故宅",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "龙口市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0205-5-007",
+    "name": "烟台福建会馆",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "烟台市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0206-5-008",
+    "name": "青岛德国建筑",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "青岛市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0244-5-046",
+    "name": "八路军一一五师司令部旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "莒南县",
+    "district": "",
+    "address": "",
+    "era": "1941-1945年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

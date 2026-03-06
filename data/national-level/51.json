@@ -658,5 +658,313 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0001-1-001",
+    "name": "龙骨坡遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "巫山县",
+    "district": "",
+    "address": "",
+    "era": "更新世",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0055-1-055",
+    "name": "钓鱼城遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "合川市",
+    "district": "",
+    "address": "",
+    "era": "宋元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0066-2-010",
+    "name": "郪江崖墓群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "三台县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0076-2-020",
+    "name": "明蜀王陵",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "成都市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0079-3-001",
+    "name": "龙脑桥",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "泸县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0125-3-047",
+    "name": "七曲山大庙",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "梓潼县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0156-3-078",
+    "name": "平武报恩寺",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "平武县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0157-3-079",
+    "name": "真武山古建筑群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "宜宾市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0158-3-080",
+    "name": "张桓侯祠",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "阆中市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0183-3-105",
+    "name": "德格印经院",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "德格县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0184-3-106",
+    "name": "夕佳山民居",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "江安县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0185-3-107",
+    "name": "杨升庵祠及桂湖",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "新都县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0212-5-014",
+    "name": "大邑刘氏庄园",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "四川省",
+    "city": "大邑县",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0249-6-001",
+    "name": "泸州大曲老窖池",
+    "level": "national",
+    "batch": 4,
+    "category": "others",
+    "province": "四川省",
+    "city": "泸州市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

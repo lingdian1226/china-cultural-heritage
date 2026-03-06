@@ -372,5 +372,159 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0018-1-018",
+    "name": "石佛洞遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "云南省",
+    "city": "耿马傣族佤族自治县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0087-3-009",
+    "name": "妙湛寺金刚塔",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "昆明市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0159-3-081",
+    "name": "大宝积宫与琉璃殿",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "丽江纳西族自治县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0186-3-108",
+    "name": "中心镇公堂",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "中甸县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0213-5-015",
+    "name": "纳楼长官司署",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "云南省",
+    "city": "建水县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0214-5-016",
+    "name": "南甸宣抚司署",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "云南省",
+    "city": "梁河县",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0246-5-048",
+    "name": "国殇墓园",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "云南省",
+    "city": "腾冲县",
+    "district": "",
+    "address": "",
+    "era": "1945年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

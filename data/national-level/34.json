@@ -196,5 +196,137 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "4-0009-1-009",
+    "name": "薛家岗遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "潜山县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0027-1-027",
+    "name": "大工山－凤凰山铜矿遗址",
+    "level": "national",
+    "batch": 4,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "南陵县",
+    "district": "",
+    "address": "",
+    "era": "西周至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0141-3-063",
+    "name": "棠樾石牌坊群",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "歙县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0142-3-064",
+    "name": "老屋阁及绿绕亭",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黄山市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0143-3-065",
+    "name": "罗东舒祠",
+    "level": "national",
+    "batch": 4,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黄山市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "4-0248-5-050",
+    "name": "渡江战役总前委旧址",
+    "level": "national",
+    "batch": 4,
+    "category": "modern-historic",
+    "province": "安徽省",
+    "city": "肥东县",
+    "district": "",
+    "address": "",
+    "era": "1949年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第四批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]
