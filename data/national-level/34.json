@@ -1314,6 +1314,156 @@
       "era": "清"
     },
     {
+      "id": "8-0490-4-013",
+      "name": "阮鹗墓石刻",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "安徽",
+      "city": "枞阳县",
+      "era": "明"
+    },
+    {
+      "id": "8-0491-4-014",
+      "name": "汪由敦墓石刻",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "安徽",
+      "city": "休宁县",
+      "era": "清"
+    },
+    {
+      "id": "8-0593-5-077",
+      "name": "戴安澜故居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "无为县",
+      "era": "1904年"
+    },
+    {
+      "id": "8-0594-5-078",
+      "name": "津浦铁路淮河大铁桥",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "蚌埠市蚌山区",
+      "era": "1911年"
+    },
+    {
+      "id": "8-0595-5-079",
+      "name": "老芜湖海关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "芜湖市镜湖区",
+      "era": "1919年"
+    },
+    {
+      "id": "8-0596-5-080",
+      "name": "张治中故居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "巢湖市",
+      "era": "1890年"
+    },
+    {
+      "id": "8-0597-5-081",
+      "name": "红二十八军重建会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "金寨县",
+      "era": "1933年"
+    },
+    {
+      "id": "8-0598-5-082",
+      "name": "芜湖内思高级工业职业学校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "芜湖市镜湖区",
+      "era": "1934年"
+    },
+    {
+      "id": "8-0599-5-083",
+      "name": "中共皖浙赣省委驻地旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "休宁县",
+      "era": "1936－1937年"
+    },
+    {
+      "id": "8-0600-5-084",
+      "name": "野寨抗日阵亡将士公墓",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "潜山市",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0601-5-085",
+      "name": "佛子岭水库连拱坝",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "霍山县",
+      "era": "1954年"
+    },
+    {
+      "id": "8-0602-5-086",
+      "name": "涡河一桥",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "怀远县",
+      "era": "1964年"
+    },
+    {
+      "id": "8-0603-5-087",
+      "name": "小岗村旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "凤阳县",
+      "era": "1978年"
+    },
+    {
+      "id": "8-0000-1-007",
+      "name": "骆冲窑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "安徽",
+      "city": "繁昌县",
+      "era": "五代至宋"
+    },
+    {
+      "id": "8-0000-5-009",
+      "name": "九龙岗老火车站碉堡",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "安徽",
+      "city": "淮南市大通区",
+      "era": "1938－1945年"
+    },
+    {
       "id": "7-0184-1-184",
       "name": "毛竹山、官山遗址",
       "level": "national",
@@ -1452,136 +1602,6 @@
       "province": "安徽",
       "city": "宣城市绩溪县",
       "era": "宋至民国"
-    },
-    {
-      "id": "8-0490-4-013",
-      "name": "阮鹗墓石刻",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "安徽",
-      "city": "枞阳县",
-      "era": "明"
-    },
-    {
-      "id": "8-0491-4-014",
-      "name": "汪由敦墓石刻",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "安徽",
-      "city": "休宁县",
-      "era": "清"
-    },
-    {
-      "id": "8-0593-5-077",
-      "name": "戴安澜故居",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "无为县",
-      "era": "1904年"
-    },
-    {
-      "id": "8-0594-5-078",
-      "name": "津浦铁路淮河大铁桥",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "蚌埠市蚌山区",
-      "era": "1911年"
-    },
-    {
-      "id": "8-0595-5-079",
-      "name": "老芜湖海关旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "芜湖市镜湖区",
-      "era": "1919年"
-    },
-    {
-      "id": "8-0596-5-080",
-      "name": "张治中故居",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "巢湖市",
-      "era": "1890年"
-    },
-    {
-      "id": "8-0597-5-081",
-      "name": "红二十八军重建会议旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "金寨县",
-      "era": "1933年"
-    },
-    {
-      "id": "8-0598-5-082",
-      "name": "芜湖内思高级工业职业学校旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "芜湖市镜湖区",
-      "era": "1934年"
-    },
-    {
-      "id": "8-0599-5-083",
-      "name": "中共皖浙赣省委驻地旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "休宁县",
-      "era": "1936－1937年"
-    },
-    {
-      "id": "8-0600-5-084",
-      "name": "野寨抗日阵亡将士公墓",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "潜山市",
-      "era": "1943年"
-    },
-    {
-      "id": "8-0601-5-085",
-      "name": "佛子岭水库连拱坝",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "霍山县",
-      "era": "1954年"
-    },
-    {
-      "id": "8-0602-5-086",
-      "name": "涡河一桥",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "怀远县",
-      "era": "1964年"
-    },
-    {
-      "id": "8-0603-5-087",
-      "name": "小岗村旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "凤阳县",
-      "era": "1978年"
     },
     {
       "id": "7-0578-2-062",
@@ -1994,16 +2014,6 @@
       "era": "清"
     },
     {
-      "id": "7-1968-3-004",
-      "name": "呈坎村古建筑群（扩展项目）",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "安徽",
-      "city": "黄山市徽州区",
-      "era": "明至民国"
-    },
-    {
       "id": "7-1530-4-033",
       "name": "琅琊山摩崖石刻及碑刻",
       "level": "national",
@@ -2172,26 +2182,6 @@
       "province": "安徽",
       "city": "合肥市庐阳区",
       "era": "1956年"
-    },
-    {
-      "id": "8-0000-1-007",
-      "name": "骆冲窑遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "安徽",
-      "city": "繁昌县",
-      "era": "五代至宋"
-    },
-    {
-      "id": "8-0000-5-009",
-      "name": "九龙岗老火车站碉堡",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "安徽",
-      "city": "淮南市大通区",
-      "era": "1938－1945年"
     }
   ]
 }

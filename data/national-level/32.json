@@ -1968,6 +1968,136 @@
       "era": "清"
     },
     {
+      "id": "8-0572-5-056",
+      "name": "马林医院旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1892－1914年"
+    },
+    {
+      "id": "8-0573-5-057",
+      "name": "日本驻南京大使馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1935－1945年"
+    },
+    {
+      "id": "8-0574-5-058",
+      "name": "国立美术陈列馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1936－1937年"
+    },
+    {
+      "id": "8-0575-5-059",
+      "name": "侵华日军南京利济巷慰安所旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市秦淮区",
+      "era": "1937－1945年"
+    },
+    {
+      "id": "8-0576-5-060",
+      "name": "八路军驻南京办事处旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市鼓楼区",
+      "era": "1937年"
+    },
+    {
+      "id": "8-0577-5-061",
+      "name": "新四军盐阜区抗日阵亡将士纪念塔",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "阜宁县",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0578-5-062",
+      "name": "黄花塘新四军军部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "盱眙县",
+      "era": "1943－1945年"
+    },
+    {
+      "id": "8-0579-5-063",
+      "name": "淮安中共中央华中分局旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "1945－1946年"
+    },
+    {
+      "id": "8-0752-6-002",
+      "name": "兴化垛田",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "兴化市",
+      "era": "唐至今"
+    },
+    {
+      "id": "8-0753-6-003",
+      "name": "江阴蚕种场",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "江阴市",
+      "era": "1928年"
+    },
+    {
+      "id": "8-0754-6-004",
+      "name": "洋河地下酒窖",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "江苏",
+      "city": "宿迁市宿城区",
+      "era": "1960－1975年"
+    },
+    {
+      "id": "8-0000-1-005",
+      "name": "板闸遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江苏",
+      "city": "淮安市淮安区",
+      "era": "明"
+    },
+    {
+      "id": "8-0000-5-008",
+      "name": "中山陵附属革命历史图书馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江苏",
+      "city": "南京市玄武区",
+      "era": "1935年"
+    },
+    {
       "id": "7-0138-1-138",
       "name": "中华曙猿化石地点",
       "level": "national",
@@ -2206,86 +2336,6 @@
       "province": "江苏",
       "city": "无锡市宜兴市",
       "era": "明至清"
-    },
-    {
-      "id": "8-0572-5-056",
-      "name": "马林医院旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市鼓楼区",
-      "era": "1892－1914年"
-    },
-    {
-      "id": "8-0573-5-057",
-      "name": "日本驻南京大使馆旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市鼓楼区",
-      "era": "1935－1945年"
-    },
-    {
-      "id": "8-0574-5-058",
-      "name": "国立美术陈列馆旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市玄武区",
-      "era": "1936－1937年"
-    },
-    {
-      "id": "8-0575-5-059",
-      "name": "侵华日军南京利济巷慰安所旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市秦淮区",
-      "era": "1937－1945年"
-    },
-    {
-      "id": "8-0576-5-060",
-      "name": "八路军驻南京办事处旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市鼓楼区",
-      "era": "1937年"
-    },
-    {
-      "id": "8-0577-5-061",
-      "name": "新四军盐阜区抗日阵亡将士纪念塔",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "阜宁县",
-      "era": "1943年"
-    },
-    {
-      "id": "8-0578-5-062",
-      "name": "黄花塘新四军军部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "盱眙县",
-      "era": "1943－1945年"
-    },
-    {
-      "id": "8-0579-5-063",
-      "name": "淮安中共中央华中分局旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "淮安市淮安区",
-      "era": "1945－1946年"
     },
     {
       "id": "7-0563-2-047",
@@ -3096,76 +3146,6 @@
       "province": "江苏",
       "city": "无锡市江阴市",
       "era": "1947年"
-    },
-    {
-      "id": "7-1978-5-002",
-      "name": "丽则女学校旧址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "苏州市吴江区",
-      "era": "1911年"
-    },
-    {
-      "id": "7-1979-5-003",
-      "name": "南通大生第三纺织公司旧址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南通市海门市",
-      "era": "1919年"
-    },
-    {
-      "id": "8-0752-6-002",
-      "name": "兴化垛田",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "江苏",
-      "city": "兴化市",
-      "era": "唐至今"
-    },
-    {
-      "id": "8-0753-6-003",
-      "name": "江阴蚕种场",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "江苏",
-      "city": "江阴市",
-      "era": "1928年"
-    },
-    {
-      "id": "8-0754-6-004",
-      "name": "洋河地下酒窖",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "江苏",
-      "city": "宿迁市宿城区",
-      "era": "1960－1975年"
-    },
-    {
-      "id": "8-0000-1-005",
-      "name": "板闸遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "江苏",
-      "city": "淮安市淮安区",
-      "era": "明"
-    },
-    {
-      "id": "8-0000-5-008",
-      "name": "中山陵附属革命历史图书馆旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江苏",
-      "city": "南京市玄武区",
-      "era": "1935年"
     }
   ]
 }

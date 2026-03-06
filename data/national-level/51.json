@@ -2314,6 +2314,126 @@
       "era": "宋至民国"
     },
     {
+      "id": "8-0696-5-180",
+      "name": "荣县军政府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "荣县",
+      "era": "1911年"
+    },
+    {
+      "id": "8-0697-5-181",
+      "name": "雅安明德中学旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "雅安市雨城区",
+      "era": "1922年"
+    },
+    {
+      "id": "8-0698-5-182",
+      "name": "洞窝水电站",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "泸州市龙马潭区",
+      "era": "1925年"
+    },
+    {
+      "id": "8-0699-5-183",
+      "name": "木门会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "旺苍县",
+      "era": "1933年"
+    },
+    {
+      "id": "8-0700-5-184",
+      "name": "通江红四方面军总医院旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "通江县",
+      "era": "1934－1935年"
+    },
+    {
+      "id": "8-0701-5-185",
+      "name": "红军长征过石厢子旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "叙永县",
+      "era": "1935年"
+    },
+    {
+      "id": "8-0702-5-186",
+      "name": "川藏公路大渡河悬索桥",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "泸定县",
+      "era": "1951年"
+    },
+    {
+      "id": "8-0703-5-187",
+      "name": "蓬基井",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "大英县",
+      "era": "1958年"
+    },
+    {
+      "id": "8-0704-5-188",
+      "name": "三线核武器研制基地旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "梓潼县",
+      "era": "1969年"
+    },
+    {
+      "id": "8-0705-5-189",
+      "name": "首座受控核聚变实验装置旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "乐山市市中区",
+      "era": "1971年"
+    },
+    {
+      "id": "8-0706-5-190",
+      "name": "奇峰渡槽",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "四川",
+      "city": "泸县",
+      "era": "1975－1978年"
+    },
+    {
+      "id": "8-0761-6-011",
+      "name": "先市酱油酿造作坊群",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "四川",
+      "city": "合江县",
+      "era": "清至今"
+    },
+    {
       "id": "7-0404-1-404",
       "name": "哈休遗址",
       "level": "national",
@@ -2402,16 +2522,6 @@
       "province": "四川",
       "city": "四川省、云南省、贵州省",
       "era": "唐至民国"
-    },
-    {
-      "id": "7-1955-1-012",
-      "name": "泸州老窖窖池群及酿酒作坊",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "四川",
-      "city": "泸州市江阳区",
-      "era": "明、清"
     },
     {
       "id": "7-0645-2-129",
@@ -3332,166 +3442,6 @@
       "province": "四川",
       "city": "眉山市洪雅县",
       "era": "1937年"
-    },
-    {
-      "id": "7-1985-5-009",
-      "name": "翰林院子和蚕房院子",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "广安市广安区",
-      "era": "清"
-    },
-    {
-      "id": "7-1986-5-010",
-      "name": "巴中红军石刻标语群",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "巴中市巴州区",
-      "era": "1933~1934年"
-    },
-    {
-      "id": "7-1987-5-011",
-      "name": "红军飞夺泸定桥战前动员会旧址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "甘孜藏族自治州泸定县",
-      "era": "1935年"
-    },
-    {
-      "id": "7-1988-5-012",
-      "name": "古蔺县红军四渡赤水战役遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "泸州市古蔺县",
-      "era": "1935年"
-    },
-    {
-      "id": "8-0696-5-180",
-      "name": "荣县军政府旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "荣县",
-      "era": "1911年"
-    },
-    {
-      "id": "8-0697-5-181",
-      "name": "雅安明德中学旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "雅安市雨城区",
-      "era": "1922年"
-    },
-    {
-      "id": "8-0698-5-182",
-      "name": "洞窝水电站",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "泸州市龙马潭区",
-      "era": "1925年"
-    },
-    {
-      "id": "8-0699-5-183",
-      "name": "木门会议旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "旺苍县",
-      "era": "1933年"
-    },
-    {
-      "id": "8-0700-5-184",
-      "name": "通江红四方面军总医院旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "通江县",
-      "era": "1934－1935年"
-    },
-    {
-      "id": "8-0701-5-185",
-      "name": "红军长征过石厢子旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "叙永县",
-      "era": "1935年"
-    },
-    {
-      "id": "8-0702-5-186",
-      "name": "川藏公路大渡河悬索桥",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "泸定县",
-      "era": "1951年"
-    },
-    {
-      "id": "8-0703-5-187",
-      "name": "蓬基井",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "大英县",
-      "era": "1958年"
-    },
-    {
-      "id": "8-0704-5-188",
-      "name": "三线核武器研制基地旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "梓潼县",
-      "era": "1969年"
-    },
-    {
-      "id": "8-0705-5-189",
-      "name": "首座受控核聚变实验装置旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "乐山市市中区",
-      "era": "1971年"
-    },
-    {
-      "id": "8-0706-5-190",
-      "name": "奇峰渡槽",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "四川",
-      "city": "泸县",
-      "era": "1975－1978年"
-    },
-    {
-      "id": "8-0761-6-011",
-      "name": "先市酱油酿造作坊群",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "四川",
-      "city": "合江县",
-      "era": "清至今"
     }
   ]
 }

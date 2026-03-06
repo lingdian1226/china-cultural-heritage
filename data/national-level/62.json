@@ -1396,6 +1396,46 @@
       "era": "北魏至清"
     },
     {
+      "id": "8-0740-5-224",
+      "name": "山城堡战役旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "甘肃",
+      "city": "环县",
+      "era": "1936年"
+    },
+    {
+      "id": "8-0741-5-225",
+      "name": "河连湾陕甘宁省苏维埃政府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "甘肃",
+      "city": "环县",
+      "era": "1936－1937年"
+    },
+    {
+      "id": "8-0742-5-226",
+      "name": "尕路田大房子",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "甘肃",
+      "city": "临潭县",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0000-4-007",
+      "name": "西狭古栈道遗址及题刻",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "甘肃",
+      "city": "成县",
+      "era": "东汉"
+    },
+    {
       "id": "7-0458-1-458",
       "name": "牛角沟遗址",
       "level": "national",
@@ -1616,16 +1656,6 @@
       "era": "汉至明"
     },
     {
-      "id": "7-1954-1-011",
-      "name": "锁阳城古渠道遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "甘肃",
-      "city": "酒泉市瓜州县",
-      "era": "唐"
-    },
-    {
       "id": "7-0682-2-166",
       "name": "磨咀子和五坝山墓群",
       "level": "national",
@@ -1684,16 +1714,6 @@
       "province": "甘肃",
       "city": "武威市凉州区",
       "era": "元"
-    },
-    {
-      "id": "7-1964-2-009",
-      "name": "八卦营墓群",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "甘肃",
-      "city": "张掖市民乐县",
-      "era": "汉"
     },
     {
       "id": "7-1446-3-744",
@@ -1946,16 +1966,6 @@
       "era": "宋至明"
     },
     {
-      "id": "7-1976-4-003",
-      "name": "文殊山后山千佛洞、古佛洞",
-      "level": "national",
-      "batch": 7,
-      "category": "stone-carvings",
-      "province": "甘肃",
-      "city": "张掖市肃南裕固族自治县",
-      "era": "南北朝至宋"
-    },
-    {
       "id": "7-1920-5-313",
       "name": "南梁陕甘边区革命政府旧址",
       "level": "national",
@@ -2004,46 +2014,6 @@
       "province": "甘肃",
       "city": "临夏回族自治州临夏市",
       "era": "1947年"
-    },
-    {
-      "id": "8-0740-5-224",
-      "name": "山城堡战役旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "甘肃",
-      "city": "环县",
-      "era": "1936年"
-    },
-    {
-      "id": "8-0741-5-225",
-      "name": "河连湾陕甘宁省苏维埃政府旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "甘肃",
-      "city": "环县",
-      "era": "1936－1937年"
-    },
-    {
-      "id": "8-0742-5-226",
-      "name": "尕路田大房子",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "甘肃",
-      "city": "临潭县",
-      "era": "1943年"
-    },
-    {
-      "id": "8-0000-4-007",
-      "name": "西狭古栈道遗址及题刻",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "甘肃",
-      "city": "成县",
-      "era": "东汉"
     }
   ]
 }

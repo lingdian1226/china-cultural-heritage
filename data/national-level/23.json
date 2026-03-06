@@ -490,6 +490,106 @@
       "era": "唐"
     },
     {
+      "id": "8-0558-5-042",
+      "name": "鸡西万人坑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "鸡西市滴道区",
+      "era": "1934－1945年"
+    },
+    {
+      "id": "8-0559-5-043",
+      "name": "朝阳山东北抗联第三路军密营遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "五大连池市",
+      "era": "1939－1941年"
+    },
+    {
+      "id": "8-0560-5-044",
+      "name": "侵华日军第516部队遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市铁峰区",
+      "era": "1938－1945年"
+    },
+    {
+      "id": "8-0561-5-045",
+      "name": "中共黑龙江省工作委员会和省政府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "北安市",
+      "era": "1945－1949年"
+    },
+    {
+      "id": "8-0562-5-046",
+      "name": "人民空军东北老航校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "牡丹江市西安区",
+      "era": "1946－1955年"
+    },
+    {
+      "id": "8-0000-1-003",
+      "name": "砬子山城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "宁安市",
+      "era": "唐"
+    },
+    {
+      "id": "8-0000-1-004",
+      "name": "老黑山城遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "黑龙江",
+      "city": "宁安市",
+      "era": "唐"
+    },
+    {
+      "id": "8-0000-5-004",
+      "name": "横道河子机务公寓旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "海林市",
+      "era": "1900－1935年"
+    },
+    {
+      "id": "8-0000-5-005",
+      "name": "富拉尔基火车站旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "齐齐哈尔市富拉尔基区",
+      "era": "1903年"
+    },
+    {
+      "id": "8-0000-5-006",
+      "name": "勃利西山仓库遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "黑龙江",
+      "city": "勃利县",
+      "era": "1934年"
+    },
+    {
       "id": "7-0123-1-123",
       "name": "小拉哈遗址",
       "level": "national",
@@ -600,96 +700,6 @@
       "era": "清"
     },
     {
-      "id": "8-0558-5-042",
-      "name": "鸡西万人坑遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "鸡西市滴道区",
-      "era": "1934－1945年"
-    },
-    {
-      "id": "8-0559-5-043",
-      "name": "朝阳山东北抗联第三路军密营遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "五大连池市",
-      "era": "1939－1941年"
-    },
-    {
-      "id": "8-0560-5-044",
-      "name": "侵华日军第516部队遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "齐齐哈尔市铁峰区",
-      "era": "1938－1945年"
-    },
-    {
-      "id": "8-0561-5-045",
-      "name": "中共黑龙江省工作委员会和省政府旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "北安市",
-      "era": "1945－1949年"
-    },
-    {
-      "id": "8-0562-5-046",
-      "name": "人民空军东北老航校旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "牡丹江市西安区",
-      "era": "1946－1955年"
-    },
-    {
-      "id": "7-1946-1-003",
-      "name": "“驸马城”遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "哈尔滨市阿城区",
-      "era": "金"
-    },
-    {
-      "id": "7-1947-1-004",
-      "name": "小城子遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "哈尔滨市阿城区",
-      "era": "金"
-    },
-    {
-      "id": "7-1948-1-005",
-      "name": "刘秀屯宫殿基址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "哈尔滨市阿城区",
-      "era": "金"
-    },
-    {
-      "id": "7-1949-1-006",
-      "name": "半拉城遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "哈尔滨市阿城区",
-      "era": "金"
-    },
-    {
       "id": "7-0944-3-242",
       "name": "阿城清真寺",
       "level": "national",
@@ -768,66 +778,6 @@
       "province": "黑龙江",
       "city": "大庆市红岗区",
       "era": "1960年"
-    },
-    {
-      "id": "7-1977-5-001",
-      "name": "侵华日军第七三一细菌部队安达特别实验场遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "绥化市安达市",
-      "era": "1941年"
-    },
-    {
-      "id": "8-0000-1-003",
-      "name": "砬子山城遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "宁安市",
-      "era": "唐"
-    },
-    {
-      "id": "8-0000-1-004",
-      "name": "老黑山城遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "黑龙江",
-      "city": "宁安市",
-      "era": "唐"
-    },
-    {
-      "id": "8-0000-5-004",
-      "name": "横道河子机务公寓旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "海林市",
-      "era": "1900－1935年"
-    },
-    {
-      "id": "8-0000-5-005",
-      "name": "富拉尔基火车站旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "齐齐哈尔市富拉尔基区",
-      "era": "1903年"
-    },
-    {
-      "id": "8-0000-5-006",
-      "name": "勃利西山仓库遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "黑龙江",
-      "city": "勃利县",
-      "era": "1934年"
     }
   ]
 }

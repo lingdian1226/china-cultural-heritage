@@ -4768,6 +4768,176 @@
       "era": "民国"
     },
     {
+      "id": "8-0480-4-003",
+      "name": "山神峪千佛洞石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "交口县",
+      "era": "元、清"
+    },
+    {
+      "id": "8-0481-4-004",
+      "name": "挂甲山摩崖造像",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "吉县",
+      "era": "北朝至明"
+    },
+    {
+      "id": "8-0482-4-005",
+      "name": "营里千佛洞石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "乡宁县",
+      "era": "北齐至唐"
+    },
+    {
+      "id": "8-0483-4-006",
+      "name": "竖石佛摩崖造像",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "交城县",
+      "era": "北齐至唐"
+    },
+    {
+      "id": "8-0484-4-007",
+      "name": "静居寺石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "静乐县",
+      "era": "唐"
+    },
+    {
+      "id": "8-0528-5-012",
+      "name": "高君宇故居",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "娄烦县",
+      "era": "1896－1912年"
+    },
+    {
+      "id": "8-0529-5-013",
+      "name": "山西督军府旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "太原市杏花岭区",
+      "era": "1916－1937年"
+    },
+    {
+      "id": "8-0530-5-014",
+      "name": "忻口战役遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "忻州市忻府区",
+      "era": "1937年"
+    },
+    {
+      "id": "8-0531-5-015",
+      "name": "金岗库村晋察冀军区司令部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "五台县",
+      "era": "1938年"
+    },
+    {
+      "id": "8-0532-5-016",
+      "name": "晋绥日报社旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "兴县",
+      "era": "1940－1949年"
+    },
+    {
+      "id": "8-0533-5-017",
+      "name": "小李村太岳行署旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "安泽县",
+      "era": "1942－1944年"
+    },
+    {
+      "id": "8-0534-5-018",
+      "name": "北坡中共中央晋绥分局旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "兴县",
+      "era": "1942－1949年"
+    },
+    {
+      "id": "8-0535-5-019",
+      "name": "临县陕甘宁晋绥联防军指挥部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "临县",
+      "era": "1947年"
+    },
+    {
+      "id": "8-0536-5-020",
+      "name": "临县中央后委机关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "山西",
+      "city": "临县",
+      "era": "1947－1948年"
+    },
+    {
+      "id": "8-0000-1-002",
+      "name": "长城新广武村段、荷叶坪－王家岔段、竹帛口段、阳方口段",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "山西",
+      "city": "山阴县",
+      "era": "北齐、明"
+    },
+    {
+      "id": "8-0000-4-001",
+      "name": "吴官屯石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "大同市云冈区",
+      "era": "北魏"
+    },
+    {
+      "id": "8-0000-4-002",
+      "name": "鲁班窑石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "山西",
+      "city": "大同市云冈区",
+      "era": "北魏"
+    },
+    {
       "id": "7-0035-1-035",
       "name": "古交遗址",
       "level": "national",
@@ -4926,146 +5096,6 @@
       "province": "山西",
       "city": "运城市稷山县",
       "era": "北朝"
-    },
-    {
-      "id": "8-0480-4-003",
-      "name": "山神峪千佛洞石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "交口县",
-      "era": "元、清"
-    },
-    {
-      "id": "8-0481-4-004",
-      "name": "挂甲山摩崖造像",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "吉县",
-      "era": "北朝至明"
-    },
-    {
-      "id": "8-0482-4-005",
-      "name": "营里千佛洞石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "乡宁县",
-      "era": "北齐至唐"
-    },
-    {
-      "id": "8-0483-4-006",
-      "name": "竖石佛摩崖造像",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "交城县",
-      "era": "北齐至唐"
-    },
-    {
-      "id": "8-0484-4-007",
-      "name": "静居寺石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "静乐县",
-      "era": "唐"
-    },
-    {
-      "id": "8-0528-5-012",
-      "name": "高君宇故居",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "娄烦县",
-      "era": "1896－1912年"
-    },
-    {
-      "id": "8-0529-5-013",
-      "name": "山西督军府旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "太原市杏花岭区",
-      "era": "1916－1937年"
-    },
-    {
-      "id": "8-0530-5-014",
-      "name": "忻口战役遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "忻州市忻府区",
-      "era": "1937年"
-    },
-    {
-      "id": "8-0531-5-015",
-      "name": "金岗库村晋察冀军区司令部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "五台县",
-      "era": "1938年"
-    },
-    {
-      "id": "8-0532-5-016",
-      "name": "晋绥日报社旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "兴县",
-      "era": "1940－1949年"
-    },
-    {
-      "id": "8-0533-5-017",
-      "name": "小李村太岳行署旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "安泽县",
-      "era": "1942－1944年"
-    },
-    {
-      "id": "8-0534-5-018",
-      "name": "北坡中共中央晋绥分局旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "兴县",
-      "era": "1942－1949年"
-    },
-    {
-      "id": "8-0535-5-019",
-      "name": "临县陕甘宁晋绥联防军指挥部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "临县",
-      "era": "1947年"
-    },
-    {
-      "id": "8-0536-5-020",
-      "name": "临县中央后委机关旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "山西",
-      "city": "临县",
-      "era": "1947－1948年"
     },
     {
       "id": "7-0524-2-008",
@@ -6708,34 +6738,14 @@
       "era": "1966年"
     },
     {
-      "id": "8-0000-1-002",
-      "name": "长城新广武村段、荷叶坪－王家岔段、竹帛口段、阳方口段",
+      "id": "7-1937-6-001",
+      "name": "稷山大佛",
       "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
+      "batch": 7,
+      "category": "others",
       "province": "山西",
-      "city": "山阴县",
-      "era": "北齐、明"
-    },
-    {
-      "id": "8-0000-4-001",
-      "name": "吴官屯石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "大同市云冈区",
-      "era": "北魏"
-    },
-    {
-      "id": "8-0000-4-002",
-      "name": "鲁班窑石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "山西",
-      "city": "大同市云冈区",
-      "era": "北魏"
+      "city": "运城市稷山县",
+      "era": "金、元"
     }
   ]
 }

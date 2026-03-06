@@ -640,6 +640,96 @@
       "era": "清"
     },
     {
+      "id": "8-0707-5-191",
+      "name": "玛瑙山营盘遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "凤冈县",
+      "era": "1857年"
+    },
+    {
+      "id": "8-0708-5-192",
+      "name": "贵阳达德学校旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "贵阳市南明区",
+      "era": "1901－1950年"
+    },
+    {
+      "id": "8-0709-5-193",
+      "name": "猴场会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "瓮安县",
+      "era": "1934年"
+    },
+    {
+      "id": "8-0710-5-194",
+      "name": "苟坝会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "遵义市播州区",
+      "era": "1935年"
+    },
+    {
+      "id": "8-0711-5-195",
+      "name": "天门河水电厂旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "桐梓县",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0712-5-196",
+      "name": "邓萍墓",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "遵义市红花岗区",
+      "era": "1958年"
+    },
+    {
+      "id": "8-0713-5-197",
+      "name": "三线贵州航空发动机厂旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "安顺市平坝区",
+      "era": "1965年"
+    },
+    {
+      "id": "8-0714-5-198",
+      "name": "三线贵州歼击机总装厂旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "贵州",
+      "city": "安顺市西秀区",
+      "era": "1966年"
+    },
+    {
+      "id": "8-0000-2-004",
+      "name": "杨辉墓",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "贵州",
+      "city": "遵义市播州区",
+      "era": "明"
+    },
+    {
       "id": "7-0412-1-412",
       "name": "龙广观音洞遗址",
       "level": "national",
@@ -940,93 +1030,13 @@
       "era": "1922年"
     },
     {
-      "id": "8-0707-5-191",
-      "name": "玛瑙山营盘遗址",
+      "id": "7-1940-6-004",
+      "name": "重安江水碾群",
       "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
+      "batch": 7,
+      "category": "others",
       "province": "贵州",
-      "city": "凤冈县",
-      "era": "1857年"
-    },
-    {
-      "id": "8-0708-5-192",
-      "name": "贵阳达德学校旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "贵阳市南明区",
-      "era": "1901－1950年"
-    },
-    {
-      "id": "8-0709-5-193",
-      "name": "猴场会议旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "瓮安县",
-      "era": "1934年"
-    },
-    {
-      "id": "8-0710-5-194",
-      "name": "苟坝会议旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "遵义市播州区",
-      "era": "1935年"
-    },
-    {
-      "id": "8-0711-5-195",
-      "name": "天门河水电厂旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "桐梓县",
-      "era": "1943年"
-    },
-    {
-      "id": "8-0712-5-196",
-      "name": "邓萍墓",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "遵义市红花岗区",
-      "era": "1958年"
-    },
-    {
-      "id": "8-0713-5-197",
-      "name": "三线贵州航空发动机厂旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "安顺市平坝区",
-      "era": "1965年"
-    },
-    {
-      "id": "8-0714-5-198",
-      "name": "三线贵州歼击机总装厂旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "贵州",
-      "city": "安顺市西秀区",
-      "era": "1966年"
-    },
-    {
-      "id": "8-0000-2-004",
-      "name": "杨辉墓",
-      "level": "national",
-      "batch": 8,
-      "category": "ancient-tombs",
-      "province": "贵州",
-      "city": "遵义市播州区",
+      "city": "黔东南苗族侗族自治州黄平县",
       "era": "明"
     }
   ]

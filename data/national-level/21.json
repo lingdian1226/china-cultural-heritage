@@ -1030,6 +1030,96 @@
       "era": "清"
     },
     {
+      "id": "8-0540-5-024",
+      "name": "旅顺沙俄陆防副司令官邸建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "大连市旅顺口区",
+      "era": "1900年"
+    },
+    {
+      "id": "8-0541-5-025",
+      "name": "鞍山钢铁厂早期建筑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "鞍山市铁东区",
+      "era": "1920－1977年"
+    },
+    {
+      "id": "8-0542-5-026",
+      "name": "中共满洲省委旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "沈阳市和平区",
+      "era": "1927－1929年"
+    },
+    {
+      "id": "8-0543-5-027",
+      "name": "北大营营房旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "沈阳市大东区",
+      "era": "1931年"
+    },
+    {
+      "id": "8-0544-5-028",
+      "name": "侵华日本关东军护路守备队盘山分队旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "盘锦市双台子区",
+      "era": "1932年"
+    },
+    {
+      "id": "8-0545-5-029",
+      "name": "台吉万人坑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "北票市",
+      "era": "1943年"
+    },
+    {
+      "id": "8-0546-5-030",
+      "name": "审判日本战犯特别军事法庭旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "沈阳市皇姑区",
+      "era": "1956年"
+    },
+    {
+      "id": "8-0000-2-001",
+      "name": "上王家壁画墓",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "辽宁",
+      "city": "辽阳市太子河区",
+      "era": "汉晋"
+    },
+    {
+      "id": "8-0000-5-002",
+      "name": "满铁农事试验场熊岳城分场旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "辽宁",
+      "city": "营口市鲅鱼圈区",
+      "era": "1909－1945年"
+    },
+    {
       "id": "7-0080-1-080",
       "name": "前阳洞穴遗址",
       "level": "national",
@@ -1250,76 +1340,6 @@
       "era": "明"
     },
     {
-      "id": "8-0540-5-024",
-      "name": "旅顺沙俄陆防副司令官邸建筑",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "大连市旅顺口区",
-      "era": "1900年"
-    },
-    {
-      "id": "8-0541-5-025",
-      "name": "鞍山钢铁厂早期建筑",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "鞍山市铁东区",
-      "era": "1920－1977年"
-    },
-    {
-      "id": "8-0542-5-026",
-      "name": "中共满洲省委旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "沈阳市和平区",
-      "era": "1927－1929年"
-    },
-    {
-      "id": "8-0543-5-027",
-      "name": "北大营营房旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "沈阳市大东区",
-      "era": "1931年"
-    },
-    {
-      "id": "8-0544-5-028",
-      "name": "侵华日本关东军护路守备队盘山分队旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "盘锦市双台子区",
-      "era": "1932年"
-    },
-    {
-      "id": "8-0545-5-029",
-      "name": "台吉万人坑遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "北票市",
-      "era": "1943年"
-    },
-    {
-      "id": "8-0546-5-030",
-      "name": "审判日本战犯特别军事法庭旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "沈阳市皇姑区",
-      "era": "1956年"
-    },
-    {
       "id": "7-0543-2-027",
       "name": "四平山积石墓地",
       "level": "national",
@@ -1478,46 +1498,6 @@
       "province": "辽宁",
       "city": "辽阳市太子河区",
       "era": "明"
-    },
-    {
-      "id": "7-1958-2-003",
-      "name": "东门里壁画墓",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "辽宁",
-      "city": "辽阳市文圣区",
-      "era": "东汉"
-    },
-    {
-      "id": "7-1959-2-004",
-      "name": "北园二号墓",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "辽宁",
-      "city": "辽阳市白塔区",
-      "era": "汉魏"
-    },
-    {
-      "id": "7-1960-2-005",
-      "name": "南郊路壁画墓",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "辽宁",
-      "city": "辽阳市文圣区",
-      "era": "汉魏"
-    },
-    {
-      "id": "7-1961-2-006",
-      "name": "三道壕三号墓",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "辽宁",
-      "city": "辽阳市白塔区",
-      "era": "魏晋"
     },
     {
       "id": "7-0923-3-221",
@@ -1878,26 +1858,6 @@
       "province": "辽宁",
       "city": "抚顺市望花区",
       "era": "1964年"
-    },
-    {
-      "id": "8-0000-2-001",
-      "name": "上王家壁画墓",
-      "level": "national",
-      "batch": 8,
-      "category": "ancient-tombs",
-      "province": "辽宁",
-      "city": "辽阳市太子河区",
-      "era": "汉晋"
-    },
-    {
-      "id": "8-0000-5-002",
-      "name": "满铁农事试验场熊岳城分场旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "辽宁",
-      "city": "营口市鲅鱼圈区",
-      "era": "1909－1945年"
     }
   ]
 }

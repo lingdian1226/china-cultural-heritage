@@ -1224,6 +1224,56 @@
       "era": "东汉"
     },
     {
+      "id": "8-0746-5-230",
+      "name": "乌鲁木齐文庙",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "新疆",
+      "city": "乌鲁木齐市天山区",
+      "era": "1922年"
+    },
+    {
+      "id": "8-0747-5-231",
+      "name": "赛图拉哨卡遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "新疆",
+      "city": "皮山县",
+      "era": "1877－1962年"
+    },
+    {
+      "id": "8-0748-5-232",
+      "name": "毛泽民办公室及宿舍旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "新疆",
+      "city": "乌鲁木齐市天山区",
+      "era": "1940－1941年"
+    },
+    {
+      "id": "8-0749-5-233",
+      "name": "石河子军垦旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "新疆",
+      "city": "生产建设兵团第八师石河子市",
+      "era": "1952年"
+    },
+    {
+      "id": "8-0750-5-234",
+      "name": "玉尔滚军垦旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "新疆",
+      "city": "生产建设兵团第一师阿拉尔市",
+      "era": "1973年"
+    },
+    {
       "id": "7-0492-1-492",
       "name": "骆驼石旧石器遗址",
       "level": "national",
@@ -1772,56 +1822,6 @@
       "province": "新疆",
       "city": "巴音郭楞蒙古自治州和硕县",
       "era": "1966年"
-    },
-    {
-      "id": "8-0746-5-230",
-      "name": "乌鲁木齐文庙",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "新疆",
-      "city": "乌鲁木齐市天山区",
-      "era": "1922年"
-    },
-    {
-      "id": "8-0747-5-231",
-      "name": "赛图拉哨卡遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "新疆",
-      "city": "皮山县",
-      "era": "1877－1962年"
-    },
-    {
-      "id": "8-0748-5-232",
-      "name": "毛泽民办公室及宿舍旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "新疆",
-      "city": "乌鲁木齐市天山区",
-      "era": "1940－1941年"
-    },
-    {
-      "id": "8-0749-5-233",
-      "name": "石河子军垦旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "新疆",
-      "city": "生产建设兵团第八师石河子市",
-      "era": "1952年"
-    },
-    {
-      "id": "8-0750-5-234",
-      "name": "玉尔滚军垦旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "新疆",
-      "city": "生产建设兵团第一师阿拉尔市",
-      "era": "1973年"
     }
   ]
 }

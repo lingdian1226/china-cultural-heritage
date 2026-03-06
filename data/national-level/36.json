@@ -980,146 +980,6 @@
       "era": "清至民国"
     },
     {
-      "id": "7-0206-1-206",
-      "name": "拾年山遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "新余市渝水区",
-      "era": "新石器时代"
-    },
-    {
-      "id": "7-0207-1-207",
-      "name": "社山头遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "上饶市广丰县",
-      "era": "新石器时代至周"
-    },
-    {
-      "id": "7-0208-1-208",
-      "name": "角山板栗山遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "鹰潭市月湖区",
-      "era": "商"
-    },
-    {
-      "id": "7-0209-1-209",
-      "name": "界埠粮仓遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "吉安市新干县",
-      "era": "战国"
-    },
-    {
-      "id": "7-0210-1-210",
-      "name": "鄡阳城遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "九江市都昌县",
-      "era": "汉"
-    },
-    {
-      "id": "7-0211-1-211",
-      "name": "宝山金银矿冶遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "抚州市金溪县",
-      "era": "唐"
-    },
-    {
-      "id": "7-0212-1-212",
-      "name": "银山银矿遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "上饶市德兴市",
-      "era": "唐、宋"
-    },
-    {
-      "id": "7-0213-1-213",
-      "name": "七里镇窑址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "赣州市章贡区",
-      "era": "唐至明"
-    },
-    {
-      "id": "7-0214-1-214",
-      "name": "包家金矿遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "上饶市上饶县",
-      "era": "唐至明"
-    },
-    {
-      "id": "7-0215-1-215",
-      "name": "凤凰山铁矿遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "新余市分宜县",
-      "era": "唐至明"
-    },
-    {
-      "id": "7-0216-1-216",
-      "name": "白舍窑遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "抚州市南丰县",
-      "era": "宋"
-    },
-    {
-      "id": "7-0217-1-217",
-      "name": "蒙山银矿遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "宜春市上高县",
-      "era": "宋、元、胡"
-    },
-    {
-      "id": "7-0218-1-218",
-      "name": "华林造纸作坊遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "宜春市高安市",
-      "era": "宋、元、明"
-    },
-    {
-      "id": "7-0219-1-219",
-      "name": "丽阳窑址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "景德镇市昌江区",
-      "era": "元至明"
-    },
-    {
       "id": "8-0612-5-096",
       "name": "九江姑塘海关旧址",
       "level": "national",
@@ -1258,6 +1118,176 @@
       "province": "江西",
       "city": "泰和县",
       "era": "1940－1945年"
+    },
+    {
+      "id": "8-0000-1-008",
+      "name": "大上清宫遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "贵溪市",
+      "era": "宋至清"
+    },
+    {
+      "id": "8-0000-2-002",
+      "name": "国字山墓群",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "江西",
+      "city": "樟树市",
+      "era": "东周"
+    },
+    {
+      "id": "8-0000-5-011",
+      "name": "中共闽浙赣省机关旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "江西",
+      "city": "横峰县",
+      "era": "1926－1934年"
+    },
+    {
+      "id": "7-0206-1-206",
+      "name": "拾年山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "新余市渝水区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0207-1-207",
+      "name": "社山头遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市广丰县",
+      "era": "新石器时代至周"
+    },
+    {
+      "id": "7-0208-1-208",
+      "name": "角山板栗山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "鹰潭市月湖区",
+      "era": "商"
+    },
+    {
+      "id": "7-0209-1-209",
+      "name": "界埠粮仓遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "吉安市新干县",
+      "era": "战国"
+    },
+    {
+      "id": "7-0210-1-210",
+      "name": "鄡阳城遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "九江市都昌县",
+      "era": "汉"
+    },
+    {
+      "id": "7-0211-1-211",
+      "name": "宝山金银矿冶遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "抚州市金溪县",
+      "era": "唐"
+    },
+    {
+      "id": "7-0212-1-212",
+      "name": "银山银矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市德兴市",
+      "era": "唐、宋"
+    },
+    {
+      "id": "7-0213-1-213",
+      "name": "七里镇窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "赣州市章贡区",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0214-1-214",
+      "name": "包家金矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "上饶市上饶县",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0215-1-215",
+      "name": "凤凰山铁矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "新余市分宜县",
+      "era": "唐至明"
+    },
+    {
+      "id": "7-0216-1-216",
+      "name": "白舍窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "抚州市南丰县",
+      "era": "宋"
+    },
+    {
+      "id": "7-0217-1-217",
+      "name": "蒙山银矿遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "宜春市上高县",
+      "era": "宋、元、胡"
+    },
+    {
+      "id": "7-0218-1-218",
+      "name": "华林造纸作坊遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "宜春市高安市",
+      "era": "宋、元、明"
+    },
+    {
+      "id": "7-0219-1-219",
+      "name": "丽阳窑址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "江西",
+      "city": "景德镇市昌江区",
+      "era": "元至明"
     },
     {
       "id": "7-0589-2-073",
@@ -1878,36 +1908,6 @@
       "province": "江西",
       "city": "南昌市新建县",
       "era": "1969～1972年"
-    },
-    {
-      "id": "8-0000-1-008",
-      "name": "大上清宫遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "江西",
-      "city": "贵溪市",
-      "era": "宋至清"
-    },
-    {
-      "id": "8-0000-2-002",
-      "name": "国字山墓群",
-      "level": "national",
-      "batch": 8,
-      "category": "ancient-tombs",
-      "province": "江西",
-      "city": "樟树市",
-      "era": "东周"
-    },
-    {
-      "id": "8-0000-5-011",
-      "name": "中共闽浙赣省机关旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "江西",
-      "city": "横峰县",
-      "era": "1926－1934年"
     }
   ]
 }

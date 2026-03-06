@@ -1602,86 +1602,6 @@
       "era": "清"
     },
     {
-      "id": "7-0198-1-198",
-      "name": "莲花池山遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "漳州市芗城区",
-      "era": "旧石器时代"
-    },
-    {
-      "id": "7-0199-1-199",
-      "name": "奇和洞遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "龙岩市漳平市",
-      "era": "旧石器时代至新石器时代"
-    },
-    {
-      "id": "7-0200-1-200",
-      "name": "南山遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "三明市明溪县",
-      "era": "新石器时代至商周"
-    },
-    {
-      "id": "7-0201-1-201",
-      "name": "池湖遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "南平市光泽县",
-      "era": "新石器时代、商周"
-    },
-    {
-      "id": "7-0202-1-202",
-      "name": "猫耳山遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "南平市浦城县",
-      "era": "商"
-    },
-    {
-      "id": "7-0203-1-203",
-      "name": "庵山沙丘遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "泉州市晋江市",
-      "era": "商至周"
-    },
-    {
-      "id": "7-0204-1-204",
-      "name": "海坛海峡水下遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "福州市平潭县",
-      "era": "五代至清"
-    },
-    {
-      "id": "7-0205-1-205",
-      "name": "中村窑遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "福建",
-      "city": "三明市三元区",
-      "era": "宋至明"
-    },
-    {
       "id": "8-0492-4-015",
       "name": "南安桃源宫陀罗尼经幢",
       "level": "national",
@@ -1780,6 +1700,106 @@
       "province": "福建",
       "city": "石狮市",
       "era": "1948年"
+    },
+    {
+      "id": "8-0758-6-008",
+      "name": "霍童灌溉工程",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "福建",
+      "city": "宁德市蕉城区",
+      "era": "隋至今"
+    },
+    {
+      "id": "8-0000-5-010",
+      "name": "鼓浪屿近代建筑群增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "福建",
+      "city": "厦门市思明区",
+      "era": "清至民国"
+    },
+    {
+      "id": "7-0198-1-198",
+      "name": "莲花池山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "漳州市芗城区",
+      "era": "旧石器时代"
+    },
+    {
+      "id": "7-0199-1-199",
+      "name": "奇和洞遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "龙岩市漳平市",
+      "era": "旧石器时代至新石器时代"
+    },
+    {
+      "id": "7-0200-1-200",
+      "name": "南山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "三明市明溪县",
+      "era": "新石器时代至商周"
+    },
+    {
+      "id": "7-0201-1-201",
+      "name": "池湖遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "南平市光泽县",
+      "era": "新石器时代、商周"
+    },
+    {
+      "id": "7-0202-1-202",
+      "name": "猫耳山遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "南平市浦城县",
+      "era": "商"
+    },
+    {
+      "id": "7-0203-1-203",
+      "name": "庵山沙丘遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "泉州市晋江市",
+      "era": "商至周"
+    },
+    {
+      "id": "7-0204-1-204",
+      "name": "海坛海峡水下遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "福州市平潭县",
+      "era": "五代至清"
+    },
+    {
+      "id": "7-0205-1-205",
+      "name": "中村窑遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "福建",
+      "city": "三明市三元区",
+      "era": "宋至明"
     },
     {
       "id": "7-0587-2-071",
@@ -2092,26 +2112,6 @@
       "era": "清"
     },
     {
-      "id": "7-1969-3-005",
-      "name": "福建土楼（扩展项目）",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "福建",
-      "city": "漳州市南靖县",
-      "era": "明至中华人民共和国"
-    },
-    {
-      "id": "7-1970-3-006",
-      "name": "三坊七巷古民居建筑",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "福建",
-      "city": "福州市鼓楼区",
-      "era": "清"
-    },
-    {
       "id": "7-1534-4-037",
       "name": "仙字潭摩崖石刻",
       "level": "national",
@@ -2240,36 +2240,6 @@
       "province": "福建",
       "city": "漳州市南靖县",
       "era": "1958年"
-    },
-    {
-      "id": "7-1982-5-006",
-      "name": "鼓浪屿近代建筑群（扩展项目）",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "福建",
-      "city": "厦门市思明区",
-      "era": "清至民国"
-    },
-    {
-      "id": "8-0758-6-008",
-      "name": "霍童灌溉工程",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "福建",
-      "city": "宁德市蕉城区",
-      "era": "隋至今"
-    },
-    {
-      "id": "8-0000-5-010",
-      "name": "鼓浪屿近代建筑群增补点",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "福建",
-      "city": "厦门市思明区",
-      "era": "清至民国"
     }
   ]
 }

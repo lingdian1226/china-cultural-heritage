@@ -460,46 +460,6 @@
       "era": "唐宋"
     },
     {
-      "id": "7-0134-1-134",
-      "name": "崧泽遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "上海",
-      "city": "青浦区",
-      "era": "新石器时代"
-    },
-    {
-      "id": "7-0135-1-135",
-      "name": "上海马桥遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "上海",
-      "city": "闵行区",
-      "era": "新石器时代至商"
-    },
-    {
-      "id": "7-0136-1-136",
-      "name": "广富林遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "上海",
-      "city": "松江区",
-      "era": "新石器时代、东周"
-    },
-    {
-      "id": "7-0137-1-137",
-      "name": "志丹苑元代水闸遗址",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "上海",
-      "city": "普陀区",
-      "era": "元"
-    },
-    {
       "id": "8-0563-5-047",
       "name": "圣三一基督教堂",
       "level": "national",
@@ -590,6 +550,66 @@
       "era": "1958年"
     },
     {
+      "id": "8-0751-6-001",
+      "name": "华亭海塘奉贤段",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "上海",
+      "city": "奉贤区",
+      "era": "清"
+    },
+    {
+      "id": "8-0000-5-007",
+      "name": "中国共产党第一次全国代表大会宿舍旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "上海",
+      "city": "黄浦区",
+      "era": "1921年"
+    },
+    {
+      "id": "7-0134-1-134",
+      "name": "崧泽遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "青浦区",
+      "era": "新石器时代"
+    },
+    {
+      "id": "7-0135-1-135",
+      "name": "上海马桥遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "闵行区",
+      "era": "新石器时代至商"
+    },
+    {
+      "id": "7-0136-1-136",
+      "name": "广富林遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "松江区",
+      "era": "新石器时代、东周"
+    },
+    {
+      "id": "7-0137-1-137",
+      "name": "志丹苑元代水闸遗址",
+      "level": "national",
+      "batch": 7,
+      "category": "archaeological-sites",
+      "province": "上海",
+      "city": "普陀区",
+      "era": "元"
+    },
+    {
       "id": "7-0945-3-243",
       "name": "嘉定孔庙",
       "level": "national",
@@ -648,26 +668,6 @@
       "province": "上海",
       "city": "静安区",
       "era": "1922年"
-    },
-    {
-      "id": "8-0751-6-001",
-      "name": "华亭海塘奉贤段",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "上海",
-      "city": "奉贤区",
-      "era": "清"
-    },
-    {
-      "id": "8-0000-5-007",
-      "name": "中国共产党第一次全国代表大会宿舍旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "上海",
-      "city": "黄浦区",
-      "era": "1921年"
     }
   ]
 }

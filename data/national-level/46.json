@@ -296,6 +296,46 @@
       "era": "清"
     },
     {
+      "id": "8-0688-5-172",
+      "name": "文昌符家宅",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "海南",
+      "city": "文昌市",
+      "era": "1917年"
+    },
+    {
+      "id": "8-0689-5-173",
+      "name": "琼崖工农红军云龙改编旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "海南",
+      "city": "海口市琼山区",
+      "era": "1938年"
+    },
+    {
+      "id": "8-0690-5-174",
+      "name": "侵华日军侵琼八所死难劳工纪念地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "海南",
+      "city": "东方市",
+      "era": "1939－1942年"
+    },
+    {
+      "id": "8-0760-6-010",
+      "name": "𪨷塘陂、亭塘陂水利工程",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "海南",
+      "city": "海口市琼山区",
+      "era": "宋明至今"
+    },
+    {
       "id": "7-0398-1-398",
       "name": "信冲洞遗址",
       "level": "national",
@@ -436,44 +476,14 @@
       "era": "1938年"
     },
     {
-      "id": "8-0688-5-172",
-      "name": "文昌符家宅",
+      "id": "7-1939-6-003",
+      "name": "洋浦盐田",
       "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "海南",
-      "city": "文昌市",
-      "era": "1917年"
-    },
-    {
-      "id": "8-0689-5-173",
-      "name": "琼崖工农红军云龙改编旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "海南",
-      "city": "海口市琼山区",
-      "era": "1938年"
-    },
-    {
-      "id": "8-0690-5-174",
-      "name": "侵华日军侵琼八所死难劳工纪念地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "海南",
-      "city": "东方市",
-      "era": "1939－1942年"
-    },
-    {
-      "id": "8-0760-6-010",
-      "name": "𪨷塘陂、亭塘陂水利工程",
-      "level": "national",
-      "batch": 8,
+      "batch": 7,
       "category": "others",
       "province": "海南",
-      "city": "海口市琼山区",
-      "era": "宋明至今"
+      "city": "儋州市",
+      "era": "宋至中华人民共和国"
     }
   ]
 }

@@ -2668,6 +2668,156 @@
       "era": "宋金"
     },
     {
+      "id": "8-0729-5-213",
+      "name": "革命公园",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "西安市新城区",
+      "era": "1927年"
+    },
+    {
+      "id": "8-0730-5-214",
+      "name": "葛牌镇红25军军部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "蓝田县",
+      "era": "1935年"
+    },
+    {
+      "id": "8-0731-5-215",
+      "name": "国立西北联合大学旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "城固县",
+      "era": "1938－1946年"
+    },
+    {
+      "id": "8-0732-5-216",
+      "name": "马栏革命旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "旬邑县",
+      "era": "1939－1949年"
+    },
+    {
+      "id": "8-0733-5-217",
+      "name": "宝鸡申新纱厂旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "宝鸡市金台区",
+      "era": "1941－1943年"
+    },
+    {
+      "id": "8-0734-5-218",
+      "name": "金盆湾八路军三五九旅旅部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "延安市宝塔区",
+      "era": "1941－1944年"
+    },
+    {
+      "id": "8-0735-5-219",
+      "name": "陕甘宁边区高等法院旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "延安市宝塔区",
+      "era": "1941－1949年"
+    },
+    {
+      "id": "8-0736-5-220",
+      "name": "延安陕甘宁晋绥联防军司令部旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "延安市宝塔区",
+      "era": "1942－1947年"
+    },
+    {
+      "id": "8-0737-5-221",
+      "name": "美军驻延安观察组驻地旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "延安市宝塔区",
+      "era": "1944－1947年"
+    },
+    {
+      "id": "8-0738-5-222",
+      "name": "张思德牺牲纪念地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "延安市安塞区",
+      "era": "1944年"
+    },
+    {
+      "id": "8-0739-5-223",
+      "name": "小河会议旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "陕西",
+      "city": "靖边县",
+      "era": "1947年"
+    },
+    {
+      "id": "8-0762-6-012",
+      "name": "凤堰梯田",
+      "level": "national",
+      "batch": 8,
+      "category": "others",
+      "province": "陕西",
+      "city": "汉阴县",
+      "era": "清至今"
+    },
+    {
+      "id": "8-0000-1-009",
+      "name": "战国魏长城黄龙段",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "陕西",
+      "city": "黄龙县",
+      "era": "战国"
+    },
+    {
+      "id": "8-0000-1-010",
+      "name": "战国魏长城合阳段",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "陕西",
+      "city": "合阳县",
+      "era": "战国"
+    },
+    {
+      "id": "8-0000-2-005",
+      "name": "江村大墓",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-tombs",
+      "province": "陕西",
+      "city": "西安市灞桥区",
+      "era": "西汉"
+    },
+    {
       "id": "7-0423-1-423",
       "name": "洛南盆地旧石器地点群",
       "level": "national",
@@ -3616,166 +3766,6 @@
       "province": "陕西",
       "city": "咸阳市三原县",
       "era": "1938年"
-    },
-    {
-      "id": "7-1989-5-013",
-      "name": "白求恩国际和平医院旧址",
-      "level": "national",
-      "batch": 7,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市宝塔区",
-      "era": "1943~1947年"
-    },
-    {
-      "id": "8-0729-5-213",
-      "name": "革命公园",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "西安市新城区",
-      "era": "1927年"
-    },
-    {
-      "id": "8-0730-5-214",
-      "name": "葛牌镇红25军军部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "蓝田县",
-      "era": "1935年"
-    },
-    {
-      "id": "8-0731-5-215",
-      "name": "国立西北联合大学旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "城固县",
-      "era": "1938－1946年"
-    },
-    {
-      "id": "8-0732-5-216",
-      "name": "马栏革命旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "旬邑县",
-      "era": "1939－1949年"
-    },
-    {
-      "id": "8-0733-5-217",
-      "name": "宝鸡申新纱厂旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "宝鸡市金台区",
-      "era": "1941－1943年"
-    },
-    {
-      "id": "8-0734-5-218",
-      "name": "金盆湾八路军三五九旅旅部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市宝塔区",
-      "era": "1941－1944年"
-    },
-    {
-      "id": "8-0735-5-219",
-      "name": "陕甘宁边区高等法院旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市宝塔区",
-      "era": "1941－1949年"
-    },
-    {
-      "id": "8-0736-5-220",
-      "name": "延安陕甘宁晋绥联防军司令部旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市宝塔区",
-      "era": "1942－1947年"
-    },
-    {
-      "id": "8-0737-5-221",
-      "name": "美军驻延安观察组驻地旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市宝塔区",
-      "era": "1944－1947年"
-    },
-    {
-      "id": "8-0738-5-222",
-      "name": "张思德牺牲纪念地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "延安市安塞区",
-      "era": "1944年"
-    },
-    {
-      "id": "8-0739-5-223",
-      "name": "小河会议旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "陕西",
-      "city": "靖边县",
-      "era": "1947年"
-    },
-    {
-      "id": "8-0762-6-012",
-      "name": "凤堰梯田",
-      "level": "national",
-      "batch": 8,
-      "category": "others",
-      "province": "陕西",
-      "city": "汉阴县",
-      "era": "清至今"
-    },
-    {
-      "id": "8-0000-1-009",
-      "name": "战国魏长城黄龙段",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "陕西",
-      "city": "黄龙县",
-      "era": "战国"
-    },
-    {
-      "id": "8-0000-1-010",
-      "name": "战国魏长城合阳段",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "陕西",
-      "city": "合阳县",
-      "era": "战国"
-    },
-    {
-      "id": "8-0000-2-005",
-      "name": "江村大墓",
-      "level": "national",
-      "batch": 8,
-      "category": "ancient-tombs",
-      "province": "陕西",
-      "city": "西安市灞桥区",
-      "era": "西汉"
     }
   ]
 }

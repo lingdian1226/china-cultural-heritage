@@ -766,6 +766,96 @@
       "era": "清至民国"
     },
     {
+      "id": "8-0681-5-165",
+      "name": "西林教案发生地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "田林县",
+      "era": "1856年"
+    },
+    {
+      "id": "8-0682-5-166",
+      "name": "法国驻龙州领事馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "龙州县",
+      "era": "1898－1949年"
+    },
+    {
+      "id": "8-0683-5-167",
+      "name": "武宣刘氏庄园",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "武宣县",
+      "era": "1911年"
+    },
+    {
+      "id": "8-0684-5-168",
+      "name": "武宣郭氏庄园",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "武宣县",
+      "era": "1924年"
+    },
+    {
+      "id": "8-0685-5-169",
+      "name": "梧州市中共广西早期革命活动旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "梧州市万秀区",
+      "era": "1926－1928年"
+    },
+    {
+      "id": "8-0686-5-170",
+      "name": "中共广西省第一次代表大会旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "贵港市港北区",
+      "era": "1928年"
+    },
+    {
+      "id": "8-0687-5-171",
+      "name": "广西省立艺术馆旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "桂林市秀峰区",
+      "era": "1944年"
+    },
+    {
+      "id": "8-0000-4-004",
+      "name": "花山岩画增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "广西",
+      "city": "崇左市江州区",
+      "era": "战国至东汉"
+    },
+    {
+      "id": "8-0000-5-025",
+      "name": "湘江战役旧址增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "广西",
+      "city": "全州县",
+      "era": "1934年"
+    },
+    {
       "id": "7-0390-1-390",
       "name": "柳城巨猿洞",
       "level": "national",
@@ -1004,96 +1094,6 @@
       "province": "广西",
       "city": "南宁市西乡塘区",
       "era": "1951年"
-    },
-    {
-      "id": "8-0681-5-165",
-      "name": "西林教案发生地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "田林县",
-      "era": "1856年"
-    },
-    {
-      "id": "8-0682-5-166",
-      "name": "法国驻龙州领事馆旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "龙州县",
-      "era": "1898－1949年"
-    },
-    {
-      "id": "8-0683-5-167",
-      "name": "武宣刘氏庄园",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "武宣县",
-      "era": "1911年"
-    },
-    {
-      "id": "8-0684-5-168",
-      "name": "武宣郭氏庄园",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "武宣县",
-      "era": "1924年"
-    },
-    {
-      "id": "8-0685-5-169",
-      "name": "梧州市中共广西早期革命活动旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "梧州市万秀区",
-      "era": "1926－1928年"
-    },
-    {
-      "id": "8-0686-5-170",
-      "name": "中共广西省第一次代表大会旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "贵港市港北区",
-      "era": "1928年"
-    },
-    {
-      "id": "8-0687-5-171",
-      "name": "广西省立艺术馆旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "桂林市秀峰区",
-      "era": "1944年"
-    },
-    {
-      "id": "8-0000-4-004",
-      "name": "花山岩画增补点",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "广西",
-      "city": "崇左市江州区",
-      "era": "战国至东汉"
-    },
-    {
-      "id": "8-0000-5-025",
-      "name": "湘江战役旧址增补点",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "广西",
-      "city": "全州县",
-      "era": "1934年"
     }
   ]
 }

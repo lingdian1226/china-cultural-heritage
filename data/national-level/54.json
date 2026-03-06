@@ -796,6 +796,36 @@
       "era": "明"
     },
     {
+      "id": "8-0726-5-210",
+      "name": "亚东海关遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "西藏",
+      "city": "亚东县",
+      "era": "1894－1903年"
+    },
+    {
+      "id": "8-0727-5-211",
+      "name": "昌都地区人民解放委员会办公旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "西藏",
+      "city": "昌都市卡若区",
+      "era": "1955－1959年"
+    },
+    {
+      "id": "8-0728-5-212",
+      "name": "川藏、青藏公路纪念碑",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "西藏",
+      "city": "拉萨市城关区",
+      "era": "1984年"
+    },
+    {
       "id": "7-0421-1-421",
       "name": "小恩达遗址",
       "level": "national",
@@ -986,34 +1016,14 @@
       "era": "1965年"
     },
     {
-      "id": "8-0726-5-210",
-      "name": "亚东海关遗址",
+      "id": "7-1943-6-007",
+      "name": "芒康县盐井古盐田",
       "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
+      "batch": 7,
+      "category": "others",
       "province": "西藏",
-      "city": "亚东县",
-      "era": "1894－1903年"
-    },
-    {
-      "id": "8-0727-5-211",
-      "name": "昌都地区人民解放委员会办公旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "西藏",
-      "city": "昌都市卡若区",
-      "era": "1955－1959年"
-    },
-    {
-      "id": "8-0728-5-212",
-      "name": "川藏、青藏公路纪念碑",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "西藏",
-      "city": "拉萨市城关区",
-      "era": "1984年"
+      "city": "昌都地区芒康县",
+      "era": "唐至中华人民共和国"
     }
   ]
 }

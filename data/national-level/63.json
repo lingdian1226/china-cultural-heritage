@@ -344,6 +344,36 @@
       "era": "唐"
     },
     {
+      "id": "8-0743-5-227",
+      "name": "果洛红军沟",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "青海",
+      "city": "班玛县",
+      "era": "1936年"
+    },
+    {
+      "id": "8-0744-5-228",
+      "name": "囊拉千户院",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "青海",
+      "city": "尖扎县",
+      "era": "1948－1950年"
+    },
+    {
+      "id": "8-0745-5-229",
+      "name": "果洛和平解放纪念地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "青海",
+      "city": "达日县",
+      "era": "1952年"
+    },
+    {
       "id": "7-0481-1-481",
       "name": "塔里他里哈遗址",
       "level": "national",
@@ -524,16 +554,6 @@
       "era": "清至民国"
     },
     {
-      "id": "7-1971-3-007",
-      "name": "药草台寺",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "青海",
-      "city": "海东地区乐都县",
-      "era": "明至清"
-    },
-    {
       "id": "7-1605-4-108",
       "name": "和日寺石经墙及和日寺",
       "level": "national",
@@ -562,36 +582,6 @@
       "province": "青海",
       "city": "海西蒙古族藏族自治州格尔木市",
       "era": "1956年"
-    },
-    {
-      "id": "8-0743-5-227",
-      "name": "果洛红军沟",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "青海",
-      "city": "班玛县",
-      "era": "1936年"
-    },
-    {
-      "id": "8-0744-5-228",
-      "name": "囊拉千户院",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "青海",
-      "city": "尖扎县",
-      "era": "1948－1950年"
-    },
-    {
-      "id": "8-0745-5-229",
-      "name": "果洛和平解放纪念地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "青海",
-      "city": "达日县",
-      "era": "1952年"
     }
   ]
 }

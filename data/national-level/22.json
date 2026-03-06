@@ -628,6 +628,126 @@
       "era": "汉唐"
     },
     {
+      "id": "8-0547-5-031",
+      "name": "吉林机器局旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "吉林市昌邑区",
+      "era": "1881年"
+    },
+    {
+      "id": "8-0548-5-032",
+      "name": "中俄边界清勘界碑（土字牌）",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "珲春市",
+      "era": "1886年"
+    },
+    {
+      "id": "8-0549-5-033",
+      "name": "红石砬子抗日根据地遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "磐石市",
+      "era": "1932－1933年"
+    },
+    {
+      "id": "8-0550-5-034",
+      "name": "老黑沟惨案遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "舒兰市",
+      "era": "1935年"
+    },
+    {
+      "id": "8-0551-5-035",
+      "name": "侵华日军第100部队遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "长春市绿园区",
+      "era": "1936－1945年"
+    },
+    {
+      "id": "8-0552-5-036",
+      "name": "丰满万人坑遗址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "吉林市丰满区",
+      "era": "1937－1943年"
+    },
+    {
+      "id": "8-0553-5-037",
+      "name": "石人血泪山死难矿工纪念地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "白山市江源区",
+      "era": "1938－1945年"
+    },
+    {
+      "id": "8-0554-5-038",
+      "name": "七道沟死难同胞纪念地",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "通化县",
+      "era": "1938－1945年"
+    },
+    {
+      "id": "8-0555-5-039",
+      "name": "伪满建国忠灵庙旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "长春市朝阳区",
+      "era": "1940－1945年"
+    },
+    {
+      "id": "8-0556-5-040",
+      "name": "辽源二战盟军战俘营旧址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "辽源市西安区",
+      "era": "1944－1945年"
+    },
+    {
+      "id": "8-0557-5-041",
+      "name": "中共中央东北局梅河口会议会址",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "梅河口市",
+      "era": "1946年"
+    },
+    {
+      "id": "8-0000-5-003",
+      "name": "中东铁路建筑群增补点",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "吉林",
+      "city": "长春市德惠市",
+      "era": "1903年"
+    },
+    {
       "id": "7-0102-1-102",
       "name": "石人沟遗址",
       "level": "national",
@@ -838,116 +958,6 @@
       "era": "明至清"
     },
     {
-      "id": "8-0547-5-031",
-      "name": "吉林机器局旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "吉林市昌邑区",
-      "era": "1881年"
-    },
-    {
-      "id": "8-0548-5-032",
-      "name": "中俄边界清勘界碑（土字牌）",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "珲春市",
-      "era": "1886年"
-    },
-    {
-      "id": "8-0549-5-033",
-      "name": "红石砬子抗日根据地遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "磐石市",
-      "era": "1932－1933年"
-    },
-    {
-      "id": "8-0550-5-034",
-      "name": "老黑沟惨案遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "舒兰市",
-      "era": "1935年"
-    },
-    {
-      "id": "8-0551-5-035",
-      "name": "侵华日军第100部队遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "长春市绿园区",
-      "era": "1936－1945年"
-    },
-    {
-      "id": "8-0552-5-036",
-      "name": "丰满万人坑遗址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "吉林市丰满区",
-      "era": "1937－1943年"
-    },
-    {
-      "id": "8-0553-5-037",
-      "name": "石人血泪山死难矿工纪念地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "白山市江源区",
-      "era": "1938－1945年"
-    },
-    {
-      "id": "8-0554-5-038",
-      "name": "七道沟死难同胞纪念地",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "通化县",
-      "era": "1938－1945年"
-    },
-    {
-      "id": "8-0555-5-039",
-      "name": "伪满建国忠灵庙旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "长春市朝阳区",
-      "era": "1940－1945年"
-    },
-    {
-      "id": "8-0556-5-040",
-      "name": "辽源二战盟军战俘营旧址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "辽源市西安区",
-      "era": "1944－1945年"
-    },
-    {
-      "id": "8-0557-5-041",
-      "name": "中共中央东北局梅河口会议会址",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "梅河口市",
-      "era": "1946年"
-    },
-    {
       "id": "7-0559-2-043",
       "name": "小西山石棺墓群",
       "level": "national",
@@ -1146,16 +1156,6 @@
       "province": "吉林",
       "city": "长春市绿园区",
       "era": "1956年"
-    },
-    {
-      "id": "8-0000-5-003",
-      "name": "中东铁路建筑群增补点",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "吉林",
-      "city": "长春市德惠市",
-      "era": "1903年"
     }
   ]
 }

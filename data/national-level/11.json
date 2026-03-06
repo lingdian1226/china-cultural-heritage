@@ -1852,16 +1852,6 @@
       "era": "清至民国"
     },
     {
-      "id": "7-0001-1-001",
-      "name": "延庆古崖居",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "北京",
-      "city": "延庆县",
-      "era": "明以前"
-    },
-    {
       "id": "8-0517-5-001",
       "name": "双清别墅",
       "level": "national",
@@ -1902,14 +1892,34 @@
       "era": "1986年"
     },
     {
-      "id": "7-1944-1-001",
-      "name": "房山大白玉塘采石场遗址",
+      "id": "8-0000-3-001",
+      "name": "通州燃灯塔",
+      "level": "national",
+      "batch": 8,
+      "category": "ancient-buildings",
+      "province": "北京",
+      "city": "通州区",
+      "era": "清"
+    },
+    {
+      "id": "8-0000-5-001",
+      "name": "圣米厄尔教堂",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "北京",
+      "city": "东城区",
+      "era": "1904年"
+    },
+    {
+      "id": "7-0001-1-001",
+      "name": "延庆古崖居",
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
       "province": "北京",
-      "city": "房山区",
-      "era": "隋至清"
+      "city": "延庆县",
+      "era": "明以前"
     },
     {
       "id": "7-0703-3-001",
@@ -2030,26 +2040,6 @@
       "province": "北京",
       "city": "西城区",
       "era": "清"
-    },
-    {
-      "id": "7-1972-3-008",
-      "name": "长城",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "北京",
-      "city": "北京市、河北省、辽宁省、吉林省、青海省、宁夏回族自治区",
-      "era": "汉、魏晋南北朝、唐、明"
-    },
-    {
-      "id": "7-1973-3-009",
-      "name": "大运河",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-buildings",
-      "province": "北京",
-      "city": "北京市、天津市、河北省、浙江省、江苏省、安徽省、山东省、河南省",
-      "era": "春秋至中华人民共和国"
     },
     {
       "id": "7-1608-5-001",
@@ -2210,26 +2200,6 @@
       "province": "北京",
       "city": "石景山区",
       "era": "1950年"
-    },
-    {
-      "id": "8-0000-3-001",
-      "name": "通州燃灯塔",
-      "level": "national",
-      "batch": 8,
-      "category": "ancient-buildings",
-      "province": "北京",
-      "city": "通州区",
-      "era": "清"
-    },
-    {
-      "id": "8-0000-5-001",
-      "name": "圣米厄尔教堂",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "北京",
-      "city": "东城区",
-      "era": "1904年"
     }
   ]
 }

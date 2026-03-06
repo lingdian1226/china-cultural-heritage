@@ -2774,6 +2774,46 @@
       "era": "明清"
     },
     {
+      "id": "8-0478-4-001",
+      "name": "狄仁杰祠堂碑",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河北",
+      "city": "大名县",
+      "era": "唐"
+    },
+    {
+      "id": "8-0479-4-002",
+      "name": "曲里千佛洞石窟",
+      "level": "national",
+      "batch": 8,
+      "category": "stone-carvings",
+      "province": "河北",
+      "city": "涉县",
+      "era": "明"
+    },
+    {
+      "id": "8-0527-5-011",
+      "name": "左权将军墓",
+      "level": "national",
+      "batch": 8,
+      "category": "modern-historic",
+      "province": "河北",
+      "city": "邯郸市邯山区",
+      "era": "1950年"
+    },
+    {
+      "id": "8-0000-1-001",
+      "name": "长城马水口段、样边段、板厂峪段",
+      "level": "national",
+      "batch": 8,
+      "category": "archaeological-sites",
+      "province": "河北",
+      "city": "涿鹿县",
+      "era": "明"
+    },
+    {
       "id": "7-0002-1-002",
       "name": "四方洞遗址",
       "level": "national",
@@ -3104,46 +3144,6 @@
       "era": "明"
     },
     {
-      "id": "8-0478-4-001",
-      "name": "狄仁杰祠堂碑",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "河北",
-      "city": "大名县",
-      "era": "唐"
-    },
-    {
-      "id": "8-0479-4-002",
-      "name": "曲里千佛洞石窟",
-      "level": "national",
-      "batch": 8,
-      "category": "stone-carvings",
-      "province": "河北",
-      "city": "涉县",
-      "era": "明"
-    },
-    {
-      "id": "8-0527-5-011",
-      "name": "左权将军墓",
-      "level": "national",
-      "batch": 8,
-      "category": "modern-historic",
-      "province": "河北",
-      "city": "邯郸市邯山区",
-      "era": "1950年"
-    },
-    {
-      "id": "7-1945-1-002",
-      "name": "宋辽边关地道",
-      "level": "national",
-      "batch": 7,
-      "category": "archaeological-sites",
-      "province": "河北",
-      "city": "保定市雄县",
-      "era": "宋、辽"
-    },
-    {
       "id": "7-0517-2-001",
       "name": "林村墓群",
       "level": "national",
@@ -3212,26 +3212,6 @@
       "province": "河北",
       "city": "张家口市蔚县",
       "era": "元至清"
-    },
-    {
-      "id": "7-1956-2-001",
-      "name": "丛葬墓群",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "河北",
-      "city": "保定市易县",
-      "era": "战国"
-    },
-    {
-      "id": "7-1957-2-002",
-      "name": "代王城墓群",
-      "level": "national",
-      "batch": 7,
-      "category": "ancient-tombs",
-      "province": "河北",
-      "city": "张家口市蔚县",
-      "era": "战国至汉"
     },
     {
       "id": "7-0719-3-017",
@@ -3932,16 +3912,6 @@
       "province": "河北",
       "city": "石家庄市新华区",
       "era": "1948年"
-    },
-    {
-      "id": "8-0000-1-001",
-      "name": "长城马水口段、样边段、板厂峪段",
-      "level": "national",
-      "batch": 8,
-      "category": "archaeological-sites",
-      "province": "河北",
-      "city": "涿鹿县",
-      "era": "明"
     }
   ]
 }

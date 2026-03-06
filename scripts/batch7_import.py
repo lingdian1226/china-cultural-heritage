@@ -36,7 +36,7 @@ SUB_PAGES = [
     '第七批全国重点文物保护单位中的古建筑',
     '第七批全国重点文物保护单位中的石窟寺及石刻',
     '第七批全国重点文物保护单位中的近现代重要史迹及代表性建筑',
-    '第七批全国重点文物保护单位中的其他',
+    '第七批全国重点文物保护单位中的其他文物保护单位',
 ]
 
 def detect_province(address):
@@ -72,8 +72,18 @@ def fetch_page_html(title):
         return ""
 
 def parse_html_table(html, batch=7):
-    """Parse entries from HTML table rows containing 7-xxxx pattern"""
+    """Parse entries from HTML table rows containing 7-xxxx pattern.
+    Only parses the '新增' section, excludes '合并' (merged with earlier batches)."""
     entries = []
+    
+    # Extract only the '新增' section: from <h2>新增 to the next <h2>
+    xinzeng_match = re.search(r'<h2[^>]*>.*?新增.*?</h2>(.*?)(?=<h2|$)', html, re.DOTALL)
+    if xinzeng_match:
+        section_html = xinzeng_match.group(1)
+    else:
+        # Fallback: use entire page if no 新增 heading found
+        section_html = html
+    
     # Match table rows with heritage IDs
     pattern = re.compile(
         r'<td[^>]*>\s*(\d+)\s*</td>\s*'
@@ -84,7 +94,7 @@ def parse_html_table(html, batch=7):
         re.DOTALL
     )
     
-    for m in pattern.finditer(html):
+    for m in pattern.finditer(section_html):
         seq = int(m.group(1))
         id_num = m.group(2)
         name = re.sub(r'<[^>]+>', '', m.group(3)).strip()
