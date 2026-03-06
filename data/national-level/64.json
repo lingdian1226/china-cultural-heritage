@@ -1,5 +1,5 @@
 {
-  "province": "宁夏",
+  "province": "宁夏回族自治区",
   "items": [
     {
       "id": "1-0076-3-029",
@@ -205,7 +205,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "青铜峡市",
       "era": "旧石器时代"
     },
@@ -215,7 +215,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "海原县",
       "era": "新石器时代"
     },
@@ -225,7 +225,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市",
       "era": "汉"
     },
@@ -235,7 +235,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "灵武市",
       "era": "宋至明"
     },
@@ -245,7 +245,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "盐池县",
       "era": "汉"
     },
@@ -255,7 +255,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "银川市",
       "era": "清"
     },
@@ -265,7 +265,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "吴忠市",
       "era": "清"
     },
@@ -275,7 +275,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "西吉县",
       "era": "1936年"
     },
@@ -285,7 +285,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "彭阳县",
       "era": "西周"
     },
@@ -295,7 +295,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市沙坡头区",
       "era": "新石器时代至西夏"
     },
@@ -305,7 +305,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "固原市隆德县",
       "era": "新石器时代"
     },
@@ -315,7 +315,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "固原市原州区",
       "era": "汉至清"
     },
@@ -325,7 +325,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "石嘴山市惠农区",
       "era": "宋"
     },
@@ -335,7 +335,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市海原县",
       "era": "宋至明"
     },
@@ -345,7 +345,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市海原县",
       "era": "宋至明"
     },
@@ -355,7 +355,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "固原市原州区",
       "era": "宋至明"
     },
@@ -365,7 +365,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "吴忠市盐池县",
       "era": "明"
     },
@@ -375,7 +375,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "固原市原州区",
       "era": "北朝至唐"
     },
@@ -385,7 +385,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "吴忠市盐池县",
       "era": "唐"
     },
@@ -395,7 +395,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "银川市贺兰县",
       "era": "宋"
     },
@@ -405,7 +405,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "吴忠市同心县",
       "era": "宋、明"
     },
@@ -415,7 +415,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市中宁县",
       "era": "明"
     },
@@ -425,7 +425,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "银川市兴庆区",
       "era": "清"
     },
@@ -435,7 +435,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "银川市永宁县",
       "era": "清"
     },
@@ -445,7 +445,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "石嘴山市平罗县",
       "era": "清"
     },
@@ -455,7 +455,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "石嘴山市平罗县",
       "era": "清至民国"
     },
@@ -465,7 +465,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "宁夏",
+      "province": "宁夏回族自治区",
       "city": "中卫市沙坡头区",
       "era": "清至民国"
     }

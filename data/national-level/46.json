@@ -1,5 +1,5 @@
 {
-  "province": "海南",
+  "province": "海南省",
   "items": [
     {
       "id": "4-0075-2-019",
@@ -161,7 +161,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "西",
       "era": "唐至宋"
     },
@@ -171,7 +171,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "西",
       "era": "唐至清"
     },
@@ -181,7 +181,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "儋州市",
       "era": "唐至清"
     },
@@ -191,7 +191,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "海南",
+      "province": "海南省",
       "city": "三亚市",
       "era": "唐至明"
     },
@@ -201,7 +201,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市",
       "era": "清"
     },
@@ -211,7 +211,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "琼海市",
       "era": "民国"
     },
@@ -221,7 +221,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "陵水黎族自治县",
       "era": "1927～1928年"
     },
@@ -231,7 +231,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "陵水黎族自治县",
       "era": "新石器时代"
     },
@@ -241,7 +241,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "三沙市",
       "era": "南宋、明清"
     },
@@ -251,7 +251,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "定安县",
       "era": "明"
     },
@@ -261,7 +261,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "三沙市",
       "era": "清"
     },
@@ -271,7 +271,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "澄迈县",
       "era": "明清"
     },
@@ -281,7 +281,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市琼山区",
       "era": "清"
     },
@@ -291,7 +291,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "文昌市",
       "era": "清"
     },
@@ -301,7 +301,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "文昌市",
       "era": "1917年"
     },
@@ -311,7 +311,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市琼山区",
       "era": "1938年"
     },
@@ -321,7 +321,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "东方市",
       "era": "1939－1942年"
     },
@@ -331,7 +331,7 @@
       "level": "national",
       "batch": 8,
       "category": "others",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市琼山区",
       "era": "宋明至今"
     },
@@ -341,7 +341,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "昌江黎族自治县",
       "era": "旧石器时代"
     },
@@ -351,7 +351,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市琼山区",
       "era": "汉至唐"
     },
@@ -361,7 +361,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "三沙市",
       "era": "宋至清"
     },
@@ -371,7 +371,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "海南",
+      "province": "海南省",
       "city": "藏族自治州同德县",
       "era": "新石器时代"
     },
@@ -381,7 +381,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "文昌市",
       "era": "明至清"
     },
@@ -391,7 +391,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "文昌市",
       "era": "清"
     },
@@ -401,7 +401,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "三亚市",
       "era": "清"
     },
@@ -411,7 +411,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "藏族自治州兴海县",
       "era": "明至民国"
     },
@@ -421,7 +421,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "藏族自治州贵德县",
       "era": "清"
     },
@@ -431,7 +431,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "藏族自治州贵德县",
       "era": "清"
     },
@@ -441,7 +441,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "海南",
+      "province": "海南省",
       "city": "藏族自治州同德县",
       "era": "清"
     },
@@ -451,7 +451,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "临高县",
       "era": "清"
     },
@@ -461,7 +461,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "海口市龙华区",
       "era": "1937年"
     },
@@ -471,7 +471,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "海南",
+      "province": "海南省",
       "city": "文昌市",
       "era": "1938年"
     },
@@ -481,7 +481,7 @@
       "level": "national",
       "batch": 7,
       "category": "others",
-      "province": "海南",
+      "province": "海南省",
       "city": "儋州市",
       "era": "宋至中华人民共和国"
     }

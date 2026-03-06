@@ -1,5 +1,5 @@
 {
-  "province": "内蒙古",
+  "province": "内蒙古自治区",
   "items": [
     {
       "id": "1-0159-1-024",
@@ -755,7 +755,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "包头市",
       "era": "新石器时代"
     },
@@ -765,7 +765,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "敖汉旗",
       "era": "新石器时代"
     },
@@ -775,7 +775,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市",
       "era": "新石器至青铜时代"
     },
@@ -785,7 +785,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市",
       "era": "新石器时代至战国"
     },
@@ -795,7 +795,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "伊金霍洛旗",
       "era": "新石器时代至商"
     },
@@ -805,7 +805,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂尔多斯市",
       "era": "秦"
     },
@@ -815,7 +815,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "包头市",
       "era": "汉"
     },
@@ -825,7 +825,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "宁城县",
       "era": "汉"
     },
@@ -835,7 +835,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "磴口县",
       "era": "汉"
     },
@@ -845,7 +845,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "杭锦旗",
       "era": "汉"
     },
@@ -855,7 +855,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "察哈尔右翼后旗",
       "era": "汉至南北朝"
     },
@@ -865,7 +865,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌拉特前旗",
       "era": "汉至南北朝"
     },
@@ -875,7 +875,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "固阳县",
       "era": "南北朝"
     },
@@ -885,7 +885,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "准格尔旗",
       "era": "隋至唐"
     },
@@ -895,7 +895,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂托克前旗",
       "era": "唐"
     },
@@ -905,7 +905,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "阿鲁科尔沁旗",
       "era": "辽至明"
     },
@@ -915,7 +915,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "达尔罕茂明安联合旗",
       "era": "金至元"
     },
@@ -925,7 +925,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "四子王旗",
       "era": "金至元"
     },
@@ -935,7 +935,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "四子王旗",
       "era": "元"
     },
@@ -945,7 +945,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂温克族自治旗",
       "era": "元"
     },
@@ -955,7 +955,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "满洲里市",
       "era": "汉"
     },
@@ -965,7 +965,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市",
       "era": "汉"
     },
@@ -975,7 +975,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "巴林左旗",
       "era": "辽"
     },
@@ -985,7 +985,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "科尔沁左翼后旗",
       "era": "辽"
     },
@@ -995,7 +995,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "奈曼旗",
       "era": "辽"
     },
@@ -1005,7 +1005,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "翁牛特旗",
       "era": "元"
     },
@@ -1015,7 +1015,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "喀喇沁旗",
       "era": "明至民国"
     },
@@ -1025,7 +1025,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市",
       "era": "明至清"
     },
@@ -1035,7 +1035,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市",
       "era": "清"
     },
@@ -1045,7 +1045,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "锡林浩特市",
       "era": "清"
     },
@@ -1055,7 +1055,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "阿拉善左旗",
       "era": "清"
     },
@@ -1065,7 +1065,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "喀喇沁旗",
       "era": "清"
     },
@@ -1075,7 +1075,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "多伦县",
       "era": "清"
     },
@@ -1085,7 +1085,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "库伦旗",
       "era": "清"
     },
@@ -1095,7 +1095,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "科尔沁左翼后旗",
       "era": "清"
     },
@@ -1105,7 +1105,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "阿鲁科尔沁旗",
       "era": "清"
     },
@@ -1115,7 +1115,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌拉特前旗",
       "era": "新石器至青铜时代"
     },
@@ -1125,7 +1125,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "巴林左旗",
       "era": "辽"
     },
@@ -1135,7 +1135,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "土默特左旗",
       "era": "清至民国"
     },
@@ -1145,7 +1145,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌兰浩特市",
       "era": "民国"
     },
@@ -1155,7 +1155,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌审旗",
       "era": "1919～1921年"
     },
@@ -1165,7 +1165,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "达尔罕茂明安联合旗",
       "era": "1936年"
     },
@@ -1175,7 +1175,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌兰浩特市",
       "era": "1947年"
     },
@@ -1185,7 +1185,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "清水河县",
       "era": "新石器时代"
     },
@@ -1195,7 +1195,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "科尔沁左翼中旗",
       "era": "新石器时代"
     },
@@ -1205,7 +1205,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市赛罕区",
       "era": "辽金元"
     },
@@ -1215,7 +1215,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌拉特中旗",
       "era": "商周至汉"
     },
@@ -1225,7 +1225,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "包头市昆都仑区",
       "era": "清"
     },
@@ -1235,7 +1235,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市赛罕区",
       "era": "1921年"
     },
@@ -1245,7 +1245,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "克什克腾旗",
       "era": "1941－1943年"
     },
@@ -1255,7 +1255,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌兰察布市集宁区",
       "era": "1946年"
     },
@@ -1265,7 +1265,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市满洲里市",
       "era": "旧石器时代"
     },
@@ -1275,7 +1275,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "锡林郭勒盟东乌珠穆沁旗",
       "era": "旧石器时代、商"
     },
@@ -1285,7 +1285,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市鄂温克族自治旗",
       "era": "新石器时代"
     },
@@ -1295,7 +1295,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市海拉尔区",
       "era": "新石器时代"
     },
@@ -1305,7 +1305,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市林西县",
       "era": "新石器时代"
     },
@@ -1315,7 +1315,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市敖汉旗",
       "era": "新石器时代"
     },
@@ -1325,7 +1325,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市红山区",
       "era": "新石器时代"
     },
@@ -1335,7 +1335,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市巴林左旗",
       "era": "新石器时代"
     },
@@ -1345,7 +1345,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂尔多斯市准格尔旗",
       "era": "新石器时代"
     },
@@ -1355,7 +1355,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市敖汉旗",
       "era": "新石器时代"
     },
@@ -1365,7 +1365,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市喀喇沁旗",
       "era": "新石器时代、夏、商、周"
     },
@@ -1375,7 +1375,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市松山区",
       "era": "夏至商"
     },
@@ -1385,7 +1385,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市红山区",
       "era": "夏至商"
     },
@@ -1395,7 +1395,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市松山区",
       "era": "夏至商"
     },
@@ -1405,7 +1405,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市松山区",
       "era": "夏至商"
     },
@@ -1415,7 +1415,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市宁城县",
       "era": "周"
     },
@@ -1425,7 +1425,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市奈曼旗",
       "era": "战国至秦汉"
     },
@@ -1435,7 +1435,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市托克托县",
       "era": "战国至隋唐"
     },
@@ -1445,7 +1445,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市陈巴尔虎旗",
       "era": "辽"
     },
@@ -1455,7 +1455,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市库伦旗",
       "era": "辽"
     },
@@ -1465,7 +1465,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市扎鲁特旗",
       "era": "辽"
     },
@@ -1475,7 +1475,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市科尔沁左翼后旗",
       "era": "辽"
     },
@@ -1485,7 +1485,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市林西县",
       "era": "辽"
     },
@@ -1495,7 +1495,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市敖汉旗",
       "era": "辽、金、元"
     },
@@ -1505,7 +1505,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市敖汉旗",
       "era": "辽、金、元"
     },
@@ -1515,7 +1515,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "兴安盟科尔沁右翼中旗",
       "era": "金"
     },
@@ -1525,7 +1525,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "锡林郭勒盟正蓝旗",
       "era": "金、元、明"
     },
@@ -1535,7 +1535,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "包头市九原区",
       "era": "元"
     },
@@ -1545,7 +1545,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "巴彦淖尔市乌拉特中旗",
       "era": "元、明"
     },
@@ -1555,7 +1555,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市扎鲁特旗",
       "era": "新石器时代"
     },
@@ -1565,7 +1565,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市宁城县",
       "era": "西周至战国"
     },
@@ -1575,7 +1575,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市海拉尔区",
       "era": "东汉"
     },
@@ -1585,7 +1585,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市和林格尔县",
       "era": "东汉"
     },
@@ -1595,7 +1595,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市海拉尔区",
       "era": "唐至五代"
     },
@@ -1605,7 +1605,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市库伦旗",
       "era": "辽"
     },
@@ -1615,7 +1615,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市阿鲁科尔沁旗",
       "era": "辽"
     },
@@ -1625,7 +1625,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市喀喇沁旗",
       "era": "辽"
     },
@@ -1635,7 +1635,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市阿鲁科尔沁旗",
       "era": "辽"
     },
@@ -1645,7 +1645,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "锡林郭勒盟多伦县",
       "era": "元"
     },
@@ -1655,7 +1655,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "锡林郭勒盟苏尼特左旗",
       "era": "元"
     },
@@ -1665,7 +1665,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市喀喇沁旗",
       "era": "清"
     },
@@ -1675,7 +1675,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂尔多斯市准格尔旗",
       "era": "明"
     },
@@ -1685,7 +1685,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市回民区",
       "era": "清"
     },
@@ -1695,7 +1695,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市玉泉区",
       "era": "清"
     },
@@ -1705,7 +1705,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市奈曼旗",
       "era": "清"
     },
@@ -1715,7 +1715,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "通辽市库伦旗",
       "era": "清"
     },
@@ -1725,7 +1725,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市翁牛特旗",
       "era": "清"
     },
@@ -1735,7 +1735,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市巴林右旗",
       "era": "清"
     },
@@ -1745,7 +1745,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市宁城县",
       "era": "清"
     },
@@ -1755,7 +1755,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市红山区",
       "era": "清"
     },
@@ -1765,7 +1765,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "乌兰察布市四子王旗",
       "era": "清"
     },
@@ -1775,7 +1775,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "阿拉善盟阿拉善右旗",
       "era": "清"
     },
@@ -1785,7 +1785,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂尔多斯市杭锦旗",
       "era": "清"
     },
@@ -1795,7 +1795,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市回民区",
       "era": "清至民国"
     },
@@ -1805,7 +1805,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "鄂尔多斯市鄂托克旗",
       "era": "新石器时代"
     },
@@ -1815,7 +1815,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "赤峰市克什克腾旗",
       "era": "新石器时代至南北朝"
     },
@@ -1825,7 +1825,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "阿拉善盟阿拉善右旗",
       "era": "新石器时代至清"
     },
@@ -1835,7 +1835,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市土默特左旗",
       "era": "明至清"
     },
@@ -1845,7 +1845,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼和浩特市回民区",
       "era": "1924年"
     },
@@ -1855,7 +1855,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "兴安盟阿尔山市",
       "era": "1935～1944年"
     },
@@ -1865,7 +1865,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "呼伦贝尔市鄂温克族自治旗",
       "era": "1940年"
     },
@@ -1875,7 +1875,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "内蒙古",
+      "province": "内蒙古自治区",
       "city": "兴安盟乌兰浩特市",
       "era": "1947年"
     }

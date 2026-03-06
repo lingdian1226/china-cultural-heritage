@@ -1,5 +1,5 @@
 {
-  "province": "新疆",
+  "province": "新疆维吾尔自治区",
   "items": [
     {
       "id": "1-0041-4-008",
@@ -909,7 +909,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "策勒县",
       "era": "南北朝至唐"
     },
@@ -919,7 +919,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "墨玉县",
       "era": "唐"
     },
@@ -929,7 +929,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "新和县",
       "era": "唐"
     },
@@ -939,7 +939,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "若羌县",
       "era": "新石器时代至晋"
     },
@@ -949,7 +949,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密市",
       "era": "青铜时代"
     },
@@ -959,7 +959,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "鄯善县",
       "era": "青铜时代至唐"
     },
@@ -969,7 +969,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "温泉县",
       "era": "隋至唐"
     },
@@ -979,7 +979,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "疏附县",
       "era": "元"
     },
@@ -989,7 +989,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊宁县",
       "era": "明"
     },
@@ -999,7 +999,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "莎车县",
       "era": "明"
     },
@@ -1009,7 +1009,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿图什市",
       "era": "清"
     },
@@ -1019,7 +1019,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密市",
       "era": "清至民国"
     },
@@ -1029,7 +1029,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "察布查尔锡伯自治县",
       "era": "明"
     },
@@ -1039,7 +1039,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "鄯善县",
       "era": "南北朝至唐"
     },
@@ -1049,7 +1049,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吐鲁番市",
       "era": "清"
     },
@@ -1059,7 +1059,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔城市",
       "era": "清至民国"
     },
@@ -1069,7 +1069,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊宁市",
       "era": "民国"
     },
@@ -1079,7 +1079,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吉木乃县",
       "era": "旧石器时代至商"
     },
@@ -1089,7 +1089,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "尼勒克县",
       "era": "商周"
     },
@@ -1099,7 +1099,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "轮台县",
       "era": "汉"
     },
@@ -1109,7 +1109,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "焉耆回族自治县",
       "era": "汉至唐"
     },
@@ -1119,7 +1119,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "轮台县",
       "era": "魏晋至唐"
     },
@@ -1129,7 +1129,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "库车县",
       "era": "晋至宋"
     },
@@ -1139,7 +1139,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔什库尔干塔吉克自治县",
       "era": "唐"
     },
@@ -1149,7 +1149,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "焉耆回族自治县",
       "era": "唐"
     },
@@ -1159,7 +1159,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密市伊州区",
       "era": "唐"
     },
@@ -1169,7 +1169,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "沙雅县",
       "era": "唐"
     },
@@ -1179,7 +1179,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "玛纳斯县",
       "era": "唐至元"
     },
@@ -1189,7 +1189,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴里坤哈萨克自治县",
       "era": "清"
     },
@@ -1199,7 +1199,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔什库尔干塔吉克自治县",
       "era": "东周"
     },
@@ -1209,7 +1209,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密市伊州区",
       "era": "东汉、唐"
     },
@@ -1219,7 +1219,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "拜城县",
       "era": "东汉"
     },
@@ -1229,7 +1229,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐市天山区",
       "era": "1922年"
     },
@@ -1239,7 +1239,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "皮山县",
       "era": "1877－1962年"
     },
@@ -1249,7 +1249,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐市天山区",
       "era": "1940－1941年"
     },
@@ -1259,7 +1259,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "生产建设兵团第八师石河子市",
       "era": "1952年"
     },
@@ -1269,7 +1269,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "生产建设兵团第一师阿拉尔市",
       "era": "1973年"
     },
@@ -1279,7 +1279,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔城地区和布克赛尔蒙古自治县",
       "era": "旧石器时代"
     },
@@ -1289,7 +1289,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密地区巴里坤哈萨克自治县",
       "era": "春秋至战国"
     },
@@ -1299,7 +1299,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区库车县",
       "era": "西汉至宋"
     },
@@ -1309,7 +1309,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密地区巴里坤哈萨克自治县",
       "era": "汉"
     },
@@ -1319,7 +1319,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州尉犁县",
       "era": "汉至晋"
     },
@@ -1329,7 +1329,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "和田地区于田县",
       "era": "汉至南北朝"
     },
@@ -1339,7 +1339,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区新和县",
       "era": "汉至唐"
     },
@@ -1349,7 +1349,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "昌吉回族自治州奇台县",
       "era": "东汉"
     },
@@ -1359,7 +1359,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "和田地区策勒县",
       "era": "南北朝"
     },
@@ -1369,7 +1369,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区柯坪县",
       "era": "唐"
     },
@@ -1379,7 +1379,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州和硕县",
       "era": "唐"
     },
@@ -1389,7 +1389,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区库车县",
       "era": "唐"
     },
@@ -1399,7 +1399,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吐鲁番地区鄯善县",
       "era": "唐至宋"
     },
@@ -1409,7 +1409,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "博尔塔拉蒙古自治州博乐市",
       "era": "唐至元"
     },
@@ -1419,7 +1419,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "昌吉回族自治州奇台县",
       "era": "唐至元"
     },
@@ -1429,7 +1429,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州昭苏县",
       "era": "唐至元"
     },
@@ -1439,7 +1439,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "昌吉回族自治州木垒哈萨克自治县",
       "era": "唐至清"
     },
@@ -1449,7 +1449,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吐鲁番地区吐鲁番市",
       "era": "唐至清"
     },
@@ -1459,7 +1459,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密地区哈密市",
       "era": "唐至清"
     },
@@ -1469,7 +1469,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吐鲁番地区鄯善县",
       "era": "唐至清"
     },
@@ -1479,7 +1479,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔城地区和布克赛尔蒙古自治县",
       "era": "明"
     },
@@ -1489,7 +1489,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州霍城县",
       "era": "清"
     },
@@ -1499,7 +1499,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区柯坪县",
       "era": "清"
     },
@@ -1509,7 +1509,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州霍城县",
       "era": "清"
     },
@@ -1519,7 +1519,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州若羌县",
       "era": "公元前2000年~公元前1500年"
     },
@@ -1529,7 +1529,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿勒泰地区布尔津县",
       "era": "青铜时代"
     },
@@ -1539,7 +1539,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "哈密地区伊吾县",
       "era": "青铜时代"
     },
@@ -1549,7 +1549,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿勒泰地区布尔津县",
       "era": "青铜时代至铁器时代"
     },
@@ -1559,7 +1559,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "博尔塔拉蒙古自治州博乐市",
       "era": "青铜时代、汉至唐"
     },
@@ -1569,7 +1569,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "博尔塔拉蒙古自治州温泉县",
       "era": "春秋至战国"
     },
@@ -1579,7 +1579,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "博尔塔拉蒙古自治州温泉县",
       "era": "春秋至战国"
     },
@@ -1589,7 +1589,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区库车县",
       "era": "晋、十六国"
     },
@@ -1599,7 +1599,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州昭苏县",
       "era": "隋、唐"
     },
@@ -1609,7 +1609,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区库车县",
       "era": "明"
     },
@@ -1619,7 +1619,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州和静县",
       "era": "清"
     },
@@ -1629,7 +1629,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州伊宁市",
       "era": "清"
     },
@@ -1639,7 +1639,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "塔城地区塔城市",
       "era": "清"
     },
@@ -1649,7 +1649,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州霍城县",
       "era": "清"
     },
@@ -1659,7 +1659,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "阿克苏地区库车县",
       "era": "清"
     },
@@ -1669,7 +1669,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州察布查尔锡伯自治县",
       "era": "清"
     },
@@ -1679,7 +1679,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "喀什地区莎车县",
       "era": "清"
     },
@@ -1689,7 +1689,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州伊宁市",
       "era": "清"
     },
@@ -1699,7 +1699,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐市天山区",
       "era": "清"
     },
@@ -1709,7 +1709,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "昌吉回族自治州呼图壁县",
       "era": "周"
     },
@@ -1719,7 +1719,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "吐鲁番地区吐鲁番市",
       "era": "唐至宋"
     },
@@ -1729,7 +1729,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "克拉玛依市独山子区",
       "era": "1909年"
     },
@@ -1739,7 +1739,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "和田地区于田县",
       "era": "民国"
     },
@@ -1749,7 +1749,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "和田地区皮山县",
       "era": "1915年"
     },
@@ -1759,7 +1759,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州和静县",
       "era": "1919年"
     },
@@ -1769,7 +1769,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐市天山区",
       "era": "1937～1942年"
     },
@@ -1779,7 +1779,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "伊犁哈萨克自治州伊宁市",
       "era": "1944～1949年"
     },
@@ -1789,7 +1789,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "昌吉回族自治州玛纳斯县",
       "era": "1953年"
     },
@@ -1799,7 +1799,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "克拉玛依市克拉玛依区",
       "era": "1955年"
     },
@@ -1809,7 +1809,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐市天山区",
       "era": "1956年"
     },
@@ -1819,7 +1819,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "新疆",
+      "province": "新疆维吾尔自治区",
       "city": "巴音郭楞蒙古自治州和硕县",
       "era": "1966年"
     }

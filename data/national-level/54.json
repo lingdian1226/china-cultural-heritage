@@ -1,5 +1,5 @@
 {
-  "province": "西藏",
+  "province": "西藏自治区",
   "items": [
     {
       "id": "1-0005-5-005",
@@ -601,7 +601,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉孜县",
       "era": "唐"
     },
@@ -611,7 +611,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "扎囊县",
       "era": "唐"
     },
@@ -621,7 +621,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "曲水县",
       "era": "宋"
     },
@@ -631,7 +631,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昌都地区",
       "era": "元至清"
     },
@@ -641,7 +641,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "扎囊县",
       "era": "明"
     },
@@ -651,7 +651,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉孜县",
       "era": "明"
     },
@@ -661,7 +661,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "索县",
       "era": "明"
     },
@@ -671,7 +671,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "扎囊县",
       "era": "清"
     },
@@ -681,7 +681,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "申扎县",
       "era": "旧石器时代"
     },
@@ -691,7 +691,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "洛扎县",
       "era": "元明"
     },
@@ -701,7 +701,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-tombs",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "噶尔县",
       "era": "汉晋"
     },
@@ -711,7 +711,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "洛扎县",
       "era": "北宋至明"
     },
@@ -721,7 +721,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "康马县",
       "era": "北宋至清"
     },
@@ -731,7 +731,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "康马县",
       "era": "北宋至清"
     },
@@ -741,7 +741,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "贡觉县",
       "era": "元"
     },
@@ -751,7 +751,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "唐宋"
     },
@@ -761,7 +761,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "察雅县",
       "era": "唐"
     },
@@ -771,7 +771,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "芒康县",
       "era": "唐"
     },
@@ -781,7 +781,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "岗巴县",
       "era": "宋"
     },
@@ -791,7 +791,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昂仁县",
       "era": "明"
     },
@@ -801,7 +801,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "亚东县",
       "era": "1894－1903年"
     },
@@ -811,7 +811,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昌都市卡若区",
       "era": "1955－1959年"
     },
@@ -821,7 +821,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "1984年"
     },
@@ -831,7 +831,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昌都地区昌都县",
       "era": "新石器时代"
     },
@@ -841,7 +841,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "阿里地区札达县",
       "era": "宋至明"
     },
@@ -851,7 +851,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "山南地区隆子县",
       "era": "宋、明"
     },
@@ -861,7 +861,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "山南地区洛扎县",
       "era": "明"
     },
@@ -871,7 +871,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "明"
     },
@@ -881,7 +881,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昌都地区昌都县",
       "era": "明"
     },
@@ -891,7 +891,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "明至清"
     },
@@ -901,7 +901,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "山南地区贡嘎县",
       "era": "明至清"
     },
@@ -911,7 +911,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "清"
     },
@@ -921,7 +921,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "日喀则地区吉隆县",
       "era": "清"
     },
@@ -931,7 +931,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "清"
     },
@@ -941,7 +941,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "清"
     },
@@ -951,7 +951,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "清"
     },
@@ -961,7 +961,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "山南地区乃东县",
       "era": "清至民国"
     },
@@ -971,7 +971,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "1916年"
     },
@@ -981,7 +981,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "那曲地区班戈县",
       "era": "新石器时代至唐"
     },
@@ -991,7 +991,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "林芝地区波密县",
       "era": "1953年"
     },
@@ -1001,7 +1001,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "日喀则地区江孜县",
       "era": "1955年"
     },
@@ -1011,7 +1011,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "拉萨市城关区",
       "era": "1965年"
     },
@@ -1021,7 +1021,7 @@
       "level": "national",
       "batch": 7,
       "category": "others",
-      "province": "西藏",
+      "province": "西藏自治区",
       "city": "昌都地区芒康县",
       "era": "唐至中华人民共和国"
     }

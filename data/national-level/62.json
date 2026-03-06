@@ -1,5 +1,5 @@
 {
-  "province": "甘肃",
+  "province": "甘肃省",
   "items": [
     {
       "id": "1-0035-4-002",
@@ -931,7 +931,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "东乡族自治县",
       "era": "新石器时代"
     },
@@ -941,7 +941,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "会宁县",
       "era": "新石器至青铜时代"
     },
@@ -951,7 +951,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临洮县",
       "era": "新石器至青铜时代"
     },
@@ -961,7 +961,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市",
       "era": "新石器至青铜时代"
     },
@@ -971,7 +971,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "玉门市",
       "era": "青铜时代"
     },
@@ -981,7 +981,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "安西县",
       "era": "汉至唐"
     },
@@ -991,7 +991,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "民乐县",
       "era": "汉至晋"
     },
@@ -1001,7 +1001,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "夏河县",
       "era": "唐至明"
     },
@@ -1011,7 +1011,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "景泰县",
       "era": "明"
     },
@@ -1021,7 +1021,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "榆中县",
       "era": "明"
     },
@@ -1031,7 +1031,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "宁县",
       "era": "宋"
     },
@@ -1041,7 +1041,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市",
       "era": "元至清"
     },
@@ -1051,7 +1051,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市",
       "era": "明至清"
     },
@@ -1061,7 +1061,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "永登县",
       "era": "明至清"
     },
@@ -1071,7 +1071,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "秦安县",
       "era": "明至清"
     },
@@ -1081,7 +1081,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市",
       "era": "明至清"
     },
@@ -1091,7 +1091,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市",
       "era": "明至清"
     },
@@ -1101,7 +1101,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "正宁县",
       "era": "明"
     },
@@ -1111,7 +1111,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "永昌县",
       "era": "明"
     },
@@ -1121,7 +1121,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市",
       "era": "明"
     },
@@ -1131,7 +1131,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市",
       "era": "清"
     },
@@ -1141,7 +1141,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庄浪县",
       "era": "南北朝至明"
     },
@@ -1151,7 +1151,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武山县",
       "era": "南北朝至元"
     },
@@ -1161,7 +1161,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "泾川县",
       "era": "南北朝"
     },
@@ -1171,7 +1171,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "徽县",
       "era": "宋"
     },
@@ -1181,7 +1181,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市",
       "era": "清"
     },
@@ -1191,7 +1191,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "民勤县",
       "era": "民国"
     },
@@ -1201,7 +1201,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "渭源县",
       "era": "民国"
     },
@@ -1211,7 +1211,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "迭部县",
       "era": "1935年"
     },
@@ -1221,7 +1221,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "民乐县",
       "era": "夏商"
     },
@@ -1231,7 +1231,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "宁县",
       "era": "周"
     },
@@ -1241,7 +1241,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "甘谷县",
       "era": "周"
     },
@@ -1251,7 +1251,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "肃北蒙古族自治县",
       "era": "战国至汉"
     },
@@ -1261,7 +1261,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "白银市平川区",
       "era": "宋至民国"
     },
@@ -1271,7 +1271,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "成县",
       "era": "南宋"
     },
@@ -1281,7 +1281,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "陇南市武都区",
       "era": "南宋、清"
     },
@@ -1291,7 +1291,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武山县",
       "era": "元至民国"
     },
@@ -1301,7 +1301,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "正宁县",
       "era": "明"
     },
@@ -1311,7 +1311,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市甘州区",
       "era": "明清"
     },
@@ -1321,7 +1321,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "静宁县",
       "era": "明清"
     },
@@ -1331,7 +1331,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "永昌县",
       "era": "明清"
     },
@@ -1341,7 +1341,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市秦州区",
       "era": "明至民国"
     },
@@ -1351,7 +1351,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市甘州区",
       "era": "清"
     },
@@ -1361,7 +1361,7 @@
       "level": "national",
       "batch": 8,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天祝藏族自治县",
       "era": "清"
     },
@@ -1371,7 +1371,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张家川回族自治县",
       "era": "东汉"
     },
@@ -1381,7 +1381,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "玉门市",
       "era": "北魏至清"
     },
@@ -1391,7 +1391,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "民乐县",
       "era": "北魏至清"
     },
@@ -1401,7 +1401,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "环县",
       "era": "1936年"
     },
@@ -1411,7 +1411,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "环县",
       "era": "1936－1937年"
     },
@@ -1421,7 +1421,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临潭县",
       "era": "1943年"
     },
@@ -1431,7 +1431,7 @@
       "level": "national",
       "batch": 8,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "成县",
       "era": "东汉"
     },
@@ -1441,7 +1441,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市泾川县",
       "era": "旧石器时代"
     },
@@ -1451,7 +1451,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市武山县",
       "era": "旧石器时代、新石器时代"
     },
@@ -1461,7 +1461,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临夏回族自治州广河县",
       "era": "新石器时代"
     },
@@ -1471,7 +1471,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "甘南藏族自治州迭部县",
       "era": "新石器时代"
     },
@@ -1481,7 +1481,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "甘南藏族自治州临潭县",
       "era": "新石器时代至商"
     },
@@ -1491,7 +1491,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临夏回族自治州积石山保安族东乡族撒拉族自治县",
       "era": "新石器时代至商"
     },
@@ -1501,7 +1501,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临夏回族自治州康乐县",
       "era": "新石器时代至商"
     },
@@ -1511,7 +1511,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市灵台县",
       "era": "新石器时代至商"
     },
@@ -1521,7 +1521,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市金塔县",
       "era": "新石器时代、夏、商"
     },
@@ -1531,7 +1531,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市金塔县",
       "era": "新石器时代、商"
     },
@@ -1541,7 +1541,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市清水县",
       "era": "新石器时代、商、周、汉"
     },
@@ -1551,7 +1551,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "陇南市礼县",
       "era": "新石器时代、西周、春秋、汉"
     },
@@ -1561,7 +1561,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市灵台县",
       "era": "新石器时代、西周、汉"
     },
@@ -1571,7 +1571,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市张家川回族自治县",
       "era": "新石器时代、战国"
     },
@@ -1581,7 +1581,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市玉门市",
       "era": "夏、商"
     },
@@ -1591,7 +1591,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市民乐县",
       "era": "夏、商"
     },
@@ -1601,7 +1601,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "定西市临洮县",
       "era": "商周"
     },
@@ -1611,7 +1611,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "金昌市金川区",
       "era": "西周至春秋"
     },
@@ -1621,7 +1621,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市正宁县",
       "era": "秦"
     },
@@ -1631,7 +1631,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市静宁县",
       "era": "秦至宋"
     },
@@ -1641,7 +1641,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市瓜州县",
       "era": "汉至唐"
     },
@@ -1651,7 +1651,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市肃南裕固族自治县",
       "era": "汉至明"
     },
@@ -1661,7 +1661,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武威市凉州区",
       "era": "新石器时代、汉、晋"
     },
@@ -1671,7 +1671,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "天水市麦积区",
       "era": "战国至西汉"
     },
@@ -1681,7 +1681,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "张掖市甘州区",
       "era": "汉至魏晋"
     },
@@ -1691,7 +1691,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武威市凉州区",
       "era": "汉至晋"
     },
@@ -1701,7 +1701,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市瓜州县",
       "era": "东汉至唐"
     },
@@ -1711,7 +1711,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武威市凉州区",
       "era": "元"
     },
@@ -1721,7 +1721,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市宁县",
       "era": "五代"
     },
@@ -1731,7 +1731,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "陇南市徽县",
       "era": "宋"
     },
@@ -1741,7 +1741,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市华池县",
       "era": "宋"
     },
@@ -1751,7 +1751,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市华池县",
       "era": "宋"
     },
@@ -1761,7 +1761,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市环县",
       "era": "宋"
     },
@@ -1771,7 +1771,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市西峰区",
       "era": "宋"
     },
@@ -1781,7 +1781,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市合水县",
       "era": "宋"
     },
@@ -1791,7 +1791,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市华池县",
       "era": "宋"
     },
@@ -1801,7 +1801,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市崆峒区",
       "era": "宋、明至清"
     },
@@ -1811,7 +1811,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市庆城县",
       "era": "明"
     },
@@ -1821,7 +1821,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "甘南藏族自治州临潭县",
       "era": "明至清"
     },
@@ -1831,7 +1831,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "定西市陇西县",
       "era": "明至清"
     },
@@ -1841,7 +1841,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市环县",
       "era": "明至清"
     },
@@ -1851,7 +1851,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市榆中县",
       "era": "明至民国"
     },
@@ -1861,7 +1861,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市城关区",
       "era": "明至民国"
     },
@@ -1871,7 +1871,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武威市凉州区",
       "era": "明至民国"
     },
@@ -1881,7 +1881,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "武威市民勤县",
       "era": "明至民国"
     },
@@ -1891,7 +1891,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市肃州区",
       "era": "清"
     },
@@ -1901,7 +1901,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市城关区",
       "era": "清"
     },
@@ -1911,7 +1911,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市七里河区",
       "era": "清"
     },
@@ -1921,7 +1921,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市肃北蒙古族自治县",
       "era": "战国至汉"
     },
@@ -1931,7 +1931,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "嘉峪关市",
       "era": "战国至明"
     },
@@ -1941,7 +1941,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "平凉市华亭县",
       "era": "北魏至隋"
     },
@@ -1951,7 +1951,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市肃北蒙古族自治县",
       "era": "南北朝、五代、宋"
     },
@@ -1961,7 +1961,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市镇原县",
       "era": "宋至明"
     },
@@ -1971,7 +1971,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "庆阳市华池县",
       "era": "1934～1935年"
     },
@@ -1981,7 +1981,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "定西市通渭县",
       "era": "1935年"
     },
@@ -1991,7 +1991,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "兰州市城关区",
       "era": "1937～1943年"
     },
@@ -2001,7 +2001,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "酒泉市玉门市",
       "era": "1939年"
     },
@@ -2011,7 +2011,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "甘肃",
+      "province": "甘肃省",
       "city": "临夏回族自治州临夏市",
       "era": "1947年"
     }

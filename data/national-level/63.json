@@ -1,5 +1,5 @@
 {
-  "province": "青海",
+  "province": "青海省",
   "items": [
     {
       "id": "1-0111-3-064",
@@ -249,7 +249,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "乐都县",
       "era": "新石器至青铜时代"
     },
@@ -259,7 +259,7 @@
       "level": "national",
       "batch": 6,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "西宁市",
       "era": "新石器至青铜时代"
     },
@@ -269,7 +269,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "囊谦县",
       "era": "宋、元"
     },
@@ -279,7 +279,7 @@
       "level": "national",
       "batch": 6,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "互助土族自治县",
       "era": "清"
     },
@@ -289,7 +289,7 @@
       "level": "national",
       "batch": 6,
       "category": "stone-carvings",
-      "province": "青海",
+      "province": "青海省",
       "city": "玉树县",
       "era": "唐"
     },
@@ -299,7 +299,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "玉树县",
       "era": "清"
     },
@@ -309,7 +309,7 @@
       "level": "national",
       "batch": 6,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "循化撒拉族自治县",
       "era": "1939～1946年"
     },
@@ -319,7 +319,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "海晏县",
       "era": "汉"
     },
@@ -329,7 +329,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "共和县",
       "era": "北朝至隋唐"
     },
@@ -339,7 +339,7 @@
       "level": "national",
       "batch": 8,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "都兰县",
       "era": "唐"
     },
@@ -349,7 +349,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "班玛县",
       "era": "1936年"
     },
@@ -359,7 +359,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "尖扎县",
       "era": "1948－1950年"
     },
@@ -369,7 +369,7 @@
       "level": "national",
       "batch": 8,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "达日县",
       "era": "1952年"
     },
@@ -379,7 +379,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "海西蒙古族藏族自治州都兰县",
       "era": "商至周"
     },
@@ -389,7 +389,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "西宁市城西区",
       "era": "十六国"
     },
@@ -399,7 +399,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "海北藏族自治州门源回族自治县",
       "era": "宋"
     },
@@ -409,7 +409,7 @@
       "level": "national",
       "batch": 7,
       "category": "archaeological-sites",
-      "province": "青海",
+      "province": "青海省",
       "city": "玉树藏族自治州治多县",
       "era": "清"
     },
@@ -419,7 +419,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "青海",
+      "province": "青海省",
       "city": "玉树藏族自治州玉树县",
       "era": "唐"
     },
@@ -429,7 +429,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "青海",
+      "province": "青海省",
       "city": "玉树藏族自治州治多县",
       "era": "唐"
     },
@@ -439,7 +439,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-tombs",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区循化撒拉族自治县",
       "era": "清"
     },
@@ -449,7 +449,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区化隆回族自治县",
       "era": "元至清"
     },
@@ -459,7 +459,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区循化撒拉族自治县",
       "era": "元至清"
     },
@@ -469,7 +469,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区化隆回族自治县",
       "era": "明至清"
     },
@@ -479,7 +479,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区互助土族自治县",
       "era": "明至清"
     },
@@ -489,7 +489,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区平安县",
       "era": "明至清"
     },
@@ -499,7 +499,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "黄南藏族自治州同仁县",
       "era": "明至清"
     },
@@ -509,7 +509,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "西宁市城东区",
       "era": "明至民国"
     },
@@ -519,7 +519,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "果洛藏族自治州玛沁县",
       "era": "清"
     },
@@ -529,7 +529,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区化隆回族自治县",
       "era": "清"
     },
@@ -539,7 +539,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区循化撒拉族自治县",
       "era": "清"
     },
@@ -549,7 +549,7 @@
       "level": "national",
       "batch": 7,
       "category": "ancient-buildings",
-      "province": "青海",
+      "province": "青海省",
       "city": "西宁市湟源县",
       "era": "清至民国"
     },
@@ -559,7 +559,7 @@
       "level": "national",
       "batch": 7,
       "category": "stone-carvings",
-      "province": "青海",
+      "province": "青海省",
       "city": "黄南藏族自治州泽库县",
       "era": "清"
     },
@@ -569,7 +569,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "海东地区互助土族自治县",
       "era": "清"
     },
@@ -579,7 +579,7 @@
       "level": "national",
       "batch": 7,
       "category": "modern-historic",
-      "province": "青海",
+      "province": "青海省",
       "city": "海西蒙古族藏族自治州格尔木市",
       "era": "1956年"
     }
