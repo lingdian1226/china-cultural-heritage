@@ -372,5 +372,379 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0013-1-013",
+    "name": "萨拉乌苏遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "乌审旗",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0014-1-014",
+    "name": "岱海遗址群",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "凉城县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0015-1-015",
+    "name": "庙子沟遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "察哈尔右翼前旗",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0016-1-016",
+    "name": "架子山遗址群",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "喀喇沁旗",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0017-1-017",
+    "name": "大井古铜矿遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "林西县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0018-1-018",
+    "name": "城子山遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "敖汉旗",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0019-1-019",
+    "name": "和林格尔土城子遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "和林格尔县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0020-1-020",
+    "name": "黑山头城址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "额尔古纳市",
+    "district": "",
+    "address": "",
+    "era": "金元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0021-1-021",
+    "name": "金界壕遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔盟",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0022-1-022",
+    "name": "应昌路故城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "克什克腾旗",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0154-2-010",
+    "name": "宝山罕苏木墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "内蒙古自治区",
+    "city": "阿鲁科尔沁旗",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0277-3-083",
+    "name": "汇宗寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "多伦县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0278-3-084",
+    "name": "福会寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "喀喇沁旗",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0279-3-085",
+    "name": "喀喇沁亲王府及家庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "喀喇沁旗",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0280-3-086",
+    "name": "和硕恪靖公主府",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0281-3-087",
+    "name": "开鲁县佛塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "内蒙古自治区",
+    "city": "开鲁县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0520-4-032",
+    "name": "阿尔寨石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "内蒙古自治区",
+    "city": "鄂托克旗",
+    "district": "",
+    "address": "",
+    "era": "北朝至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

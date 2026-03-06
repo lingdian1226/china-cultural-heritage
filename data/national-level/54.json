@@ -394,5 +394,203 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0109-1-109",
+    "name": "拉加里王宫遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "西藏自治区",
+    "city": "曲松县",
+    "district": "",
+    "address": "",
+    "era": "13世纪至18世纪",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0181-2-037",
+    "name": "烈山墓地",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "西藏自治区",
+    "city": "朗县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0182-2-038",
+    "name": "吉堆吐蕃墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "西藏自治区",
+    "city": "洛扎县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0407-3-213",
+    "name": "朗色林庄园",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "扎囊县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0408-3-214",
+    "name": "曲德寺卓玛拉康大唐天竺使出铭",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "吉隆县",
+    "district": "",
+    "address": "",
+    "era": "唐至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0409-3-215",
+    "name": "色喀古托寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "洛扎县",
+    "district": "",
+    "address": "",
+    "era": "1080年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0410-3-216",
+    "name": "科迦寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "普兰县",
+    "district": "",
+    "address": "",
+    "era": "996年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0411-3-217",
+    "name": "小昭寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "district": "",
+    "address": "",
+    "era": "641年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0412-3-218",
+    "name": "吉如拉康",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "乃东县",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

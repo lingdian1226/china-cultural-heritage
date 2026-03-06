@@ -966,5 +966,489 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0103-1-103",
+    "name": "罗家坝遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "宣汉县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代至东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0104-1-104",
+    "name": "成都平原史前城址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "新津县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0105-1-105",
+    "name": "十二桥遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "成都市",
+    "district": "",
+    "address": "",
+    "era": "商至西周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0176-2-032",
+    "name": "成都古蜀船棺合葬墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "成都市",
+    "district": "",
+    "address": "",
+    "era": "东周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0177-2-033",
+    "name": "江口崖墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "彭山县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0178-2-034",
+    "name": "安丙家族墓地",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "华蓥市",
+    "district": "",
+    "address": "",
+    "era": "南宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0383-3-189",
+    "name": "宝光寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "新都县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0384-3-190",
+    "name": "直波碉楼",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "马尔康县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0385-3-191",
+    "name": "石塔寺石塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "邛崃市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0386-3-192",
+    "name": "松潘古城墙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "松潘县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0387-3-193",
+    "name": "觉苑寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "剑阁县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0388-3-194",
+    "name": "阆中永安寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "阆中市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0389-3-195",
+    "name": "五龙庙文昌阁",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "阆中市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0390-3-196",
+    "name": "隆昌石牌坊",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "隆昌县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0391-3-197",
+    "name": "富顺文庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "富顺县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0392-3-198",
+    "name": "观音寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "新津县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0393-3-199",
+    "name": "德阳文庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "德阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0394-3-200",
+    "name": "棒托寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "壤塘县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0395-3-201",
+    "name": "罨画池",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "崇州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0463-4-021",
+    "name": "毗卢洞石刻造像",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "四川省",
+    "city": "安岳县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0508-5-035",
+    "name": "邓小平故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "四川省",
+    "city": "广安市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0514-6-001",
+    "name": "水井街酒坊遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "others",
+    "province": "四川省",
+    "city": "成都市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

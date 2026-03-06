@@ -1022,5 +1022,401 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0001-1-001",
+    "name": "金中都水关遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "北京市",
+    "city": "丰台区",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0145-2-001",
+    "name": "景泰陵",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0195-3-001",
+    "name": "潭柘寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "门头沟区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0196-3-002",
+    "name": "可园",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "东城区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0197-3-003",
+    "name": "孚王府",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "朝阳区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0198-3-004",
+    "name": "景山",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "西城区",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0199-3-005",
+    "name": "白云观",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "西城区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0200-3-006",
+    "name": "万佛堂孔水洞石刻及塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "房山区",
+    "district": "",
+    "address": "",
+    "era": "隋唐至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0201-3-007",
+    "name": "法源寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "宣武区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0202-3-008",
+    "name": "先农坛",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "宣武区",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0203-3-009",
+    "name": "碧云寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0204-3-010",
+    "name": "大慧寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0205-3-011",
+    "name": "十方普觉寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0206-3-012",
+    "name": "清净化城塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "朝阳区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0442-3-248",
+    "name": "长城",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "多省",
+    "district": "",
+    "address": "",
+    "era": "春秋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0474-5-001",
+    "name": "东交民巷使馆建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "东城区",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0475-5-002",
+    "name": "未名湖燕园建筑",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0476-5-003",
+    "name": "清华大学早期建筑",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

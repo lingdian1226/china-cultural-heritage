@@ -372,5 +372,159 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0054-1-054",
+    "name": "仙人洞吊桶环遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "万年县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0055-1-055",
+    "name": "筑卫城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "樟树市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代至东周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0056-1-056",
+    "name": "铜岭铜矿遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "瑞昌市",
+    "district": "",
+    "address": "",
+    "era": "商周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0057-1-057",
+    "name": "吉州窑遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "吉安县",
+    "district": "",
+    "address": "",
+    "era": "宋元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0167-2-023",
+    "name": "仙水岩崖墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "district": "",
+    "address": "",
+    "era": "春秋战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0334-3-140",
+    "name": "流坑村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "乐安县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0335-3-141",
+    "name": "关西新围燕翼围",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "龙南县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

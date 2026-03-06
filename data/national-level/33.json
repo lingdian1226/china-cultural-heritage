@@ -614,5 +614,973 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0039-1-039",
+    "name": "罗家角遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "桐乡市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0040-1-040",
+    "name": "马家浜遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0041-1-041",
+    "name": "下菰城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "湖州市",
+    "district": "",
+    "address": "",
+    "era": "春秋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0042-1-042",
+    "name": "临安城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "南宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0043-1-043",
+    "name": "铁店窑遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "金华市",
+    "district": "",
+    "address": "",
+    "era": "宋元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0161-2-017",
+    "name": "浙南石棚墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "浙江省",
+    "city": "瑞安市",
+    "district": "",
+    "address": "",
+    "era": "商周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0162-2-018",
+    "name": "印山越国王陵",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "浙江省",
+    "city": "绍兴县",
+    "district": "",
+    "address": "",
+    "era": "春秋战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0163-2-019",
+    "name": "临安吴越国王陵",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "浙江省",
+    "city": "临安市",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0289-3-095",
+    "name": "古月桥",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "义乌市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0290-3-096",
+    "name": "黄山八面厅",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "义乌市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0291-3-097",
+    "name": "国清寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "天台县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0292-3-098",
+    "name": "刘基庙及墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "文成县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0293-3-099",
+    "name": "南阁牌楼群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "乐清市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0294-3-100",
+    "name": "庆安会馆",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "宁波市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0295-3-101",
+    "name": "湖镇舍利塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "龙游县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0296-3-102",
+    "name": "如龙桥",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "庆元县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0297-3-103",
+    "name": "通济堰",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "丽水市",
+    "district": "",
+    "address": "",
+    "era": "南朝至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0298-3-104",
+    "name": "凤凰寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0299-3-105",
+    "name": "文澜阁",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0300-3-106",
+    "name": "俞源村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "武义县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0301-3-107",
+    "name": "八字桥",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0302-3-108",
+    "name": "吕府",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0303-3-109",
+    "name": "功臣塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "临安市",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0304-3-110",
+    "name": "台州府城墙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "临海市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0305-3-111",
+    "name": "桃渚城",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "临海市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0306-3-112",
+    "name": "郑义门古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "浦江县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0307-3-113",
+    "name": "盐官海塘及海神庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "海宁市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0308-3-114",
+    "name": "绮园",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "海盐县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0309-3-115",
+    "name": "斯氏古民居建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "诸暨市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0310-3-116",
+    "name": "时思寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "景宁畲族自治县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0311-3-117",
+    "name": "永昌堡",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "温州市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0312-3-118",
+    "name": "嘉业堂藏书楼及小莲庄",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "湖州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0313-3-119",
+    "name": "庙沟后横省石牌坊",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "鄞县",
+    "district": "",
+    "address": "",
+    "era": "宋元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0448-4-006",
+    "name": "仙都摩崖题记",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "浙江省",
+    "city": "缙云县",
+    "district": "",
+    "address": "",
+    "era": "唐至近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0449-4-007",
+    "name": "宝成寺麻曷葛剌造像",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0450-4-008",
+    "name": "东钱湖石刻",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "浙江省",
+    "city": "鄞县",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0451-4-009",
+    "name": "梵天寺经幢",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0486-5-013",
+    "name": "西泠印社",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0487-5-014",
+    "name": "蔡元培故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0488-5-015",
+    "name": "南浔张氏旧宅建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "湖州市",
+    "district": "",
+    "address": "",
+    "era": "1899年至1906年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0489-5-016",
+    "name": "龙山虞氏旧宅建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "慈溪市",
+    "district": "",
+    "address": "",
+    "era": "1916年至1929年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0490-5-017",
+    "name": "新四军苏浙军区旧址",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "长兴县",
+    "district": "",
+    "address": "",
+    "era": "1943年至1945年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0517-6-004",
+    "name": "四连碓造纸作坊",
+    "level": "national",
+    "batch": 5,
+    "category": "others",
+    "province": "浙江省",
+    "city": "温州市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0518-6-005",
+    "name": "花鸟灯塔",
+    "level": "national",
+    "batch": 5,
+    "category": "others",
+    "province": "浙江省",
+    "city": "嵊泗县",
+    "district": "",
+    "address": "",
+    "era": "1870年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

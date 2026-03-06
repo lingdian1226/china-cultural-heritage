@@ -790,5 +790,313 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0058-1-058",
+    "name": "西河遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "章丘市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0059-1-059",
+    "name": "桐林遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "淄博市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0060-1-060",
+    "name": "丁公遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "邹平县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0061-1-061",
+    "name": "景阳岗遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "阳谷县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0062-1-062",
+    "name": "安邱堌堆遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "菏泽市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代至商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0063-1-063",
+    "name": "即墨故城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "平度市",
+    "district": "",
+    "address": "",
+    "era": "东周至北齐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0168-2-024",
+    "name": "汉济北王墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "济南市",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0169-2-025",
+    "name": "北寨墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "沂南县",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0170-2-026",
+    "name": "汉鲁王墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "曲阜市",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0336-3-142",
+    "name": "颜庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "曲阜市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0337-3-143",
+    "name": "临清运河钞关",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "临清市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0454-4-012",
+    "name": "泰山石刻",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "泰安市",
+    "district": "",
+    "address": "",
+    "era": "北齐至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0455-4-013",
+    "name": "白佛山石窟造像",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "东平县",
+    "district": "",
+    "address": "",
+    "era": "隋唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0492-5-019",
+    "name": "青岛八大关近代建筑",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "青岛市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

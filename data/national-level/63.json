@@ -130,5 +130,115 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0126-1-126",
+    "name": "喇家遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "青海省",
+    "city": "民和回族土族自治县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0127-1-127",
+    "name": "塔温搭里哈遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "青海省",
+    "city": "都兰县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0437-3-243",
+    "name": "贵德文庙及玉皇阁",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "青海省",
+    "city": "贵德县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0438-3-244",
+    "name": "藏娘佛塔及桑周寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "青海省",
+    "city": "玉树县",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0512-5-039",
+    "name": "第一个核武器研制基地旧址",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "青海省",
+    "city": "海晏县",
+    "district": "",
+    "address": "",
+    "era": "1957年至1995年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

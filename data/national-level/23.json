@@ -196,5 +196,115 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0034-1-034",
+    "name": "三江平原汉魏时期遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "district": "",
+    "address": "",
+    "era": "汉魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0035-1-035",
+    "name": "奥里米城址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "绥滨县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0036-1-036",
+    "name": "八里城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "肇东市",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0480-5-007",
+    "name": "瑷珲新城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0481-5-008",
+    "name": "大庆第一口油井",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "district": "",
+    "address": "",
+    "era": "1959年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

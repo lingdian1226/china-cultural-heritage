@@ -196,5 +196,225 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0107-1-107",
+    "name": "黔西观音洞遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "贵州省",
+    "city": "黔西县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0108-1-108",
+    "name": "可乐遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "贵州省",
+    "city": "赫章县",
+    "district": "",
+    "address": "",
+    "era": "战国至汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0396-3-202",
+    "name": "天台山伍龙寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "平坝县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0397-3-203",
+    "name": "石阡万寿宫",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "石阡县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0398-3-204",
+    "name": "云山屯古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "安顺市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0399-3-205",
+    "name": "福泉城墙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "福泉市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0400-3-206",
+    "name": "郎德上寨古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "雷山县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0401-3-207",
+    "name": "海龙屯",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "遵义县",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0402-3-208",
+    "name": "地坪风雨桥",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "黎平县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0403-3-209",
+    "name": "安顺文庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "贵州省",
+    "city": "安顺市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

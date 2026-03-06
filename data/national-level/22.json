@@ -174,5 +174,225 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0026-1-026",
+    "name": "汉书遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "大安市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0027-1-027",
+    "name": "西团山遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "吉林市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0028-1-028",
+    "name": "万发拨子遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "通化市",
+    "district": "",
+    "address": "",
+    "era": "战国至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0029-1-029",
+    "name": "二龙湖古城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "梨树县",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0030-1-030",
+    "name": "罗通山城",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "柳河县",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0031-1-031",
+    "name": "八连城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "珲春市",
+    "district": "",
+    "address": "",
+    "era": "唐五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0032-1-032",
+    "name": "宝山六道沟冶铜遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "临江市",
+    "district": "",
+    "address": "",
+    "era": "唐五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0033-1-033",
+    "name": "塔虎城",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "吉林省",
+    "city": "前郭尔罗斯蒙古族自治县",
+    "district": "",
+    "address": "",
+    "era": "辽金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0157-2-013",
+    "name": "干沟子墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "吉林省",
+    "city": "长白朝鲜族自治县",
+    "district": "",
+    "address": "",
+    "era": "战国至西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0158-2-014",
+    "name": "完颜希尹家族墓地",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "吉林省",
+    "city": "舒兰市",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

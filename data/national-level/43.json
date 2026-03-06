@@ -482,5 +482,269 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0091-1-091",
+    "name": "玉蟾岩遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "道县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0092-1-092",
+    "name": "彭头山遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "澧县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0093-1-093",
+    "name": "八十垱遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "澧县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0094-1-094",
+    "name": "老司城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "永顺县",
+    "district": "",
+    "address": "",
+    "era": "五代至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0363-3-169",
+    "name": "柳子庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "永州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0364-3-170",
+    "name": "屈子祠",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "汨罗市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0365-3-171",
+    "name": "邵阳北塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0366-3-172",
+    "name": "岳阳文庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0367-3-173",
+    "name": "张谷英村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "岳阳县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0368-3-174",
+    "name": "芋头侗寨古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "通道侗族自治县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0499-5-026",
+    "name": "彭德怀故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "湘潭县",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0519-1-145",
+    "name": "里耶古城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "龙山县",
+    "district": "",
+    "address": "",
+    "era": "秦汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

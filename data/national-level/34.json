@@ -328,5 +328,467 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0044-1-044",
+    "name": "陈山遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "宣城市",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0045-1-045",
+    "name": "凌家滩遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "含山县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0046-1-046",
+    "name": "尉迟寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "蒙城县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0047-1-047",
+    "name": "寿春城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "寿县",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0048-1-048",
+    "name": "寿州窑遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "淮南市",
+    "district": "",
+    "address": "",
+    "era": "南朝至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0049-1-049",
+    "name": "柳孜运河码头遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "濉溪县",
+    "district": "",
+    "address": "",
+    "era": "唐至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0050-1-050",
+    "name": "繁昌窑遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "安徽省",
+    "city": "繁昌县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0164-2-020",
+    "name": "皖南土墩墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "安徽省",
+    "city": "南陵县",
+    "district": "",
+    "address": "",
+    "era": "西周至春秋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0165-2-021",
+    "name": "曹氏家族墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "安徽省",
+    "city": "亳州市",
+    "district": "",
+    "address": "",
+    "era": "东汉三国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0166-2-022",
+    "name": "朱然家族墓地",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "district": "",
+    "address": "",
+    "era": "三国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0314-3-120",
+    "name": "水西双塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "泾县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0315-3-121",
+    "name": "亳州古地道",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "亳州市",
+    "district": "",
+    "address": "",
+    "era": "宋元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0316-3-122",
+    "name": "白崖寨",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "宿松县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0317-3-123",
+    "name": "程氏三宅",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黄山市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0318-3-124",
+    "name": "呈坎村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黄山市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0319-3-125",
+    "name": "渔梁坝",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "歙县",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0320-3-126",
+    "name": "宏村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黟县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0321-3-127",
+    "name": "西递村古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "黟县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0322-3-128",
+    "name": "寿县古城墙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "寿县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0323-3-129",
+    "name": "查济古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "安徽省",
+    "city": "泾县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0452-4-010",
+    "name": "天柱山山谷流泉摩崖石刻",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "安徽省",
+    "city": "潜山县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

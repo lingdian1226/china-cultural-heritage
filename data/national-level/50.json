@@ -64,5 +64,137 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0102-1-102",
+    "name": "高家镇遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "重庆市",
+    "city": "丰都县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0380-3-186",
+    "name": "张桓侯庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "重庆市",
+    "city": "云阳县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0381-3-187",
+    "name": "石宝寨",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "重庆市",
+    "city": "忠县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0382-3-188",
+    "name": "丁房阙无铭阙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "重庆市",
+    "city": "忠县",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0506-5-033",
+    "name": "桂园",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "重庆市",
+    "city": "渝中区",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0507-5-034",
+    "name": "赵世炎故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "重庆市",
+    "city": "酉阳土家族苗族自治县",
+    "district": "",
+    "address": "",
+    "era": "1904年至1914年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

@@ -724,5 +724,401 @@
     "contributors": [
       "system"
     ]
+  },
+  {
+    "id": "5-0095-1-095",
+    "name": "石峡遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "广东省",
+    "city": "曲江县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0096-1-096",
+    "name": "莲花山古采石场",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "西汉至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0097-1-097",
+    "name": "笔架山潮州窑遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "广东省",
+    "city": "潮州市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0369-3-175",
+    "name": "东莞可园",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "东莞市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0370-3-176",
+    "name": "南华寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "曲江县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0371-3-177",
+    "name": "东华里古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "佛山市",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0372-3-178",
+    "name": "元山寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "陆丰市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0373-3-179",
+    "name": "大鹏所城",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0374-3-180",
+    "name": "悦城龙母祖庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "德庆县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0375-3-181",
+    "name": "肇庆古城墙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "肇庆市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0376-3-182",
+    "name": "潮州开元寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "潮州市",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0377-3-183",
+    "name": "己略黄公祠",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "潮州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0461-4-019",
+    "name": "七星岩摩崖石刻",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "广东省",
+    "city": "肇庆市",
+    "district": "",
+    "address": "",
+    "era": "唐至近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0500-5-027",
+    "name": "中山纪念堂",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1931年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0501-5-028",
+    "name": "余荫山房",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0502-5-029",
+    "name": "开平碉楼",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "开平市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0503-5-030",
+    "name": "叶剑英故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "梅州市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0516-6-003",
+    "name": "南风古灶高灶陶窑",
+    "level": "national",
+    "batch": 5,
+    "category": "others",
+    "province": "广东省",
+    "city": "佛山市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

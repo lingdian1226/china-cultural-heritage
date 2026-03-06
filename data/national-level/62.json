@@ -460,5 +460,467 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0120-1-120",
+    "name": "南佐遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "西峰市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0121-1-121",
+    "name": "大堡子山遗址及墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "礼县",
+    "district": "",
+    "address": "",
+    "era": "西周至春秋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0122-1-122",
+    "name": "黑水国遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0123-1-123",
+    "name": "悬泉置遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "敦煌市",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0124-1-124",
+    "name": "许三湾城及墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "高台县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0125-1-125",
+    "name": "白塔寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "甘肃省",
+    "city": "武威市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0185-2-041",
+    "name": "果园新城墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "district": "",
+    "address": "",
+    "era": "魏至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0186-2-042",
+    "name": "汪氏家族墓地",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "甘肃省",
+    "city": "漳县",
+    "district": "",
+    "address": "",
+    "era": "元至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0187-2-043",
+    "name": "雷台汉墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "甘肃省",
+    "city": "武威市",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0430-3-236",
+    "name": "伏羲庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "天水市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0431-3-237",
+    "name": "胡氏古民居建筑",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "天水市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0432-3-238",
+    "name": "凝寿寺塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "宁县",
+    "district": "",
+    "address": "",
+    "era": "五代宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0433-3-239",
+    "name": "圆通寺塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "民乐县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0434-3-240",
+    "name": "圣容寺塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "永昌县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0435-3-241",
+    "name": "东华池塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "华池县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0436-3-242",
+    "name": "武康王庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "崇信县",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0468-4-026",
+    "name": "西狭颂摩崖石刻",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "成县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0469-4-027",
+    "name": "水帘洞大像山石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "武山县",
+    "district": "",
+    "address": "",
+    "era": "北朝至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0470-4-028",
+    "name": "天梯山石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "武威市",
+    "district": "",
+    "address": "",
+    "era": "北朝至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0471-4-029",
+    "name": "文殊山石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "肃南裕固族自治县",
+    "district": "",
+    "address": "",
+    "era": "北朝至西夏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0511-5-038",
+    "name": "哈达铺会议旧址",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "甘肃省",
+    "city": "宕昌县",
+    "district": "",
+    "address": "",
+    "era": "1935年至1936年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

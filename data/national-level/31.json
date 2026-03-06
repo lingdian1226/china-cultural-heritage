@@ -350,5 +350,71 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0037-1-037",
+    "name": "福泉山遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "上海市",
+    "city": "青浦区",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0482-5-009",
+    "name": "上海宋庆龄故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "徐汇区",
+    "district": "",
+    "address": "",
+    "era": "1948年至1981年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0483-5-010",
+    "name": "张闻天故居",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "浦东新区",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

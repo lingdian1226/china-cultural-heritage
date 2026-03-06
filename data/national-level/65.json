@@ -306,5 +306,599 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0129-1-129",
+    "name": "奴拉赛铜矿遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "尼勒克县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0130-1-130",
+    "name": "圆沙古城",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "于田县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0131-1-131",
+    "name": "克孜尔尕哈烽燧",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "库车县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0132-1-132",
+    "name": "孔雀河烽燧群",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "尉犁县",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0133-1-133",
+    "name": "罗布泊南古城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "若羌县",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0134-1-134",
+    "name": "莫尔寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "疏附县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0135-1-135",
+    "name": "托库孜萨来遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "巴楚县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0136-1-136",
+    "name": "米兰遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "若羌县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0137-1-137",
+    "name": "安迪尔古城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "民丰县",
+    "district": "",
+    "address": "",
+    "era": "汉至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0138-1-138",
+    "name": "石头城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "塔什库尔干塔吉克自治县",
+    "district": "",
+    "address": "",
+    "era": "晋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0139-1-139",
+    "name": "七个星佛寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "焉耆回族自治县",
+    "district": "",
+    "address": "",
+    "era": "晋至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0140-1-140",
+    "name": "热瓦克佛寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "洛浦县",
+    "district": "",
+    "address": "",
+    "era": "南北朝",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0141-1-141",
+    "name": "白杨沟佛寺遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "哈密市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0142-1-142",
+    "name": "大河古城",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "巴里坤哈萨克自治县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0143-1-143",
+    "name": "乌拉泊古城",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐县",
+    "district": "",
+    "address": "",
+    "era": "唐至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0144-1-144",
+    "name": "台藏塔遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "district": "",
+    "address": "",
+    "era": "唐至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0188-2-044",
+    "name": "三海子墓葬及鹿石",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "青河县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0189-2-045",
+    "name": "焉不拉克古墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "哈密市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0190-2-046",
+    "name": "察吾乎古墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "和静县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代至春秋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0191-2-047",
+    "name": "切木尔切克石人及石棺墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代至魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0192-2-048",
+    "name": "扎滚鲁克古墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "且末县",
+    "district": "",
+    "address": "",
+    "era": "青铜时代至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0193-2-049",
+    "name": "山普拉古墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "洛浦县",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0194-2-050",
+    "name": "吐虎鲁克铁木尔汗麻扎",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "霍城县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0439-3-245",
+    "name": "昭苏圣佑庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "新疆维吾尔自治区",
+    "city": "昭苏县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0440-3-246",
+    "name": "艾提尕尔清真寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0472-4-030",
+    "name": "克孜尔尕哈石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "新疆维吾尔自治区",
+    "city": "库车县",
+    "district": "",
+    "address": "",
+    "era": "北朝至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0473-4-031",
+    "name": "平定准噶尔勒铭碑",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "新疆维吾尔自治区",
+    "city": "昭苏县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

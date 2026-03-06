@@ -570,5 +570,181 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0023-1-023",
+    "name": "海城仙人洞遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "海城市",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0024-1-024",
+    "name": "新乐遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0025-1-025",
+    "name": "东山嘴遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "喀喇沁左翼蒙古族自治县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0155-2-011",
+    "name": "析木城石棚",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "海城市",
+    "district": "",
+    "address": "",
+    "era": "青铜时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0156-2-012",
+    "name": "叶茂台辽墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "法库县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0282-3-088",
+    "name": "广济寺古建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "district": "",
+    "address": "",
+    "era": "辽至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0478-5-005",
+    "name": "大连中山广场近代建筑群",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "大连市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0479-5-006",
+    "name": "东北大学旧址",
+    "level": "national",
+    "batch": 5,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

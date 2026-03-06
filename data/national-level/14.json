@@ -1230,5 +1230,1369 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "5-0008-1-008",
+    "name": "柿子滩遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "吉县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0009-1-009",
+    "name": "东下冯遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "夏县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代至商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0010-1-010",
+    "name": "晋阳古城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "太原市",
+    "district": "",
+    "address": "",
+    "era": "春秋至五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0011-1-011",
+    "name": "蒲津渡与蒲州故城遗址",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "永济市",
+    "district": "",
+    "address": "",
+    "era": "唐至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0012-1-012",
+    "name": "曲回寺石像冢",
+    "level": "national",
+    "batch": 5,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "灵丘县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0151-2-007",
+    "name": "马茂庄墓群",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山西省",
+    "city": "离石市",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0152-2-008",
+    "name": "方山永固陵",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山西省",
+    "city": "大同市",
+    "district": "",
+    "address": "",
+    "era": "北魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0153-2-009",
+    "name": "马村砖雕墓",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-tombs",
+    "province": "山西省",
+    "city": "稷山县",
+    "district": "",
+    "address": "",
+    "era": "宋金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0224-3-030",
+    "name": "万荣稷王庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "万荣县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0225-3-031",
+    "name": "大同九龙壁",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "大同市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0226-3-032",
+    "name": "广济寺大雄宝殿",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "五台县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0227-3-033",
+    "name": "介休后土庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "介休市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0228-3-034",
+    "name": "正觉寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "长治县",
+    "district": "",
+    "address": "",
+    "era": "金至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0229-3-035",
+    "name": "龙岩寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "陵川县",
+    "district": "",
+    "address": "",
+    "era": "金明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0230-3-036",
+    "name": "荆庄大云寺大雄宝殿",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "浑源县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0231-3-037",
+    "name": "窦大夫祠",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "太原市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0232-3-038",
+    "name": "观音堂",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "长治市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0233-3-039",
+    "name": "潞安府城隍庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "长治市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0234-3-040",
+    "name": "阿育王塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "代县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0235-3-041",
+    "name": "边靖楼",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "代县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0236-3-042",
+    "name": "淳化寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平顺县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0237-3-043",
+    "name": "明惠大师塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平顺县",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0238-3-044",
+    "name": "九天圣母庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平顺县",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0239-3-045",
+    "name": "慈相寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平遥县",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0240-3-046",
+    "name": "平遥文庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平遥县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0241-3-047",
+    "name": "兴东垣东岳庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "石楼县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0242-3-048",
+    "name": "大悲院",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "曲沃县",
+    "district": "",
+    "address": "",
+    "era": "宋金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0243-3-049",
+    "name": "太符观",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "汾阳市",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0244-3-050",
+    "name": "沁县大云院",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "沁县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0245-3-051",
+    "name": "觉山寺塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "灵丘县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0246-3-052",
+    "name": "资寿寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "灵石县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0247-3-053",
+    "name": "清凉寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "芮城县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0248-3-054",
+    "name": "广仁王庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "芮城县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0249-3-055",
+    "name": "芮城城隍庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "芮城县",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0250-3-056",
+    "name": "泛舟禅师塔",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "运城市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0251-3-057",
+    "name": "洪福寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "定襄县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0252-3-058",
+    "name": "洪济院",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "武乡县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0253-3-059",
+    "name": "武乡县大云寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "武乡县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0254-3-060",
+    "name": "会仙观",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "武乡县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0255-3-061",
+    "name": "大王庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "盂县",
+    "district": "",
+    "address": "",
+    "era": "金至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0256-3-062",
+    "name": "临晋县衙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "临猗县",
+    "district": "",
+    "address": "",
+    "era": "元至近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0257-3-063",
+    "name": "香严寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "柳林县",
+    "district": "",
+    "address": "",
+    "era": "金至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0258-3-064",
+    "name": "洪洞玉皇庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "洪洞县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0259-3-065",
+    "name": "浑源永安寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "浑源县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0260-3-066",
+    "name": "太阴寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "绛县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0261-3-067",
+    "name": "三嵕庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "壶关县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0262-3-068",
+    "name": "乔家大院",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "祁县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0263-3-069",
+    "name": "泽州岱庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "泽州县",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0264-3-070",
+    "name": "安国寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "离石市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0265-3-071",
+    "name": "小会岭二仙庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "陵川县",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0266-3-072",
+    "name": "崔府君庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "陵川县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0267-3-073",
+    "name": "西溪二仙庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "陵川县",
+    "district": "",
+    "address": "",
+    "era": "金至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0268-3-074",
+    "name": "崇明寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "高平市",
+    "district": "",
+    "address": "",
+    "era": "北宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0269-3-075",
+    "name": "开化寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "高平市",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0270-3-076",
+    "name": "游仙寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "高平市",
+    "district": "",
+    "address": "",
+    "era": "北宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0271-3-077",
+    "name": "定林寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "高平市",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0272-3-078",
+    "name": "福胜寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "新绛县",
+    "district": "",
+    "address": "",
+    "era": "元明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0273-3-079",
+    "name": "稷益庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "新绛县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0274-3-080",
+    "name": "柏山东岳庙",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "蒲县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0275-3-081",
+    "name": "青龙寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "稷山县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0276-3-082",
+    "name": "原起寺",
+    "level": "national",
+    "batch": 5,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "潞城市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "5-0445-4-003",
+    "name": "天龙山石窟",
+    "level": "national",
+    "batch": 5,
+    "category": "stone-carvings",
+    "province": "山西省",
+    "city": "太原市",
+    "district": "",
+    "address": "",
+    "era": "东魏至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第五批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]
