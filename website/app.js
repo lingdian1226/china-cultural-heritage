@@ -169,8 +169,22 @@ function initSearch() {
 
   // Input listeners
   document.getElementById('searchInput').addEventListener('input', () => applyFilters());
+  document.getElementById('searchInput').addEventListener('keydown', (e) => { if (e.key === 'Enter') applyFilters(); });
+  document.getElementById('searchBtn').addEventListener('click', () => applyFilters());
   document.getElementById('provinceFilter').addEventListener('change', () => applyFilters());
   document.getElementById('eraFilter').addEventListener('input', () => applyFilters());
+  document.getElementById('eraFilter').addEventListener('keydown', (e) => { if (e.key === 'Enter') applyFilters(); });
+
+  // Reset button
+  document.getElementById('resetBtn').addEventListener('click', () => {
+    document.getElementById('searchInput').value = '';
+    document.getElementById('provinceFilter').value = '';
+    document.getElementById('eraFilter').value = '';
+    document.querySelectorAll('.chip').forEach(c => c.classList.add('active'));
+    sortField = ''; sortDir = 1;
+    document.querySelectorAll('.sort-arrow').forEach(a => a.textContent = '');
+    applyFilters();
+  });
 
   // Table sort
   document.querySelectorAll('thead th[data-sort]').forEach(th => {

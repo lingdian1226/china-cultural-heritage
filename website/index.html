@@ -46,7 +46,10 @@
       <div class="filter-bar">
         <div class="filter-group">
           <label>关键词搜索</label>
-          <input type="text" id="searchInput" placeholder="输入名称、城市...">
+          <div class="search-row">
+            <input type="text" id="searchInput" placeholder="输入名称、城市...">
+            <button class="search-btn" id="searchBtn">🔍 搜索</button>
+          </div>
         </div>
         <div class="filter-group">
           <label>省份</label>
@@ -55,6 +58,9 @@
         <div class="filter-group">
           <label>朝代/时代</label>
           <input type="text" id="eraFilter" placeholder="如：明、清、唐...">
+        </div>
+        <div class="filter-group" style="align-self:flex-end">
+          <button class="reset-btn" id="resetBtn">↺ 重置</button>
         </div>
       </div>
       <div class="filter-bar">
