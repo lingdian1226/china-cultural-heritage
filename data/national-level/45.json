@@ -20,5 +20,49 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "2-0033-3-018",
+    "name": "经略台真武阁",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-buildings",
+    "province": "广西壮族自治区",
+    "city": "容县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0042-3-027",
+    "name": "程阳永济桥",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-buildings",
+    "province": "广西壮族自治区",
+    "city": "三江县",
+    "district": "",
+    "address": "",
+    "era": "民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

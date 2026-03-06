@@ -86,5 +86,27 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "2-0061-2-006",
+    "name": "清昭陵",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

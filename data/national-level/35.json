@@ -64,5 +64,71 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "2-0019-3-004",
+    "name": "华林寺大殿",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "福州市",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0020-3-005",
+    "name": "开元寺",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-buildings",
+    "province": "福建省",
+    "city": "泉州市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0060-2-005",
+    "name": "郑成功墓",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-tombs",
+    "province": "福建省",
+    "city": "南安县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

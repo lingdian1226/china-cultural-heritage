@@ -64,5 +64,49 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "2-0004-5-004",
+    "name": "安源路矿工人俱乐部旧址",
+    "level": "national",
+    "batch": 2,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "安源市",
+    "district": "",
+    "address": "",
+    "era": "1922年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0053-1-008",
+    "name": "湖田古瓷窑址",
+    "level": "national",
+    "batch": 2,
+    "category": "archaeological-sites",
+    "province": "江西省",
+    "city": "景德镇",
+    "district": "",
+    "address": "",
+    "era": "五代至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

@@ -284,5 +284,71 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "2-0011-4-001",
+    "name": "巩县石窟",
+    "level": "national",
+    "batch": 2,
+    "category": "stone-carvings",
+    "province": "河南省",
+    "city": "巩县",
+    "district": "",
+    "address": "",
+    "era": "北魏至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0016-3-001",
+    "name": "修定寺塔",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-buildings",
+    "province": "河南省",
+    "city": "安阳县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "2-0058-2-003",
+    "name": "宋陵",
+    "level": "national",
+    "batch": 2,
+    "category": "ancient-tombs",
+    "province": "河南省",
+    "city": "巩县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第二批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]
