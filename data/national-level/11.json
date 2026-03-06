@@ -1418,5 +1418,385 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0001-1-001",
+    "name": "元大都城墙遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "北京",
+    "city": "朝阳区",
+    "era": "元"
+  },
+  {
+    "id": "6-0002-1-002",
+    "name": "十字寺遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "北京",
+    "city": "房山区",
+    "era": "元"
+  },
+  {
+    "id": "6-0221-2-001",
+    "name": "金陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "北京",
+    "city": "房山区",
+    "era": "金"
+  },
+  {
+    "id": "6-0222-2-002",
+    "name": "利玛窦和外国传教士墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "北京",
+    "city": "西城区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0223-2-003",
+    "name": "袁崇焕墓和祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "北京",
+    "city": "崇文区",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0298-3-001",
+    "name": "承恩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "石景山区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0299-3-002",
+    "name": "地坛",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "东城区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0300-3-003",
+    "name": "德胜门箭楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0301-3-004",
+    "name": "月坛",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0302-3-005",
+    "name": "中南海",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0303-3-006",
+    "name": "大觉寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "海淀区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0304-3-007",
+    "name": "日坛",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "朝阳区",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0305-3-008",
+    "name": "静明园",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "海淀区",
+    "era": "清"
+  },
+  {
+    "id": "6-0306-3-009",
+    "name": "健锐营演武厅",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "海淀区",
+    "era": "清"
+  },
+  {
+    "id": "6-0307-3-010",
+    "name": "万寿寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "海淀区",
+    "era": "清"
+  },
+  {
+    "id": "6-0308-3-011",
+    "name": "关岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0309-3-012",
+    "name": "醇亲王府",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0310-3-013",
+    "name": "广济寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0311-3-014",
+    "name": "柏林寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "东城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0312-3-015",
+    "name": "爨底下村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "门头沟区",
+    "era": "清"
+  },
+  {
+    "id": "6-0313-3-016",
+    "name": "安徽会馆",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "宣武区",
+    "era": "清"
+  },
+  {
+    "id": "6-0314-3-017",
+    "name": "报国寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "宣武区",
+    "era": "清"
+  },
+  {
+    "id": "6-0810-3-513",
+    "name": "京杭大运河",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "北京",
+    "city": "北京市、天津市、河北省、山东省、江苏省、浙江省",
+    "era": "春秋至清"
+  },
+  {
+    "id": "6-0874-5-001",
+    "name": "京师大学堂分科大学旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "东城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0875-5-002",
+    "name": "清陆军部和海军部旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "东城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0876-5-003",
+    "name": "亚斯立堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "东城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0877-5-004",
+    "name": "清农事试验场旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0878-5-005",
+    "name": "西什库教堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0879-5-006",
+    "name": "国立蒙藏学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清"
+  },
+  {
+    "id": "6-0880-5-007",
+    "name": "北京国会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0881-5-008",
+    "name": "京师女子师范学堂旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0882-5-009",
+    "name": "国民政府财政部印刷局旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "宣武区",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0883-5-010",
+    "name": "大栅栏商业建筑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "宣武区",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0884-5-011",
+    "name": "协和医学院旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "东城区",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0885-5-012",
+    "name": "北平图书馆旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "民国"
+  },
+  {
+    "id": "6-0886-5-013",
+    "name": "辛亥滦州起义纪念园",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "海淀区",
+    "era": "民国"
+  },
+  {
+    "id": "6-0887-5-014",
+    "name": "孙中山行馆",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "东城区",
+    "era": "1924～1925年"
+  },
+  {
+    "id": "6-0888-5-015",
+    "name": "北京鲁迅旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "北京",
+    "city": "西城区",
+    "era": "1924～1926年"
   }
 ]

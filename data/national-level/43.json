@@ -746,5 +746,265 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0165-1-165",
+    "name": "高庙遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖南",
+    "city": "洪江市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0166-1-166",
+    "name": "炭河里遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖南",
+    "city": "宁乡县",
+    "era": "周"
+  },
+  {
+    "id": "6-0167-1-167",
+    "name": "舜帝庙遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖南",
+    "city": "宁远县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0670-3-373",
+    "name": "上甘棠村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "江永县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0671-3-374",
+    "name": "高椅村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "会同县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0672-3-375",
+    "name": "桃花源古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "桃源县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0673-3-376",
+    "name": "南岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "衡阳市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0674-3-377",
+    "name": "洪江古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "怀化市",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0675-3-378",
+    "name": "坪坦风雨桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "通道侗族自治县",
+    "era": "清"
+  },
+  {
+    "id": "6-0676-3-379",
+    "name": "蔡侯祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "耒阳市",
+    "era": "清"
+  },
+  {
+    "id": "6-0677-3-380",
+    "name": "余家牌坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "澧县",
+    "era": "清"
+  },
+  {
+    "id": "6-0678-3-381",
+    "name": "凤凰古城堡",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖南",
+    "city": "凤凰县",
+    "era": "清"
+  },
+  {
+    "id": "6-0848-4-038",
+    "name": "阳华岩摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "湖南",
+    "city": "江华瑶族自治县",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-1003-5-130",
+    "name": "沈从文故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "凤凰县",
+    "era": "清"
+  },
+  {
+    "id": "6-1004-5-131",
+    "name": "贺龙故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "桑植县",
+    "era": "清"
+  },
+  {
+    "id": "6-1005-5-132",
+    "name": "富厚堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "双峰县",
+    "era": "清"
+  },
+  {
+    "id": "6-1006-5-133",
+    "name": "齐白石故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "湘潭县",
+    "era": "清"
+  },
+  {
+    "id": "6-1007-5-134",
+    "name": "东山书院旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "湘乡市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1008-5-135",
+    "name": "蔡锷故居、公馆和墓",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "邵阳市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1009-5-136",
+    "name": "湖南省立第一师范学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "长沙市",
+    "era": "民国"
+  },
+  {
+    "id": "6-1010-5-137",
+    "name": "树德山庄",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "东安县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1011-5-138",
+    "name": "中共湘区委员会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "长沙市",
+    "era": "1922～1923年"
+  },
+  {
+    "id": "6-1012-5-139",
+    "name": "湘鄂川黔革命根据地旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "张家界市",
+    "era": "1934～1935年"
+  },
+  {
+    "id": "6-1013-5-140",
+    "name": "塘田战时讲学院旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "邵阳县",
+    "era": "1938～1939年"
+  },
+  {
+    "id": "6-1014-5-141",
+    "name": "抗日胜利芷江洽降旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "芷江侗族自治县",
+    "era": "1945年"
+  },
+  {
+    "id": "6-1081-5-207",
+    "name": "安江农校纪念园",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖南",
+    "city": "洪江市",
+    "era": "1950年"
   }
 ]

@@ -790,5 +790,205 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0093-1-093",
+    "name": "人字洞遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "安徽",
+    "city": "繁昌县",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0094-1-094",
+    "name": "临涣城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "安徽",
+    "city": "濉溪县",
+    "era": "战国"
+  },
+  {
+    "id": "6-0252-2-032",
+    "name": "李白墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "安徽",
+    "city": "当涂县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0567-3-270",
+    "name": "蒙城万佛塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "蒙城县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0568-3-271",
+    "name": "许村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "歙县",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0569-3-272",
+    "name": "祁门古戏台",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "祁门县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0570-3-273",
+    "name": "南屏村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "黟县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0571-3-274",
+    "name": "江村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "旌德县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0572-3-275",
+    "name": "振风塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "安庆市",
+    "era": "明"
+  },
+  {
+    "id": "6-0573-3-276",
+    "name": "溪头三槐堂",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "休宁县",
+    "era": "明"
+  },
+  {
+    "id": "6-0574-3-277",
+    "name": "郑氏宗祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "歙县",
+    "era": "明"
+  },
+  {
+    "id": "6-0575-3-278",
+    "name": "竹山书院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "歙县",
+    "era": "清"
+  },
+  {
+    "id": "6-0576-3-279",
+    "name": "黄田村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "泾县",
+    "era": "清"
+  },
+  {
+    "id": "6-0577-3-280",
+    "name": "世太史第",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "安徽",
+    "city": "安庆市",
+    "era": "清"
+  },
+  {
+    "id": "6-0825-4-015",
+    "name": "齐云山石刻",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "安徽",
+    "city": "休宁县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0957-5-084",
+    "name": "刘铭传旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "安徽",
+    "city": "肥西县",
+    "era": "清"
+  },
+  {
+    "id": "6-0958-5-085",
+    "name": "李氏庄园",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "安徽",
+    "city": "霍邱县",
+    "era": "清"
+  },
+  {
+    "id": "6-0959-5-086",
+    "name": "冯玉祥旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "安徽",
+    "city": "巢湖市",
+    "era": "1936～1937年"
+  },
+  {
+    "id": "6-0960-5-087",
+    "name": "半塔保卫战旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "安徽",
+    "city": "来安县",
+    "era": "1941年"
+  },
+  {
+    "id": "6-0961-5-088",
+    "name": "淮海战役总前委和华东野战军指挥部旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "安徽",
+    "city": "濉溪县",
+    "era": "1948年"
   }
 ]

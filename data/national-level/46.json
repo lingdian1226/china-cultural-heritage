@@ -152,5 +152,75 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0174-1-174",
+    "name": "甘泉岛遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "海南",
+    "city": "西",
+    "era": "唐至宋"
+  },
+  {
+    "id": "6-0175-1-175",
+    "name": "北礁沉船遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "海南",
+    "city": "西",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0176-1-176",
+    "name": "儋州故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "海南",
+    "city": "儋州市",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0272-2-052",
+    "name": "藤桥墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "海南",
+    "city": "三亚市",
+    "era": "唐至明"
+  },
+  {
+    "id": "6-1031-5-158",
+    "name": "秀英炮台",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "海南",
+    "city": "海口市",
+    "era": "清"
+  },
+  {
+    "id": "6-1032-5-159",
+    "name": "蔡家宅",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "海南",
+    "city": "琼海市",
+    "era": "民国"
+  },
+  {
+    "id": "6-1033-5-160",
+    "name": "陵水县苏维埃政府旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "海南",
+    "city": "陵水黎族自治县",
+    "era": "1927～1928年"
   }
 ]

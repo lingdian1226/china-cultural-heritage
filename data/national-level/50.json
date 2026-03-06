@@ -196,5 +196,75 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0692-3-395",
+    "name": "白帝城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "重庆",
+    "city": "奉节县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0693-3-396",
+    "name": "湖广会馆",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "重庆",
+    "city": "渝中区",
+    "era": "清"
+  },
+  {
+    "id": "6-0851-4-041",
+    "name": "潼南大佛寺摩崖造像",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "重庆",
+    "city": "潼南县",
+    "era": "隋至清"
+  },
+  {
+    "id": "6-0852-4-042",
+    "name": "涞滩二佛寺摩崖造像",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "重庆",
+    "city": "合川市",
+    "era": "宋"
+  },
+  {
+    "id": "6-1034-5-161",
+    "name": "杨氏民宅",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "重庆",
+    "city": "潼南县",
+    "era": "清"
+  },
+  {
+    "id": "6-1035-5-162",
+    "name": "中国西部科学院旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "重庆",
+    "city": "北碚区",
+    "era": "民国"
+  },
+  {
+    "id": "6-1036-5-163",
+    "name": "育才学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "重庆",
+    "city": "合川市",
+    "era": "1939～1945年"
   }
 ]

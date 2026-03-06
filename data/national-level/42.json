@@ -1142,5 +1142,395 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0157-1-157",
+    "name": "建始直立人遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "建始县",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0158-1-158",
+    "name": "马家垸遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "沙洋县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0159-1-159",
+    "name": "陶家湖遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "应城市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0160-1-160",
+    "name": "鸡鸣城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "公安县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0161-1-161",
+    "name": "邓国故址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "襄樊市",
+    "era": "周"
+  },
+  {
+    "id": "6-0162-1-162",
+    "name": "施州城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "恩施市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0163-1-163",
+    "name": "唐崖土司城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "咸丰县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0164-1-164",
+    "name": "容美土司遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "湖北",
+    "city": "鹤峰县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0268-2-048",
+    "name": "青山墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "湖北",
+    "city": "枝江市",
+    "era": "周"
+  },
+  {
+    "id": "6-0269-2-049",
+    "name": "九连墩墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "湖北",
+    "city": "枣阳市",
+    "era": "战国"
+  },
+  {
+    "id": "6-0270-2-050",
+    "name": "关陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "湖北",
+    "city": "当阳市",
+    "era": "三国"
+  },
+  {
+    "id": "6-0657-3-360",
+    "name": "柏子塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "麻城市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0658-3-361",
+    "name": "五祖寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "黄梅县",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0659-3-362",
+    "name": "鄂州观音阁",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "鄂州市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0660-3-363",
+    "name": "鱼木寨",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "利川市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0661-3-364",
+    "name": "荆州三观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "荆州市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0662-3-365",
+    "name": "荆州万寿宝塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "荆州市",
+    "era": "明"
+  },
+  {
+    "id": "6-0663-3-366",
+    "name": "黄陵庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "宜昌市",
+    "era": "明"
+  },
+  {
+    "id": "6-0664-3-367",
+    "name": "茨河承恩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "谷城县",
+    "era": "明"
+  },
+  {
+    "id": "6-0665-3-368",
+    "name": "钟祥文风塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "钟祥市",
+    "era": "明"
+  },
+  {
+    "id": "6-0666-3-369",
+    "name": "武当山建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "十堰市",
+    "era": "明"
+  },
+  {
+    "id": "6-0667-3-370",
+    "name": "凤凰山古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "秭归县",
+    "era": "清"
+  },
+  {
+    "id": "6-0668-3-371",
+    "name": "米公祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "襄樊市",
+    "era": "清"
+  },
+  {
+    "id": "6-0669-3-372",
+    "name": "陡山吴氏祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "湖北",
+    "city": "红安县",
+    "era": "清"
+  },
+  {
+    "id": "6-0844-4-034",
+    "name": "三游洞摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "湖北",
+    "city": "宜昌市",
+    "era": "唐至民国"
+  },
+  {
+    "id": "6-0845-4-035",
+    "name": "仙佛寺石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "湖北",
+    "city": "来凤县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0846-4-036",
+    "name": "东坡赤壁",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "湖北",
+    "city": "黄冈市",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0847-4-037",
+    "name": "慈孝沟“采皇木”摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "湖北",
+    "city": "竹溪县",
+    "era": "明"
+  },
+  {
+    "id": "6-0992-5-119",
+    "name": "李先念故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "红安县",
+    "era": "清"
+  },
+  {
+    "id": "6-0993-5-120",
+    "name": "董必武故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "红安县",
+    "era": "清"
+  },
+  {
+    "id": "6-0994-5-121",
+    "name": "汉口近代建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "武汉市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0995-5-122",
+    "name": "杨守敬故居和墓",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "宜都市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0996-5-123",
+    "name": "汉冶萍煤铁厂矿旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "黄石市",
+    "era": "1890～1948年"
+  },
+  {
+    "id": "6-0997-5-124",
+    "name": "汉口中华全国总工会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "武汉市",
+    "era": "1926～1927年"
+  },
+  {
+    "id": "6-0998-5-125",
+    "name": "大冶兵暴旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "大冶市",
+    "era": "1929年"
+  },
+  {
+    "id": "6-0999-5-126",
+    "name": "红三军团革命旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "大冶市",
+    "era": "1930年"
+  },
+  {
+    "id": "6-1000-5-127",
+    "name": "五里坪革命旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "鹤峰县",
+    "era": "1929～1933年"
+  },
+  {
+    "id": "6-1001-5-128",
+    "name": "中原军区旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "大悟县",
+    "era": "1946年"
+  },
+  {
+    "id": "6-1002-5-129",
+    "name": "荆江分洪闸",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "湖北",
+    "city": "公安县",
+    "era": "1953年"
   }
 ]

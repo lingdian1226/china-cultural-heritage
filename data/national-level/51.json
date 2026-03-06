@@ -1450,5 +1450,665 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0177-1-177",
+    "name": "营盘山和姜维城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "茂县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0178-1-178",
+    "name": "金沙遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "成都市",
+    "era": "商至周"
+  },
+  {
+    "id": "6-0179-1-179",
+    "name": "大洋堆遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "西昌市",
+    "era": "周至战国"
+  },
+  {
+    "id": "6-0180-1-180",
+    "name": "城坝遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "渠县",
+    "era": "战国至汉"
+  },
+  {
+    "id": "6-0181-1-181",
+    "name": "剑门蜀道遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "广元市",
+    "era": "战国至清"
+  },
+  {
+    "id": "6-0182-1-182",
+    "name": "严道城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "荥经县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0183-1-183",
+    "name": "老君山硝洞遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "江油市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0184-1-184",
+    "name": "剑南春酒坊遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "四川",
+    "city": "绵竹市",
+    "era": "清"
+  },
+  {
+    "id": "6-0273-2-053",
+    "name": "凉山大石墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "德昌县",
+    "era": "战国至汉"
+  },
+  {
+    "id": "6-0274-2-054",
+    "name": "瑞峰崖墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "青神县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0275-2-055",
+    "name": "塔梁子崖墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "中江县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0276-2-056",
+    "name": "黄伞崖墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "宜宾县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0277-2-057",
+    "name": "孟知祥墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "成都市",
+    "era": "五代"
+  },
+  {
+    "id": "6-0278-2-058",
+    "name": "石城山崖墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "宜宾县",
+    "era": "宋至明"
+  },
+  {
+    "id": "6-0279-2-059",
+    "name": "泸县宋墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "四川",
+    "city": "泸县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0694-3-397",
+    "name": "李业阙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "梓潼县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0695-3-398",
+    "name": "杨公阙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "夹江县",
+    "era": "汉至宋"
+  },
+  {
+    "id": "6-0696-3-399",
+    "name": "玉台山石塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "阆中市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0697-3-400",
+    "name": "丹巴古碉群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "丹巴县",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0698-3-401",
+    "name": "彭州佛塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "彭州市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0699-3-402",
+    "name": "无量宝塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "南充市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0700-3-403",
+    "name": "圣德寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "简阳市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0701-3-404",
+    "name": "淮口瑞光塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "金堂县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0702-3-405",
+    "name": "鹫峰寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "蓬溪县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0703-3-406",
+    "name": "广德寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "遂宁市",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0704-3-407",
+    "name": "平襄楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "芦山县",
+    "era": "元"
+  },
+  {
+    "id": "6-0705-3-408",
+    "name": "庐山青龙寺大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "芦山县",
+    "era": "元"
+  },
+  {
+    "id": "6-0706-3-409",
+    "name": "措尔机寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "壤塘县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0707-3-410",
+    "name": "日斯满巴碉房",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "壤塘县",
+    "era": "元至明"
+  },
+  {
+    "id": "6-0708-3-411",
+    "name": "眉山報恩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "眉山市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0709-3-412",
+    "name": "醴峰观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "南部县",
+    "era": "元至民国"
+  },
+  {
+    "id": "6-0710-3-413",
+    "name": "木门寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "安岳县",
+    "era": "明"
+  },
+  {
+    "id": "6-0711-3-414",
+    "name": "旋螺殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "宜宾市",
+    "era": "明"
+  },
+  {
+    "id": "6-0712-3-415",
+    "name": "开善寺正殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "荥经县",
+    "era": "明"
+  },
+  {
+    "id": "6-0713-3-416",
+    "name": "宝梵寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "蓬溪县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0714-3-417",
+    "name": "犍为文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "犍为县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0715-3-418",
+    "name": "松格嘛呢石经城和巴格嘛呢石经墙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "石渠县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0716-3-419",
+    "name": "隘口石坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "珙县",
+    "era": "清"
+  },
+  {
+    "id": "6-0717-3-420",
+    "name": "望江楼古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "成都市",
+    "era": "清"
+  },
+  {
+    "id": "6-0718-3-421",
+    "name": "洛带会馆",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "成都市",
+    "era": "清"
+  },
+  {
+    "id": "6-0719-3-422",
+    "name": "春秋祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "叙永县",
+    "era": "清"
+  },
+  {
+    "id": "6-0720-3-423",
+    "name": "波日桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "新龙县",
+    "era": "清"
+  },
+  {
+    "id": "6-0721-3-424",
+    "name": "庞统祠墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "罗江县",
+    "era": "清"
+  },
+  {
+    "id": "6-0722-3-425",
+    "name": "三苏祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "眉山市",
+    "era": "清"
+  },
+  {
+    "id": "6-0723-3-426",
+    "name": "开江牌坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "开江县",
+    "era": "清"
+  },
+  {
+    "id": "6-0724-3-427",
+    "name": "双堡牌坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "仁寿县",
+    "era": "清"
+  },
+  {
+    "id": "6-0725-3-428",
+    "name": "资中文庙和武庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "资中县",
+    "era": "清"
+  },
+  {
+    "id": "6-0726-3-429",
+    "name": "陈子昂读书台",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "射洪县",
+    "era": "清"
+  },
+  {
+    "id": "6-0727-3-430",
+    "name": "宝箴塞",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "四川",
+    "city": "武胜县",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0853-4-043",
+    "name": "蒲江石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "蒲江县",
+    "era": "南北朝至清"
+  },
+  {
+    "id": "6-0854-4-044",
+    "name": "邛崃石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "邛崃市",
+    "era": "唐至宋"
+  },
+  {
+    "id": "6-0855-4-045",
+    "name": "博什瓦黑岩画",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "昭觉县",
+    "era": "唐至宋"
+  },
+  {
+    "id": "6-0856-4-046",
+    "name": "荣县大佛石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "荣县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0857-4-047",
+    "name": "夹江千佛岩石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "夹江县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0858-4-048",
+    "name": "通江千佛岩石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "通江县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0859-4-049",
+    "name": "牛角寨石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "仁寿县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0860-4-050",
+    "name": "卧龙山千佛岩石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "四川",
+    "city": "梓潼县",
+    "era": "唐"
+  },
+  {
+    "id": "6-1037-5-164",
+    "name": "乐山郭沫若故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "乐山市",
+    "era": "清"
+  },
+  {
+    "id": "6-1038-5-165",
+    "name": "陈毅故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "乐至县",
+    "era": "清"
+  },
+  {
+    "id": "6-1039-5-166",
+    "name": "领报修院",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "彭州市",
+    "era": "清"
+  },
+  {
+    "id": "6-1040-5-167",
+    "name": "吴玉章故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "荣县",
+    "era": "清"
+  },
+  {
+    "id": "6-1041-5-168",
+    "name": "通江红军石刻标语群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "通江县",
+    "era": "1933～1934年"
+  },
+  {
+    "id": "6-1042-5-169",
+    "name": "阿坝红军长征遗迹",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "小金县",
+    "era": "1935年"
+  },
+  {
+    "id": "6-1043-5-170",
+    "name": "白利寺",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "甘孜县",
+    "era": "1936～1950年"
+  },
+  {
+    "id": "6-1044-5-171",
+    "name": "张澜旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "南充市",
+    "era": "1938年"
+  },
+  {
+    "id": "6-1045-5-172",
+    "name": "中国营造学社旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "四川",
+    "city": "宜宾市",
+    "era": "1940～1946年"
   }
 ]

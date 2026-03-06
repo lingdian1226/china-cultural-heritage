@@ -1890,5 +1890,785 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0004-1-004",
+    "name": "爪村遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "迁安市",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0005-1-005",
+    "name": "石北口遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "永年县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0006-1-006",
+    "name": "北福地遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "易县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0007-1-007",
+    "name": "钓鱼台遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "曲阳县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0008-1-008",
+    "name": "台西遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "藁城市",
+    "era": "商"
+  },
+  {
+    "id": "6-0009-1-009",
+    "name": "东先贤遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "邢台县",
+    "era": "商"
+  },
+  {
+    "id": "6-0010-1-010",
+    "name": "南阳遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "容城县",
+    "era": "周"
+  },
+  {
+    "id": "6-0011-1-011",
+    "name": "讲武城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "磁县",
+    "era": "战国至汉"
+  },
+  {
+    "id": "6-0012-1-012",
+    "name": "常山郡故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "元氏县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0013-1-013",
+    "name": "土城子城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "尚义县",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0014-1-014",
+    "name": "边关地道遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "永清县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0015-1-015",
+    "name": "会州城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "平泉县",
+    "era": "辽至明"
+  },
+  {
+    "id": "6-0016-1-016",
+    "name": "刘伶醉烧锅遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "徐水县",
+    "era": "金至元"
+  },
+  {
+    "id": "6-0017-1-017",
+    "name": "九连城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "沽源县",
+    "era": "金至元"
+  },
+  {
+    "id": "6-0018-1-018",
+    "name": "海丰镇遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "黄骅市",
+    "era": "金"
+  },
+  {
+    "id": "6-0019-1-019",
+    "name": "小宏城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "沽源县",
+    "era": "元"
+  },
+  {
+    "id": "6-0020-1-020",
+    "name": "大名府故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "河北",
+    "city": "大名县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0224-2-004",
+    "name": "邢国墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "邢台市",
+    "era": "周"
+  },
+  {
+    "id": "6-0225-2-005",
+    "name": "所药村壁画墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "望都县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0226-2-006",
+    "name": "隆尧唐祖陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "隆尧县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0227-2-007",
+    "name": "张柔墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "满城县",
+    "era": "元"
+  },
+  {
+    "id": "6-0228-2-008",
+    "name": "怡贤亲王墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "涞水县",
+    "era": "清"
+  },
+  {
+    "id": "6-0229-2-009",
+    "name": "纪晓岚墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "河北",
+    "city": "沧县",
+    "era": "清"
+  },
+  {
+    "id": "6-0316-3-019",
+    "name": "解村兴国寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "博野县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0317-3-020",
+    "name": "万寿寺塔林",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "平山县",
+    "era": "五代至清"
+  },
+  {
+    "id": "6-0318-3-021",
+    "name": "宝云塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "衡水市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0319-3-022",
+    "name": "修德寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "曲阳县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0320-3-023",
+    "name": "庆林寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "故城县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0321-3-024",
+    "name": "静志寺塔基地宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "定州市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0322-3-025",
+    "name": "净众院塔基地宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "定州市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0323-3-026",
+    "name": "天宫寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "唐山市",
+    "era": "辽"
+  },
+  {
+    "id": "6-0324-3-027",
+    "name": "圣塔院塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "易县",
+    "era": "辽"
+  },
+  {
+    "id": "6-0325-3-028",
+    "name": "西岗塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "涞水县",
+    "era": "辽"
+  },
+  {
+    "id": "6-0326-3-029",
+    "name": "兴文塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "涞源县",
+    "era": "辽"
+  },
+  {
+    "id": "6-0327-3-030",
+    "name": "成汤庙山门",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "涉县",
+    "era": "金"
+  },
+  {
+    "id": "6-0328-3-031",
+    "name": "柏林寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "赵县",
+    "era": "元"
+  },
+  {
+    "id": "6-0329-3-032",
+    "name": "正定府文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "正定县",
+    "era": "元"
+  },
+  {
+    "id": "6-0330-3-033",
+    "name": "井陉古驿道",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "井陉县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0331-3-034",
+    "name": "扁鹊庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "内丘县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0332-3-035",
+    "name": "永济桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "涿州市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0333-3-036",
+    "name": "西古堡",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "蔚县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0334-3-037",
+    "name": "福庆寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "井陉县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0335-3-038",
+    "name": "时恩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "张家口市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0336-3-039",
+    "name": "寿峰寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "唐山市",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0337-3-040",
+    "name": "暖泉华严寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "蔚县",
+    "era": "明"
+  },
+  {
+    "id": "6-0338-3-041",
+    "name": "真武庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "蔚县",
+    "era": "明"
+  },
+  {
+    "id": "6-0339-3-042",
+    "name": "常平仓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "蔚县",
+    "era": "明"
+  },
+  {
+    "id": "6-0340-3-043",
+    "name": "蔚州灵岩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "蔚县",
+    "era": "明"
+  },
+  {
+    "id": "6-0341-3-044",
+    "name": "单桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "献县",
+    "era": "明"
+  },
+  {
+    "id": "6-0342-3-045",
+    "name": "弘济桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "永年县",
+    "era": "明"
+  },
+  {
+    "id": "6-0343-3-046",
+    "name": "永年城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "永年县",
+    "era": "明"
+  },
+  {
+    "id": "6-0344-3-047",
+    "name": "纸坊玉皇阁",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "邯郸市",
+    "era": "明"
+  },
+  {
+    "id": "6-0345-3-048",
+    "name": "大道观玉皇殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "定州市",
+    "era": "明"
+  },
+  {
+    "id": "6-0346-3-049",
+    "name": "邢台开元寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "邢台市",
+    "era": "明"
+  },
+  {
+    "id": "6-0347-3-050",
+    "name": "伍仁桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "安国市",
+    "era": "明"
+  },
+  {
+    "id": "6-0348-3-051",
+    "name": "万全右卫城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "万全县",
+    "era": "明"
+  },
+  {
+    "id": "6-0349-3-052",
+    "name": "洗马林玉皇阁",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "万全县",
+    "era": "明"
+  },
+  {
+    "id": "6-0350-3-053",
+    "name": "金门闸",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "涿州市",
+    "era": "清"
+  },
+  {
+    "id": "6-0351-3-054",
+    "name": "大慈阁",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "保定市",
+    "era": "清"
+  },
+  {
+    "id": "6-0352-3-055",
+    "name": "承德城隍庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "承德市",
+    "era": "清"
+  },
+  {
+    "id": "6-0353-3-056",
+    "name": "普佑寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "承德市",
+    "era": "清"
+  },
+  {
+    "id": "6-0354-3-057",
+    "name": "净觉寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "河北",
+    "city": "玉田县",
+    "era": "清"
+  },
+  {
+    "id": "6-0812-4-002",
+    "name": "五礼记碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "河北",
+    "city": "大名县",
+    "era": "唐至宋"
+  },
+  {
+    "id": "6-0813-4-003",
+    "name": "宋璟碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "河北",
+    "city": "沙河市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0814-4-004",
+    "name": "大佛顶尊胜陀罗尼经幢",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "河北",
+    "city": "卢龙县",
+    "era": "金"
+  },
+  {
+    "id": "6-0892-5-019",
+    "name": "山海关八国联军营盘旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "秦皇岛市",
+    "era": "清"
+  },
+  {
+    "id": "6-0893-5-020",
+    "name": "北戴河近代建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "秦皇岛市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0894-5-021",
+    "name": "丰润中学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "唐山市",
+    "era": "1913～1925年"
+  },
+  {
+    "id": "6-0895-5-022",
+    "name": "义和拳议事厅旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "威县",
+    "era": "1898年"
+  },
+  {
+    "id": "6-0896-5-023",
+    "name": "育德中学旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "保定市",
+    "era": "1907～1937年"
+  },
+  {
+    "id": "6-0897-5-024",
+    "name": "保定陆军军官学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "保定市",
+    "era": "1912～1923年"
+  },
+  {
+    "id": "6-0898-5-025",
+    "name": "察哈尔都统署旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "张家口市",
+    "era": "1914～1928年"
+  },
+  {
+    "id": "6-0899-5-026",
+    "name": "布里留法工艺学校旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "高阳县",
+    "era": "1917～1919年"
+  },
+  {
+    "id": "6-0900-5-027",
+    "name": "晏阳初旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "定州市",
+    "era": "1926～1936年"
+  },
+  {
+    "id": "6-0901-5-028",
+    "name": "潘家峪惨案遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "唐山市",
+    "era": "1941年"
+  },
+  {
+    "id": "6-0902-5-029",
+    "name": "中共晋冀鲁豫中央局和军区旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "武安市",
+    "era": "1946～1948年"
+  },
+  {
+    "id": "6-0903-5-030",
+    "name": "唐山大地震遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "河北",
+    "city": "唐山市",
+    "era": "1976年"
+  },
+  {
+    "id": "6-1080-6-001",
+    "name": "聚馆古贡枣园",
+    "level": "national",
+    "batch": 6,
+    "category": "others",
+    "province": "河北",
+    "city": "黄骅市",
+    "era": "明至清"
   }
 ]

@@ -152,5 +152,65 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0003-1-003",
+    "name": "天妃宫遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "天津",
+    "city": "河东区",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0315-3-018",
+    "name": "石家大院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "天津",
+    "city": "西青区",
+    "era": "清"
+  },
+  {
+    "id": "6-0811-4-001",
+    "name": "千像寺造像",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "天津",
+    "city": "蓟县",
+    "era": "辽"
+  },
+  {
+    "id": "6-0889-5-016",
+    "name": "盐业银行旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "天津",
+    "city": "和平区",
+    "era": "民国"
+  },
+  {
+    "id": "6-0890-5-017",
+    "name": "法国公议局旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "天津",
+    "city": "和平区",
+    "era": "民国"
+  },
+  {
+    "id": "6-0891-5-018",
+    "name": "梁启超旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "天津",
+    "city": "河北区",
+    "era": "1914～1929年"
   }
 ]

@@ -2594,5 +2594,1525 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0021-1-021",
+    "name": "塔水河遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0022-1-022",
+    "name": "上郭城址和邱家庄墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "闻喜县",
+    "era": "周至汉"
+  },
+  {
+    "id": "6-0023-1-023",
+    "name": "南村城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "方山县",
+    "era": "战国至晋"
+  },
+  {
+    "id": "6-0024-1-024",
+    "name": "黄河栈道遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "平陆县",
+    "era": "汉至清"
+  },
+  {
+    "id": "6-0025-1-025",
+    "name": "霍州窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "霍州市",
+    "era": "宋至元"
+  },
+  {
+    "id": "6-0026-1-026",
+    "name": "洪山窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山西",
+    "city": "介休市",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0230-2-010",
+    "name": "崔家河墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "夏县",
+    "era": "周"
+  },
+  {
+    "id": "6-0231-2-011",
+    "name": "沙梁坡墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "天镇县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0232-2-012",
+    "name": "古城堡墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "阳高县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0233-2-013",
+    "name": "王家峰墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "太原市",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0234-2-014",
+    "name": "什贴墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "晋中市",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0235-2-015",
+    "name": "栗毓美墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山西",
+    "city": "浑源县",
+    "era": "清"
+  },
+  {
+    "id": "6-0355-3-058",
+    "name": "老君洞",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "浮山县",
+    "era": "唐至明"
+  },
+  {
+    "id": "6-0356-3-059",
+    "name": "卦山天宁寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "交城县",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0357-3-060",
+    "name": "下交汤帝庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0358-3-061",
+    "name": "普光寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "寿阳县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0359-3-062",
+    "name": "金洞寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "忻州市",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0360-3-063",
+    "name": "安禅寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "宋至明"
+  },
+  {
+    "id": "6-0361-3-064",
+    "name": "无边寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0362-3-065",
+    "name": "狐突庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "清徐县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0363-3-066",
+    "name": "北义城玉皇庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "泽州县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0364-3-067",
+    "name": "周村东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "泽州县",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0365-3-068",
+    "name": "张壁古堡",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "介休市",
+    "era": "宋至清"
+  },
+  {
+    "id": "6-0366-3-069",
+    "name": "佛头寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平顺县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0367-3-070",
+    "name": "兴梵寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "祁县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0368-3-071",
+    "name": "定襄关王庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "定襄县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0369-3-072",
+    "name": "妙道寺双塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临猗县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0370-3-073",
+    "name": "禅房寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "大同市",
+    "era": "辽"
+  },
+  {
+    "id": "6-0371-3-074",
+    "name": "开福寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "金至明"
+  },
+  {
+    "id": "6-0372-3-075",
+    "name": "白台寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "新绛县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0373-3-076",
+    "name": "灵泽王庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "襄垣县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0374-3-077",
+    "name": "西李门二仙庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0375-3-078",
+    "name": "润城东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0376-3-079",
+    "name": "玉泉东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0377-3-080",
+    "name": "石掌玉皇庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0378-3-081",
+    "name": "东邑龙王庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "潞城市",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0379-3-082",
+    "name": "乡宁寿圣寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "乡宁县",
+    "era": "金至明"
+  },
+  {
+    "id": "6-0380-3-083",
+    "name": "净因寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太原市",
+    "era": "金至明"
+  },
+  {
+    "id": "6-0381-3-084",
+    "name": "延庆寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "五台县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0382-3-085",
+    "name": "中坪二仙宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0383-3-086",
+    "name": "三圣寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "繁峙县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0384-3-087",
+    "name": "汾城古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "襄汾县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0385-3-088",
+    "name": "福祥寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "榆社县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0386-3-089",
+    "name": "白玉宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0387-3-090",
+    "name": "二郎庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0388-3-091",
+    "name": "真圣寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0389-3-092",
+    "name": "清源文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "清徐县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0390-3-093",
+    "name": "南神头二仙庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金至清"
+  },
+  {
+    "id": "6-0391-3-094",
+    "name": "寺润三教堂",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金"
+  },
+  {
+    "id": "6-0392-3-095",
+    "name": "三圣瑞现塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "金"
+  },
+  {
+    "id": "6-0393-3-096",
+    "name": "回龙寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平顺县",
+    "era": "金"
+  },
+  {
+    "id": "6-0394-3-097",
+    "name": "普照寺大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "沁县",
+    "era": "金"
+  },
+  {
+    "id": "6-0395-3-098",
+    "name": "昭泽王庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "襄垣县",
+    "era": "金"
+  },
+  {
+    "id": "6-0396-3-099",
+    "name": "天王寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "长子县",
+    "era": "金"
+  },
+  {
+    "id": "6-0397-3-100",
+    "name": "不二寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳曲县",
+    "era": "金"
+  },
+  {
+    "id": "6-0398-3-101",
+    "name": "净土寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "应县",
+    "era": "金"
+  },
+  {
+    "id": "6-0399-3-102",
+    "name": "义居寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0400-3-103",
+    "name": "舜帝陵庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "运城市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0401-3-104",
+    "name": "崇圣寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "榆社县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0402-3-105",
+    "name": "崇安寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "陵川县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0403-3-106",
+    "name": "东羊后土庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临汾市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0404-3-107",
+    "name": "府君庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "盂县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0405-3-108",
+    "name": "坡头泰山庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "盂县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0406-3-109",
+    "name": "懿济圣母庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "和顺县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0407-3-110",
+    "name": "清虚观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0408-3-111",
+    "name": "汾阳五岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "汾阳市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0409-3-112",
+    "name": "清梦观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0410-3-113",
+    "name": "大阳汤帝庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "泽州县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0411-3-114",
+    "name": "霍州观音庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "霍州市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0412-3-115",
+    "name": "回銮寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "介休市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0413-3-116",
+    "name": "夏禹神祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平顺县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0414-3-117",
+    "name": "金庄文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0415-3-118",
+    "name": "乔沟头玉皇庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "新绛县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0416-3-119",
+    "name": "长治玉皇观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "长治县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0417-3-120",
+    "name": "四圣宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "翼城县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0418-3-121",
+    "name": "真泽二仙宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "壶关县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0419-3-122",
+    "name": "普净寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "襄汾县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0420-3-123",
+    "name": "晋祠庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "灵石县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0421-3-124",
+    "name": "后稷庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "闻喜县",
+    "era": "元至明"
+  },
+  {
+    "id": "6-0422-3-125",
+    "name": "宝峰寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "屯留县",
+    "era": "元至明"
+  },
+  {
+    "id": "6-0423-3-126",
+    "name": "福田寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "寿阳县",
+    "era": "元至明"
+  },
+  {
+    "id": "6-0424-3-127",
+    "name": "王曲东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临汾市",
+    "era": "元至民国"
+  },
+  {
+    "id": "6-0425-3-128",
+    "name": "龙香关帝庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "新绛县",
+    "era": "元至民国"
+  },
+  {
+    "id": "6-0426-3-129",
+    "name": "介休东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "介休市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0427-3-130",
+    "name": "新绛龙兴寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "新绛县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0428-3-131",
+    "name": "襄垣文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "襄垣县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0429-3-132",
+    "name": "光化寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0430-3-133",
+    "name": "稷山稷王庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "稷山县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0431-3-134",
+    "name": "南撖东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "翼城县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0432-3-135",
+    "name": "古中庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0433-3-136",
+    "name": "景云宫玉皇殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "绛县",
+    "era": "元"
+  },
+  {
+    "id": "6-0434-3-137",
+    "name": "大洋泰山庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "夏县",
+    "era": "元"
+  },
+  {
+    "id": "6-0435-3-138",
+    "name": "二郎庙北殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "垣曲县",
+    "era": "元"
+  },
+  {
+    "id": "6-0436-3-139",
+    "name": "埝堆玉皇庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "垣曲县",
+    "era": "元"
+  },
+  {
+    "id": "6-0437-3-140",
+    "name": "昔阳崇教寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "昔阳县",
+    "era": "元"
+  },
+  {
+    "id": "6-0438-3-141",
+    "name": "左权文庙大成殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "左权县",
+    "era": "元"
+  },
+  {
+    "id": "6-0439-3-142",
+    "name": "寨里关帝庙献殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "运城市",
+    "era": "元"
+  },
+  {
+    "id": "6-0440-3-143",
+    "name": "郭村泰山庙大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "运城市",
+    "era": "元"
+  },
+  {
+    "id": "6-0441-3-144",
+    "name": "利应侯庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "元"
+  },
+  {
+    "id": "6-0442-3-145",
+    "name": "灵石后土庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "灵石县",
+    "era": "元"
+  },
+  {
+    "id": "6-0443-3-146",
+    "name": "三官庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "新绛县",
+    "era": "元"
+  },
+  {
+    "id": "6-0444-3-147",
+    "name": "古垛后土庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "河津市",
+    "era": "元"
+  },
+  {
+    "id": "6-0445-3-148",
+    "name": "乔泽庙戏台",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "翼城县",
+    "era": "元"
+  },
+  {
+    "id": "6-0446-3-149",
+    "name": "善庆寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临县",
+    "era": "元"
+  },
+  {
+    "id": "6-0447-3-150",
+    "name": "碛口古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0448-3-151",
+    "name": "海会寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0449-3-152",
+    "name": "尧陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临汾市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0450-3-153",
+    "name": "水神堂",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "广灵县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0451-3-154",
+    "name": "柳氏民居",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "沁水县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0452-3-155",
+    "name": "湘峪古堡",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "沁水县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0453-3-156",
+    "name": "郭壁村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "沁水县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0454-3-157",
+    "name": "窦庄古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "沁水县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0455-3-158",
+    "name": "平遥清凉寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0456-3-159",
+    "name": "文峰塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "汾阳市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0457-3-160",
+    "name": "代县文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "代县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0458-3-161",
+    "name": "公主寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "繁峙县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0459-3-162",
+    "name": "王家大院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "灵石县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0460-3-163",
+    "name": "郭峪村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0461-3-164",
+    "name": "孟家沟龙泉寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "寿阳县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0462-3-165",
+    "name": "天贞观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "吕梁市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0463-3-166",
+    "name": "曹家大院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0464-3-167",
+    "name": "净信寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太谷县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0465-3-168",
+    "name": "明秀寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太原市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0466-3-169",
+    "name": "多福寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太原市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0467-3-170",
+    "name": "永祚寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "太原市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0468-3-171",
+    "name": "万泉文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "万荣县",
+    "era": "明"
+  },
+  {
+    "id": "6-0469-3-172",
+    "name": "董封戏台",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "绛县",
+    "era": "明"
+  },
+  {
+    "id": "6-0470-3-173",
+    "name": "云林寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳高县",
+    "era": "明"
+  },
+  {
+    "id": "6-0471-3-174",
+    "name": "砥洎城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "阳城县",
+    "era": "明"
+  },
+  {
+    "id": "6-0472-3-175",
+    "name": "慈云寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "天镇县",
+    "era": "明"
+  },
+  {
+    "id": "6-0473-3-176",
+    "name": "广武城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "山阴县",
+    "era": "明"
+  },
+  {
+    "id": "6-0474-3-177",
+    "name": "潞安府衙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "长治市",
+    "era": "明"
+  },
+  {
+    "id": "6-0475-3-178",
+    "name": "渠家大院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "祁县",
+    "era": "清"
+  },
+  {
+    "id": "6-0476-3-179",
+    "name": "杏花村汾酒作坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "汾阳市",
+    "era": "清"
+  },
+  {
+    "id": "6-0477-3-180",
+    "name": "秘密寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "繁峙县",
+    "era": "清"
+  },
+  {
+    "id": "6-0478-3-181",
+    "name": "铁佛寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "临汾市",
+    "era": "清"
+  },
+  {
+    "id": "6-0479-3-182",
+    "name": "常平关帝庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "运城市",
+    "era": "清"
+  },
+  {
+    "id": "6-0480-3-183",
+    "name": "中阳楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "孝义市",
+    "era": "清"
+  },
+  {
+    "id": "6-0481-3-184",
+    "name": "师家沟古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "汾西县",
+    "era": "清"
+  },
+  {
+    "id": "6-0482-3-185",
+    "name": "娲皇庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "霍州市",
+    "era": "清"
+  },
+  {
+    "id": "6-0483-3-186",
+    "name": "平遥城隍庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "清"
+  },
+  {
+    "id": "6-0484-3-187",
+    "name": "日昇昌旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "平遥县",
+    "era": "清"
+  },
+  {
+    "id": "6-0485-3-188",
+    "name": "太和岩牌楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "介休市",
+    "era": "清"
+  },
+  {
+    "id": "6-0486-3-189",
+    "name": "介休五岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山西",
+    "city": "介休市",
+    "era": "清"
+  },
+  {
+    "id": "6-0815-4-005",
+    "name": "羊头山石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山西",
+    "city": "高平市",
+    "era": "南北朝至唐"
+  },
+  {
+    "id": "6-0816-4-006",
+    "name": "碧落寺",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山西",
+    "city": "泽州县",
+    "era": "南北朝至民国"
+  },
+  {
+    "id": "6-0817-4-007",
+    "name": "金灯寺石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山西",
+    "city": "平顺县",
+    "era": "明"
+  },
+  {
+    "id": "6-0904-5-031",
+    "name": "徐向前故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山西",
+    "city": "五台县",
+    "era": "清"
+  },
+  {
+    "id": "6-0905-5-032",
+    "name": "大同煤矿万人坑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山西",
+    "city": "大同市",
+    "era": "1937～1945年"
+  },
+  {
+    "id": "6-0906-5-033",
+    "name": "西河头地道战遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山西",
+    "city": "定襄县",
+    "era": "1942～1947年"
+  },
+  {
+    "id": "6-0907-5-034",
+    "name": "山西省立第三中学旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山西",
+    "city": "大同市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0908-5-035",
+    "name": "黄崖洞兵工厂旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山西",
+    "city": "黎城县",
+    "era": "1941年"
   }
 ]

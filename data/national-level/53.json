@@ -702,5 +702,445 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0187-1-187",
+    "name": "白羊村遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "云南",
+    "city": "宾川县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0188-1-188",
+    "name": "-{A|zh:巄;zh-hant:巄;zh-hans:𱛓}-图山城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "云南",
+    "city": "巍山彝族回族自治县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0281-2-061",
+    "name": "八塔台墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "云南",
+    "city": "曲靖市",
+    "era": "周至明"
+  },
+  {
+    "id": "6-0282-2-062",
+    "name": "营盘村墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "云南",
+    "city": "永胜县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0738-3-441",
+    "name": "水目寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "祥云县",
+    "era": "唐至明"
+  },
+  {
+    "id": "6-0739-3-442",
+    "name": "惠光寺塔和常乐寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "昆明市",
+    "era": "唐、清"
+  },
+  {
+    "id": "6-0740-3-443",
+    "name": "佛图寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "大理市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0741-3-444",
+    "name": "大姚白塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "大姚县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0742-3-445",
+    "name": "曹溪寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "安宁市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0743-3-446",
+    "name": "秀山古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "通海县",
+    "era": "元至民国"
+  },
+  {
+    "id": "6-0744-3-447",
+    "name": "指林寺大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "建水县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0745-3-448",
+    "name": "宝山石头城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "玉龙纳西族自治县",
+    "era": "元"
+  },
+  {
+    "id": "6-0746-3-449",
+    "name": "安宁文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "安宁市",
+    "era": "元至明"
+  },
+  {
+    "id": "6-0747-3-450",
+    "name": "州城文庙和武庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "宾川县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0748-3-451",
+    "name": "真庆观古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "昆明市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0749-3-452",
+    "name": "黑龙潭古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "丽江市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0750-3-453",
+    "name": "龙华寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "姚安县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0751-3-454",
+    "name": "保山玉皇阁",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "保山市",
+    "era": "明"
+  },
+  {
+    "id": "6-0752-3-455",
+    "name": "朝阳楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "建水县",
+    "era": "明"
+  },
+  {
+    "id": "6-0753-3-456",
+    "name": "西门街古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "剑川县",
+    "era": "明"
+  },
+  {
+    "id": "6-0754-3-457",
+    "name": "沙溪兴教寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "剑川县",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0755-3-458",
+    "name": "金龙桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "丽江市",
+    "era": "清"
+  },
+  {
+    "id": "6-0756-3-459",
+    "name": "孟连宣抚司署",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "孟连傣族拉祜族佤族自治县",
+    "era": "清"
+  },
+  {
+    "id": "6-0757-3-460",
+    "name": "曼短佛寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "勐海县",
+    "era": "清"
+  },
+  {
+    "id": "6-0758-3-461",
+    "name": "双龙桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "建水县",
+    "era": "清"
+  },
+  {
+    "id": "6-0759-3-462",
+    "name": "长春洞",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "巍山彝族回族自治县",
+    "era": "清"
+  },
+  {
+    "id": "6-0760-3-463",
+    "name": "寿国寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "维西傈僳族自治县",
+    "era": "清"
+  },
+  {
+    "id": "6-0761-3-464",
+    "name": "会泽会馆",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "云南",
+    "city": "会泽县",
+    "era": "清"
+  },
+  {
+    "id": "6-0861-4-051",
+    "name": "孟孝琚碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "云南",
+    "city": "昭通市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0862-4-052",
+    "name": "王仁求碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "云南",
+    "city": "安宁市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0863-4-053",
+    "name": "马哈只墓碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "云南",
+    "city": "晋宁县",
+    "era": "明"
+  },
+  {
+    "id": "6-1053-5-180",
+    "name": "五家寨铁路桥",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "屏边苗族自治县",
+    "era": "清"
+  },
+  {
+    "id": "6-1054-5-181",
+    "name": "茨中教堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "德钦县",
+    "era": "清"
+  },
+  {
+    "id": "6-1055-5-182",
+    "name": "石龙坝水电站",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "昆明市",
+    "era": "清"
+  },
+  {
+    "id": "6-1056-5-183",
+    "name": "蒙自海关旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "蒙自县",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1057-5-184",
+    "name": "鸡街火车站",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "个旧市",
+    "era": "民国"
+  },
+  {
+    "id": "6-1058-5-185",
+    "name": "企鹤楼",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "石屏县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1059-5-186",
+    "name": "陈氏宗祠",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "石屏县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1060-5-187",
+    "name": "和顺图书馆旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "腾冲县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1061-5-188",
+    "name": "允燕塔",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "盈江县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1062-5-189",
+    "name": "国立西南联合大学旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "昆明市",
+    "era": "近代"
+  },
+  {
+    "id": "6-1063-5-190",
+    "name": "松山战役旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "龙陵县",
+    "era": "1944年"
+  },
+  {
+    "id": "6-1064-5-191",
+    "name": "抗战胜利纪念堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "昆明市",
+    "era": "民国"
+  },
+  {
+    "id": "6-1065-5-192",
+    "name": "民族团结誓词碑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "云南",
+    "city": "普洱哈尼族彝族自治县",
+    "era": "1951年"
   }
 ]

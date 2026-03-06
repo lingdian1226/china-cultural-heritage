@@ -196,5 +196,85 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0213-1-213",
+    "name": "鸽子山遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "宁夏",
+    "city": "青铜峡市",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0214-1-214",
+    "name": "菜园遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "宁夏",
+    "city": "海原县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0215-1-215",
+    "name": "照壁山铜矿遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "宁夏",
+    "city": "中卫市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0216-1-216",
+    "name": "灵武窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "宁夏",
+    "city": "灵武市",
+    "era": "宋至明"
+  },
+  {
+    "id": "6-0217-1-217",
+    "name": "张家场城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "宁夏",
+    "city": "盐池县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0807-3-510",
+    "name": "承天寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "宁夏",
+    "city": "银川市",
+    "era": "清"
+  },
+  {
+    "id": "6-0808-3-511",
+    "name": "董府",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "宁夏",
+    "city": "吴忠市",
+    "era": "清"
+  },
+  {
+    "id": "6-1076-5-203",
+    "name": "将台堡革命旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "宁夏",
+    "city": "西吉县",
+    "era": "1936年"
   }
 ]

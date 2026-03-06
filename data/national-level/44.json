@@ -1120,5 +1120,185 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0168-1-168",
+    "name": "宝镜湾遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广东",
+    "city": "珠海市",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0271-2-051",
+    "name": "南汉二陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "广东",
+    "city": "广州市",
+    "era": "五代"
+  },
+  {
+    "id": "6-0679-3-382",
+    "name": "慧光塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "连州市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0680-3-383",
+    "name": "龟峰塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "河源市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0681-3-384",
+    "name": "六榕寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "广州市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0682-3-385",
+    "name": "广裕祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "从化市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0683-3-386",
+    "name": "南社村和塘尾村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "东莞市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0684-3-387",
+    "name": "韩文公祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "潮州市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0685-3-388",
+    "name": "道韵楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "饶平县",
+    "era": "明"
+  },
+  {
+    "id": "6-0686-3-389",
+    "name": "从熙公祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "潮安县",
+    "era": "清"
+  },
+  {
+    "id": "6-0687-3-390",
+    "name": "陈芳家宅",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广东",
+    "city": "珠海市",
+    "era": "清"
+  },
+  {
+    "id": "6-0849-4-039",
+    "name": "却金亭碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "广东",
+    "city": "东莞市",
+    "era": "明"
+  },
+  {
+    "id": "6-1015-5-142",
+    "name": "粤海关旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "广州市",
+    "era": "清"
+  },
+  {
+    "id": "6-1016-5-143",
+    "name": "叶挺故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "惠州市",
+    "era": "清"
+  },
+  {
+    "id": "6-1017-5-144",
+    "name": "丘逢甲故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "蕉岭县",
+    "era": "清"
+  },
+  {
+    "id": "6-1018-5-145",
+    "name": "双峰寨",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "仁化县",
+    "era": "清"
+  },
+  {
+    "id": "6-1019-5-146",
+    "name": "广东咨议局旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "广州市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1020-5-147",
+    "name": "大岭山抗日根据地旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广东",
+    "city": "东莞市",
+    "era": "1940～1943年"
   }
 ]

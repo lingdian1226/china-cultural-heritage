@@ -1098,5 +1098,455 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0104-1-104",
+    "name": "沂源猿人遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "沂源县",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0105-1-105",
+    "name": "北辛遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "滕州市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0106-1-106",
+    "name": "王因遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "兖州市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0107-1-107",
+    "name": "贾柏遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "汶上县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0108-1-108",
+    "name": "小荆山遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "章丘市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0109-1-109",
+    "name": "东岳石遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "平度市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0110-1-110",
+    "name": "白石村遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "烟台市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0111-1-111",
+    "name": "两城镇遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "日照市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0112-1-112",
+    "name": "尧王城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "日照市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0113-1-113",
+    "name": "东海峪遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "日照市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0114-1-114",
+    "name": "后李遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "淄博市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0115-1-115",
+    "name": "三里河遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "胶州市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0116-1-116",
+    "name": "傅家遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "广饶县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0117-1-117",
+    "name": "教场铺遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "茌平县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0118-1-118",
+    "name": "归城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "龙口市",
+    "era": "周"
+  },
+  {
+    "id": "6-0119-1-119",
+    "name": "郯国故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "郯城县",
+    "era": "周至汉"
+  },
+  {
+    "id": "6-0120-1-120",
+    "name": "邾国故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "邹城市",
+    "era": "周至汉"
+  },
+  {
+    "id": "6-0121-1-121",
+    "name": "偪阳故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "枣庄市",
+    "era": "周至晋"
+  },
+  {
+    "id": "6-0122-1-122",
+    "name": "东平陵故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "章丘市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0123-1-123",
+    "name": "中陈郝窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "枣庄市",
+    "era": "南北朝至清"
+  },
+  {
+    "id": "6-0124-1-124",
+    "name": "龙华寺遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "博兴县",
+    "era": "南北朝至隋"
+  },
+  {
+    "id": "6-0125-1-125",
+    "name": "寨里窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "山东",
+    "city": "淄博市",
+    "era": "南北朝至唐"
+  },
+  {
+    "id": "6-0256-2-036",
+    "name": "嘴子前墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "海阳市",
+    "era": "周"
+  },
+  {
+    "id": "6-0257-2-037",
+    "name": "萧王庄墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "济宁市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0258-2-038",
+    "name": "洗砚池墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "临沂市",
+    "era": "晋"
+  },
+  {
+    "id": "6-0259-2-039",
+    "name": "崔芬墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "临朐县",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0260-2-040",
+    "name": "韩氏家族墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "莘县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0261-2-041",
+    "name": "明鲁王墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "山东",
+    "city": "邹城市",
+    "era": "明"
+  },
+  {
+    "id": "6-0613-3-316",
+    "name": "卞桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "泗水县",
+    "era": "唐至金"
+  },
+  {
+    "id": "6-0614-3-317",
+    "name": "隆兴寺铁塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "聊城市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0615-3-318",
+    "name": "颜文姜祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "淄博市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0616-3-319",
+    "name": "泰山古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "泰安市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0617-3-320",
+    "name": "曾庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "嘉祥县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0618-3-321",
+    "name": "尼山孔庙和书院",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "曲阜市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0619-3-322",
+    "name": "济宁东大寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "济宁市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0620-3-323",
+    "name": "蒲松龄故宅",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "山东",
+    "city": "淄博市",
+    "era": "清"
+  },
+  {
+    "id": "6-0832-4-022",
+    "name": "西天寺造像",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山东",
+    "city": "淄博市",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0833-4-023",
+    "name": "洪顶山摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山东",
+    "city": "东平县",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0834-4-024",
+    "name": "圣经山摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "山东",
+    "city": "文登市",
+    "era": "金至元"
+  },
+  {
+    "id": "6-0976-5-103",
+    "name": "洪家楼天主教堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "济南市",
+    "era": "清"
+  },
+  {
+    "id": "6-0977-5-104",
+    "name": "青岛啤酒厂早期建筑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "青岛市",
+    "era": "清"
+  },
+  {
+    "id": "6-0978-5-105",
+    "name": "王尽美故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "诸城市",
+    "era": "清"
+  },
+  {
+    "id": "6-0979-5-106",
+    "name": "烟台山近代建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "烟台市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0980-5-107",
+    "name": "万字会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "济南市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0981-5-108",
+    "name": "台儿庄大战旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "山东",
+    "city": "枣庄市",
+    "era": "1938年"
   }
 ]

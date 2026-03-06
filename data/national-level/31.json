@@ -416,5 +416,35 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0505-3-208",
+    "name": "龙华塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "上海",
+    "city": "徐汇区",
+    "era": "宋"
+  },
+  {
+    "id": "6-0926-5-053",
+    "name": "马勒住宅",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "上海",
+    "city": "静安区",
+    "era": "民国"
+  },
+  {
+    "id": "6-0927-5-054",
+    "name": "国际饭店",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "上海",
+    "city": "黄浦区",
+    "era": "民国"
   }
 ]

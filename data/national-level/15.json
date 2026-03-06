@@ -746,5 +746,435 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0027-1-027",
+    "name": "阿善遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "包头市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0028-1-028",
+    "name": "赵宝沟遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "敖汉旗",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0029-1-029",
+    "name": "红山遗址群",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "赤峰市",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0030-1-030",
+    "name": "夏家店遗址群",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "赤峰市",
+    "era": "新石器时代至战国"
+  },
+  {
+    "id": "6-0031-1-031",
+    "name": "朱开沟遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "伊金霍洛旗",
+    "era": "新石器时代至商"
+  },
+  {
+    "id": "6-0032-1-032",
+    "name": "秦直道遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "鄂尔多斯市",
+    "era": "秦"
+  },
+  {
+    "id": "6-0033-1-033",
+    "name": "麻池城址和召湾墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "包头市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0034-1-034",
+    "name": "黑城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "宁城县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0035-1-035",
+    "name": "朔方郡故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "磴口县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0036-1-036",
+    "name": "霍洛柴登城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "杭锦旗",
+    "era": "汉"
+  },
+  {
+    "id": "6-0037-1-037",
+    "name": "克里孟城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "察哈尔右翼后旗",
+    "era": "汉至南北朝"
+  },
+  {
+    "id": "6-0038-1-038",
+    "name": "沃野镇故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "乌拉特前旗",
+    "era": "汉至南北朝"
+  },
+  {
+    "id": "6-0039-1-039",
+    "name": "白灵淖尔城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "固阳县",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0040-1-040",
+    "name": "十二连城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "准格尔旗",
+    "era": "隋至唐"
+  },
+  {
+    "id": "6-0041-1-041",
+    "name": "城川城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "鄂托克前旗",
+    "era": "唐"
+  },
+  {
+    "id": "6-0042-1-042",
+    "name": "查干浩特城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "阿鲁科尔沁旗",
+    "era": "辽至明"
+  },
+  {
+    "id": "6-0043-1-043",
+    "name": "安答堡子城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "达尔罕茂明安联合旗",
+    "era": "金至元"
+  },
+  {
+    "id": "6-0044-1-044",
+    "name": "净州路故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "四子王旗",
+    "era": "金至元"
+  },
+  {
+    "id": "6-0045-1-045",
+    "name": "砂井路总管府故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "四子王旗",
+    "era": "元"
+  },
+  {
+    "id": "6-0046-1-046",
+    "name": "巴彦乌拉城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "内蒙古",
+    "city": "鄂温克族自治旗",
+    "era": "元"
+  },
+  {
+    "id": "6-0236-2-016",
+    "name": "扎赉诺尔墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "满洲里市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0237-2-017",
+    "name": "王昭君墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "呼和浩特市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0238-2-018",
+    "name": "韩匡嗣家族墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "巴林左旗",
+    "era": "辽"
+  },
+  {
+    "id": "6-0239-2-019",
+    "name": "吐尔基山墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "科尔沁左翼后旗",
+    "era": "辽"
+  },
+  {
+    "id": "6-0240-2-020",
+    "name": "萧氏家族墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "奈曼旗",
+    "era": "辽"
+  },
+  {
+    "id": "6-0241-2-021",
+    "name": "张应瑞家族墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "内蒙古",
+    "city": "翁牛特旗",
+    "era": "元"
+  },
+  {
+    "id": "6-0487-3-190",
+    "name": "锦山龙泉寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "喀喇沁旗",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0488-3-191",
+    "name": "大召",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "呼和浩特市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0489-3-192",
+    "name": "绥远城墙和将军衙署",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "呼和浩特市",
+    "era": "清"
+  },
+  {
+    "id": "6-0490-3-193",
+    "name": "贝子庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "锡林浩特市",
+    "era": "清"
+  },
+  {
+    "id": "6-0491-3-194",
+    "name": "定远营",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "阿拉善左旗",
+    "era": "清"
+  },
+  {
+    "id": "6-0492-3-195",
+    "name": "灵悦寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "喀喇沁旗",
+    "era": "清"
+  },
+  {
+    "id": "6-0493-3-196",
+    "name": "诺尔古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "多伦县",
+    "era": "清"
+  },
+  {
+    "id": "6-0494-3-197",
+    "name": "库伦三大寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "库伦旗",
+    "era": "清"
+  },
+  {
+    "id": "6-0495-3-198",
+    "name": "僧格林沁王府",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "科尔沁左翼后旗",
+    "era": "清"
+  },
+  {
+    "id": "6-0496-3-199",
+    "name": "宝善寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "内蒙古",
+    "city": "阿鲁科尔沁旗",
+    "era": "清"
+  },
+  {
+    "id": "6-0818-4-008",
+    "name": "阴山岩画",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "内蒙古",
+    "city": "乌拉特前旗",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0819-4-009",
+    "name": "真寂之寺石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "内蒙古",
+    "city": "巴林左旗",
+    "era": "辽"
+  },
+  {
+    "id": "6-0909-5-036",
+    "name": "乌兰夫故居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "内蒙古",
+    "city": "土默特左旗",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0910-5-037",
+    "name": "成吉思汗庙",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "内蒙古",
+    "city": "乌兰浩特市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0911-5-038",
+    "name": "“独贵龙”运动旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "内蒙古",
+    "city": "乌审旗",
+    "era": "1919～1921年"
+  },
+  {
+    "id": "6-0912-5-039",
+    "name": "百灵庙起义旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "内蒙古",
+    "city": "达尔罕茂明安联合旗",
+    "era": "1936年"
+  },
+  {
+    "id": "6-0913-5-040",
+    "name": "内蒙古自治政府成立大会会址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "内蒙古",
+    "city": "乌兰浩特市",
+    "era": "1947年"
   }
 ]

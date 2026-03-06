@@ -416,5 +416,205 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0185-1-185",
+    "name": "宁谷遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "贵州",
+    "city": "安顺市",
+    "era": "汉"
+  },
+  {
+    "id": "6-0186-1-186",
+    "name": "万山汞矿遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "贵州",
+    "city": "铜仁地区",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0280-2-060",
+    "name": "交乐墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "贵州",
+    "city": "兴仁县",
+    "era": "汉"
+  },
+  {
+    "id": "6-0728-3-431",
+    "name": "织金古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "织金县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0729-3-432",
+    "name": "马头寨古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "开阳县",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0730-3-433",
+    "name": "东山古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "铜仁市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0731-3-434",
+    "name": "阳明洞和阳明祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "修文县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0732-3-435",
+    "name": "寨英村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "松桃苗族自治县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0733-3-436",
+    "name": "思唐古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "思南县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0734-3-437",
+    "name": "飞云崖古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "黄平县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0735-3-438",
+    "name": "旧州古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "黄平县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0736-3-439",
+    "name": "文昌阁和甲秀楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "贵阳市",
+    "era": "明"
+  },
+  {
+    "id": "6-0737-3-440",
+    "name": "葛镜桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "贵州",
+    "city": "福泉市",
+    "era": "明"
+  },
+  {
+    "id": "6-1046-5-173",
+    "name": "黔东特区革命委员会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "沿河土家族自治县",
+    "era": "1934年"
+  },
+  {
+    "id": "6-1047-5-174",
+    "name": "黎平会议会址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "黎平县",
+    "era": "1934年"
+  },
+  {
+    "id": "6-1048-5-175",
+    "name": "红军四渡赤水战役旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "习水县",
+    "era": "1935年"
+  },
+  {
+    "id": "6-1049-5-176",
+    "name": "川滇黔省革命委员会旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "毕节市",
+    "era": "1936年"
+  },
+  {
+    "id": "6-1050-5-177",
+    "name": "“二十四道拐”抗战公路",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "晴隆县",
+    "era": "1936年"
+  },
+  {
+    "id": "6-1051-5-178",
+    "name": "湄潭浙江大学旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "湄潭县",
+    "era": "1940～1946年"
+  },
+  {
+    "id": "6-1052-5-179",
+    "name": "和平村旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "贵州",
+    "city": "镇远县",
+    "era": "1941～1944年"
   }
 ]

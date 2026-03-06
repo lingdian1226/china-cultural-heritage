@@ -592,5 +592,85 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0283-2-063",
+    "name": "查木钦墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "西藏",
+    "city": "拉孜县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0762-3-465",
+    "name": "松卡石塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "扎囊县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0763-3-466",
+    "name": "聂塘卓玛拉康",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "曲水县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0764-3-467",
+    "name": "查杰玛大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "昌都地区",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0765-3-468",
+    "name": "敏竹林寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "扎囊县",
+    "era": "明"
+  },
+  {
+    "id": "6-0766-3-469",
+    "name": "平措林寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "拉孜县",
+    "era": "明"
+  },
+  {
+    "id": "6-0767-3-470",
+    "name": "邦纳寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "索县",
+    "era": "明"
+  },
+  {
+    "id": "6-0768-3-471",
+    "name": "康松桑卡林",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "西藏",
+    "city": "扎囊县",
+    "era": "清"
   }
 ]

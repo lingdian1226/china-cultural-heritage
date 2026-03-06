@@ -988,5 +988,405 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0095-1-095",
+    "name": "北苑御焙遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "福建",
+    "city": "建瓯市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0096-1-096",
+    "name": "磁灶窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "福建",
+    "city": "晋江市",
+    "era": "宋至元"
+  },
+  {
+    "id": "6-0097-1-097",
+    "name": "德济门遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "福建",
+    "city": "泉州市",
+    "era": "宋至明"
+  },
+  {
+    "id": "6-0098-1-098",
+    "name": "南胜窑址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "福建",
+    "city": "平和县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0253-2-033",
+    "name": "武夷山崖墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "福建",
+    "city": "武夷山市",
+    "era": "青铜时代"
+  },
+  {
+    "id": "6-0254-2-034",
+    "name": "朱熹墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "福建",
+    "city": "建阳市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0578-3-281",
+    "name": "镇海堤",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "莆田市",
+    "era": "唐至清"
+  },
+  {
+    "id": "6-0579-3-282",
+    "name": "名山室",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "永泰县",
+    "era": "宋至元"
+  },
+  {
+    "id": "6-0580-3-283",
+    "name": "泉州港古建筑",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "泉州市",
+    "era": "宋至元"
+  },
+  {
+    "id": "6-0581-3-284",
+    "name": "圣寿宝塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "长乐市",
+    "era": "宋"
+  },
+  {
+    "id": "6-0582-3-285",
+    "name": "无尘塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "仙游县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0583-3-286",
+    "name": "三坊七巷和朱紫坊建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "福州市",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0584-3-287",
+    "name": "培田村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "连城县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0585-3-288",
+    "name": "南山宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "华安县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0586-3-289",
+    "name": "西陂天后宫",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "永定县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0587-3-290",
+    "name": "狮峰寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "福安市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0588-3-291",
+    "name": "漳州林氏宗祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "漳州市",
+    "era": "明"
+  },
+  {
+    "id": "6-0589-3-292",
+    "name": "漳浦文庙大成殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "漳浦县",
+    "era": "明"
+  },
+  {
+    "id": "6-0590-3-293",
+    "name": "宝严寺大殿",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "邵武市",
+    "era": "明"
+  },
+  {
+    "id": "6-0591-3-294",
+    "name": "陈埭丁氏宗祠",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "晋江市",
+    "era": "明"
+  },
+  {
+    "id": "6-0592-3-295",
+    "name": "正顺庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "三明市",
+    "era": "明"
+  },
+  {
+    "id": "6-0593-3-296",
+    "name": "闽东北廊桥",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "屏南县",
+    "era": "清"
+  },
+  {
+    "id": "6-0594-3-297",
+    "name": "安溪文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "安溪县",
+    "era": "清"
+  },
+  {
+    "id": "6-0595-3-298",
+    "name": "德远堂",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "南靖县",
+    "era": "清"
+  },
+  {
+    "id": "6-0596-3-299",
+    "name": "施琅宅、祠和墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "晋江市",
+    "era": "清"
+  },
+  {
+    "id": "6-0597-3-300",
+    "name": "妈祖庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "莆田市",
+    "era": "清"
+  },
+  {
+    "id": "6-0598-3-301",
+    "name": "林氏义庄",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "龙海市",
+    "era": "清"
+  },
+  {
+    "id": "6-0599-3-302",
+    "name": "福州文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "福州市",
+    "era": "清"
+  },
+  {
+    "id": "6-0600-3-303",
+    "name": "建瓯东岳庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "福建",
+    "city": "建瓯市",
+    "era": "清"
+  },
+  {
+    "id": "6-0826-4-016",
+    "name": "栖云洞造像",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "福建",
+    "city": "罗源县",
+    "era": "宋至明"
+  },
+  {
+    "id": "6-0827-4-017",
+    "name": "显应宫泥塑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "福建",
+    "city": "长乐市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0828-4-018",
+    "name": "灵济宫碑",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "福建",
+    "city": "闽侯县",
+    "era": "明"
+  },
+  {
+    "id": "6-0962-5-089",
+    "name": "陈化成墓",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "厦门市",
+    "era": "清"
+  },
+  {
+    "id": "6-0963-5-090",
+    "name": "鼓浪屿近代建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "厦门市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0964-5-091",
+    "name": "严复故居和墓",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "福州市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0965-5-092",
+    "name": "天一总局旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "龙海市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0966-5-093",
+    "name": "集美学村和厦门大学早期建筑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "厦门市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0967-5-094",
+    "name": "厦门破狱斗争旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "厦门市",
+    "era": "1930年"
+  },
+  {
+    "id": "6-0968-5-095",
+    "name": "建宁红一方面军领导机关旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "建宁县",
+    "era": "1931～1933年"
+  },
+  {
+    "id": "6-0969-5-096",
+    "name": "中国工农红军东路军领导机关旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "福建",
+    "city": "漳州市",
+    "era": "1932年"
   }
 ]

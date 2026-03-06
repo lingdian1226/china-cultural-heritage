@@ -394,5 +394,155 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0051-1-051",
+    "name": "百草沟遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "汪清县",
+    "era": "战国至晋"
+  },
+  {
+    "id": "6-0052-1-052",
+    "name": "自安山城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "通化市",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0053-1-053",
+    "name": "龙潭山城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "吉林市",
+    "era": "晋"
+  },
+  {
+    "id": "6-0054-1-054",
+    "name": "苏密城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "桦甸市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0055-1-055",
+    "name": "城山子山城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "敦化市",
+    "era": "唐"
+  },
+  {
+    "id": "6-0056-1-056",
+    "name": "磨盘村山城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "图们市",
+    "era": "唐至金"
+  },
+  {
+    "id": "6-0057-1-057",
+    "name": "偏脸城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "梨树县",
+    "era": "辽至金"
+  },
+  {
+    "id": "6-0058-1-058",
+    "name": "秦家屯城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "公主岭市",
+    "era": "辽至金"
+  },
+  {
+    "id": "6-0059-1-059",
+    "name": "城四家子城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "白城市",
+    "era": "辽至元"
+  },
+  {
+    "id": "6-0060-1-060",
+    "name": "叶赫部城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "四平市",
+    "era": "明"
+  },
+  {
+    "id": "6-0061-1-061",
+    "name": "辉发城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "吉林",
+    "city": "辉南县",
+    "era": "明"
+  },
+  {
+    "id": "6-0244-2-024",
+    "name": "辉发河上游石棚墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "吉林",
+    "city": "梅河口市",
+    "era": "周"
+  },
+  {
+    "id": "6-0502-3-205",
+    "name": "吉林文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "吉林",
+    "city": "吉林市",
+    "era": "清"
+  },
+  {
+    "id": "6-0820-4-010",
+    "name": "阿什哈达摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "吉林",
+    "city": "吉林市",
+    "era": "明"
+  },
+  {
+    "id": "6-0921-5-048",
+    "name": "四保临江战役指挥部旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "吉林",
+    "city": "临江市",
+    "era": "1945年"
   }
 ]

@@ -482,5 +482,205 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0169-1-169",
+    "name": "白莲洞遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广西",
+    "city": "柳州市",
+    "era": "旧石器至新石器时代"
+  },
+  {
+    "id": "6-0170-1-170",
+    "name": "鲤鱼嘴遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广西",
+    "city": "柳州市",
+    "era": "旧石器至新石器时代"
+  },
+  {
+    "id": "6-0171-1-171",
+    "name": "感驮岩遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广西",
+    "city": "那坡县",
+    "era": "新石器时代至战国"
+  },
+  {
+    "id": "6-0172-1-172",
+    "name": "秦城遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广西",
+    "city": "兴安县",
+    "era": "秦至晋"
+  },
+  {
+    "id": "6-0173-1-173",
+    "name": "智城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "广西",
+    "city": "上林县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0688-3-391",
+    "name": "江头村和长岗岭村古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广西",
+    "city": "灵川县",
+    "era": "明至民国"
+  },
+  {
+    "id": "6-0689-3-392",
+    "name": "马殷庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广西",
+    "city": "富川瑶族自治县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0690-3-393",
+    "name": "燕窝楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广西",
+    "city": "全州县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0691-3-394",
+    "name": "恭城古建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "广西",
+    "city": "恭城瑶族自治县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0850-4-040",
+    "name": "柳侯祠碑刻",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "广西",
+    "city": "柳州市",
+    "era": "宋至民国"
+  },
+  {
+    "id": "6-1021-5-148",
+    "name": "连城要塞遗址和友谊关",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "北海市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-1022-5-149",
+    "name": "容县近代建筑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "容县",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1023-5-150",
+    "name": "太平天国永安活动旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "蒙山县",
+    "era": "1851年"
+  },
+  {
+    "id": "6-1024-5-151",
+    "name": "马胖鼓楼",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "三江侗族自治县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1025-5-152",
+    "name": "梧州中山纪念堂",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "梧州市",
+    "era": "民国"
+  },
+  {
+    "id": "6-1026-5-153",
+    "name": "广西农民运动讲习所旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "东兰县",
+    "era": "1925年"
+  },
+  {
+    "id": "6-1027-5-154",
+    "name": "红军标语楼",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "河池市",
+    "era": "1930年"
+  },
+  {
+    "id": "6-1028-5-155",
+    "name": "湘江战役旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "兴安县",
+    "era": "1934年"
+  },
+  {
+    "id": "6-1029-5-156",
+    "name": "昆仑关战役旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "南宁市",
+    "era": "1939～1940年"
+  },
+  {
+    "id": "6-1030-5-157",
+    "name": "胡志明旧居",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "广西",
+    "city": "柳州市",
+    "era": "1942～1954年"
   }
 ]

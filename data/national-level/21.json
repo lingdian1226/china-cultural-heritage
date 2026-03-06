@@ -746,5 +746,185 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0047-1-047",
+    "name": "庙后山遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "辽宁",
+    "city": "本溪满族自治县",
+    "era": "旧石器时代"
+  },
+  {
+    "id": "6-0048-1-048",
+    "name": "高台山遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "辽宁",
+    "city": "新民市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0049-1-049",
+    "name": "石台子山城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "辽宁",
+    "city": "沈阳市",
+    "era": "汉至唐"
+  },
+  {
+    "id": "6-0050-1-050",
+    "name": "赫图阿拉故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "辽宁",
+    "city": "新宾满族自治县",
+    "era": "明"
+  },
+  {
+    "id": "6-0242-2-022",
+    "name": "袁台子墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "辽宁",
+    "city": "朝阳县",
+    "era": "晋"
+  },
+  {
+    "id": "6-0243-2-023",
+    "name": "冯素弗墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "辽宁",
+    "city": "北票市",
+    "era": "十六国"
+  },
+  {
+    "id": "6-0497-3-200",
+    "name": "云接寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "辽宁",
+    "city": "朝阳市",
+    "era": "辽"
+  },
+  {
+    "id": "6-0498-3-201",
+    "name": "中前所城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "辽宁",
+    "city": "绥中县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0499-3-202",
+    "name": "广宁城",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "辽宁",
+    "city": "北宁市",
+    "era": "明"
+  },
+  {
+    "id": "6-0500-3-203",
+    "name": "佑顺寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "辽宁",
+    "city": "朝阳市",
+    "era": "清"
+  },
+  {
+    "id": "6-0501-3-204",
+    "name": "圣水寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "辽宁",
+    "city": "葫芦岛市",
+    "era": "清"
+  },
+  {
+    "id": "6-0914-5-041",
+    "name": "万忠墓",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "大连市",
+    "era": "清"
+  },
+  {
+    "id": "6-0915-5-042",
+    "name": "锡伯族家庙",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "沈阳市",
+    "era": "清"
+  },
+  {
+    "id": "6-0916-5-043",
+    "name": "西炮台遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "营口市",
+    "era": "1888年"
+  },
+  {
+    "id": "6-0917-5-044",
+    "name": "关东厅博物馆旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "大连市",
+    "era": "民国"
+  },
+  {
+    "id": "6-0918-5-045",
+    "name": "阜新万人坑",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "阜新市",
+    "era": "1940～1945年"
+  },
+  {
+    "id": "6-0919-5-046",
+    "name": "鸭绿江断桥",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "丹东市",
+    "era": "1950年"
+  },
+  {
+    "id": "6-0920-5-047",
+    "name": "抚顺战犯管理所旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "辽宁",
+    "city": "抚顺市",
+    "era": "1950～1975年"
   }
 ]

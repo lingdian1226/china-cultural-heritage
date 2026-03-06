@@ -922,5 +922,295 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0202-1-202",
+    "name": "林家遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "东乡族自治县",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0203-1-203",
+    "name": "牛门洞遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "会宁县",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0204-1-204",
+    "name": "寺洼遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "临洮县",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0205-1-205",
+    "name": "西河滩遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "酒泉市",
+    "era": "新石器至青铜时代"
+  },
+  {
+    "id": "6-0206-1-206",
+    "name": "火烧沟遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "玉门市",
+    "era": "青铜时代"
+  },
+  {
+    "id": "6-0207-1-207",
+    "name": "破城子遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "安西县",
+    "era": "汉至唐"
+  },
+  {
+    "id": "6-0208-1-208",
+    "name": "八卦营城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "民乐县",
+    "era": "汉至晋"
+  },
+  {
+    "id": "6-0209-1-209",
+    "name": "八角城城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "夏河县",
+    "era": "唐至明"
+  },
+  {
+    "id": "6-0210-1-210",
+    "name": "永泰城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "甘肃",
+    "city": "景泰县",
+    "era": "明"
+  },
+  {
+    "id": "6-0288-2-068",
+    "name": "明肃王墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "甘肃",
+    "city": "榆中县",
+    "era": "明"
+  },
+  {
+    "id": "6-0794-3-497",
+    "name": "湘乐砖塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "宁县",
+    "era": "宋"
+  },
+  {
+    "id": "6-0795-3-498",
+    "name": "玉泉观",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "天水市",
+    "era": "元至清"
+  },
+  {
+    "id": "6-0796-3-499",
+    "name": "后街清真寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "天水市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0797-3-500",
+    "name": "红城感恩寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "永登县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0798-3-501",
+    "name": "秦安文庙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "秦安县",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0799-3-502",
+    "name": "张掖鼓楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "张掖市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0800-3-503",
+    "name": "西来寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "张掖市",
+    "era": "明至清"
+  },
+  {
+    "id": "6-0801-3-504",
+    "name": "罗川赵氏石坊",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "正宁县",
+    "era": "明"
+  },
+  {
+    "id": "6-0802-3-505",
+    "name": "永昌钟鼓楼",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "永昌县",
+    "era": "明"
+  },
+  {
+    "id": "6-0803-3-506",
+    "name": "延恩寺塔",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "平凉市",
+    "era": "明"
+  },
+  {
+    "id": "6-0804-3-507",
+    "name": "张掖会馆",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "甘肃",
+    "city": "张掖市",
+    "era": "清"
+  },
+  {
+    "id": "6-0868-4-058",
+    "name": "云崖寺和陈家洞石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "甘肃",
+    "city": "庄浪县",
+    "era": "南北朝至明"
+  },
+  {
+    "id": "6-0869-4-059",
+    "name": "木梯寺石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "甘肃",
+    "city": "武山县",
+    "era": "南北朝至元"
+  },
+  {
+    "id": "6-0870-4-060",
+    "name": "王母宫石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "甘肃",
+    "city": "泾川县",
+    "era": "南北朝"
+  },
+  {
+    "id": "6-0871-4-061",
+    "name": "《新修白水路记》摩崖",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "甘肃",
+    "city": "徽县",
+    "era": "宋"
+  },
+  {
+    "id": "6-1070-5-197",
+    "name": "兰州黄河铁桥",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "甘肃",
+    "city": "兰州市",
+    "era": "清"
+  },
+  {
+    "id": "6-1071-5-198",
+    "name": "瑞安堡",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "甘肃",
+    "city": "民勤县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1072-5-199",
+    "name": "灞陵桥",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "甘肃",
+    "city": "渭源县",
+    "era": "民国"
+  },
+  {
+    "id": "6-1073-5-200",
+    "name": "俄界会议旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "甘肃",
+    "city": "迭部县",
+    "era": "1935年"
   }
 ]

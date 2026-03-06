@@ -900,5 +900,175 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0218-1-218",
+    "name": "丹丹乌里克遗址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "新疆",
+    "city": "策勒县",
+    "era": "南北朝至唐"
+  },
+  {
+    "id": "6-0219-1-219",
+    "name": "麻扎塔格戍堡址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "新疆",
+    "city": "墨玉县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0220-1-220",
+    "name": "通古斯巴西城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "新疆",
+    "city": "新和县",
+    "era": "唐"
+  },
+  {
+    "id": "6-0289-2-069",
+    "name": "楼兰墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "若羌县",
+    "era": "新石器时代至晋"
+  },
+  {
+    "id": "6-0290-2-070",
+    "name": "五堡墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "哈密市",
+    "era": "青铜时代"
+  },
+  {
+    "id": "6-0291-2-071",
+    "name": "洋海墓群",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "鄯善县",
+    "era": "青铜时代至唐"
+  },
+  {
+    "id": "6-0292-2-072",
+    "name": "阿日夏特石人墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "温泉县",
+    "era": "隋至唐"
+  },
+  {
+    "id": "6-0293-2-073",
+    "name": "麻赫穆德·喀什噶里墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "疏附县",
+    "era": "元"
+  },
+  {
+    "id": "6-0294-2-074",
+    "name": "速檀·歪思汗麻扎",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "伊宁县",
+    "era": "明"
+  },
+  {
+    "id": "6-0295-2-075",
+    "name": "叶尔羌汗国王陵",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "莎车县",
+    "era": "明"
+  },
+  {
+    "id": "6-0296-2-076",
+    "name": "艾比甫·艾洁木麻扎",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "阿图什市",
+    "era": "清"
+  },
+  {
+    "id": "6-0297-2-077",
+    "name": "哈密回王墓",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "新疆",
+    "city": "哈密市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-0809-3-512",
+    "name": "靖远寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "新疆",
+    "city": "察布查尔锡伯自治县",
+    "era": "明"
+  },
+  {
+    "id": "6-0873-4-063",
+    "name": "吐峪沟石窟",
+    "level": "national",
+    "batch": 6,
+    "category": "stone-carvings",
+    "province": "新疆",
+    "city": "鄯善县",
+    "era": "南北朝至唐"
+  },
+  {
+    "id": "6-1077-5-204",
+    "name": "坎尔井地下水利工程",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "新疆",
+    "city": "吐鲁番市",
+    "era": "清"
+  },
+  {
+    "id": "6-1078-5-205",
+    "name": "塔城红楼",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "新疆",
+    "city": "塔城市",
+    "era": "清至民国"
+  },
+  {
+    "id": "6-1079-5-206",
+    "name": "三区革命政府政治文化活动中心旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "新疆",
+    "city": "伊宁市",
+    "era": "民国"
   }
 ]

@@ -306,5 +306,145 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "6-0062-1-062",
+    "name": "五排山城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "东宁县",
+    "era": "战国至汉"
+  },
+  {
+    "id": "6-0063-1-063",
+    "name": "小四方山城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "穆棱市",
+    "era": "战国至金"
+  },
+  {
+    "id": "6-0064-1-064",
+    "name": "雁窝岛城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "宝清县",
+    "era": "隋"
+  },
+  {
+    "id": "6-0065-1-065",
+    "name": "塔子城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "泰来县",
+    "era": "辽"
+  },
+  {
+    "id": "6-0066-1-066",
+    "name": "瓦里霍吞城址",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "桦川县",
+    "era": "辽至清"
+  },
+  {
+    "id": "6-0067-1-067",
+    "name": "桃温万户府故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "汤原县",
+    "era": "元"
+  },
+  {
+    "id": "6-0068-1-068",
+    "name": "莽吉塔站故城",
+    "level": "national",
+    "batch": 6,
+    "category": "archaeological-sites",
+    "province": "黑龙江",
+    "city": "抚远县",
+    "era": "明"
+  },
+  {
+    "id": "6-0245-2-025",
+    "name": "刀背山墓地",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-tombs",
+    "province": "黑龙江",
+    "city": "鸡西市",
+    "era": "新石器时代"
+  },
+  {
+    "id": "6-0503-3-206",
+    "name": "牡丹江边墙",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "黑龙江",
+    "city": "牡丹江市",
+    "era": "唐至金"
+  },
+  {
+    "id": "6-0504-3-207",
+    "name": "卜奎清真寺",
+    "level": "national",
+    "batch": 6,
+    "category": "ancient-buildings",
+    "province": "黑龙江",
+    "city": "齐齐哈尔市",
+    "era": "清"
+  },
+  {
+    "id": "6-0922-5-049",
+    "name": "哈尔滨莫斯科商场旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "黑龙江",
+    "city": "哈尔滨市",
+    "era": "清"
+  },
+  {
+    "id": "6-0923-5-050",
+    "name": "中东铁路建筑群",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "黑龙江",
+    "city": "海林市",
+    "era": "清"
+  },
+  {
+    "id": "6-0924-5-051",
+    "name": "侵华日军第七三一部队旧址",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "黑龙江",
+    "city": "哈尔滨市",
+    "era": "1936～1945年"
+  },
+  {
+    "id": "6-0925-5-052",
+    "name": "侵华日军东北要塞",
+    "level": "national",
+    "batch": 6,
+    "category": "modern-historic",
+    "province": "黑龙江",
+    "city": "东宁县",
+    "era": "1934～1945年"
   }
 ]
