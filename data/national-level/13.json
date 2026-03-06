@@ -526,5 +526,313 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0010-5-010",
+    "name": "李大钊故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "河北省",
+    "city": "乐亭县",
+    "district": "",
+    "address": "",
+    "era": "1889年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0058-3-006",
+    "name": "金山岭长城",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "滦平县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0064-3-012",
+    "name": "清远楼",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "张家口市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0071-3-019",
+    "name": "直隶总督署",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "保定市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0105-3-053",
+    "name": "开元寺钟楼",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "正定县",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0121-3-069",
+    "name": "殊像寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0122-3-070",
+    "name": "安远庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0139-3-087",
+    "name": "凌霄塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "正定县",
+    "district": "",
+    "address": "",
+    "era": "唐至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0188-1-008",
+    "name": "磁山遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "武安县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0206-1-026",
+    "name": "中山古城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "平山县",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0213-1-033",
+    "name": "邺城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "临漳县",
+    "district": "",
+    "address": "",
+    "era": "曹魏至北齐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0225-1-045",
+    "name": "涧磁村定窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "曲阳县",
+    "district": "",
+    "address": "",
+    "era": "唐至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0235-2-006",
+    "name": "中山靖王墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "满城县",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0242-2-013",
+    "name": "磁县北朝墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "磁县",
+    "district": "",
+    "address": "",
+    "era": "北朝",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

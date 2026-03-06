@@ -42,5 +42,71 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0166-4-003",
+    "name": "亚沟石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "黑龙江省",
+    "city": "阿城市",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0196-1-016",
+    "name": "昂昂溪遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0219-1-039",
+    "name": "蒲与路故城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "黑龙江省",
+    "city": "克东县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

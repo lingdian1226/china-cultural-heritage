@@ -174,5 +174,269 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0023-5-023",
+    "name": "北伐汀泗桥战役遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "district": "",
+    "address": "",
+    "era": "1926年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0024-5-024",
+    "name": "红安七里坪革命旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖北省",
+    "city": "红安县",
+    "district": "",
+    "address": "",
+    "era": "1927-1934年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0030-5-030",
+    "name": "湘鄂西革命根据地旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖北省",
+    "city": "洪湖市",
+    "district": "",
+    "address": "",
+    "era": "1930-1932年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0101-3-049",
+    "name": "治世玄岳牌坊",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "湖北省",
+    "city": "丹江口市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0156-3-104",
+    "name": "广德寺多宝塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "湖北省",
+    "city": "襄樊市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0175-4-012",
+    "name": "怡亭铭摩崖石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0194-1-014",
+    "name": "屈家岭遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "湖北省",
+    "city": "京山县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0199-1-019",
+    "name": "盘龙城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "湖北省",
+    "city": "黄陂县",
+    "district": "",
+    "address": "",
+    "era": "商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0230-2-001",
+    "name": "八岭山古墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "湖北省",
+    "city": "江陵县",
+    "district": "",
+    "address": "",
+    "era": "东周至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0231-2-002",
+    "name": "擂鼓墩古墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "湖北省",
+    "city": "随州市",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0253-2-024",
+    "name": "显陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "湖北省",
+    "city": "钟祥县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0255-2-026",
+    "name": "李自成墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "湖北省",
+    "city": "通山县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

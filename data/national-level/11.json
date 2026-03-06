@@ -604,5 +604,269 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0040-5-040",
+    "name": "郭沫若故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "西城区",
+    "district": "",
+    "address": "",
+    "era": "1963-1978年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0063-3-011",
+    "name": "正阳门",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0080-3-028",
+    "name": "太庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0081-3-029",
+    "name": "社稷坛",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0082-3-030",
+    "name": "北京孔庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "东城区",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0091-3-039",
+    "name": "崇礼住宅",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "东城区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0119-3-067",
+    "name": "法海寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "石景山区",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0134-3-082",
+    "name": "牛街礼拜寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "宣武区",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0150-3-098",
+    "name": "天宁寺塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "宣武区",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0153-3-101",
+    "name": "银山塔林",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "昌平县",
+    "district": "",
+    "address": "",
+    "era": "金至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0201-1-021",
+    "name": "琉璃河遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "北京市",
+    "city": "房山区",
+    "district": "",
+    "address": "",
+    "era": "西周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0221-1-041",
+    "name": "圆明园遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "北京市",
+    "city": "海淀区",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

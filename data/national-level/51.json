@@ -328,5 +328,335 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0012-5-012",
+    "name": "朱德故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "四川省",
+    "city": "仪陇县",
+    "district": "",
+    "address": "",
+    "era": "1895-1907年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0019-5-019",
+    "name": "辛亥秋保路死事纪念碑",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "四川省",
+    "city": "成都市",
+    "district": "",
+    "address": "",
+    "era": "1913年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0033-5-033",
+    "name": "红四方面军总指挥部旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "四川省",
+    "city": "通江县",
+    "district": "",
+    "address": "",
+    "era": "1932-1935年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0047-4-006",
+    "name": "南龛摩崖造像",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "四川省",
+    "city": "巴中县",
+    "district": "",
+    "address": "",
+    "era": "隋至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0050-4-009",
+    "name": "卧佛院摩崖造像",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "四川省",
+    "city": "安岳县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0057-3-005",
+    "name": "燊海井",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "自贡市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0072-3-020",
+    "name": "卓克基土司官寨",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "马尔康县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0076-3-024",
+    "name": "西秦会馆",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "自贡市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0100-3-048",
+    "name": "樊敏阙及石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "四川省",
+    "city": "芦山县",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0114-3-062",
+    "name": "大庙飞来殿",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "峨眉县",
+    "district": "",
+    "address": "",
+    "era": "宋至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0115-3-063",
+    "name": "云岩寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "四川省",
+    "city": "江油县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0200-1-020",
+    "name": "三星堆遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "广汉县",
+    "district": "",
+    "address": "",
+    "era": "商周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0223-1-043",
+    "name": "什邡堂邛窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "四川省",
+    "city": "邛崃县",
+    "district": "",
+    "address": "",
+    "era": "隋至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0238-2-009",
+    "name": "麻浩崖墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "乐山市",
+    "district": "",
+    "address": "",
+    "era": "东汉至南北朝",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0249-2-020",
+    "name": "僰人悬棺葬",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "四川省",
+    "city": "珙县",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

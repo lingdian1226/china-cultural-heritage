@@ -108,5 +108,115 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0159-3-107",
+    "name": "苏公塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0211-1-031",
+    "name": "楼兰故城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "若羌县",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0217-1-037",
+    "name": "北庭故城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "新疆维吾尔自治区",
+    "city": "吉木萨尔县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0241-2-012",
+    "name": "阿斯塔那古墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "district": "",
+    "address": "",
+    "era": "晋至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0258-2-029",
+    "name": "阿巴和加麻札",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

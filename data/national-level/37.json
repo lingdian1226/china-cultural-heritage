@@ -240,5 +240,357 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0009-5-009",
+    "name": "刘公岛甲午战争纪念地",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "威海市",
+    "district": "",
+    "address": "",
+    "era": "1888-1895年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0039-5-039",
+    "name": "冯玉祥墓",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "山东省",
+    "city": "泰安市",
+    "district": "",
+    "address": "",
+    "era": "1953年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0046-4-005",
+    "name": "驼山石窟",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "青州市",
+    "district": "",
+    "address": "",
+    "era": "北周至唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0048-4-007",
+    "name": "千佛崖造像",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "济南市",
+    "district": "",
+    "address": "",
+    "era": "唐至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0065-3-013",
+    "name": "光岳楼",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "聊城市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0077-3-025",
+    "name": "聊城山陕会馆",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "聊城市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0083-3-031",
+    "name": "孟庙及孟府",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "邹县",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0092-3-040",
+    "name": "牟氏庄园",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "栖霞县",
+    "district": "",
+    "address": "",
+    "era": "清至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0095-3-043",
+    "name": "十笏园",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "潍坊市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0125-3-073",
+    "name": "岱庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "泰安市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0146-3-094",
+    "name": "崇觉寺铁塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山东省",
+    "city": "济宁市",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0170-4-007",
+    "name": "云峰山天柱山摩崖石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "掖县",
+    "district": "",
+    "address": "",
+    "era": "北魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0171-4-008",
+    "name": "铁山岗山摩崖石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "山东省",
+    "city": "邹县",
+    "district": "",
+    "address": "",
+    "era": "北周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0202-1-022",
+    "name": "薛城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "山东省",
+    "city": "滕县",
+    "district": "",
+    "address": "",
+    "era": "东周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0232-2-003",
+    "name": "田齐王陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "淄博市",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0252-2-023",
+    "name": "苏禄王墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "山东省",
+    "city": "德州市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

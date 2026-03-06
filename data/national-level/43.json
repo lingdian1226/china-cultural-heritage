@@ -86,5 +86,181 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0007-5-007",
+    "name": "黄兴故居及墓",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "长沙县",
+    "district": "",
+    "address": "",
+    "era": "1874年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0015-5-015",
+    "name": "刘少奇故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "宁乡县",
+    "district": "",
+    "address": "",
+    "era": "1898-1916年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0016-5-016",
+    "name": "任弼时故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "汨罗市",
+    "district": "",
+    "address": "",
+    "era": "1904-1915年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0027-5-027",
+    "name": "平江起义旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "湖南省",
+    "city": "平江县",
+    "district": "",
+    "address": "",
+    "era": "1928年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0066-3-014",
+    "name": "岳阳楼",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0075-3-023",
+    "name": "岳麓书院",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "湖南省",
+    "city": "长沙市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0173-4-010",
+    "name": "浯溪摩崖石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "湖南省",
+    "city": "祁阳县",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0224-1-044",
+    "name": "长沙铜官窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "湖南省",
+    "city": "望城县",
+    "district": "",
+    "address": "",
+    "era": "唐至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

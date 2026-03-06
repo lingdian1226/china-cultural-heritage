@@ -130,5 +130,291 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0005-5-005",
+    "name": "太平天国侍王府",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "金华市",
+    "district": "",
+    "address": "",
+    "era": "1861年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0008-5-008",
+    "name": "绍兴鲁迅故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "1881-1898年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0013-5-013",
+    "name": "茅盾故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "桐乡县",
+    "district": "",
+    "address": "",
+    "era": "1896-1910年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0017-5-017",
+    "name": "秋瑾故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "1907年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0055-3-003",
+    "name": "它山堰",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "鄞县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0070-3-018",
+    "name": "古纤道",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0079-3-027",
+    "name": "胡庆余堂",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0089-3-037",
+    "name": "东阳卢宅",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "东阳县",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0116-3-064",
+    "name": "天宁寺大殿",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "金华市",
+    "district": "",
+    "address": "",
+    "era": "宋至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0142-3-090",
+    "name": "闸口白塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0148-3-096",
+    "name": "飞英塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "浙江省",
+    "city": "湖州市",
+    "district": "",
+    "address": "",
+    "era": "南宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0222-1-042",
+    "name": "上林湖越窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "慈溪县",
+    "district": "",
+    "address": "",
+    "era": "东汉至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0228-1-048",
+    "name": "大窑龙泉窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "浙江省",
+    "city": "龙泉县",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

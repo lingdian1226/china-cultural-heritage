@@ -350,5 +350,313 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0032-5-032",
+    "name": "鄂豫皖革命根据地旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "河南省",
+    "city": "新县",
+    "district": "",
+    "address": "",
+    "era": "1931年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0037-5-037",
+    "name": "中共中央中原局旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "河南省",
+    "city": "确山县",
+    "district": "",
+    "address": "",
+    "era": "1938-1939年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0078-3-026",
+    "name": "社旗山陕会馆",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河南省",
+    "city": "社旗县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0108-3-056",
+    "name": "风穴寺及塔林",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河南省",
+    "city": "临汝县",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0137-3-085",
+    "name": "净藏禅师塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "河南省",
+    "city": "登封县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0193-1-013",
+    "name": "平粮台古城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "淮阳县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0197-1-017",
+    "name": "二里头遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "偃师县",
+    "district": "",
+    "address": "",
+    "era": "夏商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0198-1-018",
+    "name": "尸乡沟商城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "偃师县",
+    "district": "",
+    "address": "",
+    "era": "商",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0216-1-036",
+    "name": "隋唐洛阳城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "洛阳市",
+    "district": "",
+    "address": "",
+    "era": "隋唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0218-1-038",
+    "name": "北宋东京城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "开封市",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0227-1-047",
+    "name": "钧台钧窑遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "河南省",
+    "city": "禹县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0237-2-008",
+    "name": "张衡墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "河南省",
+    "city": "南阳县",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0239-2-010",
+    "name": "打虎亭汉墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "河南省",
+    "city": "密县",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0240-2-011",
+    "name": "张仲景墓及祠",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "河南省",
+    "city": "南阳市",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

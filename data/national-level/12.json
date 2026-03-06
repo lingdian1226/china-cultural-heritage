@@ -20,5 +20,49 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0004-5-004",
+    "name": "大沽口炮台",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "天津市",
+    "city": "塘沽区",
+    "district": "",
+    "address": "",
+    "era": "1858年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0006-5-006",
+    "name": "望海楼教堂",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "天津市",
+    "city": "河北区",
+    "district": "",
+    "address": "",
+    "era": "1869-1904年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

@@ -64,5 +64,71 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0141-3-089",
+    "name": "灵光塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "吉林省",
+    "city": "长白朝鲜族自治县",
+    "district": "",
+    "address": "",
+    "era": "渤海",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0178-4-015",
+    "name": "大金得胜陀颂碑",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "吉林省",
+    "city": "扶余市",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0244-2-015",
+    "name": "龙头山古墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "吉林省",
+    "city": "和龙县",
+    "district": "",
+    "address": "",
+    "era": "渤海",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

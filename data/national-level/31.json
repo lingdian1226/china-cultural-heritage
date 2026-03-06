@@ -132,6 +132,72 @@
     ]
   },
   {
+    "id": "3-0025-5-025",
+    "name": "龙华革命烈士纪念地",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "徐汇区",
+    "district": "",
+    "address": "",
+    "era": "1927-1937年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0179-4-016",
+    "name": "松江唐经幢",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "上海市",
+    "city": "松江县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0254-2-025",
+    "name": "徐光启墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "上海市",
+    "city": "徐汇区",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
     "id": "310101-001",
     "name": "中共一大会址",
     "level": "national",

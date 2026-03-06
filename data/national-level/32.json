@@ -240,5 +240,401 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0003-5-003",
+    "name": "堂子街太平天国壁画",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "1853-1864年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0014-5-014",
+    "name": "周恩来故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "淮安市",
+    "district": "",
+    "address": "",
+    "era": "1898-1910年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0026-5-026",
+    "name": "雨花台烈士陵园",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "1927-1949年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0042-4-001",
+    "name": "孔望山摩崖造像",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江苏省",
+    "city": "连云港市",
+    "district": "",
+    "address": "",
+    "era": "东汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0059-3-007",
+    "name": "南京城墙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0093-3-041",
+    "name": "寄畅园",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "无锡市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0094-3-042",
+    "name": "环秀山庄",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "苏州市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0097-3-045",
+    "name": "何园",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "扬州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0098-3-046",
+    "name": "个园",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "扬州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0099-3-047",
+    "name": "南通博物苑",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "南通市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0143-3-091",
+    "name": "栖霞寺舍利塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0147-3-095",
+    "name": "瑞光塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江苏省",
+    "city": "苏州市",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0164-4-001",
+    "name": "将军崖岩画",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江苏省",
+    "city": "连云港市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0167-4-004",
+    "name": "南京南朝陵墓石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "",
+    "address": "",
+    "era": "南朝",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0168-4-005",
+    "name": "丹阳南朝陵墓石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江苏省",
+    "city": "丹阳市",
+    "district": "",
+    "address": "",
+    "era": "南朝",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0177-4-014",
+    "name": "焦山碑林",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江苏省",
+    "city": "镇江市",
+    "district": "",
+    "address": "",
+    "era": "南朝至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0203-1-023",
+    "name": "淹城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "江苏省",
+    "city": "武进县",
+    "district": "",
+    "address": "",
+    "era": "东周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0245-2-016",
+    "name": "南唐二陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "江苏省",
+    "city": "江宁县",
+    "district": "",
+    "address": "",
+    "era": "五代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

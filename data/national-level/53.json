@@ -196,5 +196,181 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0018-5-018",
+    "name": "云南陆军讲武堂旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "云南省",
+    "city": "昆明市",
+    "district": "",
+    "address": "",
+    "era": "1909-1928年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0041-5-041",
+    "name": "聂耳墓",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "云南省",
+    "city": "昆明市",
+    "district": "",
+    "address": "",
+    "era": "1980年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0123-3-071",
+    "name": "广允缅寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "沧源佤族自治县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0124-3-072",
+    "name": "景真八角亭",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "勐海县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0157-3-105",
+    "name": "曼飞龙塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "云南省",
+    "city": "景洪县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0174-4-011",
+    "name": "袁滋题记摩崖石刻",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "云南省",
+    "city": "盐津县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0180-4-017",
+    "name": "南诏铁柱",
+    "level": "national",
+    "batch": 3,
+    "category": "others",
+    "province": "云南省",
+    "city": "弥渡县",
+    "district": "",
+    "address": "",
+    "era": "南诏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0181-1-001",
+    "name": "腊玛古猿化石地点",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "云南省",
+    "city": "禄丰县",
+    "district": "",
+    "address": "",
+    "era": "远古",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

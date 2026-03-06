@@ -372,5 +372,401 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0060-3-008",
+    "name": "平遥城墙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平遥县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0087-3-035",
+    "name": "丁村民宅",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "襄汾县",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0106-3-054",
+    "name": "法兴寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "长子县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0107-3-055",
+    "name": "天台庵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平顺县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0110-3-058",
+    "name": "青莲寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "",
+    "address": "",
+    "era": "唐至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0111-3-059",
+    "name": "镇国寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平遥县",
+    "district": "",
+    "address": "",
+    "era": "五代至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0112-3-060",
+    "name": "大云院",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平顺县",
+    "district": "",
+    "address": "",
+    "era": "五代至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0113-3-061",
+    "name": "玉皇庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "晋城市",
+    "district": "",
+    "address": "",
+    "era": "宋至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0117-3-065",
+    "name": "崇福寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "朔县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0120-3-068",
+    "name": "双林寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "平遥县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0129-3-077",
+    "name": "万荣东岳庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "万荣县",
+    "district": "",
+    "address": "",
+    "era": "元至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0130-3-078",
+    "name": "解州关帝庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "山西省",
+    "city": "运城市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0182-1-002",
+    "name": "西侯度遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "芮城县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0192-1-012",
+    "name": "陶寺遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "襄汾县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0205-1-025",
+    "name": "禹王城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "夏县",
+    "district": "",
+    "address": "",
+    "era": "东周至汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0215-1-035",
+    "name": "平城遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "山西省",
+    "city": "大同市",
+    "district": "",
+    "address": "",
+    "era": "北魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0236-2-007",
+    "name": "广武汉墓群",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "山西省",
+    "city": "山阴县",
+    "district": "",
+    "address": "",
+    "era": "汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0246-2-017",
+    "name": "司马光墓",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "山西省",
+    "city": "夏县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

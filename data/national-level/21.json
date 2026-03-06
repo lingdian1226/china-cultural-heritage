@@ -108,5 +108,313 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0034-5-034",
+    "name": "平顶山惨案遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "district": "",
+    "address": "",
+    "era": "1932年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0045-4-004",
+    "name": "万佛堂石窟",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "辽宁省",
+    "city": "义县",
+    "district": "",
+    "address": "",
+    "era": "北魏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0062-3-010",
+    "name": "兴城城墙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "兴城市",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0127-3-075",
+    "name": "北镇庙",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "北镇县",
+    "district": "",
+    "address": "",
+    "era": "明至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0128-3-076",
+    "name": "玄贞观",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "盖县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0140-3-088",
+    "name": "朝阳北塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "district": "",
+    "address": "",
+    "era": "唐至辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0151-3-099",
+    "name": "崇兴寺双塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "北镇县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0152-3-100",
+    "name": "辽阳白塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "district": "",
+    "address": "",
+    "era": "辽至金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0160-3-108",
+    "name": "旅顺监狱旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "大连市",
+    "district": "",
+    "address": "",
+    "era": "1898-1945年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0183-1-003",
+    "name": "金牛山遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "营口县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0195-1-015",
+    "name": "牛河梁遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "凌源县",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0208-1-028",
+    "name": "姜女石遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "辽宁省",
+    "city": "绥中县",
+    "district": "",
+    "address": "",
+    "era": "秦汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0256-2-027",
+    "name": "永陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "新宾满族自治县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0257-2-028",
+    "name": "福陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

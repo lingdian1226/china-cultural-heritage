@@ -108,5 +108,137 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0031-5-031",
+    "name": "宁都起义指挥部旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "宁都县",
+    "district": "",
+    "address": "",
+    "era": "1931年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0052-4-011",
+    "name": "通天岩石窟",
+    "level": "national",
+    "batch": 3,
+    "category": "stone-carvings",
+    "province": "江西省",
+    "city": "赣州市",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0067-3-015",
+    "name": "观音桥",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "星子县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0074-3-022",
+    "name": "白鹿书院",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "九江市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0090-3-038",
+    "name": "祥集弄民宅",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "江西省",
+    "city": "景德镇市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0162-3-110",
+    "name": "上饶集中营旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "江西省",
+    "city": "上饶县",
+    "district": "",
+    "address": "",
+    "era": "1941-1942年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

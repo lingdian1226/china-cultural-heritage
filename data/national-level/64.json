@@ -42,5 +42,115 @@
     "contributors": [
       "iBo"
     ]
+  },
+  {
+    "id": "3-0136-3-084",
+    "name": "同心清真大寺",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "宁夏回族自治区",
+    "city": "同心县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0154-3-102",
+    "name": "拜寺口双塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "宁夏回族自治区",
+    "city": "贺兰县",
+    "district": "",
+    "address": "",
+    "era": "西夏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0155-3-103",
+    "name": "一百零八塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "宁夏回族自治区",
+    "city": "青铜峡市",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0185-1-005",
+    "name": "水洞沟遗址",
+    "level": "national",
+    "batch": 3,
+    "category": "archaeological-sites",
+    "province": "宁夏回族自治区",
+    "city": "灵武县",
+    "district": "",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0248-2-019",
+    "name": "西夏陵",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-tombs",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "district": "",
+    "address": "",
+    "era": "西夏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
   }
 ]

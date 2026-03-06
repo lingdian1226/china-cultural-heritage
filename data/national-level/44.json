@@ -154,6 +154,204 @@
     ]
   },
   {
+    "id": "3-0001-5-001",
+    "name": "洪秀全故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "花都市",
+    "district": "",
+    "address": "",
+    "era": "清代中期",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0011-5-011",
+    "name": "孙中山故居",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "中山市",
+    "district": "",
+    "address": "",
+    "era": "1892年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0020-5-020",
+    "name": "国民党一大旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1924年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0021-5-021",
+    "name": "黄埔军校旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1924-1927年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0022-5-022",
+    "name": "中华全国总工会旧址",
+    "level": "national",
+    "batch": 3,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1925-1927年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0069-3-017",
+    "name": "广济桥",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "潮州市",
+    "district": "",
+    "address": "",
+    "era": "宋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0085-3-033",
+    "name": "陈家祠堂",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0138-3-086",
+    "name": "云龙寺塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "仁化县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "3-0144-3-092",
+    "name": "三影塔",
+    "level": "national",
+    "batch": 3,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "南雄县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第三批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
     "id": "440101-001",
     "name": "广州中山纪念堂",
     "level": "national",
