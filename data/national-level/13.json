@@ -1,0 +1,486 @@
+[
+  {
+    "id": "1-0029-5-029",
+    "name": "冉庄地道战遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "河北省",
+    "city": "保定市",
+    "district": "",
+    "address": "",
+    "era": "1942年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0040-4-007",
+    "name": "响堂山石窟",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "河北省",
+    "city": "邯郸市",
+    "district": "",
+    "address": "",
+    "era": "东魏、北齐至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0058-3-011",
+    "name": "安济桥",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "赵县",
+    "district": "",
+    "address": "",
+    "era": "隋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0060-3-013",
+    "name": "永通桥",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "赵县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0070-3-023",
+    "name": "定县开元寺塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "定县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0073-3-026",
+    "name": "广惠寺华塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "正定县",
+    "district": "",
+    "address": "",
+    "era": "金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0077-3-030",
+    "name": "义慈惠石柱",
+    "level": "national",
+    "batch": 1,
+    "category": "others",
+    "province": "河北省",
+    "city": "易县",
+    "district": "",
+    "address": "",
+    "era": "北齐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0078-3-031",
+    "name": "赵州陀罗尼经幢",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "宁晋县",
+    "district": "",
+    "address": "",
+    "era": "北宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0084-3-037",
+    "name": "独乐寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "蓟县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0089-3-042",
+    "name": "隆兴寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "正定县",
+    "district": "",
+    "address": "",
+    "era": "宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0102-3-055",
+    "name": "万里长城－山海关",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0115-3-068",
+    "name": "普宁寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0116-3-069",
+    "name": "普乐寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0117-3-070",
+    "name": "普陀宗乘之庙",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0118-3-071",
+    "name": "须弥福寿之庙",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0123-3-076",
+    "name": "避暑山庄",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "河北省",
+    "city": "承德市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0134-4-010",
+    "name": "沧州铁狮子",
+    "level": "national",
+    "batch": 1,
+    "category": "others",
+    "province": "河北省",
+    "city": "沧县",
+    "district": "",
+    "address": "",
+    "era": "后周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0149-1-014",
+    "name": "赵邯郸故城",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "邯郸市",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0150-1-015",
+    "name": "燕下都遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "河北省",
+    "city": "易县",
+    "district": "",
+    "address": "",
+    "era": "战国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0169-2-008",
+    "name": "封氏墓群",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "吴桥县",
+    "district": "",
+    "address": "",
+    "era": "北魏至隋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0179-2-018",
+    "name": "清东陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "遵化县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0180-2-019",
+    "name": "清西陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "河北省",
+    "city": "易县",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

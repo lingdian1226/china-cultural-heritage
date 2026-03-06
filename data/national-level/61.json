@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1-0023-5-023",
+    "name": "延安革命遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "陕西省",
+    "city": "延安市",
+    "district": "",
+    "address": "",
+    "era": "1937－1947年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0057-3-010",
+    "name": "褒斜道石门及其摩崖石刻",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "陕西省",
+    "city": "汉中市",
+    "district": "",
+    "address": "",
+    "era": "汉至宋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0063-3-016",
+    "name": "大雁塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0064-3-017",
+    "name": "小雁塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0067-3-020",
+    "name": "兴教寺塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "长安县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0104-3-057",
+    "name": "西安城墙",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0125-4-001",
+    "name": "西安碑林",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "汉至近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0128-4-004",
+    "name": "药王山石刻",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "陕西省",
+    "city": "铜川市",
+    "district": "",
+    "address": "",
+    "era": "隋至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0139-1-004",
+    "name": "半坡遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "新石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0143-1-008",
+    "name": "丰镐遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "长安市",
+    "district": "",
+    "address": "",
+    "era": "周",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0151-1-016",
+    "name": "阿房宫遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "秦",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0152-1-017",
+    "name": "汉长安城遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0156-1-021",
+    "name": "大明宫遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0162-2-001",
+    "name": "黄帝陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "黄陵县",
+    "district": "",
+    "address": "",
+    "era": "传说时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0164-2-003",
+    "name": "秦始皇陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "临潼县",
+    "district": "",
+    "address": "",
+    "era": "秦",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0165-2-004",
+    "name": "茂陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "兴平县",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0166-2-005",
+    "name": "霍去病墓",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "兴平县",
+    "district": "",
+    "address": "",
+    "era": "西汉",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0170-2-009",
+    "name": "昭陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "礼泉县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0171-2-010",
+    "name": "乾陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "乾县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0172-2-011",
+    "name": "顺陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

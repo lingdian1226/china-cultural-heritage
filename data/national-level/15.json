@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1-0159-1-024",
+    "name": "辽上京遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "巴林左旗",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0160-1-025",
+    "name": "辽中京遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "内蒙古自治区",
+    "city": "宁城县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

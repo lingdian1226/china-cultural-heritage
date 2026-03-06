@@ -1,5 +1,401 @@
 [
   {
+    "id": "1-0008-5-008",
+    "name": "北京大学红楼",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "东城区",
+    "address": "",
+    "era": "1918年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0024-5-024",
+    "name": "卢沟桥",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "丰台区",
+    "address": "",
+    "era": "1937年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0030-5-030",
+    "name": "天安门",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "",
+    "address": "",
+    "era": "明清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0033-5-033",
+    "name": "人民英雄纪念碑",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "天安门广场",
+    "address": "",
+    "era": "1958年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0066-3-019",
+    "name": "房山云居寺塔及石经",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "房山区",
+    "address": "",
+    "era": "隋、唐、辽、金",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0074-3-027",
+    "name": "妙应寺白塔",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "西城区",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0075-3-028",
+    "name": "真觉寺金刚宝座",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "海淀区",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0098-3-051",
+    "name": "居庸关云台",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "昌平区",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0100-3-053",
+    "name": "故宫",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "",
+    "address": "",
+    "era": "明、清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0101-3-054",
+    "name": "万里长城－八达岭",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "延庆区",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0105-3-058",
+    "name": "天坛",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "崇文区",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0106-3-059",
+    "name": "北海及团城",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "西城区",
+    "address": "",
+    "era": "明、清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0110-3-063",
+    "name": "智化寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "东城区",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0113-3-066",
+    "name": "国子监",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "东城区",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0114-3-067",
+    "name": "雍和宫",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "东城区",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0122-3-075",
+    "name": "颐和园",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "海淀区",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0136-1-001",
+    "name": "周口店遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "房山区",
+    "address": "",
+    "era": "旧石器时代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0178-2-017",
+    "name": "十三陵",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "昌平区",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
     "id": "110101-001",
     "name": "故宫",
     "level": "national",
@@ -23,10 +419,15 @@
     "opening_hours": "08:30-17:00（旺季），08:30-16:30（淡季）",
     "ticket_price": "旺季60元，淡季40元",
     "accessibility": "地铁1号线天安门东站/西站",
-    "sources": ["国家文物局官网", "故宫博物院官网"],
+    "sources": [
+      "国家文物局官网",
+      "故宫博物院官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   },
   {
     "id": "110101-002",
@@ -52,10 +453,14 @@
     "opening_hours": "06:00-22:00",
     "ticket_price": "旺季15元，淡季10元",
     "accessibility": "地铁5号线天坛东门站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   },
   {
     "id": "110101-003",
@@ -81,9 +486,13 @@
     "opening_hours": "06:30-18:00",
     "ticket_price": "旺季30元，淡季20元",
     "accessibility": "地铁4号线北宫门站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   }
 ]

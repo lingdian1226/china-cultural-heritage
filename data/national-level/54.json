@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1-0005-5-005",
+    "name": "江孜宗山抗英遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "西藏自治区",
+    "city": "江孜县",
+    "district": "",
+    "address": "",
+    "era": "1904年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0081-3-034",
+    "name": "大昭寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0082-3-035",
+    "name": "昌珠寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "乃东县",
+    "district": "",
+    "address": "",
+    "era": "唐",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0095-3-048",
+    "name": "萨迦寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "萨迦县",
+    "district": "",
+    "address": "",
+    "era": "元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0107-3-060",
+    "name": "布达拉宫",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "district": "",
+    "address": "",
+    "era": "明至民国",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0108-3-061",
+    "name": "噶丹寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "district": "",
+    "address": "",
+    "era": "明初至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0109-3-062",
+    "name": "扎什伦布寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "西藏自治区",
+    "city": "日喀则县",
+    "district": "",
+    "address": "",
+    "era": "明初至清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0161-1-026",
+    "name": "古格王国遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "archaeological-sites",
+    "province": "西藏自治区",
+    "city": "扎达县",
+    "district": "",
+    "address": "",
+    "era": "约十世纪",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0174-2-013",
+    "name": "藏王墓",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "西藏自治区",
+    "city": "琼结县",
+    "district": "",
+    "address": "",
+    "era": "七世纪",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

@@ -1,5 +1,137 @@
 [
   {
+    "id": "1-0001-5-001",
+    "name": "三元里平英团遗址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1841年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0006-5-006",
+    "name": "黄花岗七十二烈士墓",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1911年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0012-5-012",
+    "name": "广州农民运动讲习所旧址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1926年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0015-5-015",
+    "name": "海丰红宫、红场旧址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "海丰县",
+    "district": "",
+    "address": "",
+    "era": "1927－1928年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0016-5-016",
+    "name": "广州公社旧址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "1927年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0083-3-036",
+    "name": "光孝寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "",
+    "address": "",
+    "era": "五代至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
     "id": "440101-001",
     "name": "广州中山纪念堂",
     "level": "national",
@@ -23,10 +155,14 @@
     "opening_hours": "08:00-18:00",
     "ticket_price": "10元",
     "accessibility": "地铁2号线纪念堂站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   },
   {
     "id": "440301-001",
@@ -52,9 +188,13 @@
     "opening_hours": "09:00-17:30",
     "ticket_price": "20元",
     "accessibility": "公交E11路到大鹏中心站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1-0111-3-064",
+    "name": "塔尔寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "青海省",
+    "city": "湟中县",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

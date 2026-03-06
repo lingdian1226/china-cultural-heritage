@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1-0035-4-002",
+    "name": "莫高窟",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "敦煌县",
+    "district": "",
+    "address": "",
+    "era": "北魏至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0036-4-003",
+    "name": "榆林窟",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "安西县",
+    "district": "",
+    "address": "",
+    "era": "北魏至元",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0038-4-005",
+    "name": "麦积山石窟",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "天水市",
+    "district": "",
+    "address": "",
+    "era": "北魏至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0039-4-006",
+    "name": "炳灵寺石窟",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "临夏市",
+    "district": "",
+    "address": "",
+    "era": "北魏至明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0103-3-056",
+    "name": "万里长城－嘉峪关",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "district": "",
+    "address": "",
+    "era": "明",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0130-4-006",
+    "name": "重修护国寺感应塔碑",
+    "level": "national",
+    "batch": 1,
+    "category": "stone-carvings",
+    "province": "甘肃省",
+    "city": "武威县",
+    "district": "",
+    "address": "",
+    "era": "西夏",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]

@@ -1,5 +1,93 @@
 [
   {
+    "id": "1-0009-5-009",
+    "name": "上海中山故居",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "上海市",
+    "district": "",
+    "address": "",
+    "era": "1919年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0010-5-010",
+    "name": "中国社会主义青年团中央机关旧址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "上海市",
+    "district": "",
+    "address": "",
+    "era": "1920－1921年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0011-5-011",
+    "name": "中国共产党第一次全国代表大会会址",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "上海市",
+    "district": "",
+    "address": "",
+    "era": "1921年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0031-5-031",
+    "name": "鲁迅墓",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "上海市",
+    "city": "上海市",
+    "district": "虹口区",
+    "address": "",
+    "era": "近代",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
     "id": "310101-001",
     "name": "中共一大会址",
     "level": "national",
@@ -23,10 +111,14 @@
     "opening_hours": "09:00-17:00",
     "ticket_price": "免费",
     "accessibility": "地铁1号线黄陂南路站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   },
   {
     "id": "310101-002",
@@ -52,9 +144,13 @@
     "opening_hours": "全天开放",
     "ticket_price": "免费",
     "accessibility": "地铁2号线南京东路站",
-    "sources": ["国家文物局官网"],
+    "sources": [
+      "国家文物局官网"
+    ],
     "last_updated": "2026-03-05",
     "data_quality": "high",
-    "contributors": ["system"]
+    "contributors": [
+      "system"
+    ]
   }
 ]

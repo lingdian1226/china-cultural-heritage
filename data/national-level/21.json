@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1-0032-5-032",
+    "name": "中苏友谊纪念塔",
+    "level": "national",
+    "batch": 1,
+    "category": "modern-historic",
+    "province": "辽宁省",
+    "city": "大连市",
+    "district": "",
+    "address": "",
+    "era": "1957年",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0086-3-039",
+    "name": "奉国寺",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "义县",
+    "district": "",
+    "address": "",
+    "era": "辽",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0112-3-065",
+    "name": "沈阳故宫",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-buildings",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "district": "",
+    "address": "",
+    "era": "清",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  },
+  {
+    "id": "1-0167-2-006",
+    "name": "辽阳壁画墓群",
+    "level": "national",
+    "batch": 1,
+    "category": "ancient-tombs",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "district": "",
+    "address": "",
+    "era": "汉至晋",
+    "description": "",
+    "historical_value": "",
+    "sources": [
+      "维基百科-第一批全国重点文物保护单位"
+    ],
+    "last_updated": "2026-03-06",
+    "data_quality": "basic",
+    "contributors": [
+      "iBo"
+    ]
+  }
+]
